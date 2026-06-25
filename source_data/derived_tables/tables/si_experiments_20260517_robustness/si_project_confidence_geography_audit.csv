@@ -1,0 +1,6 @@
+check,value,note
+project records,875,all processed project-inventory records
+sized project records,515,records with usable effective MW for sensitivity
+records assigned to 2023 counties,875,spatial join plus state/county-name fallback
+records not assigned to county,0,retained in project inventory but excluded from ISO sensitivity if unmatched
+records assigned outside seven analyzed ISO/RTOs,167,retained in national inventory; not forced into ISO/RTO margin loop

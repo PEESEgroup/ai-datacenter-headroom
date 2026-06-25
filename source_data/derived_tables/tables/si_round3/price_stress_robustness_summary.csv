@@ -1,0 +1,28 @@
+robustness_case,iso_region,spearman_rank_corr_vs_baseline,top10_zone_overlap_percent,top20_zone_overlap_percent,median_rank_change,max_rank_change,interpretation_flag
+baseline_full_sample,CAISO,1.0,100.0,100.0,0.0,0.0,baseline
+baseline_full_sample,ERCOT,1.0,100.0,100.0,0.0,0.0,baseline
+baseline_full_sample,ISO-NE,1.0,100.0,100.0,0.0,0.0,baseline
+baseline_full_sample,MISO,1.0,100.0,100.0,0.0,0.0,baseline
+baseline_full_sample,NYISO,1.0,100.0,100.0,0.0,0.0,baseline
+baseline_full_sample,PJM,1.0,100.0,100.0,0.0,0.0,baseline
+baseline_full_sample,SPP,1.0,100.0,100.0,0.0,0.0,baseline
+early_2023_2024,CAISO,1.0,100.0,100.0,0.0,0.0,broadly stable
+early_2023_2024,ERCOT,1.0,100.0,100.0,0.0,0.0,broadly stable
+early_2023_2024,MISO,0.942857142857143,100.0,100.0,0.0,1.0,broadly stable
+early_2023_2024,NYISO,0.8909090909090911,100.0,100.0,1.0,4.0,broadly stable
+early_2023_2024,PJM,0.9824175824175824,100.0,100.0,0.0,2.0,broadly stable
+early_2023_2024,SPP,0.982843137254902,90.0,100.0,0.0,2.0,broadly stable
+exclude_top1_lmp_by_zone,CAISO,1.0,100.0,100.0,0.0,0.0,broadly stable
+exclude_top1_lmp_by_zone,ERCOT,1.0,100.0,100.0,0.0,0.0,broadly stable
+exclude_top1_lmp_by_zone,ISO-NE,1.0,100.0,100.0,0.0,0.0,broadly stable
+exclude_top1_lmp_by_zone,MISO,0.942857142857143,100.0,100.0,0.0,1.0,broadly stable
+exclude_top1_lmp_by_zone,NYISO,1.0,100.0,100.0,0.0,0.0,broadly stable
+exclude_top1_lmp_by_zone,PJM,0.9824175824175824,100.0,100.0,0.0,2.0,broadly stable
+exclude_top1_lmp_by_zone,SPP,0.9681372549019608,90.0,100.0,0.0,3.0,broadly stable
+late_2025_jan2026,CAISO,1.0,100.0,100.0,0.0,0.0,broadly stable
+late_2025_jan2026,ERCOT,0.7999999999999999,100.0,100.0,0.5,1.0,broadly stable
+late_2025_jan2026,ISO-NE,1.0,100.0,100.0,0.0,0.0,broadly stable
+late_2025_jan2026,MISO,1.0,100.0,100.0,0.0,0.0,broadly stable
+late_2025_jan2026,NYISO,0.8000000000000002,100.0,100.0,1.0,5.0,broadly stable
+late_2025_jan2026,PJM,0.8637362637362638,90.0,100.0,1.5,4.0,broadly stable
+late_2025_jan2026,SPP,0.948529411764706,90.0,100.0,1.0,5.0,broadly stable

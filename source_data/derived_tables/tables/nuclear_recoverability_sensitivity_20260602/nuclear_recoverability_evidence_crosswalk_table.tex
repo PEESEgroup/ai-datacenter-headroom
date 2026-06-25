@@ -1,0 +1,24 @@
+\begin{table}[H]
+\centering
+\caption{Nuclear recoverability-factor evidence crosswalk.}
+\label{tab:nuclear-rho-evidence-crosswalk}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrrL{0.34\linewidth}L{0.27\linewidth}}
+\toprule
+Grid region & Pathway & $\rho$ & Units & Raw capacity & Mid credited capacity & Public evidence used & Sensitivity treatment \\
+ &  &  &  & (GW) & (GW) &  &  \\
+\midrule
+CAISO & retention & 0.00 & 1 & 1.1 & 0.0 & EIA-860M operating unit with scheduled-retirement exposure in the candidate screen. & Low/high sensitivity scales retention rho by 0.75/1.25, capped at 1. \\
+ERCOT & retention & 0.80 & 2 & 2.4 & 1.7 & EIA-860M operating unit with scheduled-retirement exposure in the candidate screen. & Low/high sensitivity scales retention rho by 0.75/1.25, capped at 1. \\
+MISO & restart & 1.00 & 1 & 0.8 & 0.7 & Non-operating restart candidate in the project-status screen, with capacity and availability year retained in the unit ledger. & Low sensitivity applies a 0.50 restart-feasibility haircut; high case is capped at the current rho of 1. \\
+MISO & retention & 0.40 & 7 & 4.8 & 1.7 & EIA-860M operating unit with scheduled-retirement exposure in the candidate screen. & Low/high sensitivity scales retention rho by 0.75/1.25, capped at 1. \\
+NYISO & retention & 0.45 & 3 & 2.1 & 0.8 & EIA-860M operating unit with scheduled-retirement exposure in the candidate screen. & Low/high sensitivity scales retention rho by 0.75/1.25, capped at 1. \\
+PJM & restart & 1.00 & 1 & 0.8 & 0.7 & Non-operating restart candidate in the project-status screen, with capacity and availability year retained in the unit ledger. & Low sensitivity applies a 0.50 restart-feasibility haircut; high case is capped at the current rho of 1. \\
+PJM & retention & 0.44 & 7 & 6.7 & 2.7 & EIA-860M operating unit with scheduled-retirement exposure in the candidate screen. & Low/high sensitivity scales retention rho by 0.75/1.25, capped at 1. \\
+SPP & retention & 0.35 & 1 & 0.8 & 0.2 & EIA-860M operating unit with scheduled-retirement exposure in the candidate screen. & Low/high sensitivity scales retention rho by 0.75/1.25, capped at 1. \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{The crosswalk summarizes the evidence category behind each grid-region/pathway recoverability factor used in the unit ledger after the EIA-860M balancing-authority mapping audit. Restart entries are non-operating restart candidates in the project-status screen; Palisades is credited to MISO and Crane Clean Energy Center to PJM.}
+\end{table}

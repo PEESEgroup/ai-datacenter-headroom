@@ -1,0 +1,7 @@
+severity,check,finding
+pass,AI scenario monotonicity,low <= mid <= high for all ISO-years.
+pass,2035 margin identity,max |signed net slack - AI - margin| = 0 MW. Non-AI load is not subtracted again because it is embodied in HC_MW.
+warning,raw linear slack vs cap-at-zero headroom,"MISO: raw linear slack=-11.6 GW, cap0 headroom=0.0 GW. Use cap-at-zero HC_MW for main AI-hosting margins; raw negative slack is audit/sensitivity only."
+warning,material changes from old ISO-normalized/cap0 demand,"4 ISOs change 2035 margin by >=1 GW after preserving non-ISO share, national total and signed slack."
+note,negative net supply/headroom change,"Negative New_supply_to_2035_MW appears for PJM, MISO, ISO-NE; label as net headroom decline, not buildout."
+pass,ISO7/non-ISO separation,"2025 mid raw ISO7 share=65.6%, nonISO coincident=10.1 GW; 2035 mid raw ISO7 share=69.3%, nonISO coincident=25.6 GW"

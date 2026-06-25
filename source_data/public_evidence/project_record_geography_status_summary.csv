@@ -1,0 +1,201 @@
+state,ISO_ASSIGNED,status_class,confidence_tier,confidence_tier_label,record_count,sized_record_count,unsized_record_count,distinct_county_count,mw_mid_sum,mw_eff_mid_sum
+AL,Non-ISO,committed,A,"A: committed, reported MW",1,1,0,1,150.000,120.000
+AL,Non-ISO,proposed,B,B: reported MW or committed inferred,3,3,0,2,2000.000,400.000
+AR,MISO,committed,B,B: reported MW or committed inferred,1,1,0,1,316.070,252.856
+AR,MISO,proposed,B,B: reported MW or committed inferred,1,1,0,1,150.000,30.000
+AR,MISO,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+AR,SPP,proposed,C,C: inferred size-rank MW,1,1,0,1,316.070,63.214
+AZ,Non-ISO,committed,A,"A: committed, reported MW",4,4,0,1,770.000,616.000
+AZ,Non-ISO,committed,B,B: reported MW or committed inferred,4,4,0,1,3869.417,3095.534
+AZ,Non-ISO,other,C,C: inferred size-rank MW,2,2,0,2,50.000,10.000
+AZ,Non-ISO,proposed,B,B: reported MW or committed inferred,4,4,0,3,5950.000,1190.000
+AZ,Non-ISO,proposed,C,C: inferred size-rank MW,2,2,0,2,632.139,126.428
+AZ,Non-ISO,proposed,D,D: unsized / excluded,3,0,3,2,0.000,0.000
+CA,CAISO,committed,A,"A: committed, reported MW",2,2,0,1,140.000,112.000
+CA,CAISO,committed,B,B: reported MW or committed inferred,1,1,0,1,75.000,60.000
+CA,CAISO,other,B,B: reported MW or committed inferred,1,1,0,1,72.000,14.400
+CA,CAISO,other,C,C: inferred size-rank MW,1,1,0,1,316.070,63.214
+CA,CAISO,proposed,B,B: reported MW or committed inferred,7,7,0,4,891.000,178.200
+CA,CAISO,proposed,D,D: unsized / excluded,3,0,3,3,0.000,0.000
+CO,Non-ISO,committed,A,"A: committed, reported MW",1,1,0,1,75.000,60.000
+CO,SPP,proposed,B,B: reported MW or committed inferred,1,1,0,1,750.000,150.000
+CT,ISO-NE,proposed,B,B: reported MW or committed inferred,1,1,0,1,1500.000,300.000
+CT,ISO-NE,proposed,D,D: unsized / excluded,2,0,2,2,0.000,0.000
+DE,PJM,proposed,B,B: reported MW or committed inferred,1,1,0,1,1200.000,240.000
+FL,Non-ISO,committed,A,"A: committed, reported MW",1,1,0,1,16.000,12.800
+FL,Non-ISO,committed,B,B: reported MW or committed inferred,1,1,0,1,316.070,252.856
+FL,Non-ISO,other,B,B: reported MW or committed inferred,1,1,0,1,1000.000,200.000
+FL,Non-ISO,proposed,B,B: reported MW or committed inferred,1,1,0,1,300.000,60.000
+FL,Non-ISO,proposed,D,D: unsized / excluded,2,0,2,2,0.000,0.000
+GA,Non-ISO,committed,A,"A: committed, reported MW",5,5,0,4,1450.000,1160.000
+GA,Non-ISO,committed,B,B: reported MW or committed inferred,5,5,0,5,1098.209,878.567
+GA,Non-ISO,other,B,B: reported MW or committed inferred,5,5,0,5,3318.000,663.600
+GA,Non-ISO,other,C,C: inferred size-rank MW,10,10,0,7,832.139,166.428
+GA,Non-ISO,proposed,B,B: reported MW or committed inferred,19,19,0,13,6649.000,1329.800
+GA,Non-ISO,proposed,C,C: inferred size-rank MW,6,6,0,5,4029.838,805.968
+GA,Non-ISO,proposed,D,D: unsized / excluded,39,0,39,22,0.000,0.000
+GREENE,PJM,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+HI,unmatched,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+IA,MISO,committed,A,"A: committed, reported MW",2,2,0,2,213.200,170.560
+IA,MISO,committed,B,B: reported MW or committed inferred,2,2,0,2,150.000,120.000
+IA,MISO,other,B,B: reported MW or committed inferred,1,1,0,1,2.000,0.400
+IA,MISO,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+IA,MISO,proposed,B,B: reported MW or committed inferred,4,4,0,3,650.000,130.000
+IA,MISO,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+IA,SPP,proposed,B,B: reported MW or committed inferred,1,1,0,1,200.000,40.000
+ID,Non-ISO,proposed,B,B: reported MW or committed inferred,1,1,0,1,60.000,12.000
+IL,MISO,proposed,B,B: reported MW or committed inferred,3,3,0,3,1632.000,326.400
+IL,MISO,proposed,D,D: unsized / excluded,2,0,2,2,0.000,0.000
+IL,PJM,committed,A,"A: committed, reported MW",2,2,0,2,92.000,73.600
+IL,PJM,committed,B,B: reported MW or committed inferred,1,1,0,1,75.000,60.000
+IL,PJM,other,B,B: reported MW or committed inferred,6,6,0,2,179.000,35.800
+IL,PJM,other,C,C: inferred size-rank MW,3,3,0,2,75.000,15.000
+IL,PJM,proposed,B,B: reported MW or committed inferred,4,4,0,3,1900.000,380.000
+IL,PJM,proposed,D,D: unsized / excluded,7,0,7,3,0.000,0.000
+IN,MISO,committed,A,"A: committed, reported MW",2,2,0,2,3400.000,2720.000
+IN,MISO,committed,B,B: reported MW or committed inferred,1,1,0,1,316.070,252.856
+IN,MISO,other,B,B: reported MW or committed inferred,2,2,0,2,304.000,60.800
+IN,MISO,other,C,C: inferred size-rank MW,13,13,0,7,907.139,181.428
+IN,MISO,proposed,B,B: reported MW or committed inferred,2,2,0,2,5380.000,1076.000
+IN,MISO,proposed,C,C: inferred size-rank MW,1,1,0,1,316.070,63.214
+IN,MISO,proposed,D,D: unsized / excluded,8,0,8,6,0.000,0.000
+IN,PJM,committed,A,"A: committed, reported MW",1,1,0,1,200.000,160.000
+IN,PJM,other,C,C: inferred size-rank MW,2,2,0,1,341.070,68.214
+KS,SPP,proposed,B,B: reported MW or committed inferred,1,1,0,1,600.000,120.000
+KS,SPP,proposed,D,D: unsized / excluded,2,0,2,1,0.000,0.000
+KY,MISO,other,B,B: reported MW or committed inferred,1,1,0,1,60.000,12.000
+KY,MISO,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+KY,MISO,proposed,B,B: reported MW or committed inferred,1,1,0,1,480.000,96.000
+KY,PJM,other,B,B: reported MW or committed inferred,1,1,0,1,600.000,120.000
+KY,PJM,other,C,C: inferred size-rank MW,2,2,0,2,50.000,10.000
+KY,PJM,proposed,B,B: reported MW or committed inferred,2,2,0,2,775.000,155.000
+KY,PJM,proposed,C,C: inferred size-rank MW,1,1,0,1,316.070,63.214
+LA,MISO,committed,A,"A: committed, reported MW",1,1,0,1,300.000,240.000
+LA,MISO,other,B,B: reported MW or committed inferred,1,1,0,1,1500.000,300.000
+LA,MISO,proposed,B,B: reported MW or committed inferred,1,1,0,1,245.000,49.000
+LA,SPP,proposed,D,D: unsized / excluded,3,0,3,2,0.000,0.000
+MA,ISO-NE,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+MA,ISO-NE,proposed,B,B: reported MW or committed inferred,1,1,0,1,300.000,60.000
+MA,ISO-NE,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+MD,PJM,other,B,B: reported MW or committed inferred,1,1,0,1,820.000,164.000
+MD,PJM,proposed,B,B: reported MW or committed inferred,5,5,0,4,1714.000,342.800
+MD,PJM,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+ME,ISO-NE,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+ME,ISO-NE,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+MI,MISO,committed,A,"A: committed, reported MW",3,3,0,3,2245.000,1796.000
+MI,MISO,other,B,B: reported MW or committed inferred,4,4,0,3,2027.500,405.500
+MI,MISO,other,C,C: inferred size-rank MW,4,4,0,4,682.139,136.428
+MI,MISO,proposed,B,B: reported MW or committed inferred,3,3,0,3,1124.000,224.800
+MI,MISO,proposed,C,C: inferred size-rank MW,2,2,0,2,2765.559,553.112
+MI,MISO,proposed,D,D: unsized / excluded,3,0,3,3,0.000,0.000
+MN,MISO,other,B,B: reported MW or committed inferred,1,1,0,1,12.000,2.400
+MN,MISO,other,C,C: inferred size-rank MW,2,2,0,2,341.070,68.214
+MN,MISO,proposed,B,B: reported MW or committed inferred,2,2,0,2,700.000,140.000
+MN,MISO,proposed,D,D: unsized / excluded,5,0,5,4,0.000,0.000
+MO,MISO,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+MO,MISO,proposed,C,C: inferred size-rank MW,2,2,0,1,632.139,126.428
+MO,MISO,proposed,D,D: unsized / excluded,4,0,4,3,0.000,0.000
+MO,SPP,committed,A,"A: committed, reported MW",2,2,0,2,900.000,720.000
+MO,SPP,other,C,C: inferred size-rank MW,1,1,0,1,316.070,63.214
+MO,SPP,proposed,B,B: reported MW or committed inferred,2,2,0,1,1380.000,276.000
+MO,SPP,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+MS,MISO,committed,A,"A: committed, reported MW",2,2,0,2,1116.000,892.800
+MS,MISO,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+MS,MISO,proposed,B,B: reported MW or committed inferred,1,1,0,1,1000.000,200.000
+MT,Non-ISO,proposed,B,B: reported MW or committed inferred,3,3,0,3,1050.000,210.000
+NC,Non-ISO,committed,B,B: reported MW or committed inferred,1,1,0,1,75.000,60.000
+NC,Non-ISO,other,B,B: reported MW or committed inferred,1,1,0,1,2.000,0.400
+NC,Non-ISO,other,C,C: inferred size-rank MW,3,3,0,3,75.000,15.000
+NC,Non-ISO,proposed,B,B: reported MW or committed inferred,2,2,0,2,410.000,82.000
+NC,Non-ISO,proposed,D,D: unsized / excluded,6,0,6,3,0.000,0.000
+NC,PJM,other,C,C: inferred size-rank MW,1,1,0,1,316.070,63.214
+NC,PJM,proposed,B,B: reported MW or committed inferred,3,3,0,3,1003.000,200.600
+NC,PJM,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+ND,MISO,committed,A,"A: committed, reported MW",1,1,0,1,280.000,224.000
+ND,MISO,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+NE,SPP,committed,B,B: reported MW or committed inferred,1,1,0,1,75.000,60.000
+NE,SPP,other,B,B: reported MW or committed inferred,1,1,0,1,198.000,39.600
+NJ,PJM,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+NJ,PJM,proposed,B,B: reported MW or committed inferred,1,1,0,1,300.000,60.000
+NJ,PJM,proposed,D,D: unsized / excluded,4,0,4,3,0.000,0.000
+NM,Non-ISO,committed,B,B: reported MW or committed inferred,1,1,0,1,75.000,60.000
+NM,SPP,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+NM,SPP,proposed,B,B: reported MW or committed inferred,2,2,0,2,8240.000,1648.000
+NV,CAISO,committed,A,"A: committed, reported MW",3,3,0,1,48.000,38.400
+NV,CAISO,proposed,B,B: reported MW or committed inferred,2,2,0,2,1650.000,330.000
+NV,CAISO,proposed,D,D: unsized / excluded,2,0,2,1,0.000,0.000
+NV,Non-ISO,other,B,B: reported MW or committed inferred,1,1,0,1,224.000,44.800
+NV,Non-ISO,proposed,B,B: reported MW or committed inferred,2,2,0,1,2010.000,402.000
+NY,NYISO,other,B,B: reported MW or committed inferred,2,2,0,2,324.000,64.800
+NY,NYISO,other,C,C: inferred size-rank MW,2,2,0,2,50.000,10.000
+NY,NYISO,proposed,B,B: reported MW or committed inferred,11,11,0,9,3992.000,798.400
+NY,NYISO,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+OH,PJM,committed,A,"A: committed, reported MW",1,1,0,1,543.000,434.400
+OH,PJM,committed,B,B: reported MW or committed inferred,3,3,0,3,225.000,180.000
+OH,PJM,other,B,B: reported MW or committed inferred,3,3,0,3,602.000,120.400
+OH,PJM,other,C,C: inferred size-rank MW,12,12,0,5,300.000,60.000
+OH,PJM,proposed,B,B: reported MW or committed inferred,6,6,0,5,2801.000,560.200
+OH,PJM,proposed,C,C: inferred size-rank MW,2,2,0,2,632.139,126.428
+OH,PJM,proposed,D,D: unsized / excluded,10,0,10,10,0.000,0.000
+OK,SPP,committed,B,B: reported MW or committed inferred,3,3,0,3,466.070,372.856
+OK,SPP,other,C,C: inferred size-rank MW,2,2,0,2,50.000,10.000
+OK,SPP,proposed,D,D: unsized / excluded,3,0,3,3,0.000,0.000
+OR,Non-ISO,committed,B,B: reported MW or committed inferred,1,1,0,1,75.000,60.000
+OR,Non-ISO,other,B,B: reported MW or committed inferred,2,2,0,1,29.000,5.800
+OR,Non-ISO,other,C,C: inferred size-rank MW,2,2,0,2,50.000,10.000
+OR,Non-ISO,proposed,B,B: reported MW or committed inferred,2,2,0,2,1227.000,245.400
+OR,Non-ISO,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+PA,PJM,other,B,B: reported MW or committed inferred,3,3,0,3,1612.000,322.400
+PA,PJM,other,C,C: inferred size-rank MW,6,6,0,6,732.139,146.428
+PA,PJM,proposed,B,B: reported MW or committed inferred,14,14,0,11,15712.000,3142.400
+PA,PJM,proposed,C,C: inferred size-rank MW,7,7,0,7,2212.487,442.497
+PA,PJM,proposed,D,D: unsized / excluded,13,0,13,9,0.000,0.000
+SC,Non-ISO,committed,A,"A: committed, reported MW",1,1,0,1,100.000,80.000
+SC,Non-ISO,committed,B,B: reported MW or committed inferred,1,1,0,1,316.070,252.856
+SC,Non-ISO,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+SC,Non-ISO,proposed,B,B: reported MW or committed inferred,3,3,0,3,1345.000,269.000
+SC,Non-ISO,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+SD,SPP,other,B,B: reported MW or committed inferred,1,1,0,1,430.000,86.000
+SD,SPP,proposed,B,B: reported MW or committed inferred,1,1,0,1,500.000,100.000
+TN,Non-ISO,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+TN,Non-ISO,proposed,B,B: reported MW or committed inferred,1,1,0,1,350.000,70.000
+TN,Non-ISO,proposed,D,D: unsized / excluded,2,0,2,2,0.000,0.000
+TX,ERCOT,committed,A,"A: committed, reported MW",17,17,0,12,5838.000,4670.400
+TX,ERCOT,committed,B,B: reported MW or committed inferred,7,7,0,4,525.000,420.000
+TX,ERCOT,other,B,B: reported MW or committed inferred,9,9,0,8,4231.000,846.200
+TX,ERCOT,other,C,C: inferred size-rank MW,14,14,0,7,350.000,70.000
+TX,ERCOT,proposed,B,B: reported MW or committed inferred,29,29,0,23,22796.000,4559.200
+TX,ERCOT,proposed,C,C: inferred size-rank MW,2,2,0,2,632.139,126.428
+TX,ERCOT,proposed,D,D: unsized / excluded,21,0,21,13,0.000,0.000
+TX,Non-ISO,proposed,B,B: reported MW or committed inferred,1,1,0,1,5.000,1.000
+TX,Non-ISO,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000
+TX,SPP,committed,A,"A: committed, reported MW",1,1,0,1,11000.000,8800.000
+TX,SPP,other,C,C: inferred size-rank MW,1,1,0,1,25.000,5.000
+TX,SPP,proposed,B,B: reported MW or committed inferred,1,1,0,1,168.000,33.600
+TX,SPP,proposed,D,D: unsized / excluded,2,0,2,2,0.000,0.000
+UT,Non-ISO,other,B,B: reported MW or committed inferred,1,1,0,1,200.000,40.000
+UT,Non-ISO,proposed,B,B: reported MW or committed inferred,2,2,0,1,4050.000,810.000
+UT,Non-ISO,proposed,D,D: unsized / excluded,2,0,2,2,0.000,0.000
+VA,PJM,committed,A,"A: committed, reported MW",4,4,0,4,1950.000,1560.000
+VA,PJM,committed,B,B: reported MW or committed inferred,5,5,0,4,375.000,300.000
+VA,PJM,other,B,B: reported MW or committed inferred,8,8,0,7,5638.000,1127.600
+VA,PJM,other,C,C: inferred size-rank MW,44,44,0,14,1100.000,220.000
+VA,PJM,proposed,B,B: reported MW or committed inferred,11,11,0,9,6276.000,1255.200
+VA,PJM,proposed,C,C: inferred size-rank MW,5,5,0,2,1580.348,316.070
+VA,PJM,proposed,D,D: unsized / excluded,194,0,194,23,0.000,0.000
+WA,Non-ISO,proposed,C,C: inferred size-rank MW,1,1,0,1,316.070,63.214
+WI,MISO,committed,A,"A: committed, reported MW",2,2,0,2,1750.000,1400.000
+WI,MISO,committed,B,B: reported MW or committed inferred,1,1,0,1,316.070,252.856
+WI,MISO,other,B,B: reported MW or committed inferred,2,2,0,2,120.000,24.000
+WI,MISO,other,C,C: inferred size-rank MW,5,5,0,5,416.070,83.214
+WI,MISO,proposed,B,B: reported MW or committed inferred,1,1,0,1,25.000,5.000
+WI,MISO,proposed,C,C: inferred size-rank MW,1,1,0,1,316.070,63.214
+WI,MISO,proposed,D,D: unsized / excluded,3,0,3,2,0.000,0.000
+WV,PJM,committed,B,B: reported MW or committed inferred,2,2,0,2,150.000,120.000
+WV,PJM,proposed,B,B: reported MW or committed inferred,3,3,0,3,4452.000,890.400
+WV,PJM,proposed,D,D: unsized / excluded,2,0,2,2,0.000,0.000
+WY,PJM,proposed,B,B: reported MW or committed inferred,1,1,0,1,1800.000,360.000
+WY,SPP,committed,A,"A: committed, reported MW",2,2,0,1,4500.000,3600.000
+WY,SPP,committed,B,B: reported MW or committed inferred,1,1,0,1,75.000,60.000
+WY,SPP,proposed,B,B: reported MW or committed inferred,1,1,0,1,250.000,50.000
+WY,SPP,proposed,D,D: unsized / excluded,1,0,1,1,0.000,0.000

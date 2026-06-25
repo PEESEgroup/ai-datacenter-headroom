@@ -1,0 +1,208 @@
+plant_name,unit,ISO,pathway,available_year,raw_capacity_GW,recoverable_GW,scenario,recovery_case,deficit_GW_years_avoided,max_single_year_avoided_GW
+Diablo Canyon,2,CAISO,retention,2025,1.118,0.0,low,low_recovery,0.0,0.0
+Diablo Canyon,2,CAISO,retention,2025,1.118,0.0,low,mid_recovery,0.0,0.0
+Diablo Canyon,2,CAISO,retention,2025,1.118,0.0,low,high_recovery,0.0,0.0
+Diablo Canyon,2,CAISO,retention,2025,1.118,0.0,mid,low_recovery,0.0,0.0
+Diablo Canyon,2,CAISO,retention,2025,1.118,0.0,mid,mid_recovery,0.0,0.0
+Diablo Canyon,2,CAISO,retention,2025,1.118,0.0,mid,high_recovery,0.0,0.0
+Diablo Canyon,2,CAISO,retention,2025,1.118,0.0,high,low_recovery,0.0,0.0
+Diablo Canyon,2,CAISO,retention,2025,1.118,0.0,high,mid_recovery,0.0,0.0
+Diablo Canyon,2,CAISO,retention,2025,1.118,0.0,high,high_recovery,0.0,0.0
+Perry,1,PJM,retention,2026,1.24,0.5419368814081669,low,low_recovery,0.0,0.0
+Perry,1,PJM,retention,2026,1.24,0.5419368814081669,low,mid_recovery,0.0,0.0
+Perry,1,PJM,retention,2026,1.24,0.5419368814081669,low,high_recovery,0.0,0.0
+Perry,1,PJM,retention,2026,1.24,0.5419368814081669,mid,low_recovery,1.3006485153796006,0.4335495051265335
+Perry,1,PJM,retention,2026,1.24,0.5419368814081669,mid,mid_recovery,1.4632295798020507,0.4877431932673502
+Perry,1,PJM,retention,2026,1.24,0.5419368814081669,mid,high_recovery,1.6258106442245006,0.5419368814081669
+Perry,1,PJM,retention,2026,1.24,0.5419368814081669,high,low_recovery,2.1677475256326675,0.4335495051265335
+Perry,1,PJM,retention,2026,1.24,0.5419368814081669,high,mid_recovery,2.4387159663367513,0.4877431932673502
+Perry,1,PJM,retention,2026,1.24,0.5419368814081669,high,high_recovery,2.709684407040834,0.5419368814081669
+Clinton Power Station,1,MISO,retention,2027,1.0789000000000002,0.4297811196635123,low,low_recovery,2.588037889210611,0.3438248957308099
+Clinton Power Station,1,MISO,retention,2027,1.0789000000000002,0.4297811196635123,low,mid_recovery,2.888884672975069,0.3868030076971611
+Clinton Power Station,1,MISO,retention,2027,1.0789000000000002,0.4297811196635123,low,high_recovery,3.189731456739527,0.4297811196635123
+Clinton Power Station,1,MISO,retention,2027,1.0789000000000002,0.4297811196635123,mid,low_recovery,2.750599165846479,0.3438248957308099
+Clinton Power Station,1,MISO,retention,2027,1.0789000000000002,0.4297811196635123,mid,mid_recovery,3.0944240615772887,0.3868030076971611
+Clinton Power Station,1,MISO,retention,2027,1.0789000000000002,0.4297811196635123,mid,high_recovery,3.438248957308098,0.4297811196635123
+Clinton Power Station,1,MISO,retention,2027,1.0789000000000002,0.4297811196635123,high,low_recovery,2.750599165846479,0.3438248957308099
+Clinton Power Station,1,MISO,retention,2027,1.0789000000000002,0.4297811196635123,high,mid_recovery,3.0944240615772887,0.3868030076971611
+Clinton Power Station,1,MISO,retention,2027,1.0789000000000002,0.4297811196635123,high,high_recovery,3.438248957308098,0.4297811196635123
+Dresden Generating Station,2,PJM,retention,2029,0.902,0.39421537663723105,low,low_recovery,0.0,0.0
+Dresden Generating Station,2,PJM,retention,2029,0.902,0.39421537663723105,low,mid_recovery,0.0,0.0
+Dresden Generating Station,2,PJM,retention,2029,0.902,0.39421537663723105,low,high_recovery,0.0,0.0
+Dresden Generating Station,2,PJM,retention,2029,0.902,0.39421537663723105,mid,low_recovery,0.9461169039293547,0.3153723013097849
+Dresden Generating Station,2,PJM,retention,2029,0.902,0.39421537663723105,mid,mid_recovery,1.064381516920524,0.35479383897350797
+Dresden Generating Station,2,PJM,retention,2029,0.902,0.39421537663723105,mid,high_recovery,1.182646129911693,0.39421537663723105
+Dresden Generating Station,2,PJM,retention,2029,0.902,0.39421537663723105,high,low_recovery,1.5768615065489244,0.3153723013097849
+Dresden Generating Station,2,PJM,retention,2029,0.902,0.39421537663723105,high,mid_recovery,1.7739691948675398,0.35479383897350797
+Dresden Generating Station,2,PJM,retention,2029,0.902,0.39421537663723105,high,high_recovery,1.9710768831861554,0.39421537663723105
+R E Ginna Nuclear Power Plant,1,NYISO,retention,2029,0.5815,0.25934696332149637,low,low_recovery,0.0,0.0
+R E Ginna Nuclear Power Plant,1,NYISO,retention,2029,0.5815,0.25934696332149637,low,mid_recovery,0.0,0.0
+R E Ginna Nuclear Power Plant,1,NYISO,retention,2029,0.5815,0.25934696332149637,low,high_recovery,0.0,0.0
+R E Ginna Nuclear Power Plant,1,NYISO,retention,2029,0.5815,0.25934696332149637,mid,low_recovery,0.0,0.0
+R E Ginna Nuclear Power Plant,1,NYISO,retention,2029,0.5815,0.25934696332149637,mid,mid_recovery,0.0,0.0
+R E Ginna Nuclear Power Plant,1,NYISO,retention,2029,0.5815,0.25934696332149637,mid,high_recovery,0.0,0.0
+R E Ginna Nuclear Power Plant,1,NYISO,retention,2029,0.5815,0.25934696332149637,high,low_recovery,0.0,0.0
+R E Ginna Nuclear Power Plant,1,NYISO,retention,2029,0.5815,0.25934696332149637,high,mid_recovery,0.0,0.0
+R E Ginna Nuclear Power Plant,1,NYISO,retention,2029,0.5815,0.25934696332149637,high,high_recovery,0.0,0.0
+Nine Mile Point Nuclear Station,1,NYISO,retention,2029,0.6214,0.2771422235734786,low,low_recovery,0.0,0.0
+Nine Mile Point Nuclear Station,1,NYISO,retention,2029,0.6214,0.2771422235734786,low,mid_recovery,0.0,0.0
+Nine Mile Point Nuclear Station,1,NYISO,retention,2029,0.6214,0.2771422235734786,low,high_recovery,0.0,0.0
+Nine Mile Point Nuclear Station,1,NYISO,retention,2029,0.6214,0.2771422235734786,mid,low_recovery,0.0,0.0
+Nine Mile Point Nuclear Station,1,NYISO,retention,2029,0.6214,0.2771422235734786,mid,mid_recovery,0.0,0.0
+Nine Mile Point Nuclear Station,1,NYISO,retention,2029,0.6214,0.2771422235734786,mid,high_recovery,0.0,0.0
+Nine Mile Point Nuclear Station,1,NYISO,retention,2029,0.6214,0.2771422235734786,high,low_recovery,0.0,0.0
+Nine Mile Point Nuclear Station,1,NYISO,retention,2029,0.6214,0.2771422235734786,high,mid_recovery,0.0,0.0
+Nine Mile Point Nuclear Station,1,NYISO,retention,2029,0.6214,0.2771422235734786,high,high_recovery,0.0,0.0
+Comanche Peak,1,ERCOT,retention,2030,1.205,0.964,low,low_recovery,0.0,0.0
+Comanche Peak,1,ERCOT,retention,2030,1.205,0.964,low,mid_recovery,0.0,0.0
+Comanche Peak,1,ERCOT,retention,2030,1.205,0.964,low,high_recovery,0.0,0.0
+Comanche Peak,1,ERCOT,retention,2030,1.205,0.964,mid,low_recovery,0.0,0.0
+Comanche Peak,1,ERCOT,retention,2030,1.205,0.964,mid,mid_recovery,0.0,0.0
+Comanche Peak,1,ERCOT,retention,2030,1.205,0.964,mid,high_recovery,0.0,0.0
+Comanche Peak,1,ERCOT,retention,2030,1.205,0.964,high,low_recovery,0.0,0.0
+Comanche Peak,1,ERCOT,retention,2030,1.205,0.964,high,mid_recovery,0.0,0.0
+Comanche Peak,1,ERCOT,retention,2030,1.205,0.964,high,high_recovery,0.0,0.0
+Monticello Nuclear Facility,1,MISO,retention,2030,0.617,0.24578269610935863,low,low_recovery,1.1797569413249216,0.1966261568874869
+Monticello Nuclear Facility,1,MISO,retention,2030,0.617,0.24578269610935863,low,mid_recovery,1.3272265589905365,0.22120442649842276
+Monticello Nuclear Facility,1,MISO,retention,2030,0.617,0.24578269610935863,low,high_recovery,1.4746961766561517,0.24578269610935863
+Monticello Nuclear Facility,1,MISO,retention,2030,0.617,0.24578269610935863,mid,low_recovery,1.1797569413249216,0.1966261568874869
+Monticello Nuclear Facility,1,MISO,retention,2030,0.617,0.24578269610935863,mid,mid_recovery,1.3272265589905365,0.22120442649842276
+Monticello Nuclear Facility,1,MISO,retention,2030,0.617,0.24578269610935863,mid,high_recovery,1.4746961766561517,0.24578269610935863
+Monticello Nuclear Facility,1,MISO,retention,2030,0.617,0.24578269610935863,high,low_recovery,1.1797569413249216,0.1966261568874869
+Monticello Nuclear Facility,1,MISO,retention,2030,0.617,0.24578269610935863,high,mid_recovery,1.3272265589905365,0.22120442649842276
+Monticello Nuclear Facility,1,MISO,retention,2030,0.617,0.24578269610935863,high,high_recovery,1.4746961766561517,0.24578269610935863
+Point Beach Nuclear Plant,1,MISO,retention,2030,0.589,0.23462886225026292,low,low_recovery,1.126218538801262,0.18770308980021033
+Point Beach Nuclear Plant,1,MISO,retention,2030,0.589,0.23462886225026292,low,mid_recovery,1.2669958561514199,0.21116597602523662
+Point Beach Nuclear Plant,1,MISO,retention,2030,0.589,0.23462886225026292,low,high_recovery,1.4077731735015777,0.23462886225026292
+Point Beach Nuclear Plant,1,MISO,retention,2030,0.589,0.23462886225026292,mid,low_recovery,1.126218538801262,0.18770308980021033
+Point Beach Nuclear Plant,1,MISO,retention,2030,0.589,0.23462886225026292,mid,mid_recovery,1.2669958561514199,0.21116597602523662
+Point Beach Nuclear Plant,1,MISO,retention,2030,0.589,0.23462886225026292,mid,high_recovery,1.4077731735015777,0.23462886225026292
+Point Beach Nuclear Plant,1,MISO,retention,2030,0.589,0.23462886225026292,high,low_recovery,1.126218538801262,0.18770308980021033
+Point Beach Nuclear Plant,1,MISO,retention,2030,0.589,0.23462886225026292,high,mid_recovery,1.2669958561514199,0.21116597602523662
+Point Beach Nuclear Plant,1,MISO,retention,2030,0.589,0.23462886225026292,high,high_recovery,1.4077731735015777,0.23462886225026292
+Dresden Generating Station,3,PJM,retention,2031,0.895,0.39115605553250754,low,low_recovery,0.0,0.0
+Dresden Generating Station,3,PJM,retention,2031,0.895,0.39115605553250754,low,mid_recovery,0.0,0.0
+Dresden Generating Station,3,PJM,retention,2031,0.895,0.39115605553250754,low,high_recovery,0.0,0.0
+Dresden Generating Station,3,PJM,retention,2031,0.895,0.39115605553250754,mid,low_recovery,0.9387745332780182,0.31292484442600604
+Dresden Generating Station,3,PJM,retention,2031,0.895,0.39115605553250754,mid,mid_recovery,1.0561213499377704,0.3520404499792568
+Dresden Generating Station,3,PJM,retention,2031,0.895,0.39115605553250754,mid,high_recovery,1.1734681665975226,0.39115605553250754
+Dresden Generating Station,3,PJM,retention,2031,0.895,0.39115605553250754,high,low_recovery,1.5646242221300302,0.31292484442600604
+Dresden Generating Station,3,PJM,retention,2031,0.895,0.39115605553250754,high,mid_recovery,1.7602022498962842,0.3520404499792568
+Dresden Generating Station,3,PJM,retention,2031,0.895,0.39115605553250754,high,high_recovery,1.9557802776625377,0.39115605553250754
+Quad Cities Generating Station,1,PJM,retention,2032,0.908,0.39683765186985126,low,low_recovery,0.0,0.0
+Quad Cities Generating Station,1,PJM,retention,2032,0.908,0.39683765186985126,low,mid_recovery,0.0,0.0
+Quad Cities Generating Station,1,PJM,retention,2032,0.908,0.39683765186985126,low,high_recovery,0.0,0.0
+Quad Cities Generating Station,1,PJM,retention,2032,0.908,0.39683765186985126,mid,low_recovery,0.9524103644876432,0.31747012149588105
+Quad Cities Generating Station,1,PJM,retention,2032,0.908,0.39683765186985126,mid,mid_recovery,1.0714616600485984,0.35715388668286613
+Quad Cities Generating Station,1,PJM,retention,2032,0.908,0.39683765186985126,mid,high_recovery,1.1905129556095537,0.39683765186985126
+Quad Cities Generating Station,1,PJM,retention,2032,0.908,0.39683765186985126,high,low_recovery,1.2698804859835242,0.31747012149588105
+Quad Cities Generating Station,1,PJM,retention,2032,0.908,0.39683765186985126,high,mid_recovery,1.4286155467314645,0.35715388668286613
+Quad Cities Generating Station,1,PJM,retention,2032,0.908,0.39683765186985126,high,high_recovery,1.587350607479405,0.39683765186985126
+Quad Cities Generating Station,2,PJM,retention,2032,0.911,0.39814878948616134,low,low_recovery,0.0,0.0
+Quad Cities Generating Station,2,PJM,retention,2032,0.911,0.39814878948616134,low,mid_recovery,0.0,0.0
+Quad Cities Generating Station,2,PJM,retention,2032,0.911,0.39814878948616134,low,high_recovery,0.0,0.0
+Quad Cities Generating Station,2,PJM,retention,2032,0.911,0.39814878948616134,mid,low_recovery,0.9555570947667873,0.3185190315889291
+Quad Cities Generating Station,2,PJM,retention,2032,0.911,0.39814878948616134,mid,mid_recovery,1.0750017316126357,0.3583339105375452
+Quad Cities Generating Station,2,PJM,retention,2032,0.911,0.39814878948616134,mid,high_recovery,1.194446368458484,0.39814878948616134
+Quad Cities Generating Station,2,PJM,retention,2032,0.911,0.39814878948616134,high,low_recovery,1.2740761263557163,0.3185190315889291
+Quad Cities Generating Station,2,PJM,retention,2032,0.911,0.39814878948616134,high,mid_recovery,1.4333356421501808,0.3583339105375452
+Quad Cities Generating Station,2,PJM,retention,2032,0.911,0.39814878948616134,high,high_recovery,1.5925951579446453,0.39814878948616134
+Comanche Peak,2,ERCOT,retention,2033,1.195,0.956,low,low_recovery,0.0,0.0
+Comanche Peak,2,ERCOT,retention,2033,1.195,0.956,low,mid_recovery,0.0,0.0
+Comanche Peak,2,ERCOT,retention,2033,1.195,0.956,low,high_recovery,0.0,0.0
+Comanche Peak,2,ERCOT,retention,2033,1.195,0.956,mid,low_recovery,0.0,0.0
+Comanche Peak,2,ERCOT,retention,2033,1.195,0.956,mid,mid_recovery,0.0,0.0
+Comanche Peak,2,ERCOT,retention,2033,1.195,0.956,mid,high_recovery,0.0,0.0
+Comanche Peak,2,ERCOT,retention,2033,1.195,0.956,high,low_recovery,0.0,0.0
+Comanche Peak,2,ERCOT,retention,2033,1.195,0.956,high,mid_recovery,0.0,0.0
+Comanche Peak,2,ERCOT,retention,2033,1.195,0.956,high,high_recovery,0.0,0.0
+Point Beach Nuclear Plant,2,MISO,retention,2033,0.5962999999999999,0.23753682607781287,low,low_recovery,0.5700883825867509,0.1900294608622503
+Point Beach Nuclear Plant,2,MISO,retention,2033,0.5962999999999999,0.23753682607781287,low,mid_recovery,0.6413494304100947,0.21378314347003158
+Point Beach Nuclear Plant,2,MISO,retention,2033,0.5962999999999999,0.23753682607781287,low,high_recovery,0.7126104782334386,0.23753682607781287
+Point Beach Nuclear Plant,2,MISO,retention,2033,0.5962999999999999,0.23753682607781287,mid,low_recovery,0.5700883825867509,0.1900294608622503
+Point Beach Nuclear Plant,2,MISO,retention,2033,0.5962999999999999,0.23753682607781287,mid,mid_recovery,0.6413494304100947,0.21378314347003158
+Point Beach Nuclear Plant,2,MISO,retention,2033,0.5962999999999999,0.23753682607781287,mid,high_recovery,0.7126104782334386,0.23753682607781287
+Point Beach Nuclear Plant,2,MISO,retention,2033,0.5962999999999999,0.23753682607781287,high,low_recovery,0.5700883825867509,0.1900294608622503
+Point Beach Nuclear Plant,2,MISO,retention,2033,0.5962999999999999,0.23753682607781287,high,mid_recovery,0.6413494304100947,0.21378314347003158
+Point Beach Nuclear Plant,2,MISO,retention,2033,0.5962999999999999,0.23753682607781287,high,high_recovery,0.7126104782334386,0.23753682607781287
+Prairie Island,1,MISO,retention,2033,0.521,0.20754098002103055,low,low_recovery,0.49809835205047337,0.16603278401682445
+Prairie Island,1,MISO,retention,2033,0.521,0.20754098002103055,low,mid_recovery,0.5603606460567825,0.1867868820189275
+Prairie Island,1,MISO,retention,2033,0.521,0.20754098002103055,low,high_recovery,0.6226229400630916,0.20754098002103055
+Prairie Island,1,MISO,retention,2033,0.521,0.20754098002103055,mid,low_recovery,0.49809835205047337,0.16603278401682445
+Prairie Island,1,MISO,retention,2033,0.521,0.20754098002103055,mid,mid_recovery,0.5603606460567825,0.1867868820189275
+Prairie Island,1,MISO,retention,2033,0.521,0.20754098002103055,mid,high_recovery,0.6226229400630916,0.20754098002103055
+Prairie Island,1,MISO,retention,2033,0.521,0.20754098002103055,high,low_recovery,0.49809835205047337,0.16603278401682445
+Prairie Island,1,MISO,retention,2033,0.521,0.20754098002103055,high,mid_recovery,0.5603606460567825,0.1867868820189275
+Prairie Island,1,MISO,retention,2033,0.521,0.20754098002103055,high,high_recovery,0.6226229400630916,0.20754098002103055
+Arkansas Nuclear One,1,MISO,retention,2034,0.8338,0.3321452382754995,low,low_recovery,0.5314323812407993,0.26571619062039964
+Arkansas Nuclear One,1,MISO,retention,2034,0.8338,0.3321452382754995,low,mid_recovery,0.5978614288958991,0.29893071444794955
+Arkansas Nuclear One,1,MISO,retention,2034,0.8338,0.3321452382754995,low,high_recovery,0.664290476550999,0.3321452382754995
+Arkansas Nuclear One,1,MISO,retention,2034,0.8338,0.3321452382754995,mid,low_recovery,0.5314323812407993,0.26571619062039964
+Arkansas Nuclear One,1,MISO,retention,2034,0.8338,0.3321452382754995,mid,mid_recovery,0.5978614288958991,0.29893071444794955
+Arkansas Nuclear One,1,MISO,retention,2034,0.8338,0.3321452382754995,mid,high_recovery,0.664290476550999,0.3321452382754995
+Arkansas Nuclear One,1,MISO,retention,2034,0.8338,0.3321452382754995,high,low_recovery,0.5314323812407993,0.26571619062039964
+Arkansas Nuclear One,1,MISO,retention,2034,0.8338,0.3321452382754995,high,mid_recovery,0.5978614288958991,0.29893071444794955
+Arkansas Nuclear One,1,MISO,retention,2034,0.8338,0.3321452382754995,high,high_recovery,0.664290476550999,0.3321452382754995
+Calvert Cliffs Nuclear Power Plant,1,PJM,retention,2034,0.8842000000000001,0.3864359601137913,low,low_recovery,0.0,0.0
+Calvert Cliffs Nuclear Power Plant,1,PJM,retention,2034,0.8842000000000001,0.3864359601137913,low,mid_recovery,0.0,0.0
+Calvert Cliffs Nuclear Power Plant,1,PJM,retention,2034,0.8842000000000001,0.3864359601137913,low,high_recovery,0.0,0.0
+Calvert Cliffs Nuclear Power Plant,1,PJM,retention,2034,0.8842000000000001,0.3864359601137913,mid,low_recovery,0.6182975361820661,0.30914876809103303
+Calvert Cliffs Nuclear Power Plant,1,PJM,retention,2034,0.8842000000000001,0.3864359601137913,mid,mid_recovery,0.6955847282048243,0.34779236410241215
+Calvert Cliffs Nuclear Power Plant,1,PJM,retention,2034,0.8842000000000001,0.3864359601137913,mid,high_recovery,0.7728719202275826,0.3864359601137913
+Calvert Cliffs Nuclear Power Plant,1,PJM,retention,2034,0.8842000000000001,0.3864359601137913,high,low_recovery,0.6182975361820661,0.30914876809103303
+Calvert Cliffs Nuclear Power Plant,1,PJM,retention,2034,0.8842000000000001,0.3864359601137913,high,mid_recovery,0.6955847282048243,0.34779236410241215
+Calvert Cliffs Nuclear Power Plant,1,PJM,retention,2034,0.8842000000000001,0.3864359601137913,high,high_recovery,0.7728719202275826,0.3864359601137913
+Donald C Cook,1,PJM,retention,2034,1.009,0.44097928495229055,low,low_recovery,0.0,0.0
+Donald C Cook,1,PJM,retention,2034,1.009,0.44097928495229055,low,mid_recovery,0.0,0.0
+Donald C Cook,1,PJM,retention,2034,1.009,0.44097928495229055,low,high_recovery,0.0,0.0
+Donald C Cook,1,PJM,retention,2034,1.009,0.44097928495229055,mid,low_recovery,0.705566855923665,0.3527834279618325
+Donald C Cook,1,PJM,retention,2034,1.009,0.44097928495229055,mid,mid_recovery,0.793762712914123,0.3968813564570615
+Donald C Cook,1,PJM,retention,2034,1.009,0.44097928495229055,mid,high_recovery,0.8819585699045811,0.44097928495229055
+Donald C Cook,1,PJM,retention,2034,1.009,0.44097928495229055,high,low_recovery,0.705566855923665,0.3527834279618325
+Donald C Cook,1,PJM,retention,2034,1.009,0.44097928495229055,high,mid_recovery,0.793762712914123,0.3968813564570615
+Donald C Cook,1,PJM,retention,2034,1.009,0.44097928495229055,high,high_recovery,0.8819585699045811,0.44097928495229055
+Cooper Nuclear Station,1,SPP,retention,2034,0.7685,0.26897499999999996,low,low_recovery,0.43035999999999996,0.21517999999999998
+Cooper Nuclear Station,1,SPP,retention,2034,0.7685,0.26897499999999996,low,mid_recovery,0.48415499999999995,0.24207749999999997
+Cooper Nuclear Station,1,SPP,retention,2034,0.7685,0.26897499999999996,low,high_recovery,0.5379499999999999,0.26897499999999996
+Cooper Nuclear Station,1,SPP,retention,2034,0.7685,0.26897499999999996,mid,low_recovery,0.43035999999999996,0.21517999999999998
+Cooper Nuclear Station,1,SPP,retention,2034,0.7685,0.26897499999999996,mid,mid_recovery,0.48415499999999995,0.24207749999999997
+Cooper Nuclear Station,1,SPP,retention,2034,0.7685,0.26897499999999996,mid,high_recovery,0.5379499999999999,0.26897499999999996
+Cooper Nuclear Station,1,SPP,retention,2034,0.7685,0.26897499999999996,high,low_recovery,0.43035999999999996,0.21517999999999998
+Cooper Nuclear Station,1,SPP,retention,2034,0.7685,0.26897499999999996,high,mid_recovery,0.48415499999999995,0.24207749999999997
+Cooper Nuclear Station,1,SPP,retention,2034,0.7685,0.26897499999999996,high,high_recovery,0.5379499999999999,0.26897499999999996
+James A Fitzpatrick,1,NYISO,retention,2034,0.8528,0.3803458131050251,low,low_recovery,0.0,0.0
+James A Fitzpatrick,1,NYISO,retention,2034,0.8528,0.3803458131050251,low,mid_recovery,0.0,0.0
+James A Fitzpatrick,1,NYISO,retention,2034,0.8528,0.3803458131050251,low,high_recovery,0.0,0.0
+James A Fitzpatrick,1,NYISO,retention,2034,0.8528,0.3803458131050251,mid,low_recovery,0.0,0.0
+James A Fitzpatrick,1,NYISO,retention,2034,0.8528,0.3803458131050251,mid,mid_recovery,0.0,0.0
+James A Fitzpatrick,1,NYISO,retention,2034,0.8528,0.3803458131050251,mid,high_recovery,0.0,0.0
+James A Fitzpatrick,1,NYISO,retention,2034,0.8528,0.3803458131050251,high,low_recovery,0.0,0.0
+James A Fitzpatrick,1,NYISO,retention,2034,0.8528,0.3803458131050251,high,mid_recovery,0.0,0.0
+James A Fitzpatrick,1,NYISO,retention,2034,0.8528,0.3803458131050251,high,high_recovery,0.0,0.0
+Prairie Island,2,MISO,retention,2034,0.519,0.2067442776025237,low,low_recovery,0.3307908441640379,0.16539542208201896
+Prairie Island,2,MISO,retention,2034,0.519,0.2067442776025237,low,mid_recovery,0.3721396996845427,0.18606984984227135
+Prairie Island,2,MISO,retention,2034,0.519,0.2067442776025237,low,high_recovery,0.4134885552050474,0.2067442776025237
+Prairie Island,2,MISO,retention,2034,0.519,0.2067442776025237,mid,low_recovery,0.3307908441640379,0.16539542208201896
+Prairie Island,2,MISO,retention,2034,0.519,0.2067442776025237,mid,mid_recovery,0.3721396996845427,0.18606984984227135
+Prairie Island,2,MISO,retention,2034,0.519,0.2067442776025237,mid,high_recovery,0.4134885552050474,0.2067442776025237
+Prairie Island,2,MISO,retention,2034,0.519,0.2067442776025237,high,low_recovery,0.3307908441640379,0.16539542208201896
+Prairie Island,2,MISO,retention,2034,0.519,0.2067442776025237,high,mid_recovery,0.3721396996845427,0.18606984984227135
+Prairie Island,2,MISO,retention,2034,0.519,0.2067442776025237,high,high_recovery,0.4134885552050474,0.2067442776025237
+Palisades,1,MISO,restart,2028,0.7685,0.7685,low,low_recovery,4.484863619094941,0.6148
+Palisades,1,MISO,restart,2028,0.7685,0.7685,low,mid_recovery,5.022813619094942,0.69165
+Palisades,1,MISO,restart,2028,0.7685,0.7685,low,high_recovery,5.56076361909494,0.7685
+Palisades,1,MISO,restart,2028,0.7685,0.7685,mid,low_recovery,4.918399999999999,0.6148
+Palisades,1,MISO,restart,2028,0.7685,0.7685,mid,mid_recovery,5.5332,0.69165
+Palisades,1,MISO,restart,2028,0.7685,0.7685,mid,high_recovery,6.148,0.7685
+Palisades,1,MISO,restart,2028,0.7685,0.7685,high,low_recovery,4.918399999999999,0.6148
+Palisades,1,MISO,restart,2028,0.7685,0.7685,high,mid_recovery,5.5332,0.69165
+Palisades,1,MISO,restart,2028,0.7685,0.7685,high,high_recovery,6.148,0.7685
+Crane Clean Energy Center,1,PJM,restart,2028,0.8028,0.8028,low,low_recovery,0.0,0.0
+Crane Clean Energy Center,1,PJM,restart,2028,0.8028,0.8028,low,mid_recovery,0.0,0.0
+Crane Clean Energy Center,1,PJM,restart,2028,0.8028,0.8028,low,high_recovery,0.0,0.0
+Crane Clean Energy Center,1,PJM,restart,2028,0.8028,0.8028,mid,low_recovery,1.92672,0.64224
+Crane Clean Energy Center,1,PJM,restart,2028,0.8028,0.8028,mid,mid_recovery,2.16756,0.7225199999999999
+Crane Clean Energy Center,1,PJM,restart,2028,0.8028,0.8028,mid,high_recovery,2.4084,0.8028
+Crane Clean Energy Center,1,PJM,restart,2028,0.8028,0.8028,high,low_recovery,3.2112000000000003,0.64224
+Crane Clean Energy Center,1,PJM,restart,2028,0.8028,0.8028,high,mid_recovery,3.6125999999999996,0.7225199999999999
+Crane Clean Energy Center,1,PJM,restart,2028,0.8028,0.8028,high,high_recovery,4.013999999999999,0.8028

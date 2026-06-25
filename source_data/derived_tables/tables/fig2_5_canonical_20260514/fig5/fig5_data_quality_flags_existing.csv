@@ -1,0 +1,4 @@
+issue,severity,affected_result,recommended_action
+NYISO processed solar profile is zero,high,site/ISO solar availability and PV-storage screen for NYISO,Do not use the processed NYISO EIA-930 PV profile as physical solar potential; replace with NSRDB/PVWatts or validated NYISO solar profile before making NYISO-specific solar claims.
+FracTracker power_source field sparse,medium,explicit self-generation evidence at individual data-centre sites,Treat as qualitative audit only; 89.8% of site records have missing power_source.
+No external PVWatts/NSRDB coordinate query performed,methodological limitation,true site-level solar feasibility,"Requires explicit approval to transmit data-centre coordinates to NREL API, or a local NSRDB/SAM run."

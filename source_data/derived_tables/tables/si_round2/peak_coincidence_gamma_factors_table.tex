@@ -1,0 +1,21 @@
+\begingroup
+\begin{table}[H]
+\centering
+\caption{Regional peak-coincidence factors used to convert average AI load to peak-load-equivalent demand.}
+\label{tab:peak-coincidence-gamma}
+\begin{tabular}{lllll}
+\toprule
+Grid region & Scenario & Period & $\Gamma$ & Three-hour peak window \\
+\midrule
+PJM & low/mid/high & 2025-2035 & 1.015 & yes \\
+MISO & low/mid/high & 2025-2035 & 1.019 & yes \\
+SPP & low/mid/high & 2025-2035 & 1.019 & yes \\
+ERCOT & low/mid/high & 2025-2035 & 1.019 & yes \\
+CAISO & low/mid/high & 2025-2035 & 1.004 & yes \\
+NYISO & low/mid/high & 2025-2035 & 1.009 & yes \\
+ISO-NE & low/mid/high & 2025-2035 & 1.009 & yes \\
+\bottomrule
+\end{tabular}
+\tabnote{The peak-coincidence factor converts allocated average AI demand into the peak-load-equivalent quantity used in the annual margin loop. Counties outside the seven analyzed grid regions remain in the national spatial inventory but do not receive a common ISO peak-window adjustment.}
+\end{table}
+\endgroup

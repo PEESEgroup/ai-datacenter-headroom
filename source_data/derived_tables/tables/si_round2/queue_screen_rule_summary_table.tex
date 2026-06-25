@@ -1,0 +1,27 @@
+\begingroup
+\begin{table}[H]
+\centering
+\caption{Queue-screen rules used to construct near-term effective additions.}
+\label{tab:queue-screen-rules}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{L{0.18\linewidth}L{0.43\linewidth}L{0.33\linewidth}}
+\toprule
+Screen component & Printed rule summary & Source-table field \\
+\midrule
+Screen window & Near-term online-year window for additions entering the 2026--2028 generator-pipeline screen. & queue\_effective\_assumptions.csv: screen\_window\_years; queue\_eff\_audit\_iso\_year\_breakdown.csv: year \\
+Queue status inclusion & Active or operational queue records are included in the gross active-queue denominator used for the screen. & queue\_effective\_assumptions.csv: active\_status\_filter, operational\_or\_active\_inclusion\_rule \\
+Withdrawn/inactive exclusion & Withdrawn, canceled or otherwise non-active records are excluded from the screened effective-addition calculation. & queue\_effective\_assumptions.csv: withdrawn\_exclusion\_rule \\
+Interconnection-agreement subtotal & Interconnection-agreement-stage records are retained as a subtotal used to distinguish later-stage projects from the gross active queue. & queue\_effective\_assumptions.csv: ia\_stage\_filter; fig2c\_generator\_pipeline\_canonical\_source.csv: MW\_sum\_total\_IAstage\_2026\_2028 \\
+Generation-only screen & Base-case effective additions count non-storage generation additions and decompose them into thermal, wind and solar components. & fig2c\_generator\_pipeline\_canonical\_source.csv: add\_nameplate\_gen\_MW, add\_eff\_MW, thermal\_eff\_MW, wind\_eff\_MW, solar\_eff\_MW \\
+Standalone storage base case & Standalone storage is excluded from base-case effective additions. & queue\_effective\_assumptions.csv: storage\_base\_case\_treatment \\
+Storage-credit sensitivity & Storage is shown separately as a 20\% capacity-credit screening sensitivity and is not included in base-case margins. & queue\_effective\_assumptions.csv: storage\_credit\_sensitivity; fig2c\_generator\_pipeline\_canonical\_source.csv: storage\_20pct\_credit\_delta\_MW \\
+Thermal effective factor & Thermal effective capacity is retained as a resource-specific source-table field; factors are computed from effective capacity and nameplate by grid region and year rather than as one universal constant. & queue\_eff\_audit\_iso\_year\_breakdown.csv: thermal\_nameplate, thermal\_eff \\
+Wind effective factor & Wind effective capacity is retained as a resource-specific source-table field; factors are computed from effective capacity and nameplate by grid region and year rather than as one universal constant. & queue\_eff\_audit\_iso\_year\_breakdown.csv: wind\_nameplate, wind\_eff \\
+Solar effective factor & Solar effective capacity is retained as a resource-specific source-table field; factors are computed from effective capacity and nameplate by grid region and year rather than as one universal constant. & queue\_eff\_audit\_iso\_year\_breakdown.csv: solar\_nameplate, solar\_eff \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{The printed conversion summary reports aggregate reductions from active queue capacity to screened effective additions. This rule summary records the status, timing, storage and resource-type screens used to produce those reductions. Project-level records and region/resource-specific factor fields are retained in the machine-readable queue-screen assumptions and source tables. The machine-readable tables retain the corresponding region-, resource- and year-specific factor fields used to construct the compact printed summary.}
+\end{table}
+\endgroup

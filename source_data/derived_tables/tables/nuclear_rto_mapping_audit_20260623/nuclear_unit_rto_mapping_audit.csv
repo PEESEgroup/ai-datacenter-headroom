@@ -1,0 +1,24 @@
+unit_name,state,pathway,eia_860m_ba_code,eia_860m_iso_rto,previous_iso,corrected_iso,audit_result,audit_note
+Diablo Canyon 2,CA,retention,CISO,CAISO,CAISO,CAISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Perry 1,OH,retention,PJM,PJM,PJM,PJM,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Clinton Power Station 1,IL,retention,MISO,MISO,MISO,MISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Dresden Generating Station 2,IL,retention,PJM,PJM,PJM,PJM,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+R E Ginna Nuclear Power Plant 1,NY,retention,NYIS,NYISO,NYISO,NYISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Nine Mile Point Nuclear Station 1,NY,retention,NYIS,NYISO,NYISO,NYISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Comanche Peak 1,TX,retention,ERCO,ERCOT,ERCOT,ERCOT,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Monticello Nuclear Facility 1,MN,retention,MISO,MISO,MISO,MISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Point Beach Nuclear Plant 1,WI,retention,MISO,MISO,MISO,MISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Dresden Generating Station 3,IL,retention,PJM,PJM,PJM,PJM,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Quad Cities Generating Station 1,IL,retention,PJM,PJM,MISO,PJM,corrected,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Quad Cities Generating Station 2,IL,retention,PJM,PJM,MISO,PJM,corrected,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Comanche Peak 2,TX,retention,ERCO,ERCOT,ERCOT,ERCOT,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Point Beach Nuclear Plant 2,WI,retention,MISO,MISO,MISO,MISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Prairie Island 1,MN,retention,MISO,MISO,MISO,MISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Arkansas Nuclear One 1,AR,retention,MISO,MISO,MISO,MISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Calvert Cliffs Nuclear Power Plant 1,MD,retention,PJM,PJM,PJM,PJM,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Donald C Cook 1,MI,retention,PJM,PJM,PJM,PJM,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Cooper Nuclear Station 1,NE,retention,SWPP,SPP,SPP,SPP,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+James A Fitzpatrick 1,NY,retention,NYIS,NYISO,NYISO,NYISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Prairie Island 2,MN,retention,MISO,MISO,MISO,MISO,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Palisades 1,MI,restart,MISO,MISO,PJM,MISO,corrected,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.
+Crane Clean Energy Center 1,PA,restart,PJM,PJM,PJM,PJM,verified,Generator-level EIA-860M balancing-authority code preferred over county/spatial assignment.

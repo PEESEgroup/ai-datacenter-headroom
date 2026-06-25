@@ -1,0 +1,751 @@
+case,case_label,year,ISO,confidence_tier,weighted_effective_MW
+confidence_weighted,confidence-weighted,2025,ERCOT,B,180.0
+confidence_weighted,confidence-weighted,2026,ERCOT,A,56.0
+confidence_weighted,confidence-weighted,2026,ERCOT,B,274.8
+confidence_weighted,confidence-weighted,2026,MISO,A,1400.0
+confidence_weighted,confidence-weighted,2026,Non-ISO,A,60.0
+confidence_weighted,confidence-weighted,2026,Non-ISO,B,7.5
+confidence_weighted,confidence-weighted,2026,PJM,B,315.0
+confidence_weighted,confidence-weighted,2026,SPP,B,25.200000000000003
+confidence_weighted,confidence-weighted,2027,CAISO,A,80.0
+confidence_weighted,confidence-weighted,2027,ERCOT,A,880.0
+confidence_weighted,confidence-weighted,2027,ERCOT,B,413.7
+confidence_weighted,confidence-weighted,2027,MISO,A,1400.0
+confidence_weighted,confidence-weighted,2027,MISO,B,343.6917675513493
+confidence_weighted,confidence-weighted,2027,Non-ISO,A,60.0
+confidence_weighted,confidence-weighted,2027,Non-ISO,B,547.3917675513493
+confidence_weighted,confidence-weighted,2027,PJM,A,297.6
+confidence_weighted,confidence-weighted,2027,PJM,B,367.5
+confidence_weighted,confidence-weighted,2027,PJM,C,2.5
+confidence_weighted,confidence-weighted,2027,SPP,A,3600.0
+confidence_weighted,confidence-weighted,2027,SPP,B,25.200000000000003
+confidence_weighted,confidence-weighted,2028,CAISO,A,150.4
+confidence_weighted,confidence-weighted,2028,CAISO,B,45.0
+confidence_weighted,confidence-weighted,2028,ERCOT,A,3870.4
+confidence_weighted,confidence-weighted,2028,ERCOT,B,1262.7
+confidence_weighted,confidence-weighted,2028,MISO,A,7443.36
+confidence_weighted,confidence-weighted,2028,MISO,B,1112.975302654048
+confidence_weighted,confidence-weighted,2028,Non-ISO,A,2048.8
+confidence_weighted,confidence-weighted,2028,Non-ISO,B,3957.6089689604732
+confidence_weighted,confidence-weighted,2028,PJM,A,2228.0
+confidence_weighted,confidence-weighted,2028,PJM,B,922.5
+confidence_weighted,confidence-weighted,2028,PJM,C,34.106961258558215
+confidence_weighted,confidence-weighted,2028,SPP,A,13120.0
+confidence_weighted,confidence-weighted,2028,SPP,B,1444.8417675513492
+confidence_weighted,confidence-weighted,2029,CAISO,A,150.4
+confidence_weighted,confidence-weighted,2029,CAISO,B,426.15000000000003
+confidence_weighted,confidence-weighted,2029,CAISO,C,31.606961258558215
+confidence_weighted,confidence-weighted,2029,ERCOT,A,3870.4
+confidence_weighted,confidence-weighted,2029,ERCOT,B,4369.05
+confidence_weighted,confidence-weighted,2029,ERCOT,C,98.21392251711643
+confidence_weighted,confidence-weighted,2029,ISO-NE,B,270.0
+confidence_weighted,confidence-weighted,2029,ISO-NE,C,5.0
+confidence_weighted,confidence-weighted,2029,MISO,A,7443.36
+confidence_weighted,confidence-weighted,2029,MISO,B,2910.650302654048
+confidence_weighted,confidence-weighted,2029,MISO,C,647.6255481224582
+confidence_weighted,confidence-weighted,2029,NYISO,B,647.4
+confidence_weighted,confidence-weighted,2029,NYISO,C,5.0
+confidence_weighted,confidence-weighted,2029,Non-ISO,A,2048.8
+confidence_weighted,confidence-weighted,2029,Non-ISO,B,8021.708968960473
+confidence_weighted,confidence-weighted,2029,Non-ISO,C,571.9116256053417
+confidence_weighted,confidence-weighted,2029,PJM,A,2228.0
+confidence_weighted,confidence-weighted,2029,PJM,B,7385.85
+confidence_weighted,confidence-weighted,2029,PJM,C,707.3183413954896
+confidence_weighted,confidence-weighted,2029,SPP,A,13120.0
+confidence_weighted,confidence-weighted,2029,SPP,B,2277.0417675513495
+confidence_weighted,confidence-weighted,2029,SPP,C,73.21392251711643
+confidence_weighted,confidence-weighted,2029,unmatched,C,2.5
+confidence_weighted,confidence-weighted,2030,CAISO,A,150.4
+confidence_weighted,confidence-weighted,2030,CAISO,B,436.95
+confidence_weighted,confidence-weighted,2030,CAISO,C,31.606961258558215
+confidence_weighted,confidence-weighted,2030,ERCOT,A,4670.4
+confidence_weighted,confidence-weighted,2030,ERCOT,B,4369.05
+confidence_weighted,confidence-weighted,2030,ERCOT,C,98.21392251711643
+confidence_weighted,confidence-weighted,2030,ISO-NE,B,270.0
+confidence_weighted,confidence-weighted,2030,ISO-NE,C,5.0
+confidence_weighted,confidence-weighted,2030,MISO,A,7443.36
+confidence_weighted,confidence-weighted,2030,MISO,B,2970.6503026540477
+confidence_weighted,confidence-weighted,2030,MISO,C,647.6255481224582
+confidence_weighted,confidence-weighted,2030,NYISO,B,647.4
+confidence_weighted,confidence-weighted,2030,NYISO,C,5.0
+confidence_weighted,confidence-weighted,2030,Non-ISO,A,2048.8
+confidence_weighted,confidence-weighted,2030,Non-ISO,B,8021.708968960473
+confidence_weighted,confidence-weighted,2030,Non-ISO,C,571.9116256053417
+confidence_weighted,confidence-weighted,2030,PJM,A,2228.0
+confidence_weighted,confidence-weighted,2030,PJM,B,7602.6
+confidence_weighted,confidence-weighted,2030,PJM,C,738.9253026540479
+confidence_weighted,confidence-weighted,2030,SPP,A,13120.0
+confidence_weighted,confidence-weighted,2030,SPP,B,2277.0417675513495
+confidence_weighted,confidence-weighted,2030,SPP,C,73.21392251711643
+confidence_weighted,confidence-weighted,2030,unmatched,C,2.5
+confidence_weighted,confidence-weighted,2031,CAISO,A,150.4
+confidence_weighted,confidence-weighted,2031,CAISO,B,436.95
+confidence_weighted,confidence-weighted,2031,CAISO,C,31.606961258558215
+confidence_weighted,confidence-weighted,2031,ERCOT,A,4670.4
+confidence_weighted,confidence-weighted,2031,ERCOT,B,4369.05
+confidence_weighted,confidence-weighted,2031,ERCOT,C,98.21392251711643
+confidence_weighted,confidence-weighted,2031,ISO-NE,B,270.0
+confidence_weighted,confidence-weighted,2031,ISO-NE,C,5.0
+confidence_weighted,confidence-weighted,2031,MISO,A,7443.36
+confidence_weighted,confidence-weighted,2031,MISO,B,2970.6503026540477
+confidence_weighted,confidence-weighted,2031,MISO,C,647.6255481224582
+confidence_weighted,confidence-weighted,2031,NYISO,B,647.4
+confidence_weighted,confidence-weighted,2031,NYISO,C,5.0
+confidence_weighted,confidence-weighted,2031,Non-ISO,A,2048.8
+confidence_weighted,confidence-weighted,2031,Non-ISO,B,8021.708968960473
+confidence_weighted,confidence-weighted,2031,Non-ISO,C,571.9116256053417
+confidence_weighted,confidence-weighted,2031,PJM,A,2228.0
+confidence_weighted,confidence-weighted,2031,PJM,B,7602.6
+confidence_weighted,confidence-weighted,2031,PJM,C,738.9253026540479
+confidence_weighted,confidence-weighted,2031,SPP,A,13120.0
+confidence_weighted,confidence-weighted,2031,SPP,B,2277.0417675513495
+confidence_weighted,confidence-weighted,2031,SPP,C,73.21392251711643
+confidence_weighted,confidence-weighted,2031,unmatched,C,2.5
+confidence_weighted,confidence-weighted,2032,CAISO,A,150.4
+confidence_weighted,confidence-weighted,2032,CAISO,B,436.95
+confidence_weighted,confidence-weighted,2032,CAISO,C,31.606961258558215
+confidence_weighted,confidence-weighted,2032,ERCOT,A,4670.4
+confidence_weighted,confidence-weighted,2032,ERCOT,B,4369.05
+confidence_weighted,confidence-weighted,2032,ERCOT,C,98.21392251711643
+confidence_weighted,confidence-weighted,2032,ISO-NE,B,270.0
+confidence_weighted,confidence-weighted,2032,ISO-NE,C,5.0
+confidence_weighted,confidence-weighted,2032,MISO,A,7443.36
+confidence_weighted,confidence-weighted,2032,MISO,B,2970.6503026540477
+confidence_weighted,confidence-weighted,2032,MISO,C,647.6255481224582
+confidence_weighted,confidence-weighted,2032,NYISO,B,647.4
+confidence_weighted,confidence-weighted,2032,NYISO,C,5.0
+confidence_weighted,confidence-weighted,2032,Non-ISO,A,2048.8
+confidence_weighted,confidence-weighted,2032,Non-ISO,B,8021.708968960473
+confidence_weighted,confidence-weighted,2032,Non-ISO,C,571.9116256053417
+confidence_weighted,confidence-weighted,2032,PJM,A,2228.0
+confidence_weighted,confidence-weighted,2032,PJM,B,7602.6
+confidence_weighted,confidence-weighted,2032,PJM,C,738.9253026540479
+confidence_weighted,confidence-weighted,2032,SPP,A,13120.0
+confidence_weighted,confidence-weighted,2032,SPP,B,2277.0417675513495
+confidence_weighted,confidence-weighted,2032,SPP,C,73.21392251711643
+confidence_weighted,confidence-weighted,2032,unmatched,C,2.5
+confidence_weighted,confidence-weighted,2033,CAISO,A,150.4
+confidence_weighted,confidence-weighted,2033,CAISO,B,436.95
+confidence_weighted,confidence-weighted,2033,CAISO,C,31.606961258558215
+confidence_weighted,confidence-weighted,2033,ERCOT,A,4670.4
+confidence_weighted,confidence-weighted,2033,ERCOT,B,4369.05
+confidence_weighted,confidence-weighted,2033,ERCOT,C,98.21392251711643
+confidence_weighted,confidence-weighted,2033,ISO-NE,B,270.0
+confidence_weighted,confidence-weighted,2033,ISO-NE,C,5.0
+confidence_weighted,confidence-weighted,2033,MISO,A,7443.36
+confidence_weighted,confidence-weighted,2033,MISO,B,2970.6503026540477
+confidence_weighted,confidence-weighted,2033,MISO,C,647.6255481224582
+confidence_weighted,confidence-weighted,2033,NYISO,B,647.4
+confidence_weighted,confidence-weighted,2033,NYISO,C,5.0
+confidence_weighted,confidence-weighted,2033,Non-ISO,A,2048.8
+confidence_weighted,confidence-weighted,2033,Non-ISO,B,8021.708968960473
+confidence_weighted,confidence-weighted,2033,Non-ISO,C,571.9116256053417
+confidence_weighted,confidence-weighted,2033,PJM,A,2228.0
+confidence_weighted,confidence-weighted,2033,PJM,B,7602.6
+confidence_weighted,confidence-weighted,2033,PJM,C,738.9253026540479
+confidence_weighted,confidence-weighted,2033,SPP,A,13120.0
+confidence_weighted,confidence-weighted,2033,SPP,B,2277.0417675513495
+confidence_weighted,confidence-weighted,2033,SPP,C,73.21392251711643
+confidence_weighted,confidence-weighted,2033,unmatched,C,2.5
+confidence_weighted,confidence-weighted,2034,CAISO,A,150.4
+confidence_weighted,confidence-weighted,2034,CAISO,B,436.95
+confidence_weighted,confidence-weighted,2034,CAISO,C,31.606961258558215
+confidence_weighted,confidence-weighted,2034,ERCOT,A,4670.4
+confidence_weighted,confidence-weighted,2034,ERCOT,B,4369.05
+confidence_weighted,confidence-weighted,2034,ERCOT,C,98.21392251711643
+confidence_weighted,confidence-weighted,2034,ISO-NE,B,270.0
+confidence_weighted,confidence-weighted,2034,ISO-NE,C,5.0
+confidence_weighted,confidence-weighted,2034,MISO,A,7443.36
+confidence_weighted,confidence-weighted,2034,MISO,B,2970.6503026540477
+confidence_weighted,confidence-weighted,2034,MISO,C,647.6255481224582
+confidence_weighted,confidence-weighted,2034,NYISO,B,647.4
+confidence_weighted,confidence-weighted,2034,NYISO,C,5.0
+confidence_weighted,confidence-weighted,2034,Non-ISO,A,2048.8
+confidence_weighted,confidence-weighted,2034,Non-ISO,B,8021.708968960473
+confidence_weighted,confidence-weighted,2034,Non-ISO,C,571.9116256053417
+confidence_weighted,confidence-weighted,2034,PJM,A,2228.0
+confidence_weighted,confidence-weighted,2034,PJM,B,7602.6
+confidence_weighted,confidence-weighted,2034,PJM,C,738.9253026540479
+confidence_weighted,confidence-weighted,2034,SPP,A,13120.0
+confidence_weighted,confidence-weighted,2034,SPP,B,2277.0417675513495
+confidence_weighted,confidence-weighted,2034,SPP,C,73.21392251711643
+confidence_weighted,confidence-weighted,2034,unmatched,C,2.5
+confidence_weighted,confidence-weighted,2035,CAISO,A,150.4
+confidence_weighted,confidence-weighted,2035,CAISO,B,436.95
+confidence_weighted,confidence-weighted,2035,CAISO,C,31.606961258558215
+confidence_weighted,confidence-weighted,2035,ERCOT,A,4670.4
+confidence_weighted,confidence-weighted,2035,ERCOT,B,4369.05
+confidence_weighted,confidence-weighted,2035,ERCOT,C,98.21392251711643
+confidence_weighted,confidence-weighted,2035,ISO-NE,B,270.0
+confidence_weighted,confidence-weighted,2035,ISO-NE,C,5.0
+confidence_weighted,confidence-weighted,2035,MISO,A,7443.36
+confidence_weighted,confidence-weighted,2035,MISO,B,2970.6503026540477
+confidence_weighted,confidence-weighted,2035,MISO,C,647.6255481224582
+confidence_weighted,confidence-weighted,2035,NYISO,B,647.4
+confidence_weighted,confidence-weighted,2035,NYISO,C,5.0
+confidence_weighted,confidence-weighted,2035,Non-ISO,A,2048.8
+confidence_weighted,confidence-weighted,2035,Non-ISO,B,8021.708968960473
+confidence_weighted,confidence-weighted,2035,Non-ISO,C,571.9116256053417
+confidence_weighted,confidence-weighted,2035,PJM,A,2228.0
+confidence_weighted,confidence-weighted,2035,PJM,B,7602.6
+confidence_weighted,confidence-weighted,2035,PJM,C,770.5322639126061
+confidence_weighted,confidence-weighted,2035,SPP,A,13120.0
+confidence_weighted,confidence-weighted,2035,SPP,B,2277.0417675513495
+confidence_weighted,confidence-weighted,2035,SPP,C,73.21392251711643
+confidence_weighted,confidence-weighted,2035,unmatched,C,2.5
+high_confidence_only,high-confidence only,2026,ERCOT,A,56.0
+high_confidence_only,high-confidence only,2026,MISO,A,1400.0
+high_confidence_only,high-confidence only,2026,Non-ISO,A,60.0
+high_confidence_only,high-confidence only,2027,CAISO,A,80.0
+high_confidence_only,high-confidence only,2027,ERCOT,A,880.0
+high_confidence_only,high-confidence only,2027,MISO,A,1400.0
+high_confidence_only,high-confidence only,2027,Non-ISO,A,60.0
+high_confidence_only,high-confidence only,2027,PJM,A,297.6
+high_confidence_only,high-confidence only,2027,SPP,A,3600.0
+high_confidence_only,high-confidence only,2028,CAISO,A,150.4
+high_confidence_only,high-confidence only,2028,ERCOT,A,3870.4
+high_confidence_only,high-confidence only,2028,MISO,A,7443.36
+high_confidence_only,high-confidence only,2028,Non-ISO,A,2048.8
+high_confidence_only,high-confidence only,2028,PJM,A,2228.0
+high_confidence_only,high-confidence only,2028,SPP,A,13120.0
+high_confidence_only,high-confidence only,2029,CAISO,A,150.4
+high_confidence_only,high-confidence only,2029,ERCOT,A,3870.4
+high_confidence_only,high-confidence only,2029,MISO,A,7443.36
+high_confidence_only,high-confidence only,2029,Non-ISO,A,2048.8
+high_confidence_only,high-confidence only,2029,PJM,A,2228.0
+high_confidence_only,high-confidence only,2029,SPP,A,13120.0
+high_confidence_only,high-confidence only,2030,CAISO,A,150.4
+high_confidence_only,high-confidence only,2030,ERCOT,A,4670.4
+high_confidence_only,high-confidence only,2030,MISO,A,7443.36
+high_confidence_only,high-confidence only,2030,Non-ISO,A,2048.8
+high_confidence_only,high-confidence only,2030,PJM,A,2228.0
+high_confidence_only,high-confidence only,2030,SPP,A,13120.0
+high_confidence_only,high-confidence only,2031,CAISO,A,150.4
+high_confidence_only,high-confidence only,2031,ERCOT,A,4670.4
+high_confidence_only,high-confidence only,2031,MISO,A,7443.36
+high_confidence_only,high-confidence only,2031,Non-ISO,A,2048.8
+high_confidence_only,high-confidence only,2031,PJM,A,2228.0
+high_confidence_only,high-confidence only,2031,SPP,A,13120.0
+high_confidence_only,high-confidence only,2032,CAISO,A,150.4
+high_confidence_only,high-confidence only,2032,ERCOT,A,4670.4
+high_confidence_only,high-confidence only,2032,MISO,A,7443.36
+high_confidence_only,high-confidence only,2032,Non-ISO,A,2048.8
+high_confidence_only,high-confidence only,2032,PJM,A,2228.0
+high_confidence_only,high-confidence only,2032,SPP,A,13120.0
+high_confidence_only,high-confidence only,2033,CAISO,A,150.4
+high_confidence_only,high-confidence only,2033,ERCOT,A,4670.4
+high_confidence_only,high-confidence only,2033,MISO,A,7443.36
+high_confidence_only,high-confidence only,2033,Non-ISO,A,2048.8
+high_confidence_only,high-confidence only,2033,PJM,A,2228.0
+high_confidence_only,high-confidence only,2033,SPP,A,13120.0
+high_confidence_only,high-confidence only,2034,CAISO,A,150.4
+high_confidence_only,high-confidence only,2034,ERCOT,A,4670.4
+high_confidence_only,high-confidence only,2034,MISO,A,7443.36
+high_confidence_only,high-confidence only,2034,Non-ISO,A,2048.8
+high_confidence_only,high-confidence only,2034,PJM,A,2228.0
+high_confidence_only,high-confidence only,2034,SPP,A,13120.0
+high_confidence_only,high-confidence only,2035,CAISO,A,150.4
+high_confidence_only,high-confidence only,2035,ERCOT,A,4670.4
+high_confidence_only,high-confidence only,2035,MISO,A,7443.36
+high_confidence_only,high-confidence only,2035,Non-ISO,A,2048.8
+high_confidence_only,high-confidence only,2035,PJM,A,2228.0
+high_confidence_only,high-confidence only,2035,SPP,A,13120.0
+inferred_delay_2yr,inferred delayed 2 yr,2025,ERCOT,B,240.0
+inferred_delay_2yr,inferred delayed 2 yr,2026,ERCOT,A,56.0
+inferred_delay_2yr,inferred delayed 2 yr,2026,ERCOT,B,366.4
+inferred_delay_2yr,inferred delayed 2 yr,2026,MISO,A,1400.0
+inferred_delay_2yr,inferred delayed 2 yr,2026,Non-ISO,A,60.0
+inferred_delay_2yr,inferred delayed 2 yr,2026,Non-ISO,B,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2026,PJM,B,420.0
+inferred_delay_2yr,inferred delayed 2 yr,2026,SPP,B,33.6
+inferred_delay_2yr,inferred delayed 2 yr,2027,CAISO,A,80.0
+inferred_delay_2yr,inferred delayed 2 yr,2027,ERCOT,A,880.0
+inferred_delay_2yr,inferred delayed 2 yr,2027,ERCOT,B,551.6
+inferred_delay_2yr,inferred delayed 2 yr,2027,MISO,A,1400.0
+inferred_delay_2yr,inferred delayed 2 yr,2027,MISO,B,458.2556900684657
+inferred_delay_2yr,inferred delayed 2 yr,2027,Non-ISO,A,60.0
+inferred_delay_2yr,inferred delayed 2 yr,2027,Non-ISO,B,729.8556900684657
+inferred_delay_2yr,inferred delayed 2 yr,2027,PJM,A,297.6
+inferred_delay_2yr,inferred delayed 2 yr,2027,PJM,B,490.0
+inferred_delay_2yr,inferred delayed 2 yr,2027,SPP,A,3600.0
+inferred_delay_2yr,inferred delayed 2 yr,2027,SPP,B,33.6
+inferred_delay_2yr,inferred delayed 2 yr,2028,CAISO,A,150.4
+inferred_delay_2yr,inferred delayed 2 yr,2028,CAISO,B,60.0
+inferred_delay_2yr,inferred delayed 2 yr,2028,ERCOT,A,3870.4
+inferred_delay_2yr,inferred delayed 2 yr,2028,ERCOT,B,1683.6
+inferred_delay_2yr,inferred delayed 2 yr,2028,MISO,A,7443.36
+inferred_delay_2yr,inferred delayed 2 yr,2028,MISO,B,1483.9670702053972
+inferred_delay_2yr,inferred delayed 2 yr,2028,Non-ISO,A,2048.8
+inferred_delay_2yr,inferred delayed 2 yr,2028,Non-ISO,B,5276.811958613964
+inferred_delay_2yr,inferred delayed 2 yr,2028,PJM,A,2228.0
+inferred_delay_2yr,inferred delayed 2 yr,2028,PJM,B,1230.0
+inferred_delay_2yr,inferred delayed 2 yr,2028,SPP,A,13120.0
+inferred_delay_2yr,inferred delayed 2 yr,2028,SPP,B,1926.4556900684656
+inferred_delay_2yr,inferred delayed 2 yr,2029,CAISO,A,150.4
+inferred_delay_2yr,inferred delayed 2 yr,2029,CAISO,B,568.1999999999999
+inferred_delay_2yr,inferred delayed 2 yr,2029,ERCOT,A,3870.4
+inferred_delay_2yr,inferred delayed 2 yr,2029,ERCOT,B,5825.4
+inferred_delay_2yr,inferred delayed 2 yr,2029,ISO-NE,B,360.0
+inferred_delay_2yr,inferred delayed 2 yr,2029,MISO,A,7443.36
+inferred_delay_2yr,inferred delayed 2 yr,2029,MISO,B,3880.8670702053973
+inferred_delay_2yr,inferred delayed 2 yr,2029,NYISO,B,863.2
+inferred_delay_2yr,inferred delayed 2 yr,2029,Non-ISO,A,2048.8
+inferred_delay_2yr,inferred delayed 2 yr,2029,Non-ISO,B,10695.611958613963
+inferred_delay_2yr,inferred delayed 2 yr,2029,PJM,A,2228.0
+inferred_delay_2yr,inferred delayed 2 yr,2029,PJM,B,9847.8
+inferred_delay_2yr,inferred delayed 2 yr,2029,PJM,C,5.0
+inferred_delay_2yr,inferred delayed 2 yr,2029,SPP,A,13120.0
+inferred_delay_2yr,inferred delayed 2 yr,2029,SPP,B,3036.0556900684655
+inferred_delay_2yr,inferred delayed 2 yr,2030,CAISO,A,150.4
+inferred_delay_2yr,inferred delayed 2 yr,2030,CAISO,B,582.6
+inferred_delay_2yr,inferred delayed 2 yr,2030,ERCOT,A,4670.4
+inferred_delay_2yr,inferred delayed 2 yr,2030,ERCOT,B,5825.4
+inferred_delay_2yr,inferred delayed 2 yr,2030,ISO-NE,B,360.0
+inferred_delay_2yr,inferred delayed 2 yr,2030,MISO,A,7443.36
+inferred_delay_2yr,inferred delayed 2 yr,2030,MISO,B,3960.8670702053973
+inferred_delay_2yr,inferred delayed 2 yr,2030,NYISO,B,863.2
+inferred_delay_2yr,inferred delayed 2 yr,2030,Non-ISO,A,2048.8
+inferred_delay_2yr,inferred delayed 2 yr,2030,Non-ISO,B,10695.611958613963
+inferred_delay_2yr,inferred delayed 2 yr,2030,PJM,A,2228.0
+inferred_delay_2yr,inferred delayed 2 yr,2030,PJM,B,10136.8
+inferred_delay_2yr,inferred delayed 2 yr,2030,PJM,C,68.21392251711643
+inferred_delay_2yr,inferred delayed 2 yr,2030,SPP,A,13120.0
+inferred_delay_2yr,inferred delayed 2 yr,2030,SPP,B,3036.0556900684655
+inferred_delay_2yr,inferred delayed 2 yr,2031,CAISO,A,150.4
+inferred_delay_2yr,inferred delayed 2 yr,2031,CAISO,B,582.6
+inferred_delay_2yr,inferred delayed 2 yr,2031,CAISO,C,63.21392251711643
+inferred_delay_2yr,inferred delayed 2 yr,2031,ERCOT,A,4670.4
+inferred_delay_2yr,inferred delayed 2 yr,2031,ERCOT,B,5825.4
+inferred_delay_2yr,inferred delayed 2 yr,2031,ERCOT,C,196.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2031,ISO-NE,B,360.0
+inferred_delay_2yr,inferred delayed 2 yr,2031,ISO-NE,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2031,MISO,A,7443.36
+inferred_delay_2yr,inferred delayed 2 yr,2031,MISO,B,3960.8670702053973
+inferred_delay_2yr,inferred delayed 2 yr,2031,MISO,C,1295.2510962449164
+inferred_delay_2yr,inferred delayed 2 yr,2031,NYISO,B,863.2
+inferred_delay_2yr,inferred delayed 2 yr,2031,NYISO,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2031,Non-ISO,A,2048.8
+inferred_delay_2yr,inferred delayed 2 yr,2031,Non-ISO,B,10695.611958613963
+inferred_delay_2yr,inferred delayed 2 yr,2031,Non-ISO,C,1143.8232512106833
+inferred_delay_2yr,inferred delayed 2 yr,2031,PJM,A,2228.0
+inferred_delay_2yr,inferred delayed 2 yr,2031,PJM,B,10136.8
+inferred_delay_2yr,inferred delayed 2 yr,2031,PJM,C,1414.6366827909792
+inferred_delay_2yr,inferred delayed 2 yr,2031,SPP,A,13120.0
+inferred_delay_2yr,inferred delayed 2 yr,2031,SPP,B,3036.0556900684655
+inferred_delay_2yr,inferred delayed 2 yr,2031,SPP,C,146.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2031,unmatched,C,5.0
+inferred_delay_2yr,inferred delayed 2 yr,2032,CAISO,A,150.4
+inferred_delay_2yr,inferred delayed 2 yr,2032,CAISO,B,582.6
+inferred_delay_2yr,inferred delayed 2 yr,2032,CAISO,C,63.21392251711643
+inferred_delay_2yr,inferred delayed 2 yr,2032,ERCOT,A,4670.4
+inferred_delay_2yr,inferred delayed 2 yr,2032,ERCOT,B,5825.4
+inferred_delay_2yr,inferred delayed 2 yr,2032,ERCOT,C,196.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2032,ISO-NE,B,360.0
+inferred_delay_2yr,inferred delayed 2 yr,2032,ISO-NE,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2032,MISO,A,7443.36
+inferred_delay_2yr,inferred delayed 2 yr,2032,MISO,B,3960.8670702053973
+inferred_delay_2yr,inferred delayed 2 yr,2032,MISO,C,1295.2510962449164
+inferred_delay_2yr,inferred delayed 2 yr,2032,NYISO,B,863.2
+inferred_delay_2yr,inferred delayed 2 yr,2032,NYISO,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2032,Non-ISO,A,2048.8
+inferred_delay_2yr,inferred delayed 2 yr,2032,Non-ISO,B,10695.611958613963
+inferred_delay_2yr,inferred delayed 2 yr,2032,Non-ISO,C,1143.8232512106833
+inferred_delay_2yr,inferred delayed 2 yr,2032,PJM,A,2228.0
+inferred_delay_2yr,inferred delayed 2 yr,2032,PJM,B,10136.8
+inferred_delay_2yr,inferred delayed 2 yr,2032,PJM,C,1477.8506053080957
+inferred_delay_2yr,inferred delayed 2 yr,2032,SPP,A,13120.0
+inferred_delay_2yr,inferred delayed 2 yr,2032,SPP,B,3036.0556900684655
+inferred_delay_2yr,inferred delayed 2 yr,2032,SPP,C,146.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2032,unmatched,C,5.0
+inferred_delay_2yr,inferred delayed 2 yr,2033,CAISO,A,150.4
+inferred_delay_2yr,inferred delayed 2 yr,2033,CAISO,B,582.6
+inferred_delay_2yr,inferred delayed 2 yr,2033,CAISO,C,63.21392251711643
+inferred_delay_2yr,inferred delayed 2 yr,2033,ERCOT,A,4670.4
+inferred_delay_2yr,inferred delayed 2 yr,2033,ERCOT,B,5825.4
+inferred_delay_2yr,inferred delayed 2 yr,2033,ERCOT,C,196.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2033,ISO-NE,B,360.0
+inferred_delay_2yr,inferred delayed 2 yr,2033,ISO-NE,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2033,MISO,A,7443.36
+inferred_delay_2yr,inferred delayed 2 yr,2033,MISO,B,3960.8670702053973
+inferred_delay_2yr,inferred delayed 2 yr,2033,MISO,C,1295.2510962449164
+inferred_delay_2yr,inferred delayed 2 yr,2033,NYISO,B,863.2
+inferred_delay_2yr,inferred delayed 2 yr,2033,NYISO,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2033,Non-ISO,A,2048.8
+inferred_delay_2yr,inferred delayed 2 yr,2033,Non-ISO,B,10695.611958613963
+inferred_delay_2yr,inferred delayed 2 yr,2033,Non-ISO,C,1143.8232512106833
+inferred_delay_2yr,inferred delayed 2 yr,2033,PJM,A,2228.0
+inferred_delay_2yr,inferred delayed 2 yr,2033,PJM,B,10136.8
+inferred_delay_2yr,inferred delayed 2 yr,2033,PJM,C,1477.8506053080957
+inferred_delay_2yr,inferred delayed 2 yr,2033,SPP,A,13120.0
+inferred_delay_2yr,inferred delayed 2 yr,2033,SPP,B,3036.0556900684655
+inferred_delay_2yr,inferred delayed 2 yr,2033,SPP,C,146.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2033,unmatched,C,5.0
+inferred_delay_2yr,inferred delayed 2 yr,2034,CAISO,A,150.4
+inferred_delay_2yr,inferred delayed 2 yr,2034,CAISO,B,582.6
+inferred_delay_2yr,inferred delayed 2 yr,2034,CAISO,C,63.21392251711643
+inferred_delay_2yr,inferred delayed 2 yr,2034,ERCOT,A,4670.4
+inferred_delay_2yr,inferred delayed 2 yr,2034,ERCOT,B,5825.4
+inferred_delay_2yr,inferred delayed 2 yr,2034,ERCOT,C,196.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2034,ISO-NE,B,360.0
+inferred_delay_2yr,inferred delayed 2 yr,2034,ISO-NE,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2034,MISO,A,7443.36
+inferred_delay_2yr,inferred delayed 2 yr,2034,MISO,B,3960.8670702053973
+inferred_delay_2yr,inferred delayed 2 yr,2034,MISO,C,1295.2510962449164
+inferred_delay_2yr,inferred delayed 2 yr,2034,NYISO,B,863.2
+inferred_delay_2yr,inferred delayed 2 yr,2034,NYISO,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2034,Non-ISO,A,2048.8
+inferred_delay_2yr,inferred delayed 2 yr,2034,Non-ISO,B,10695.611958613963
+inferred_delay_2yr,inferred delayed 2 yr,2034,Non-ISO,C,1143.8232512106833
+inferred_delay_2yr,inferred delayed 2 yr,2034,PJM,A,2228.0
+inferred_delay_2yr,inferred delayed 2 yr,2034,PJM,B,10136.8
+inferred_delay_2yr,inferred delayed 2 yr,2034,PJM,C,1477.8506053080957
+inferred_delay_2yr,inferred delayed 2 yr,2034,SPP,A,13120.0
+inferred_delay_2yr,inferred delayed 2 yr,2034,SPP,B,3036.0556900684655
+inferred_delay_2yr,inferred delayed 2 yr,2034,SPP,C,146.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2034,unmatched,C,5.0
+inferred_delay_2yr,inferred delayed 2 yr,2035,CAISO,A,150.4
+inferred_delay_2yr,inferred delayed 2 yr,2035,CAISO,B,582.6
+inferred_delay_2yr,inferred delayed 2 yr,2035,CAISO,C,63.21392251711643
+inferred_delay_2yr,inferred delayed 2 yr,2035,ERCOT,A,4670.4
+inferred_delay_2yr,inferred delayed 2 yr,2035,ERCOT,B,5825.4
+inferred_delay_2yr,inferred delayed 2 yr,2035,ERCOT,C,196.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2035,ISO-NE,B,360.0
+inferred_delay_2yr,inferred delayed 2 yr,2035,ISO-NE,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2035,MISO,A,7443.36
+inferred_delay_2yr,inferred delayed 2 yr,2035,MISO,B,3960.8670702053973
+inferred_delay_2yr,inferred delayed 2 yr,2035,MISO,C,1295.2510962449164
+inferred_delay_2yr,inferred delayed 2 yr,2035,NYISO,B,863.2
+inferred_delay_2yr,inferred delayed 2 yr,2035,NYISO,C,10.0
+inferred_delay_2yr,inferred delayed 2 yr,2035,Non-ISO,A,2048.8
+inferred_delay_2yr,inferred delayed 2 yr,2035,Non-ISO,B,10695.611958613963
+inferred_delay_2yr,inferred delayed 2 yr,2035,Non-ISO,C,1143.8232512106833
+inferred_delay_2yr,inferred delayed 2 yr,2035,PJM,A,2228.0
+inferred_delay_2yr,inferred delayed 2 yr,2035,PJM,B,10136.8
+inferred_delay_2yr,inferred delayed 2 yr,2035,PJM,C,1477.8506053080957
+inferred_delay_2yr,inferred delayed 2 yr,2035,SPP,A,13120.0
+inferred_delay_2yr,inferred delayed 2 yr,2035,SPP,B,3036.0556900684655
+inferred_delay_2yr,inferred delayed 2 yr,2035,SPP,C,146.42784503423286
+inferred_delay_2yr,inferred delayed 2 yr,2035,unmatched,C,5.0
+main_inventory,main inventory,2025,ERCOT,B,240.0
+main_inventory,main inventory,2026,ERCOT,A,56.0
+main_inventory,main inventory,2026,ERCOT,B,366.4
+main_inventory,main inventory,2026,MISO,A,1400.0
+main_inventory,main inventory,2026,Non-ISO,A,60.0
+main_inventory,main inventory,2026,Non-ISO,B,10.0
+main_inventory,main inventory,2026,PJM,B,420.0
+main_inventory,main inventory,2026,SPP,B,33.6
+main_inventory,main inventory,2027,CAISO,A,80.0
+main_inventory,main inventory,2027,ERCOT,A,880.0
+main_inventory,main inventory,2027,ERCOT,B,551.6
+main_inventory,main inventory,2027,MISO,A,1400.0
+main_inventory,main inventory,2027,MISO,B,458.2556900684657
+main_inventory,main inventory,2027,Non-ISO,A,60.0
+main_inventory,main inventory,2027,Non-ISO,B,729.8556900684657
+main_inventory,main inventory,2027,PJM,A,297.6
+main_inventory,main inventory,2027,PJM,B,490.0
+main_inventory,main inventory,2027,PJM,C,5.0
+main_inventory,main inventory,2027,SPP,A,3600.0
+main_inventory,main inventory,2027,SPP,B,33.6
+main_inventory,main inventory,2028,CAISO,A,150.4
+main_inventory,main inventory,2028,CAISO,B,60.0
+main_inventory,main inventory,2028,ERCOT,A,3870.4
+main_inventory,main inventory,2028,ERCOT,B,1683.6
+main_inventory,main inventory,2028,MISO,A,7443.36
+main_inventory,main inventory,2028,MISO,B,1483.9670702053972
+main_inventory,main inventory,2028,Non-ISO,A,2048.8
+main_inventory,main inventory,2028,Non-ISO,B,5276.811958613964
+main_inventory,main inventory,2028,PJM,A,2228.0
+main_inventory,main inventory,2028,PJM,B,1230.0
+main_inventory,main inventory,2028,PJM,C,68.21392251711643
+main_inventory,main inventory,2028,SPP,A,13120.0
+main_inventory,main inventory,2028,SPP,B,1926.4556900684656
+main_inventory,main inventory,2029,CAISO,A,150.4
+main_inventory,main inventory,2029,CAISO,B,568.1999999999999
+main_inventory,main inventory,2029,CAISO,C,63.21392251711643
+main_inventory,main inventory,2029,ERCOT,A,3870.4
+main_inventory,main inventory,2029,ERCOT,B,5825.4
+main_inventory,main inventory,2029,ERCOT,C,196.42784503423286
+main_inventory,main inventory,2029,ISO-NE,B,360.0
+main_inventory,main inventory,2029,ISO-NE,C,10.0
+main_inventory,main inventory,2029,MISO,A,7443.36
+main_inventory,main inventory,2029,MISO,B,3880.8670702053973
+main_inventory,main inventory,2029,MISO,C,1295.2510962449164
+main_inventory,main inventory,2029,NYISO,B,863.2
+main_inventory,main inventory,2029,NYISO,C,10.0
+main_inventory,main inventory,2029,Non-ISO,A,2048.8
+main_inventory,main inventory,2029,Non-ISO,B,10695.611958613963
+main_inventory,main inventory,2029,Non-ISO,C,1143.8232512106833
+main_inventory,main inventory,2029,PJM,A,2228.0
+main_inventory,main inventory,2029,PJM,B,9847.8
+main_inventory,main inventory,2029,PJM,C,1414.6366827909792
+main_inventory,main inventory,2029,SPP,A,13120.0
+main_inventory,main inventory,2029,SPP,B,3036.0556900684655
+main_inventory,main inventory,2029,SPP,C,146.42784503423286
+main_inventory,main inventory,2029,unmatched,C,5.0
+main_inventory,main inventory,2030,CAISO,A,150.4
+main_inventory,main inventory,2030,CAISO,B,582.6
+main_inventory,main inventory,2030,CAISO,C,63.21392251711643
+main_inventory,main inventory,2030,ERCOT,A,4670.4
+main_inventory,main inventory,2030,ERCOT,B,5825.4
+main_inventory,main inventory,2030,ERCOT,C,196.42784503423286
+main_inventory,main inventory,2030,ISO-NE,B,360.0
+main_inventory,main inventory,2030,ISO-NE,C,10.0
+main_inventory,main inventory,2030,MISO,A,7443.36
+main_inventory,main inventory,2030,MISO,B,3960.8670702053973
+main_inventory,main inventory,2030,MISO,C,1295.2510962449164
+main_inventory,main inventory,2030,NYISO,B,863.2
+main_inventory,main inventory,2030,NYISO,C,10.0
+main_inventory,main inventory,2030,Non-ISO,A,2048.8
+main_inventory,main inventory,2030,Non-ISO,B,10695.611958613963
+main_inventory,main inventory,2030,Non-ISO,C,1143.8232512106833
+main_inventory,main inventory,2030,PJM,A,2228.0
+main_inventory,main inventory,2030,PJM,B,10136.8
+main_inventory,main inventory,2030,PJM,C,1477.8506053080957
+main_inventory,main inventory,2030,SPP,A,13120.0
+main_inventory,main inventory,2030,SPP,B,3036.0556900684655
+main_inventory,main inventory,2030,SPP,C,146.42784503423286
+main_inventory,main inventory,2030,unmatched,C,5.0
+main_inventory,main inventory,2031,CAISO,A,150.4
+main_inventory,main inventory,2031,CAISO,B,582.6
+main_inventory,main inventory,2031,CAISO,C,63.21392251711643
+main_inventory,main inventory,2031,ERCOT,A,4670.4
+main_inventory,main inventory,2031,ERCOT,B,5825.4
+main_inventory,main inventory,2031,ERCOT,C,196.42784503423286
+main_inventory,main inventory,2031,ISO-NE,B,360.0
+main_inventory,main inventory,2031,ISO-NE,C,10.0
+main_inventory,main inventory,2031,MISO,A,7443.36
+main_inventory,main inventory,2031,MISO,B,3960.8670702053973
+main_inventory,main inventory,2031,MISO,C,1295.2510962449164
+main_inventory,main inventory,2031,NYISO,B,863.2
+main_inventory,main inventory,2031,NYISO,C,10.0
+main_inventory,main inventory,2031,Non-ISO,A,2048.8
+main_inventory,main inventory,2031,Non-ISO,B,10695.611958613963
+main_inventory,main inventory,2031,Non-ISO,C,1143.8232512106833
+main_inventory,main inventory,2031,PJM,A,2228.0
+main_inventory,main inventory,2031,PJM,B,10136.8
+main_inventory,main inventory,2031,PJM,C,1477.8506053080957
+main_inventory,main inventory,2031,SPP,A,13120.0
+main_inventory,main inventory,2031,SPP,B,3036.0556900684655
+main_inventory,main inventory,2031,SPP,C,146.42784503423286
+main_inventory,main inventory,2031,unmatched,C,5.0
+main_inventory,main inventory,2032,CAISO,A,150.4
+main_inventory,main inventory,2032,CAISO,B,582.6
+main_inventory,main inventory,2032,CAISO,C,63.21392251711643
+main_inventory,main inventory,2032,ERCOT,A,4670.4
+main_inventory,main inventory,2032,ERCOT,B,5825.4
+main_inventory,main inventory,2032,ERCOT,C,196.42784503423286
+main_inventory,main inventory,2032,ISO-NE,B,360.0
+main_inventory,main inventory,2032,ISO-NE,C,10.0
+main_inventory,main inventory,2032,MISO,A,7443.36
+main_inventory,main inventory,2032,MISO,B,3960.8670702053973
+main_inventory,main inventory,2032,MISO,C,1295.2510962449164
+main_inventory,main inventory,2032,NYISO,B,863.2
+main_inventory,main inventory,2032,NYISO,C,10.0
+main_inventory,main inventory,2032,Non-ISO,A,2048.8
+main_inventory,main inventory,2032,Non-ISO,B,10695.611958613963
+main_inventory,main inventory,2032,Non-ISO,C,1143.8232512106833
+main_inventory,main inventory,2032,PJM,A,2228.0
+main_inventory,main inventory,2032,PJM,B,10136.8
+main_inventory,main inventory,2032,PJM,C,1477.8506053080957
+main_inventory,main inventory,2032,SPP,A,13120.0
+main_inventory,main inventory,2032,SPP,B,3036.0556900684655
+main_inventory,main inventory,2032,SPP,C,146.42784503423286
+main_inventory,main inventory,2032,unmatched,C,5.0
+main_inventory,main inventory,2033,CAISO,A,150.4
+main_inventory,main inventory,2033,CAISO,B,582.6
+main_inventory,main inventory,2033,CAISO,C,63.21392251711643
+main_inventory,main inventory,2033,ERCOT,A,4670.4
+main_inventory,main inventory,2033,ERCOT,B,5825.4
+main_inventory,main inventory,2033,ERCOT,C,196.42784503423286
+main_inventory,main inventory,2033,ISO-NE,B,360.0
+main_inventory,main inventory,2033,ISO-NE,C,10.0
+main_inventory,main inventory,2033,MISO,A,7443.36
+main_inventory,main inventory,2033,MISO,B,3960.8670702053973
+main_inventory,main inventory,2033,MISO,C,1295.2510962449164
+main_inventory,main inventory,2033,NYISO,B,863.2
+main_inventory,main inventory,2033,NYISO,C,10.0
+main_inventory,main inventory,2033,Non-ISO,A,2048.8
+main_inventory,main inventory,2033,Non-ISO,B,10695.611958613963
+main_inventory,main inventory,2033,Non-ISO,C,1143.8232512106833
+main_inventory,main inventory,2033,PJM,A,2228.0
+main_inventory,main inventory,2033,PJM,B,10136.8
+main_inventory,main inventory,2033,PJM,C,1477.8506053080957
+main_inventory,main inventory,2033,SPP,A,13120.0
+main_inventory,main inventory,2033,SPP,B,3036.0556900684655
+main_inventory,main inventory,2033,SPP,C,146.42784503423286
+main_inventory,main inventory,2033,unmatched,C,5.0
+main_inventory,main inventory,2034,CAISO,A,150.4
+main_inventory,main inventory,2034,CAISO,B,582.6
+main_inventory,main inventory,2034,CAISO,C,63.21392251711643
+main_inventory,main inventory,2034,ERCOT,A,4670.4
+main_inventory,main inventory,2034,ERCOT,B,5825.4
+main_inventory,main inventory,2034,ERCOT,C,196.42784503423286
+main_inventory,main inventory,2034,ISO-NE,B,360.0
+main_inventory,main inventory,2034,ISO-NE,C,10.0
+main_inventory,main inventory,2034,MISO,A,7443.36
+main_inventory,main inventory,2034,MISO,B,3960.8670702053973
+main_inventory,main inventory,2034,MISO,C,1295.2510962449164
+main_inventory,main inventory,2034,NYISO,B,863.2
+main_inventory,main inventory,2034,NYISO,C,10.0
+main_inventory,main inventory,2034,Non-ISO,A,2048.8
+main_inventory,main inventory,2034,Non-ISO,B,10695.611958613963
+main_inventory,main inventory,2034,Non-ISO,C,1143.8232512106833
+main_inventory,main inventory,2034,PJM,A,2228.0
+main_inventory,main inventory,2034,PJM,B,10136.8
+main_inventory,main inventory,2034,PJM,C,1477.8506053080957
+main_inventory,main inventory,2034,SPP,A,13120.0
+main_inventory,main inventory,2034,SPP,B,3036.0556900684655
+main_inventory,main inventory,2034,SPP,C,146.42784503423286
+main_inventory,main inventory,2034,unmatched,C,5.0
+main_inventory,main inventory,2035,CAISO,A,150.4
+main_inventory,main inventory,2035,CAISO,B,582.6
+main_inventory,main inventory,2035,CAISO,C,63.21392251711643
+main_inventory,main inventory,2035,ERCOT,A,4670.4
+main_inventory,main inventory,2035,ERCOT,B,5825.4
+main_inventory,main inventory,2035,ERCOT,C,196.42784503423286
+main_inventory,main inventory,2035,ISO-NE,B,360.0
+main_inventory,main inventory,2035,ISO-NE,C,10.0
+main_inventory,main inventory,2035,MISO,A,7443.36
+main_inventory,main inventory,2035,MISO,B,3960.8670702053973
+main_inventory,main inventory,2035,MISO,C,1295.2510962449164
+main_inventory,main inventory,2035,NYISO,B,863.2
+main_inventory,main inventory,2035,NYISO,C,10.0
+main_inventory,main inventory,2035,Non-ISO,A,2048.8
+main_inventory,main inventory,2035,Non-ISO,B,10695.611958613963
+main_inventory,main inventory,2035,Non-ISO,C,1143.8232512106833
+main_inventory,main inventory,2035,PJM,A,2228.0
+main_inventory,main inventory,2035,PJM,B,10136.8
+main_inventory,main inventory,2035,PJM,C,1541.0645278252123
+main_inventory,main inventory,2035,SPP,A,13120.0
+main_inventory,main inventory,2035,SPP,B,3036.0556900684655
+main_inventory,main inventory,2035,SPP,C,146.42784503423286
+main_inventory,main inventory,2035,unmatched,C,5.0
+reported_or_committed_only,reported/committed,2025,ERCOT,B,240.0
+reported_or_committed_only,reported/committed,2026,ERCOT,A,56.0
+reported_or_committed_only,reported/committed,2026,ERCOT,B,366.4
+reported_or_committed_only,reported/committed,2026,MISO,A,1400.0
+reported_or_committed_only,reported/committed,2026,Non-ISO,A,60.0
+reported_or_committed_only,reported/committed,2026,Non-ISO,B,10.0
+reported_or_committed_only,reported/committed,2026,PJM,B,420.0
+reported_or_committed_only,reported/committed,2026,SPP,B,33.6
+reported_or_committed_only,reported/committed,2027,CAISO,A,80.0
+reported_or_committed_only,reported/committed,2027,ERCOT,A,880.0
+reported_or_committed_only,reported/committed,2027,ERCOT,B,551.6
+reported_or_committed_only,reported/committed,2027,MISO,A,1400.0
+reported_or_committed_only,reported/committed,2027,MISO,B,458.2556900684657
+reported_or_committed_only,reported/committed,2027,Non-ISO,A,60.0
+reported_or_committed_only,reported/committed,2027,Non-ISO,B,729.8556900684657
+reported_or_committed_only,reported/committed,2027,PJM,A,297.6
+reported_or_committed_only,reported/committed,2027,PJM,B,490.0
+reported_or_committed_only,reported/committed,2027,SPP,A,3600.0
+reported_or_committed_only,reported/committed,2027,SPP,B,33.6
+reported_or_committed_only,reported/committed,2028,CAISO,A,150.4
+reported_or_committed_only,reported/committed,2028,CAISO,B,60.0
+reported_or_committed_only,reported/committed,2028,ERCOT,A,3870.4
+reported_or_committed_only,reported/committed,2028,ERCOT,B,1683.6
+reported_or_committed_only,reported/committed,2028,MISO,A,7443.36
+reported_or_committed_only,reported/committed,2028,MISO,B,1483.9670702053972
+reported_or_committed_only,reported/committed,2028,Non-ISO,A,2048.8
+reported_or_committed_only,reported/committed,2028,Non-ISO,B,5276.811958613964
+reported_or_committed_only,reported/committed,2028,PJM,A,2228.0
+reported_or_committed_only,reported/committed,2028,PJM,B,1230.0
+reported_or_committed_only,reported/committed,2028,SPP,A,13120.0
+reported_or_committed_only,reported/committed,2028,SPP,B,1926.4556900684656
+reported_or_committed_only,reported/committed,2029,CAISO,A,150.4
+reported_or_committed_only,reported/committed,2029,CAISO,B,568.1999999999999
+reported_or_committed_only,reported/committed,2029,ERCOT,A,3870.4
+reported_or_committed_only,reported/committed,2029,ERCOT,B,5825.4
+reported_or_committed_only,reported/committed,2029,ISO-NE,B,360.0
+reported_or_committed_only,reported/committed,2029,MISO,A,7443.36
+reported_or_committed_only,reported/committed,2029,MISO,B,3880.8670702053973
+reported_or_committed_only,reported/committed,2029,NYISO,B,863.2
+reported_or_committed_only,reported/committed,2029,Non-ISO,A,2048.8
+reported_or_committed_only,reported/committed,2029,Non-ISO,B,10695.611958613963
+reported_or_committed_only,reported/committed,2029,PJM,A,2228.0
+reported_or_committed_only,reported/committed,2029,PJM,B,9847.8
+reported_or_committed_only,reported/committed,2029,SPP,A,13120.0
+reported_or_committed_only,reported/committed,2029,SPP,B,3036.0556900684655
+reported_or_committed_only,reported/committed,2030,CAISO,A,150.4
+reported_or_committed_only,reported/committed,2030,CAISO,B,582.6
+reported_or_committed_only,reported/committed,2030,ERCOT,A,4670.4
+reported_or_committed_only,reported/committed,2030,ERCOT,B,5825.4
+reported_or_committed_only,reported/committed,2030,ISO-NE,B,360.0
+reported_or_committed_only,reported/committed,2030,MISO,A,7443.36
+reported_or_committed_only,reported/committed,2030,MISO,B,3960.8670702053973
+reported_or_committed_only,reported/committed,2030,NYISO,B,863.2
+reported_or_committed_only,reported/committed,2030,Non-ISO,A,2048.8
+reported_or_committed_only,reported/committed,2030,Non-ISO,B,10695.611958613963
+reported_or_committed_only,reported/committed,2030,PJM,A,2228.0
+reported_or_committed_only,reported/committed,2030,PJM,B,10136.8
+reported_or_committed_only,reported/committed,2030,SPP,A,13120.0
+reported_or_committed_only,reported/committed,2030,SPP,B,3036.0556900684655
+reported_or_committed_only,reported/committed,2031,CAISO,A,150.4
+reported_or_committed_only,reported/committed,2031,CAISO,B,582.6
+reported_or_committed_only,reported/committed,2031,ERCOT,A,4670.4
+reported_or_committed_only,reported/committed,2031,ERCOT,B,5825.4
+reported_or_committed_only,reported/committed,2031,ISO-NE,B,360.0
+reported_or_committed_only,reported/committed,2031,MISO,A,7443.36
+reported_or_committed_only,reported/committed,2031,MISO,B,3960.8670702053973
+reported_or_committed_only,reported/committed,2031,NYISO,B,863.2
+reported_or_committed_only,reported/committed,2031,Non-ISO,A,2048.8
+reported_or_committed_only,reported/committed,2031,Non-ISO,B,10695.611958613963
+reported_or_committed_only,reported/committed,2031,PJM,A,2228.0
+reported_or_committed_only,reported/committed,2031,PJM,B,10136.8
+reported_or_committed_only,reported/committed,2031,SPP,A,13120.0
+reported_or_committed_only,reported/committed,2031,SPP,B,3036.0556900684655
+reported_or_committed_only,reported/committed,2032,CAISO,A,150.4
+reported_or_committed_only,reported/committed,2032,CAISO,B,582.6
+reported_or_committed_only,reported/committed,2032,ERCOT,A,4670.4
+reported_or_committed_only,reported/committed,2032,ERCOT,B,5825.4
+reported_or_committed_only,reported/committed,2032,ISO-NE,B,360.0
+reported_or_committed_only,reported/committed,2032,MISO,A,7443.36
+reported_or_committed_only,reported/committed,2032,MISO,B,3960.8670702053973
+reported_or_committed_only,reported/committed,2032,NYISO,B,863.2
+reported_or_committed_only,reported/committed,2032,Non-ISO,A,2048.8
+reported_or_committed_only,reported/committed,2032,Non-ISO,B,10695.611958613963
+reported_or_committed_only,reported/committed,2032,PJM,A,2228.0
+reported_or_committed_only,reported/committed,2032,PJM,B,10136.8
+reported_or_committed_only,reported/committed,2032,SPP,A,13120.0
+reported_or_committed_only,reported/committed,2032,SPP,B,3036.0556900684655
+reported_or_committed_only,reported/committed,2033,CAISO,A,150.4
+reported_or_committed_only,reported/committed,2033,CAISO,B,582.6
+reported_or_committed_only,reported/committed,2033,ERCOT,A,4670.4
+reported_or_committed_only,reported/committed,2033,ERCOT,B,5825.4
+reported_or_committed_only,reported/committed,2033,ISO-NE,B,360.0
+reported_or_committed_only,reported/committed,2033,MISO,A,7443.36
+reported_or_committed_only,reported/committed,2033,MISO,B,3960.8670702053973
+reported_or_committed_only,reported/committed,2033,NYISO,B,863.2
+reported_or_committed_only,reported/committed,2033,Non-ISO,A,2048.8
+reported_or_committed_only,reported/committed,2033,Non-ISO,B,10695.611958613963
+reported_or_committed_only,reported/committed,2033,PJM,A,2228.0
+reported_or_committed_only,reported/committed,2033,PJM,B,10136.8
+reported_or_committed_only,reported/committed,2033,SPP,A,13120.0
+reported_or_committed_only,reported/committed,2033,SPP,B,3036.0556900684655
+reported_or_committed_only,reported/committed,2034,CAISO,A,150.4
+reported_or_committed_only,reported/committed,2034,CAISO,B,582.6
+reported_or_committed_only,reported/committed,2034,ERCOT,A,4670.4
+reported_or_committed_only,reported/committed,2034,ERCOT,B,5825.4
+reported_or_committed_only,reported/committed,2034,ISO-NE,B,360.0
+reported_or_committed_only,reported/committed,2034,MISO,A,7443.36
+reported_or_committed_only,reported/committed,2034,MISO,B,3960.8670702053973
+reported_or_committed_only,reported/committed,2034,NYISO,B,863.2
+reported_or_committed_only,reported/committed,2034,Non-ISO,A,2048.8
+reported_or_committed_only,reported/committed,2034,Non-ISO,B,10695.611958613963
+reported_or_committed_only,reported/committed,2034,PJM,A,2228.0
+reported_or_committed_only,reported/committed,2034,PJM,B,10136.8
+reported_or_committed_only,reported/committed,2034,SPP,A,13120.0
+reported_or_committed_only,reported/committed,2034,SPP,B,3036.0556900684655
+reported_or_committed_only,reported/committed,2035,CAISO,A,150.4
+reported_or_committed_only,reported/committed,2035,CAISO,B,582.6
+reported_or_committed_only,reported/committed,2035,ERCOT,A,4670.4
+reported_or_committed_only,reported/committed,2035,ERCOT,B,5825.4
+reported_or_committed_only,reported/committed,2035,ISO-NE,B,360.0
+reported_or_committed_only,reported/committed,2035,MISO,A,7443.36
+reported_or_committed_only,reported/committed,2035,MISO,B,3960.8670702053973
+reported_or_committed_only,reported/committed,2035,NYISO,B,863.2
+reported_or_committed_only,reported/committed,2035,Non-ISO,A,2048.8
+reported_or_committed_only,reported/committed,2035,Non-ISO,B,10695.611958613963
+reported_or_committed_only,reported/committed,2035,PJM,A,2228.0
+reported_or_committed_only,reported/committed,2035,PJM,B,10136.8
+reported_or_committed_only,reported/committed,2035,SPP,A,13120.0
+reported_or_committed_only,reported/committed,2035,SPP,B,3036.0556900684655

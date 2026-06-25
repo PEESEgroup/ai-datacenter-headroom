@@ -1,0 +1,21 @@
+case,top_n,share,total_gw,note
+Canonical Fig. 1 allocation,10,0.36589011854200126,84.25262063961888,Full calibrated county matrix used in Fig. 1.
+Canonical Fig. 1 allocation,20,0.516801645888534,84.25262063961888,Full calibrated county matrix used in Fig. 1.
+Canonical Fig. 1 allocation,50,0.7428570393078215,84.25262063961888,Full calibrated county matrix used in Fig. 1.
+Canonical Fig. 1 allocation,100,0.8859889083159853,84.25262063961888,Full calibrated county matrix used in Fig. 1.
+300 m radius sensitivity,10,0.3912150832095196,84.25262063961891,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+300 m radius sensitivity,20,0.5329097751825692,84.25262063961891,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+300 m radius sensitivity,50,0.7507286619199081,84.25262063961891,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+300 m radius sensitivity,100,0.8920398335055898,84.25262063961891,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+500 m radius sensitivity,10,0.3512188067187433,84.25262063961891,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+500 m radius sensitivity,20,0.49921705219053153,84.25262063961891,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+500 m radius sensitivity,50,0.7308943209453928,84.25262063961891,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+500 m radius sensitivity,100,0.884407802777959,84.25262063961891,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+800 m radius sensitivity,10,0.3538582025410106,84.2526206396189,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+800 m radius sensitivity,20,0.5030464289532987,84.2526206396189,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+800 m radius sensitivity,50,0.7297055777117039,84.2526206396189,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+800 m radius sensitivity,100,0.8839895029687895,84.2526206396189,Holds canonical 2025--2035 incremental county additions fixed and changes only the existing-baseline dedup radius.
+Review-inclusive add-back,10,0.3747250355911121,84.2526206396189,Reintroduces dropped campus records lacking shared operator/name/reference evidence with the nearest retained building.
+Review-inclusive add-back,20,0.5183667003016407,84.2526206396189,Reintroduces dropped campus records lacking shared operator/name/reference evidence with the nearest retained building.
+Review-inclusive add-back,50,0.7400741149207204,84.2526206396189,Reintroduces dropped campus records lacking shared operator/name/reference evidence with the nearest retained building.
+Review-inclusive add-back,100,0.8879553946429843,84.2526206396189,Reintroduces dropped campus records lacking shared operator/name/reference evidence with the nearest retained building.

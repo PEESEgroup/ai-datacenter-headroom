@@ -1,0 +1,18 @@
+\begin{table}[H]
+\centering
+\caption{Robustness of the 2035 top-county concentration result to existing-baseline deduplication choices. Radius sensitivities change only the campus--building deduplication radius for the existing-facility baseline while holding the calibrated 2025--2035 incremental county additions fixed. The review-inclusive add-back reintroduces dropped campus records whose nearest retained building lacks shared operator/name/reference evidence.}
+\label{tab:dedup-concentration-audit}
+\scriptsize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrr}
+\toprule
+Case & Top 10 & Top 20 & Top 50 & Top 100 \\
+\midrule
+Canonical main Fig.~1 allocation & 36.6\% & 51.7\% & 74.3\% & 88.6\% \\
+300 m radius sensitivity & 39.1\% & 53.3\% & 75.1\% & 89.2\% \\
+500 m radius sensitivity & 35.1\% & 49.9\% & 73.1\% & 88.4\% \\
+800 m radius sensitivity & 35.4\% & 50.3\% & 73.0\% & 88.4\% \\
+Review-inclusive add-back & 37.5\% & 51.8\% & 74.0\% & 88.8\% \\
+\bottomrule
+\end{tabular}
+\end{table}

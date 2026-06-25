@@ -1,0 +1,100 @@
+gamma_case,scenario,year,seven_region_exposure_share,exposed_regions,source_table,script_path
+absolute_0p85,high,2025,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2026,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2027,0.2962533342634225,SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2028,0.5082103692766269,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2029,0.4730019442426444,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2030,0.4354664984881204,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2031,0.4052143259600777,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2032,0.7718726576742694,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2033,0.7735428716605056,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2034,0.7749977428845598,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,high,2035,0.7762761706384013,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2025,,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2026,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2027,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2028,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2029,0.26558340311187717,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2030,0.23063630734870738,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2031,0.20882366344037542,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2032,0.19371955037233435,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2033,0.18227530110365656,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2034,0.17307473276568852,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,low,2035,0.16538427576299455,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2025,,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2026,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2027,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2028,0.5673578796358281,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2029,0.5106228800535045,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2030,0.4640345414689989,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2031,0.42949143896352354,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2032,0.4018534050427466,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2033,0.37878331387330516,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2034,0.7724234978054156,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_0p85,mid,2035,0.7738494853157386,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2025,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2026,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2027,0.2962533342634225,SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2028,0.5082103692766269,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2029,0.47300194424264436,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2030,0.4354664984881204,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2031,0.7699286562466829,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2032,0.7718726576742694,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2033,0.7735428716605057,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2034,0.7749977428845597,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,high,2035,0.7762761706384014,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2025,,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2026,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2027,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2028,0.3089053686949429,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2029,0.2655834031118772,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2030,0.532330415404131,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2031,0.4790464751240689,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2032,0.4421499203025653,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2033,0.4141901818581146,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2034,0.39171273356217456,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,low,2035,0.37292737379449303,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2025,,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2026,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2027,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2028,0.5673578796358281,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2029,0.5106228800535044,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2030,0.4640345414689989,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2031,0.4294914389635235,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2032,0.4018534050427466,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2033,0.7707883200312494,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2034,0.7724234978054155,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+absolute_1p00,mid,2035,0.7738494853157385,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2025,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2026,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2027,0.29679961515499537,SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2028,0.5090947616725634,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2029,0.4739062324063781,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2030,0.436412698835585,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2031,0.7701329346999082,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2032,0.7721112664755955,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2033,0.7738117011569304,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2034,0.7752934646470466,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,high,2035,0.776595957049736,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2025,,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2026,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2027,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2028,0.30896459751190725,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2029,0.26580189422335004,MISO,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2030,0.5330645323201914,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2031,0.47990944647668765,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2032,0.44307581673597257,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2033,0.41514941882741385,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2034,0.39268980316417956,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,low,2035,0.3739132233459047,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2025,,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2026,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2027,0.0,,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2028,0.5680949480000881,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2029,0.511444210300884,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2030,0.46493223822987734,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2031,0.4304392735967398,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2032,0.4028278483304549,MISO; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2033,0.7710226473597789,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2034,0.7726854598935514,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity
+central,mid,2035,0.7741360176377289,MISO; PJM; SPP,tables/si_round3/peak_coincidence_sensitivity.csv,scripts/build_si_round3_sensitivity_outputs.py::peak_coincidence_sensitivity

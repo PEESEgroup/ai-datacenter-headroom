@@ -1,0 +1,21 @@
+\begingroup
+\color{blue}
+\begin{table}[H]
+\centering
+\caption{PV-plus-storage window-sensitivity diagnostic under the representative-day implementation.}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l r r r r L{0.38\linewidth}}
+\toprule
+Grid region & Central PV ratio & Earlier-window PV ratio & Later-window PV ratio & Max--min & Interpretation \\
+\midrule
+ERCOT & 0.00 & 0.00 & 0.00 & 0.00 & implementation diagnostic; no date-resolved shifted-calendar-week sensitivity was performed \\
+MISO & 1.10 & 1.10 & 1.10 & 0.00 & implementation diagnostic; no date-resolved shifted-calendar-week sensitivity was performed \\
+PJM & 0.50 & 0.50 & 0.50 & 0.00 & implementation diagnostic; no date-resolved shifted-calendar-week sensitivity was performed \\
+SPP & 0.40 & 0.40 & 0.40 & 0.00 & implementation diagnostic; no date-resolved shifted-calendar-week sensitivity was performed \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{Values show the mid-2035, 4 h storage case. The current canonical implementation uses a representative JJA mean daily PV/load profile tiled over seven days; earlier/later labels therefore diagnose implementation limits and do not represent shifted calendar weeks. This diagnostic identifies the limitation of the representative-day implementation and motivates a date-resolved shifted-window sensitivity. Full storage-duration and scenario rows are retained in the source CSV.}
+\end{table}
+\endgroup

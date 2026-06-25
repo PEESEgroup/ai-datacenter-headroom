@@ -1,0 +1,24 @@
+\begin{table}[H]
+\centering
+\caption{Bounded combined-uncertainty screen for regional supply-headroom outcomes.}
+\label{tab:combined-uncertainty-compact}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Grid region & Draw share with & First-negative & First-negative & First-negative & 2035 margin & 2035 margin & 2035 margin & Deficit severity \\
+ & 2035 margin $<$0 & p10 & p50 & p90 & p10 & p50 & p90 & p50 / p90 \\
+ & (\%) & year & year & year & (GW) & (GW) & (GW) & (GW-yr) \\
+\midrule
+MISO & 100.0 & 2028 & 2028 & 2028 & -6.4 & -5.3 & -3.8 & 33.9 / 43.5 \\
+SPP & 94.0 & 2027 & 2028 & 2029 & -3.7 & -2.0 & -0.3 & 15.8 / 29.5 \\
+PJM & 87.6 & 2032 & 2034 & $>2035$ & -8.7 & -4.1 & 0.5 & 4.3 / 16.4 \\
+ERCOT & 0.0 & $>2035$ & $>2035$ & $>2035$ & 8.2 & 11.0 & 13.7 & 0.0 / 0.0 \\
+CAISO & 0.0 & $>2035$ & $>2035$ & $>2035$ & 17.2 & 18.8 & 20.6 & 0.0 / 0.0 \\
+NYISO & 0.0 & $>2035$ & $>2035$ & $>2035$ & 3.6 & 4.7 & 5.9 & 0.0 / 0.0 \\
+ISO-NE & 0.0 & $>2035$ & $>2035$ & $>2035$ & 4.3 & 5.4 & 6.5 & 0.0 / 0.0 \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{Draw shares are screening frequencies from bounded stress-test distributions, not calibrated real-world probabilities, confidence intervals or probabilistic resource-adequacy estimates. The combined screen varies AI load, project-confidence treatment, peak-coincidence conversion, headroom shifts and storage-credit assumptions while retaining the cap-at-zero AI-attributable convention.}
+\end{table}

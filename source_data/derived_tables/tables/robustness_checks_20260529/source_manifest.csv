@@ -1,0 +1,8 @@
+input_name,relative_path,exists,description
+canonical_margin_loop,tables/fig2_5_canonical_20260514/fig2/fig2_shared_canonical_gap_yearly.csv,True,Annual supply-headroom and AI-load margin accounting.
+canonical_generator_pipeline,tables/fig2_5_canonical_20260514/fig2/fig2c_generator_pipeline_canonical_source.csv,True,Active queue capacity and canonical effective additions.
+project_confidence_margin_summary,tables/si_experiments_20260517_robustness/si_project_confidence_margin_summary.csv,True,Project-confidence inventory sensitivity.
+nuclear_policy_cases,tables/fig2_5_canonical_20260514/fig4/fig4_policy_margin_cases_canonical.csv,True,"Nuclear recovery cases by scenario, recovery alpha and policy case."
+nuclear_candidate_ledger,tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv,True,Unit-level nuclear retention/restart candidate ledger.
+nasa_hourly_pv_window,tables/si_round4_nasa_hourly/nasa_power_hourly_pv_storage_window_summary.csv,True,Date-resolved NASA POWER hourly PV-window robustness summary.
+canonical_pv_storage_fine,tables/fig2_5_canonical_20260514/fig5/fig5_hybrid_pv_storage_residual_firm_backstop_canonical_fine.csv,True,Canonical PV-plus-storage residual firm-backstop screen.

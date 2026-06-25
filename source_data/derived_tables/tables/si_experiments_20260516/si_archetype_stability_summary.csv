@@ -1,0 +1,8 @@
+ISO,nearest_neighbor_full,stable_fraction,variables_tested,risk_label,cluster,cluster_silhouette_score_global
+CAISO,NYISO,0.8,5,"Moderate-margin, limited-growth",supply-buffered expansion,0.2658602895389991
+ERCOT,SPP,0.6,5,Balanced but growth-exposed,high-margin limited growth,0.2658602895389991
+ISO-NE,NYISO,1.0,5,"High-margin, limited-growth",high-margin limited growth,0.2658602895389991
+MISO,SPP,1.0,5,"Tight-margin, growth-exposed",deficit pressure,0.2658602895389991
+NYISO,ISO-NE,1.0,5,"High-margin, limited-growth",high-margin limited growth,0.2658602895389991
+PJM,MISO,1.0,5,Demand-led tightening,deficit pressure,0.2658602895389991
+SPP,MISO,0.6,5,"Tight-margin, growth-exposed",low-headroom growth,0.2658602895389991

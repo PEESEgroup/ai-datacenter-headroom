@@ -1,0 +1,17 @@
+# Generated audit tables
+
+Generated from existing canonical and supporting source tables.
+
+| Task | CSV | LaTeX fragment | Primary source table(s) | Builder | Scope note | Rows |
+|---|---|---|---|---|---|---:|
+| SI-1 | `sign_sensitive_cells_fig2.csv` | `sign_sensitive_cells_fig2_table.tex` | `tables/fig2_5_canonical_20260514/fig2/fig2d_margin_clock_heatmap_canonical_source.csv; tables/fig2_5_canonical_20260514/fig2/fig2e_margin_trajectory_ribbons_canonical_source.csv` | `scripts/build_si_round2_audit_tables.py::sign_sensitive_cells` | Headroom-extrapolation sign-sensitive cells; not raw-linear baseline margins. | 7 |
+| SI-2 | `cap_zero_vs_raw_linear_2035.csv` | `cap_zero_vs_raw_linear_2035_table.tex` | `tables/fig2_5_canonical_20260514/fig2/fig2_shared_canonical_gap_yearly.csv` | `scripts/build_si_round2_audit_tables.py::cap_zero_vs_raw_linear` | Cap-at-zero versus raw-linear 2035 margin audit. | 7 |
+| SI-3A | `queue_screen_rule_summary.csv` | `queue_screen_rule_summary_table.tex` | `tables/si_round2/queue_effective_assumptions.csv; tables/fig2_5_canonical_20260514/fig2/fig2c_generator_pipeline_canonical_source.csv; out_std/ANALYSIS/queue_eff_audit_iso_year_breakdown.csv` | `scripts/build_si_round2_audit_tables.py::queue_screen_rule_summary` | Compact printed queue-screen rule summary; resource-specific factors remain source-table traced. | 10 |
+| SI-3 | `queue_effective_assumptions.csv` | `queue_effective_assumptions_table.tex` | `tables/fig2_5_canonical_20260514/fig2/fig2c_generator_pipeline_canonical_source.csv` | `scripts/build_si_round2_audit_tables.py::queue_effective_assumptions` | Queue-to-effective conversion summary with machine-readable screen assumptions. | 7 |
+| SI-4 | `project_tier_inference_rules.csv` | `project_tier_inference_rules_table.tex` | `scripts/build_confidence_and_baseline_robustness_20260517.py` | `scripts/build_si_round2_audit_tables.py::project_tier_rules` | Project-confidence tier definitions and inclusion logic. | 4 |
+| SI-5 | `topN_concentration_by_project_confidence.csv` | `topN_concentration_by_project_confidence_table.tex` | `tables/fig2_5_canonical_20260514/shared/canonical_county_ai_demand_yearly.csv; tables/si_experiments_20260517_robustness/si_project_pipeline_effective_capacity_by_confidence_case.csv` | `scripts/build_si_round2_audit_tables.py::topn_concentration_by_project_confidence` | County concentration audit under grid-region project-confidence multipliers. | 5 |
+| SI-7 | `peak_coincidence_gamma_factors.csv` | `peak_coincidence_gamma_factors_table.tex` | `tables/fig2_5_canonical_20260514/shared/canonical_county_ai_demand_yearly.csv` | `scripts/build_si_round2_audit_tables.py::peak_coincidence_gamma` | Peak-coincidence factors used to convert average load to peak-load-equivalent demand. | 7 |
+| SI-8 | `nuclear_unit_recovery_ledger.csv` | `nuclear_unit_recovery_ledger_table.tex` | `tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv` | `scripts/build_si_round2_audit_tables.py::nuclear_unit_ledger` | Unit-level nuclear recovery ledger. | 23 |
+| SI-9 | `nuclear_first_deficit_timing.csv` | `nuclear_first_deficit_timing_table.tex` | `tables/fig2_5_canonical_20260514/fig4/fig4_policy_margin_cases_canonical.csv` | `scripts/build_si_round2_audit_tables.py::nuclear_first_deficit_timing` | Nuclear recovery timing and severity audit. | 63 |
+
+Note: the high-density county deduplication audit requires raw pre/post-dedup record-count fields and is therefore not included in the public package.

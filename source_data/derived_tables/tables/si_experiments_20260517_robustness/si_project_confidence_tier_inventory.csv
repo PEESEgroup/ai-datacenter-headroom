@@ -1,0 +1,876 @@
+project_record_id,state,county,GEOID,county_2023,ISO_ASSIGNED,status,status_class,capacity_basis,confidence_tier,confidence_tier_label,p_realize,mw_num,sizerank,mw_mid,mw_eff_mid,online_year
+1,AL,Jefferson,1073,Jefferson,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1200.0,"Mega campus (>1,000 MW)",1200.0,240.0,2029
+2,AL,Talladega,1121,Talladega,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+3,AL,Montgomery,1101,Montgomery,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,150.0,Hyperscale (100-999 MW),150.0,120.0,2028
+4,AR,Johnson,5071,Johnson,SPP,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+5,AR,Pulaski,5119,Pulaski,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,150.0,Hyperscale (100-999 MW),150.0,30.0,2027
+6,AR,Pulaski,5119,Pulaski,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+7,AR,Crittenden,5035,Crittenden,MISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2028
+8,AZ,Maricopa,4013,Maricopa,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,210.0,Hyperscale (100-999 MW),210.0,168.0,2028
+9,AZ,Maricopa,4013,Maricopa,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2028
+10,AZ,Maricopa,4013,Maricopa,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,200.0,Hyperscale (100-999 MW),200.0,160.0,2028
+11,AZ,Maricopa,4013,Maricopa,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,160.0,Hyperscale (100-999 MW),160.0,128.0,2028
+12,AZ,Pima,4019,Pima,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,750.0,Hyperscale (100-999 MW),750.0,150.0,2027
+13,AZ,Maricopa,4013,Maricopa,Non-ISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+14,AZ,Maricopa,4013,Maricopa,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+15,AZ,Maricopa,4013,Maricopa,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+16,AZ,Maricopa,4013,Maricopa,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,200.0,Hyperscale (100-999 MW),200.0,160.0,2028
+17,AZ,Coconino,4005,Coconino,Non-ISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+18,AZ,Maricopa,4013,Maricopa,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+19,AZ,Maricopa,4013,Maricopa,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,"Mega campus (>1,000 MW)",3162.2776601683795,2529.8221281347037,2028
+20,AZ,Pinal,4021,Pinal,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,3000.0,"Mega campus (>1,000 MW)",3000.0,600.0,2029
+21,AZ,Maricopa,4013,Maricopa,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1500.0,"Mega campus (>1,000 MW)",1500.0,300.0,2029
+22,AZ,Pima,4019,Pima,Non-ISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+23,AZ,Pima,4019,Pima,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+24,AZ,Maricopa,4013,Maricopa,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2028
+25,AZ,Maricopa,4013,Maricopa,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,700.0,Hyperscale (100-999 MW),700.0,140.0,2028
+26,CA,San Mateo,6081,San Mateo,CAISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+27,CA,Kern,6029,Kern,CAISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+28,CA,Imperial,6025,Imperial,CAISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,330.0,Hyperscale (100-999 MW),330.0,66.0,2029
+29,CA,Santa Clara,6085,Santa Clara,CAISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+30,CA,Amador,6005,Amador,CAISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,41.0,Medium (11-50 MW),41.0,8.200000000000001,2029
+31,CA,Santa Clara,6085,Santa Clara,CAISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,40.0,Medium (11-50 MW),40.0,32.0,2028
+32,CA,Santa Clara,6085,Santa Clara,CAISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+33,CA,Santa Clara,6085,Santa Clara,CAISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,396.0,Hyperscale (100-999 MW),396.0,79.2,2029
+34,CA,Santa Clara,6085,Santa Clara,CAISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,34.0,Medium (11-50 MW),34.0,6.800000000000001,2029
+35,CA,Santa Clara,6085,Santa Clara,CAISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,9.0,Small (0-10 MW),9.0,1.8,2029
+36,CA,Santa Clara,6085,Santa Clara,CAISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,100.0,Hyperscale (100-999 MW),100.0,80.0,2027
+37,CA,Los Angeles,6037,Los Angeles,CAISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,32.0,Medium (11-50 MW),32.0,6.4,2029
+38,CO,Denver,8031,Denver,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,75.0,Large (51-99 MW),75.0,60.0,2026
+39,CO,Weld,8123,Weld,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,750.0,Hyperscale (100-999 MW),750.0,150.0,2029
+40,CT,Hartford,9110,Capitol,ISO-NE,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+41,CT,New London,9180,Southeastern Connecticut,ISO-NE,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+42,CT,New London,9180,Southeastern Connecticut,ISO-NE,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1500.0,"Mega campus (>1,000 MW)",1500.0,300.0,2029
+43,DE,New Castle,10003,New Castle,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1200.0,"Mega campus (>1,000 MW)",1200.0,240.0,2029
+44,FL,Polk,12105,Polk,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+45,FL,St Lucie,12111,St. Lucie,Non-ISO,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2029
+46,FL,Polk,12105,Polk,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+47,FL,Palm Beach,12099,Palm Beach,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2028
+48,FL,Orange,12095,Orange,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+49,FL,Miami-Dade,12086,Miami-Dade,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,16.0,Medium (11-50 MW),16.0,12.8,2028
+50,GA,Floyd,13115,Floyd,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+51,GA,Bartow,13015,Bartow,Non-ISO,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,78.0,Large (51-99 MW),78.0,15.6,2029
+52,GA,Columbia,13073,Columbia,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+53,GA,Columbia,13073,Columbia,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+54,GA,Clarke,13059,Clarke,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+55,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,45.0,Medium (11-50 MW),45.0,9.0,2029
+56,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,40.0,Medium (11-50 MW),40.0,8.0,2029
+57,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,324.0,Hyperscale (100-999 MW),324.0,64.8,2029
+58,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+59,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+60,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+61,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+62,GA,Richmond,13245,Richmond,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+63,GA,Lamar,13171,Lamar,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+64,GA,Monroe,13207,Monroe,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2028
+65,GA,Early,13099,Early,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+66,GA,Bartow,13015,Bartow,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1830.0,"Mega campus (>1,000 MW)",1830.0,366.0,2029
+67,GA,Bartow,13015,Bartow,Non-ISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+68,GA,Fulton,13121,Fulton,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,324.0,Hyperscale (100-999 MW),324.0,259.2,2028
+69,GA,Rockdale,13247,Rockdale,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,216.0,Hyperscale (100-999 MW),216.0,172.8,2028
+70,GA,Rockdale,13247,Rockdale,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,126.0,Hyperscale (100-999 MW),126.0,25.200000000000003,2029
+71,GA,Crisp,13081,Crisp,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+72,GA,Newton,13217,Newton,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2028
+73,GA,Newton,13217,Newton,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,360.0,Hyperscale (100-999 MW),360.0,72.0,2027
+74,GA,Newton,13217,Newton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+75,GA,Whitfield,13313,Whitfield,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+76,GA,Whitfield,13313,Whitfield,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,142.0,Hyperscale (100-999 MW),142.0,28.4,2029
+77,GA,Whitfield,13313,Whitfield,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+78,GA,Douglas,13097,Douglas,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+79,GA,Twiggs,13289,Twiggs,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,900.0,Hyperscale (100-999 MW),900.0,180.0,2029
+80,GA,Clayton,13063,Clayton,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,180.0,Hyperscale (100-999 MW),180.0,36.0,2029
+81,GA,Dekalb,13089,DeKalb,Non-ISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+82,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+83,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+84,GA,Fayette,13113,Fayette,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,500.0,Hyperscale (100-999 MW),500.0,400.0,2028
+85,GA,Fayette,13113,Fayette,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,250.0,Hyperscale (100-999 MW),250.0,200.0,2028
+86,GA,Clayton,13063,Clayton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+87,GA,Monroe,13207,Monroe,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+88,GA,Hall,13139,Hall,Non-ISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+89,GA,Jones,13169,Jones,Non-ISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+90,GA,Jones,13169,Jones,Non-ISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+91,GA,Spalding,13255,Spalding,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2028
+92,GA,Spaulding,13255,Spalding,Non-ISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+93,GA,Spaulding,13255,Spalding,Non-ISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,"Mega campus (>1,000 MW)",2449.489742783178,489.8979485566356,2029
+94,GA,Henry,13151,Henry,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+95,GA,Henry,13151,Henry,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+96,GA,Henry,13151,Henry,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+97,GA,Troup,13285,Troup,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,600.0,Hyperscale (100-999 MW),600.0,120.0,2029
+98,GA,Butts,13035,Butts,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+99,GA,Bartow,13015,Bartow,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,432.0,Hyperscale (100-999 MW),432.0,86.4,2029
+100,GA,Troup,13285,Troup,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,600.0,Hyperscale (100-999 MW),600.0,120.0,2029
+101,GA,Lamar,13171,Lamar,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+102,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,72.0,Large (51-99 MW),72.0,14.4,2029
+103,GA,Douglas,13097,Douglas,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+104,GA,Douglas,13097,Douglas,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+105,GA,Douglas,13097,Douglas,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,160.0,Hyperscale (100-999 MW),160.0,128.0,2028
+106,GA,Monroe,13207,Monroe,Non-ISO,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,900.0,Hyperscale (100-999 MW),900.0,180.0,2029
+107,GA,Douglas,13097,Douglas,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+108,GA,Cobb,13067,Cobb,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,108.0,Hyperscale (100-999 MW),108.0,21.6,2029
+109,GA,Marrietta,13067,Cobb,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,180.0,Hyperscale (100-999 MW),180.0,36.0,2029
+110,GA,Jackson,13157,Jackson,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,120.0,Unknown,120.0,24.0,2029
+111,GA,Coweta,13077,Coweta,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+112,GA,Coweta,13077,Coweta,Non-ISO,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,936.0,Hyperscale (100-999 MW),936.0,187.2,2029
+113,GA,Newton,13217,Newton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+114,GA,Coweta,13077,Coweta,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+115,GA,Coweta,13077,Coweta,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+116,GA,Floyd,13115,Floyd,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+117,GA,Floyd,13115,Floyd,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+118,GA,Floyd,13115,Floyd,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+119,GA,Floyd,13115,Floyd,Non-ISO,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,504.0,Hyperscale (100-999 MW),504.0,100.8,2029
+120,GA,Floyd,13115,Floyd,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+121,GA,Athens-Clark,13059,Clarke,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+122,GA,Walton,13297,Walton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+123,GA,Newton,13217,Newton,Non-ISO,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+124,GA,Carroll and Haralson,13045,Carroll,Non-ISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2036
+125,GA,Upson,13293,Upson,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+126,GA,McDuffie,13189,McDuffie,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+127,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,150.0,Hyperscale (100-999 MW),150.0,30.0,2029
+128,GA,Fulton,13121,Fulton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+129,GA,Lowndes,13185,Lowndes,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+130,GA,Carroll,13045,Carroll,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+131,GA,Carroll,13045,Carroll,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+132,GA,Carroll,13045,Carroll,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+133,GA,Douglas,13097,Douglas,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+134,GA,Houston,13153,Houston,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+135,GA,Douglas,13097,Douglas,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,240.0,Hyperscale (100-999 MW),240.0,48.0,2029
+136,GA,Jones,13169,Jones,Non-ISO,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,900.0,Hyperscale (100-999 MW),900.0,180.0,2029
+137,IA,Adair,19001,Adair,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+138,IA,Polk,19153,Polk,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,13.2,Medium (11-50 MW),13.2,10.56,2028
+139,IA,Linn,19113,Linn,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+140,IA,Pottawattamie,19155,Pottawattamie,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+141,IA,Madison,19121,Madison,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,100.0,Hyperscale (100-999 MW),100.0,20.0,2029
+142,IA,Polk,19153,Polk,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,150.0,Hyperscale (100-999 MW),150.0,30.0,2029
+143,IA,Dubuque,19061,Dubuque,MISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+144,IA,Linn,19113,Linn,MISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+145,IA,Dallas,19049,Dallas,MISO,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,2.0,Small (0-10 MW),2.0,0.4,2029
+146,IA,Polk,19153,Polk,MISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+147,IA,Polk,19153,Polk,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+148,IA,Dallas,19049,Dallas,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,200.0,Hyperscale (100-999 MW),200.0,160.0,2028
+149,ID,Bonneville,16019,Bonneville,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,60.0,Large (51-99 MW),60.0,12.0,2029
+150,IL,DuPage,17043,DuPage,PJM,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,72.0,Large (51-99 MW),72.0,57.6,2027
+151,IL,Will,17197,Will,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+152,IL,Cook,17031,Cook,PJM,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,20.0,Medium (11-50 MW),20.0,16.0,2028
+153,IL,DeKalb,17037,DeKalb,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+154,IL,Effingham,17049,Effingham,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2027
+155,IL,Cook,17031,Cook,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+156,IL,Cook,17031,Cook,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+157,IL,Cook,17031,Cook,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+158,IL,Cook,17031,Cook,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+159,IL,Cook,17031,Cook,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+160,IL,Cook,17031,Cook,PJM,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,15.0,Medium (11-50 MW),15.0,3.0,2029
+161,IL,Cook,17031,Cook,PJM,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,32.0,Medium (11-50 MW),32.0,6.4,2029
+162,IL,Cook,17031,Cook,PJM,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,36.0,Medium (11-50 MW),36.0,7.2,2029
+163,IL,Tazewell,17179,Tazewell,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+164,IL,Logan,17107,Logan,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+165,IL,DuPage,17043,DuPage,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,50.0,Medium (11-50 MW),50.0,10.0,2027
+166,IL,DuPage,17043,DuPage,PJM,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,18.0,Medium (11-50 MW),18.0,3.6,2029
+167,IL,Grundy,17063,Grundy,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+168,IL,Grundy,17063,Grundy,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2028
+169,IL,DuPage,17043,DuPage,PJM,Cancelled,other,reported_MW,B,B: reported MW or committed inferred,0.2,36.0,Medium (11-50 MW),36.0,7.2,2029
+170,IL,Will,17197,Will,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,350.0,Hyperscale (100-999 MW),350.0,70.0,2029
+171,IL,Cook,17031,Cook,PJM,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,42.0,Medium (11-50 MW),42.0,8.4,2029
+172,IL,Cook,17031,Cook,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+173,IL,Madison,17119,Madison,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2028
+174,IL,Sangamon,17167,Sangamon,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,632.0,Hyperscale (100-999 MW),632.0,126.4,2027
+175,IL,Kendall,17093,Kendall,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+176,IL,Kendall,17093,Kendall,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+177,IN,Porter,18127,Porter,MISO,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+178,IN,Lake,18089,Lake,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+179,IN,Lake,18089,Lake,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+180,IN,Allen,18003,Allen,PJM,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,200.0,Hyperscale (100-999 MW),200.0,160.0,2028
+181,IN,Clinton,18023,Clinton,MISO,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+182,IN,St. Joseph,18141,St. Joseph,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+183,IN,Decatur,18031,Decatur,MISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+184,IN,Lake,18089,Lake,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,180.0,Hyperscale (100-999 MW),180.0,36.0,2029
+185,IN,Lake,18089,Lake,MISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+186,IN,Hancock,18059,Hancock,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+187,IN,Lake,18089,Lake,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,2400.0,"Mega campus (>1,000 MW)",2400.0,1920.0,2028
+188,IN,Marion,18097,Marion,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+189,IN,Marion,18097,Marion,MISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+190,IN,Marion,18097,Marion,MISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+191,IN,Marion,18097,Marion,MISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+192,IN,Clark,18019,Clark,MISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2028
+193,IN,LaPorte,18091,LaPorte,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+194,IN,Boone,18011,Boone,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,1000.0,"Mega campus (>1,000 MW)",1000.0,800.0,2028
+195,IN,Kosciusko,18085,Kosciusko,MISO,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+196,IN,Hancock,18059,Hancock,MISO,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+197,IN,Lake,18089,Lake,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+198,IN,LaPorte,18091,LaPorte,MISO,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+199,IN,Morgan,18109,Morgan,MISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+200,IN,Marion,18097,Marion,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+201,IN,St. Joseph,18141,St. Joseph,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+202,IN,Hendricks,18063,Hendricks,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+203,IN,Porter,18127,Porter,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+204,IN,Shelby,18145,Shelby,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,5200.0,"Mega campus (>1,000 MW)",5200.0,1040.0,2029
+205,IN,Porter,18127,Porter,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+206,IN,Porter,18127,Porter,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+207,IN,Porter,18127,Porter,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+208,KS,Johnson,20091,Johnson,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2027
+209,KS,Johnson,20091,Johnson,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+210,KS,Wyandotte,20209,Wyandotte,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,600.0,Hyperscale (100-999 MW),600.0,120.0,2029
+211,KY,Meade,21163,Meade,PJM,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+212,KY,Hancock,21091,Hancock,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,480.0,Hyperscale (100-999 MW),480.0,96.0,2029
+213,KY,Oldham,21185,Oldham,PJM,Cancelled,other,reported_MW,B,B: reported MW or committed inferred,0.2,600.0,Hyperscale (100-999 MW),600.0,120.0,2029
+214,KY,Oldham,21185,Oldham,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+215,KY,Fayette,21067,Fayette,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+216,KY,Jefferson,21111,Jefferson,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,130.0,Hyperscale (100-999 MW),130.0,26.0,2029
+217,KY,McCracken,21145,McCracken,MISO,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+218,KY,McCracken,21145,McCracken,MISO,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,60.0,Large (51-99 MW),60.0,12.0,2029
+219,LA,Caddo,22017,Caddo,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+220,LA,Bossier,22015,Bossier,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+221,LA,Richland,22083,Richland,MISO,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,1500.0,"Mega campus (>1,000 MW)",1500.0,300.0,2028
+222,LA,Caddo,22017,Caddo,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+223,LA,East Feliciana,22037,East Feliciana,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,300.0,Hyperscale (100-999 MW),300.0,240.0,2026
+224,LA,West Feliciana,22125,West Feliciana,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,245.0,Hyperscale (100-999 MW),245.0,49.0,2027
+225,MA,Middlesex,25017,Middlesex,ISO-NE,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+226,MA,Middlesex,25017,Middlesex,ISO-NE,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+227,MA,Hampden,25013,Hampden,ISO-NE,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+228,MD,Baltimore,24510,Baltimore,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+229,MD,Frederick,24021,Frederick,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,264.0,"Mega campus (>1,000 MW)",264.0,52.8,2029
+230,MD,Prince George's,24033,Prince George's,PJM,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,820.0,Hyperscale (100-999 MW),820.0,164.0,2029
+231,MD,Charles,24017,Charles,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+232,MD,Baltimore,24005,Baltimore,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,150.0,Hyperscale (100-999 MW),150.0,30.0,2029
+233,ME,Androscoggin,23001,Androscoggin,ISO-NE,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+234,ME,Lincoln,23015,Lincoln,ISO-NE,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+235,MI,Wayne,26163,Wayne,MISO,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,26.0,Medium (11-50 MW),26.0,5.2,2029
+236,MI,Washtenaw,26161,Washtenaw,MISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+237,MI,Wayne,26163,Wayne,MISO,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,1.5,Small (0-10 MW),1.5,0.3,2029
+238,MI,Kent,26081,Kent,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,320.0,Hyperscale (100-999 MW),320.0,256.0,2028
+239,MI,Monroe,26115,Monroe,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+240,MI,Oakland,26125,Oakland,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,100.0,Hyperscale (100-999 MW),100.0,20.0,2029
+241,MI,Livingston,26093,Livingston,MISO,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+242,MI,Kent,26081,Kent,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+243,MI,Kalamazoo,26077,Kalamazoo,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+244,MI,Kalkaska,26079,Kalkaska,MISO,Cancelled,other,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2029
+245,MI,Ingham,26065,Ingham,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,24.0,Medium (11-50 MW),24.0,4.800000000000001,2029
+246,MI,Kent,26081,Kent,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+247,MI,Isabella,26073,Isabella,MISO,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2029
+248,MI,Calhoun,26025,Calhoun,MISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,"Mega campus (>1,000 MW)",2449.489742783178,489.8979485566356,2029
+249,MI,Oakland,26125,Oakland,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,525.0,Hyperscale (100-999 MW),525.0,420.0,2028
+250,MI,Washtenaw,26161,Washtenaw,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,1400.0,"Mega campus (>1,000 MW)",1400.0,1120.0,2028
+251,MI,Wayne,26163,Wayne,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2029
+252,MI,Macomb,26099,Macomb,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+253,MI,Washtenaw,26161,Washtenaw,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+254,MN,Sherburne,27141,Sherburne,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+255,MN,Dakota,27037,Dakota,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+256,MN,Chisago,27025,Chisago,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+257,MN,Dakota,27037,Dakota,MISO,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,12.0,Medium (11-50 MW),12.0,2.4000000000000004,2029
+258,MN,Dakota,27037,Dakota,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+259,MN,St. Louis,27137,St. Louis,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+260,MN,Hennepin,27053,Hennepin,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+261,MN,Murray,27101,Murray,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,400.0,Hyperscale (100-999 MW),400.0,80.0,2030
+262,MN,Goodhue,27049,Goodhue,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+263,MO,Boone,29019,Boone,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+264,MO,Jackson,29095,Jackson,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,880.0,Hyperscale (100-999 MW),880.0,176.0,2029
+265,MO,Jasper,29097,Jasper,SPP,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,200.0,Hyperscale (100-999 MW),200.0,160.0,2028
+266,MO,Jackson,29095,Jackson,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+267,MO,Clay,29047,Clay,SPP,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,700.0,Hyperscale (100-999 MW),700.0,560.0,2028
+268,MO,Platte,29165,Platte,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+269,MO,Montgomery,29139,Montgomery,MISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+270,MO,Montgomery,29139,Montgomery,MISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+271,MO,Cass,29037,Cass,SPP,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+272,MO,St. Charles,29183,St. Charles,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+273,MO,St. Charles,29183,St. Charles,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+274,MO,St Charles County,29510,St. Louis,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+275,MO,Schuyler,29197,Schuyler,MISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+276,MS,Rankin,28121,Rankin,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,116.0,Hyperscale (100-999 MW),116.0,92.8,2028
+277,MS,Madison,28089,Madison,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2029
+278,MS,Madison,28089,Madison,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,1000.0,"Mega campus (>1,000 MW)",1000.0,800.0,2026
+279,MS,Warren,28149,Warren,MISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+280,MT,Silver Bow,30093,Silver Bow,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,50.0,Hyperscale (100-999 MW),50.0,10.0,2026
+281,MT,Cascade,30013,Cascade,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+282,MT,Yellowstone,30111,Yellowstone,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,"Mega campus (>1,000 MW)",500.0,100.0,2029
+283,NC,Mecklenburg,37119,Mecklenburg,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,400.0,Hyperscale (100-999 MW),400.0,80.0,2029
+284,NC,Mecklenburg,37119,Mecklenburg,Non-ISO,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,2.0,Small (0-10 MW),2.0,0.4,2029
+285,NC,Catawba,37035,Catawba,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+286,NC,Cumberland and Harnett,37051,Cumberland,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+287,NC,Guilford,37081,Guilford,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,10.0,Small (0-10 MW),10.0,2.0,2029
+288,NC,Rockingham,37157,Rockingham,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,99.0,Hyperscale (100-999 MW),99.0,19.8,2029
+289,NC,Catawba,37035,Catawba,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+290,NC,Mecklenburg,37119,Mecklenburg,Non-ISO,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+291,NC,Iredell,37097,Iredell,Non-ISO,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+292,NC,Catawba,37035,Catawba,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+293,NC,Wake,37183,Wake,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+294,NC,Catawba,37035,Catawba,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+295,NC,Catawba,37035,Catawba,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+296,NC,Wake,37183,Wake,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,4.0,Small (0-10 MW),4.0,0.8,2029
+297,NC,Wake,37183,Wake,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+298,NC,Lee,37105,Lee,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+299,NC,Iredell,37097,Iredell,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+300,ND,Burleigh,38015,Burleigh,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+301,ND,Cass,38017,Cass,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,280.0,Hyperscale (100-999 MW),280.0,224.0,2028
+302,NE,Lancaster,31109,Lancaster,SPP,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+303,NE,Douglas,31055,Douglas,SPP,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,198.0,Hyperscale (100-999 MW),198.0,39.6,2029
+304,NJ,Hunterdon,34019,Hunterdon,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+305,NJ,Burlington,34005,Burlington,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+306,NJ,Burlington,34005,Burlington,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+307,NJ,Essex,34013,Essex,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+308,NJ,Cumberland,34011,Cumberland,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,"Mega campus (>1,000 MW)",300.0,60.0,2029
+309,NM,Lea,35025,Lea,SPP,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+310,NM,Lea County,35025,Lea,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,7000.0,"Mega campus (>1,000 MW)",7000.0,1400.0,2028
+311,NM,Chaves,35005,Chaves,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1240.0,Hyperscale (100-999 MW),1240.0,248.0,2029
+312,NM,Do甯絘 Ana County,35013,Doña Ana,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+313,NV,Clark,32003,Clark,CAISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+314,NV,Clark,32003,Clark,CAISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+315,NV,Clark,32003,Clark,CAISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,50.0,Medium (11-50 MW),50.0,10.0,2029
+316,NV,Washoe,32031,Washoe,CAISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,12.0,Medium (11-50 MW),12.0,9.6,2028
+317,NV,Washoe,32031,Washoe,CAISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,8.0,Small (0-10 MW),8.0,6.4,2028
+318,NV,Washoe,32031,Washoe,CAISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,28.0,Medium (11-50 MW),28.0,22.4,2028
+319,NV,Lyon County,32019,Lyon,CAISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1600.0,"Mega campus (>1,000 MW)",1600.0,320.0,2029
+320,NV,Storey County,32029,Storey,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1200.0,"Mega campus (>1,000 MW)",1200.0,240.0,2029
+321,NV,Storey County,32029,Storey,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,810.0,Hyperscale (100-999 MW),810.0,162.0,2029
+322,NV,Storey,32029,Storey,Non-ISO,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,224.0,Hyperscale (100-999 MW),224.0,44.8,2029
+323,NY,Genesee County,36037,Genesee,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+324,NY,Westchester,36119,Westchester,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+325,NY,Erie,36029,Erie,NYISO,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+326,NY,Tompkins County,36109,Tompkins,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,100.0,Hyperscale (100-999 MW),100.0,20.0,2029
+327,NY,Onondaga,36067,Onondaga,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+328,NY,St. Lawrence,36089,St. Lawrence,NYISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+329,NY,St. Lawrence,36089,St. Lawrence,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,176.0,Hyperscale (100-999 MW),176.0,35.2,2029
+330,NY,St. Lawrence,36089,St. Lawrence,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+331,NY,Erie,36063,Niagara,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,600.0,Hyperscale (100-999 MW),600.0,120.0,2029
+332,NY,Niagara,36063,Niagara,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,140.0,Hyperscale (100-999 MW),140.0,28.0,2029
+333,NY,Otsego,36077,Otsego,NYISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Small (0-10 MW),25.0,5.0,2029
+334,NY,Rockland,36087,Rockland,NYISO,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,24.0,Medium (11-50 MW),24.0,4.800000000000001,2029
+335,NY,Erie,36029,Erie,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,600.0,Hyperscale (100-999 MW),600.0,120.0,2029
+336,NY,Suffolk,36103,Suffolk,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,176.0,Hyperscale (100-999 MW),176.0,35.2,2029
+337,OH,Summit,39153,Summit,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+338,OH,Wood,39173,Wood,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+339,OH,Hamilton,39061,Hamilton,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+340,OH,Hamilton,39061,Hamilton,PJM,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,2.0,,2.0,0.4,2029
+341,OH,Franklin,39049,Franklin,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+342,OH,Franklin,39049,Franklin,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+343,OH,Franklin,39049,Franklin,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+344,OH,Coshocton,39031,Coshocton,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+345,OH,Preble,39135,Preble,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+346,OH,Scioto,39145,Scioto,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+347,OH,Delaware,39041,Delaware,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+348,OH,Butler,39017,Butler,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+349,OH,Franklin,39049,Franklin,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+350,OH,Lawrence,39087,Lawrence,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+351,OH,Fayette,39047,Fayette,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+352,OH,Licking,39089,Licking,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+353,OH,Licking,39089,Licking,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+354,OH,Licking,39089,Licking,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+355,OH,Licking,39089,Licking,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+356,OH,Licking,39089,Licking,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+357,OH,Licking,39089,Licking,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+358,OH,Licking,39089,Licking,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,36.0,Medium (11-50 MW),36.0,7.2,2029
+359,OH,Fairfield,39045,Fairfield,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+360,OH,Delaware,39041,Delaware,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,25.0,Medium (11-50 MW),25.0,5.0,2029
+361,OH,Allen,39003,Allen,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+362,OH,Union,39159,Union,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+363,OH,Fairfield,39045,Fairfield,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,800.0,Hyperscale (100-999 MW),800.0,160.0,2029
+364,OH,Franklin,39049,Franklin,PJM,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,543.0,Hyperscale (100-999 MW),543.0,434.4,2028
+365,OH,Lucas,39095,Lucas,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+366,OH,Miami,39109,Miami,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2030
+367,OH,Erie,39043,Erie,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+368,OH,Shelby,39149,Shelby,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+369,OH,Butler,39017,Butler,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,240.0,Hyperscale (100-999 MW),240.0,48.0,2029
+370,OH,Trumbull,39155,Trumbull,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1500.0,"Mega campus (>1,000 MW)",1500.0,300.0,2029
+371,OH,Clinton,39027,Clinton,PJM,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,400.0,Hyperscale (100-999 MW),400.0,80.0,2029
+372,OK,Wagoner,40145,Wagoner,SPP,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+373,OK,Rogers,40131,Rogers,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2028
+374,OK,Oklahoma,40109,Oklahoma,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+375,OK,Oklahoma,40109,Oklahoma,SPP,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+376,OK,Wagoner,40145,Wagoner,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+377,OK,Osage,40113,Osage,SPP,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2028
+378,OK,Tulsa,40143,Tulsa,SPP,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+379,OK,Tulsa,40143,Tulsa,SPP,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+380,OR,Gilliam,41021,Gilliam,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+381,OR,Hood River,41027,Hood River,Non-ISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+382,OR,Washington,41067,Washington,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+383,OR,Morrow,41049,Morrow,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1200.0,"Mega campus (>1,000 MW)",1200.0,240.0,2027
+384,OR,Washington,41067,Washington,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,27.0,Medium (11-50 MW),27.0,5.4,2029
+385,OR,Wasco,41065,Wasco,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+386,PA,Schuylkill,42107,Schuylkill,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+387,PA,Beaver,42007,Beaver,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,496.0,Hyperscale (100-999 MW),496.0,99.2,2029
+388,PA,Beaver,42007,Beaver,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,3600.0,"Mega campus (>1,000 MW)",3600.0,720.0,2029
+389,PA,Lehigh,42077,Lehigh,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+390,PA,Union,42119,Union,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+391,PA,Lackawanna,42069,Lackawanna,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+392,PA,Lackawanna,42069,Lackawanna,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+393,PA,Luzerne,42079,Luzerne,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,960.0,Hyperscale (100-999 MW),960.0,192.0,2029
+394,PA,Lackawanna,42069,Lackawanna,PJM,Cancelled,other,reported_MW,B,B: reported MW or committed inferred,0.2,1500.0,"Mega campus (>1,000 MW)",1500.0,300.0,2029
+395,PA,Cumberland,42041,Cumberland,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1350.0,"Mega campus (>1,000 MW)",1350.0,270.0,2029
+396,PA,Lackawanna,42069,Lackawanna,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1500.0,"Mega campus (>1,000 MW)",1500.0,300.0,2029
+397,PA,Montgomery,42091,Montgomery,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+398,PA,York,42133,York,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,828.0,Hyperscale (100-999 MW),828.0,165.60000000000002,2029
+399,PA,Lackawanna,42069,Lackawanna,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+400,PA,York,42133,York,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+401,PA,Berks,42011,Berks,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+402,PA,Dauphin,42043,Dauphin,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+403,PA,Luzerne,42079,Luzerne,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2027
+404,PA,Indiana,42063,Indiana,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,4500.0,"Mega campus (>1,000 MW)",4500.0,900.0,2029
+405,PA,Lackawanna,42069,Lackawanna,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,600.0,Hyperscale (100-999 MW),600.0,120.0,2029
+406,PA,Lackawanna,42069,Lackawanna,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+407,PA,Carbon,42025,Carbon,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+408,PA,Lancaster,42071,Lancaster,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,100.0,Hyperscale (100-999 MW),100.0,20.0,2029
+409,PA,Lancaster,42071,Lancaster,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,100.0,Hyperscale (100-999 MW),100.0,20.0,2029
+410,GREENE,-79.942505,42071,Lancaster,PJM,AI,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Y,25.0,5.0,2029
+411,PA,Bucks,42017,Bucks,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+412,PA,Luzerne,42079,Luzerne,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+413,PA,Carbon,42025,Carbon,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2028
+414,PA,Schuylkill,42107,Schuylkill,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+415,PA,Westmoreland,42129,Westmoreland,PJM,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,12.0,"Mega campus (>1,000 MW)",12.0,2.4000000000000004,2029
+416,PA,Chester,42029,Chester,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+417,PA,Montgomery,42091,Montgomery,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,750.0,Hyperscale (100-999 MW),750.0,150.0,2029
+418,PA,Lackawanna,42069,Lackawanna,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+419,PA,Washington,42125,Washington,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+420,PA,Chester,42029,Chester,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+421,PA,Allegheny,42003,Allegheny,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,180.0,Hyperscale (100-999 MW),180.0,36.0,2029
+422,PA,Allegheny,42003,Allegheny,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+423,PA,Luzerne,42079,Luzerne,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+424,PA,Lehigh,42077,Lehigh,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+425,PA,Beaver,42007,Beaver,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+426,PA,Montour,42093,Montour,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+427,PA,Bradford,42015,Bradford,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,248.0,Hyperscale (100-999 MW),248.0,49.6,2029
+428,PA,York,42133,York,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+429,SC,Kershaw County,45055,Kershaw,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+430,SC,Cherokee,45021,Cherokee,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+431,SC,Aiken,45003,Aiken,Non-ISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,100.0,Hyperscale (100-999 MW),100.0,80.0,2028
+432,SC,Spartanburg,45083,Spartanburg,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2027
+433,SC,Berkeley,45015,Berkeley,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,45.0,Medium (11-50 MW),45.0,9.0,2029
+434,SC,York,45091,York,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+435,SC,Colleton,45029,Colleton,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2029
+436,SD,Minnehaha,46099,Minnehaha,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+437,SD,Deuel,46039,Deuel,SPP,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,430.0,Hyperscale (100-999 MW),430.0,86.0,2029
+438,TN,Hamilton,47065,Hamilton,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Small (0-10 MW),,0.0,2029
+439,TN,Montgomery,47125,Montgomery,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,350.0,Hyperscale (100-999 MW),350.0,70.0,2029
+440,TN,Sumner,47165,Sumner,Non-ISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+441,TN,Coffee,47031,Coffee,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+442,TX,Hale,48189,Hale,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,168.0,Hyperscale (100-999 MW),168.0,33.6,2026
+443,TX,Shackelford,48417,Shackelford,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,1400.0,"Mega campus (>1,000 MW)",1400.0,1120.0,2028
+444,TX,Taylor,48441,Taylor,ERCOT,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,1200.0,"Mega campus (>1,000 MW)",1200.0,240.0,2025
+445,TX,Dickens,48125,Dickens,ERCOT,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,800.0,Hyperscale (100-999 MW),800.0,160.0,2029
+446,TX,Carson,48065,Carson,SPP,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,11000.0,"Mega campus (>1,000 MW)",11000.0,8800.0,2028
+447,TX,Austin,48015,Austin,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,285.0,Hyperscale (100-999 MW),285.0,57.0,2027
+448,TX,Bastrop,48021,Bastrop,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2026
+449,TX,Bastrop,48021,Bastrop,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+450,TX,Brazoria,48039,Brazoria,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+451,TX,Milam,48331,Milam,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1500.0,"Mega campus (>1,000 MW)",1500.0,300.0,2029
+452,TX,Medina,48325,Medina,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+453,TX,Bastrop,48021,Bastrop,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+454,TX,Childress,48075,Childress,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+455,TX,Armstrong,48011,Armstrong,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,1030.0,"Mega campus (>1,000 MW)",1030.0,824.0,2027
+456,TX,Brazos,48041,Brazos,ERCOT,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,600.0,Hyperscale (100-999 MW),600.0,120.0,2029
+457,TX,Coryell,48099,Coryell,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+458,TX,Dallas,48113,Dallas,ERCOT,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+459,TX,Dallas,48113,Dallas,ERCOT,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,12.0,Medium (11-50 MW),12.0,2.4000000000000004,2029
+460,TX,Dallas,48113,Dallas,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,245.0,Hyperscale (100-999 MW),245.0,49.0,2027
+461,TX,Ector,48135,Ector,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,250.0,"Mega campus (>1,000 MW)",250.0,50.0,2029
+462,TX,Ellis,48139,Ellis,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+463,TX,El Paso,48141,El Paso,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+464,TX,Pecos,48371,Pecos,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,2000.0,"Mega campus (>1,000 MW)",2000.0,400.0,2029
+465,TX,Tarrant,48439,Tarrant,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+466,TX,Tarrant,48439,Tarrant,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,70.0,Large (51-99 MW),70.0,56.0,2026
+467,TX,Hill,48217,Hill,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,600.0,Hyperscale (100-999 MW),600.0,120.0,2029
+468,TX,Williamson,48491,Williamson,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+469,TX,Williamson,48491,Williamson,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,600.0,Hyperscale (100-999 MW),600.0,480.0,2028
+470,TX,Williamson,48491,Williamson,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+471,TX,McLennan,48309,McLennan,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,1000.0,"Mega campus (>1,000 MW)",1000.0,800.0,2030
+472,TX,Dallas,48113,Dallas,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,550.0,Hyperscale (100-999 MW),550.0,110.0,2029
+473,TX,Dallas,48113,Dallas,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+474,TX,Dallas,48113,Dallas,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,252.0,Hyperscale (100-999 MW),252.0,50.400000000000006,2029
+475,TX,Caldwell,48055,Caldwell,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,360.0,Hyperscale (100-999 MW),360.0,72.0,2028
+476,TX,Lubbock,48303,Lubbock,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+477,TX,Haskell,48207,Haskell,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+478,TX,Matagorda,48321,Matagorda,ERCOT,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,20.0,Medium (11-50 MW),20.0,4.0,2029
+479,TX,Midland,48329,Midland,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+480,TX,Ellis,48139,Ellis,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+481,TX,Milam,48331,Milam,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+482,TX,Travis,48453,Travis,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029
+483,TX,Nueces,48355,Nueces,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,150.0,Hyperscale (100-999 MW),150.0,120.0,2028
+484,TX,Childress,48075,Childress,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,100.0,Hyperscale (100-999 MW),100.0,80.0,2028
+485,TX,Willacy,48489,Willacy,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,120.0,Hyperscale (100-999 MW),120.0,96.0,2028
+486,TX,Cameron,48061,Cameron,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,100.0,Hyperscale (100-999 MW),100.0,80.0,2028
+487,TX,Cameron,48061,Cameron,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,187.0,Hyperscale (100-999 MW),187.0,149.6,2028
+488,TX,Briscoe,48045,Briscoe,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,48.0,Medium (11-50 MW),48.0,38.400000000000006,2028
+489,TX,Hays,48209,Hays,ERCOT,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,1200.0,"Mega campus (>1,000 MW)",1200.0,240.0,2029
+490,TX,Gray,48179,Gray,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+491,TX,Lamar,48277,Lamar,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,75.0,Large (51-99 MW),75.0,60.0,2028
+492,TX,Pecos,48371,Pecos,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,5000.0,"Mega campus (>1,000 MW)",5000.0,1000.0,2029
+493,TX,Travis,48453,Travis,ERCOT,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+494,TX,Collin,48085,Collin,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,36.0,Medium (11-50 MW),36.0,7.2,2029
+495,TX,Collin,48085,Collin,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+496,TX,Collin,48085,Collin,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+497,TX,Ellis,48139,Ellis,ERCOT,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,350.0,Hyperscale (100-999 MW),350.0,70.0,2029
+498,TX,Ellis,48139,Ellis,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,480.0,Hyperscale (100-999 MW),480.0,96.0,2029
+499,TX,Ellis,48139,Ellis,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+500,TX,Dallas,48113,Dallas,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,100.0,Hyperscale (100-999 MW),100.0,20.0,2029
+501,TX,Dallas,48113,Dallas,ERCOT,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,24.0,Medium (11-50 MW),24.0,4.800000000000001,2029
+502,TX,Milam,48331,Milam,ERCOT,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,25.0,Hyperscale (100-999 MW),25.0,5.0,2026
+503,TX,Tom Green,48451,Tom Green,ERCOT,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+504,TX,Bexar,48029,Bexar,ERCOT,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+505,TX,Bexar,48029,Bexar,ERCOT,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+506,TX,Bexar,48029,Bexar,ERCOT,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+507,TX,Medina,48325,Medina,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+508,TX,Bexar,48029,Bexar,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+509,TX,Bexar,48029,Bexar,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+510,TX,Bexar,48029,Bexar,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+511,TX,Bexar,48029,Bexar,ERCOT,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+512,TX,Bexar,48029,Bexar,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,32.0,Medium (11-50 MW),32.0,6.4,2026
+513,TX,Medina,48325,Medina,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,96.0,Large (51-99 MW),96.0,19.200000000000003,2027
+514,TX,Bexar,48029,Bexar,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2025
+515,TX,Bexar,48029,Bexar,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2027
+516,TX,Hays,48209,Hays,ERCOT,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+517,TX,Willacy,48489,Willacy,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,166.0,Hyperscale (100-999 MW),166.0,132.8,2028
+518,TX,El Paso,48141,El Paso,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,5.0,Small (0-10 MW),5.0,1.0,2029
+519,TX,Fort Bend,48157,Fort Bend,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+520,TX,Hopkins,48223,Hopkins,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,3000.0,"Mega campus (>1,000 MW)",3000.0,600.0,2029
+521,TX,Fisher,48151,Fisher,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,2000.0,"Mega campus (>1,000 MW)",2000.0,400.0,2028
+522,TX,Bell,48027,Bell,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,152.0,Hyperscale (100-999 MW),152.0,121.6,2028
+523,TX,Bell,48027,Bell,ERCOT,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+524,TX,Bell,48027,Bell,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,300.0,Hyperscale (100-999 MW),300.0,240.0,2028
+525,TX,Bell,48027,Bell,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,300.0,Hyperscale (100-999 MW),300.0,240.0,2028
+526,TX,Bowie,48037,Bowie,SPP,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+527,TX,Carson,48065,Carson,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+528,TX,Ellis,48139,Ellis,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+529,TX,Ellis,48139,Ellis,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+530,TX,Ellis,48139,Ellis,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+531,TX,Ellis,48139,Ellis,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+532,TX,Ellis,48139,Ellis,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+533,TX,Ellis,48139,Ellis,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+534,TX,Johnson,48251,Johnson,ERCOT,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+535,TX,Victoria,48469,Victoria,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1500.0,"Mega campus (>1,000 MW)",1500.0,300.0,2028
+536,TX,Bosque,48035,Bosque,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,190.0,Hyperscale (100-999 MW),190.0,38.0,2029
+537,TX,Montgomery,48339,Montgomery,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+538,UT,Millard,49027,Millard,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,50.0,Medium (11-50 MW),50.0,10.0,2029
+539,UT,Millard,49027,Millard,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,4000.0,"Mega campus (>1,000 MW)",4000.0,800.0,2029
+540,UT,Millard,49027,Millard,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+541,UT,Tooele,49045,Tooele,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+542,UT,Salt Lake,49035,Salt Lake,Non-ISO,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+543,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+544,VA,Fairfax,51059,Fairfax,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+545,VA,Appomattox,51011,Appomattox,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+546,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+547,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+548,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+549,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+550,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+551,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,70.0,Large (51-99 MW),70.0,14.0,2029
+552,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+553,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+554,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+555,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+556,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+557,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+558,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+559,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+560,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+561,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,32.0,Medium (11-50 MW),32.0,6.4,2029
+562,VA,Loudoun,51107,Loudoun,PJM,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,85.0,Large (51-99 MW),85.0,68.0,2028
+563,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+564,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+565,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+566,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+567,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+568,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+569,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+570,VA,Hanover,51085,Hanover,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+571,VA,Hanover,51085,Hanover,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+572,VA,Hanover,51085,Hanover,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,2400.0,"Mega campus (>1,000 MW)",2400.0,480.0,2029
+573,VA,Mecklenburg,51117,Mecklenburg,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+574,VA,Mecklenburg,51117,Mecklenburg,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+575,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+576,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+577,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+578,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+579,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+580,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+581,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+582,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+583,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+584,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+585,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+586,VA,Fauquier,51061,Fauquier,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+587,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+588,VA,Fairfax,51059,Fairfax,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+589,VA,Fairfax,51059,Fairfax,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+590,VA,Fairfax,51059,Fairfax,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+591,VA,Fairfax,51059,Fairfax,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2027
+592,VA,Charles City,51036,Charles City,PJM,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+593,VA,Mecklenburg,51117,Mecklenburg,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+594,VA,Pittsylvania,51143,Pittsylvania,PJM,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,3500.0,"Mega campus (>1,000 MW)",3500.0,700.0,2029
+595,VA,Chesterfield,51041,Chesterfield,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+596,VA,Chesterfield,51041,Chesterfield,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+597,VA,Chesterfield,51041,Chesterfield,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+598,VA,Chesterfield,51041,Chesterfield,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+599,VA,Mecklenburg,51117,Mecklenburg,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+600,VA,Culpeper,51047,Culpeper,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+601,VA,Culpeper,51047,Culpeper,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+602,VA,Culpeper,51047,Culpeper,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+603,VA,Culpeper,51047,Culpeper,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+604,VA,Culpeper,51047,Culpeper,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+605,VA,Culpeper,51047,Culpeper,PJM,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,215.0,Hyperscale (100-999 MW),215.0,43.0,2029
+606,VA,Culpeper,51047,Culpeper,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+607,VA,Culpeper,51047,Culpeper,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+608,VA,Botetourt,51023,Botetourt,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+609,VA,Scott,51169,Scott,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+610,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+611,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+612,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+613,VA,Greensville,51081,Greensville,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+614,VA,Prince William,51059,Fairfax,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+615,VA,Prince Edward,51147,Prince Edward,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+616,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+617,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2035
+618,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+619,VA,Spotsylvania,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+620,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+621,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+622,VA,Spotsylvania,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+623,VA,Spotsylvania,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+624,VA,Spotsylvania,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+625,VA,Spotsylvania,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+626,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+627,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+628,VA,Spotsylvania,51177,Spotsylvania,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+629,VA,Spotsylvania,51630,Fredericksburg,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+630,VA,Spotsylvania,51099,King George,PJM,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,1200.0,"Mega campus (>1,000 MW)",1200.0,960.0,2028
+631,VA,Spotsylvania,51630,Fredericksburg,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+632,VA,Spotsylvania,51177,Spotsylvania,PJM,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,150.0,Hyperscale (100-999 MW),150.0,30.0,2029
+633,VA,Spotsylvania,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+634,VA,Spotsylvania,51630,Fredericksburg,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+635,VA,Spotsylvania,51177,Spotsylvania,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2026
+636,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+637,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+638,VA,Prince William,51153,Prince William,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+639,VA,Prince William,51153,Prince William,PJM,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,306.0,Hyperscale (100-999 MW),306.0,61.2,2029
+640,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+641,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+642,VA,Prince William,51153,Prince William,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+643,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+644,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+645,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+646,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+647,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+648,VA,Hanover,51085,Hanover,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+649,VA,King George,51099,King George,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+650,VA,Pittsylvania,51143,Pittsylvania,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+651,VA,Harrisonburg,51660,Harrisonburg,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+652,VA,Fairfax,51059,Fairfax,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+653,VA,Fairfax,51059,Fairfax,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+654,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+655,VA,Goochland,51075,Goochland,PJM,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,1100.0,"Mega campus (>1,000 MW)",1100.0,220.0,2029
+656,VA,King George,51099,King George,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+657,VA,King George,51099,King George,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+658,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+659,VA,Loudoun,51107,Loudoun,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+660,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+661,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+662,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+663,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+664,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+665,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+666,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+667,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+668,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+669,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+670,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+671,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+672,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+673,VA,Orange,51137,Orange,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+674,VA,Louisa,51109,Louisa,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+675,VA,Louisa,51109,Louisa,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+676,VA,Louisa,51109,Louisa,PJM,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+677,VA,Louisa,51109,Louisa,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+678,VA,Campbell County,51031,Campbell,PJM,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+679,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+680,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+681,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+682,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+683,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+684,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+685,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+686,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+687,VA,Prince William,51683,Manassas,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+688,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+689,VA,Prince William,51683,Manassas,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+690,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+691,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+692,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+693,VA,Prince William,51153,Prince William,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+694,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+695,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+696,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+697,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+698,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+699,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+700,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,48.0,Medium (11-50 MW),48.0,9.6,2029
+701,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,48.0,Medium (11-50 MW),48.0,9.6,2029
+702,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+703,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+704,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+705,VA,Prince William,51153,Prince William,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+706,VA,Prince William,51153,Prince William,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+707,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+708,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+709,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+710,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+711,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+712,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+713,VA,Prince William,51153,Prince William,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+714,VA,Chesterfield,51041,Chesterfield,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+715,VA,Powhatan,51145,Powhatan,PJM,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,365.0,"Mega campus (>1,000 MW)",365.0,292.0,2028
+716,VA,Chesterfield,51041,Chesterfield,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+717,VA,Louisa,51109,Louisa,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+718,VA,Chesterfield,51041,Chesterfield,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+719,VA,Chesterfield,51041,Chesterfield,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+720,VA,Chesterfield,51041,Chesterfield,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+721,VA,Fairfax,51059,Fairfax,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+722,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+723,VA,Fauquier,51061,Fauquier,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+724,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+725,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+726,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+727,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+728,VA,Fairfax,51059,Fairfax,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+729,VA,Henrico,51087,Henrico,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,10.0,Small (0-10 MW),10.0,2.0,2029
+730,VA,Henrico,51087,Henrico,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+731,VA,Henrico,51087,Henrico,PJM,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+732,VA,Roanoke,51161,Roanoke,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+733,VA,Franklin,51067,Franklin,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+734,VA,Surry,51181,Surry,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+735,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+736,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+737,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+738,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+739,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+740,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+741,VA,Caroline,51033,Caroline,PJM,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,300.0,Hyperscale (100-999 MW),300.0,240.0,2027
+742,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+743,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+744,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+745,VA,Roanoke,51161,Roanoke,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+746,VA,Henrico,51087,Henrico,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+747,VA,Henrico,51087,Henrico,PJM,Unknown,other,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+748,VA,Henrico,51087,Henrico,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+749,VA,Mecklenburg,51117,Mecklenburg,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+750,VA,Mecklenburg,51117,Mecklenburg,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+751,VA,Mecklenburg,51117,Mecklenburg,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+752,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+753,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+754,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+755,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,800.0,Hyperscale (100-999 MW),800.0,160.0,2030
+756,VA,Fairfax,51059,Fairfax,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+757,VA,Stafford,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+758,VA,Stafford,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+759,VA,Stafford,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+760,VA,Stafford,51179,Stafford,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+761,VA,Stafford,51179,Stafford,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1100.0,"Mega campus (>1,000 MW)",1100.0,220.0,2029
+762,VA,Stafford,51179,Stafford,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2029
+763,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+764,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+765,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+766,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+767,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+768,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+769,VA,Loudoun,51107,Loudoun,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+770,VA,Loudoun,51107,Loudoun,PJM,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+771,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+772,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+773,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+774,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+775,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+776,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+777,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+778,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+779,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+780,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+781,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+782,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+783,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+784,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+785,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+786,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+787,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+788,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+789,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+790,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+791,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,135.0,Hyperscale (100-999 MW),135.0,27.0,2029
+792,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+793,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+794,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+795,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+796,VA,Loudoun,51107,Loudoun,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+797,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+798,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+799,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+800,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+801,VA,Culpeper,51047,Culpeper,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+802,VA,Loudoun,51107,Loudoun,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+803,VA,Botetourt,51023,Botetourt,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+804,VA,Fairfax,51059,Fairfax,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+805,VA,Virginia Beach,51810,Virginia Beach,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+806,VA,Fauquier,51061,Fauquier,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+807,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+808,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+809,VA,Fauquier,51061,Fauquier,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+810,VA,Wise,51195,Wise,PJM,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+811,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+812,VA,Caroline,51033,Caroline,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+813,VA,Spotsylvania,51177,Spotsylvania,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+814,WA,Benton,53005,Benton,Non-ISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+815,WI,Dodge,55027,Dodge,MISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Hyperscale (100-999 MW),316.06961258558215,252.85569006846572,2027
+816,WI,Dane,55025,Dane,MISO,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+817,WI,Ozaukee,55089,Ozaukee,MISO,Unknown,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+818,WI,Brown,55009,Brown,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+819,WI,Rock,55105,Rock,MISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,25.0,Hyperscale (100-999 MW),25.0,5.0,2029
+820,WI,Kenosha,55059,Kenosha,MISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+821,WI,Racine,55101,Racine,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,450.0,"Mega campus (>1,000 MW)",450.0,360.0,2026
+822,WI,Ozaukee,55089,Ozaukee,MISO,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,1300.0,"Mega campus (>1,000 MW)",1300.0,1040.0,2028
+823,WI,Racine,55101,Racine,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+824,WI,Dunn County,55033,Dunn,MISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+825,WI,Racine,55101,Racine,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+826,WI,Racine,55101,Racine,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+827,WI,Dane,55025,Dane,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+828,WI,Wood,55141,Wood,MISO,Cancelled,other,reported_MW,B,B: reported MW or committed inferred,0.2,20.0,Medium (11-50 MW),20.0,4.0,2029
+829,WV,Tucker,54093,Tucker,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1656.0,"Mega campus (>1,000 MW)",1656.0,331.20000000000005,2029
+830,WV,Mingo,54059,Mingo,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+831,WV,Cabell,54011,Cabell,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+832,WV,Jefferson,54037,Jefferson,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+833,WV,Monongalia,54061,Monongalia,PJM,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+834,WV,Mason,54053,Mason,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2029
+835,WV,Mingo,54059,Mingo,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1796.0,"Mega campus (>1,000 MW)",1796.0,359.20000000000005,2029
+836,WY,Laramie,56021,Laramie,SPP,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,2700.0,"Mega campus (>1,000 MW)",2700.0,2160.0,2027
+837,WY,Laramie,56021,Laramie,SPP,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+838,WY,Laramie,56021,Laramie,SPP,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+839,WY,Laramie,56021,Laramie,SPP,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,250.0,Hyperscale (100-999 MW),250.0,50.0,2029
+840,WY,Laramie,56021,Laramie,SPP,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,1800.0,"Mega campus (>1,000 MW)",1800.0,1440.0,2027
+841,WY,Lawrence,39063,Hancock,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1800.0,"Mega campus (>1,000 MW)",1800.0,360.0,2026
+842,TX,Williamson,48491,Williamson,ERCOT,Approved/Permitted/Under construction,committed,reported_MW,A,"A: committed, reported MW",0.8,40.0,Medium (11-50 MW),40.0,32.0,2028
+843,TX,Angelina,48005,Angelina,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,175.0,"Mega campus (>1,000 MW)",175.0,35.0,2026
+844,TX,Cameron,48061,Cameron,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,2000.0,"Mega campus (>1,000 MW)",2000.0,400.0,2029
+845,TX,Bexar,48029,Bexar,ERCOT,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+846,TX,Denton,48121,Denton,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,20.0,Medium (11-50 MW),20.0,4.0,2029
+847,IN,Marion,18097,Marion,MISO,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,4.0,Small (0-10 MW),4.0,0.8,2029
+848,WI,Kewaunee,55061,Kewaunee,MISO,Cancelled,other,reported_MW,B,B: reported MW or committed inferred,0.2,100.0,Hyperscale (100-999 MW),100.0,20.0,2029
+849,TX,Medina,48325,Medina,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+850,AZ,Maricopa,4013,Maricopa,Non-ISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+851,CA,Santa Clara,6085,Santa Clara,CAISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,49.0,Medium (11-50 MW),49.0,9.8,2029
+852,IL,Cook,17031,Cook,PJM,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+853,OH,Pickaway,39129,Pickaway,PJM,Suspended,other,reported_MW,B,B: reported MW or committed inferred,0.2,200.0,Hyperscale (100-999 MW),200.0,40.0,2029
+854,NY,Dutchess,36027,Dutchess,NYISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,1000.0,"Mega campus (>1,000 MW)",1000.0,200.0,2029
+855,NY,St. Lawrence,36089,St. Lawrence,NYISO,Cancelled,other,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+856,NC,Edgecombe,37065,Edgecombe,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,900.0,Hyperscale (100-999 MW),900.0,180.0,2029
+857,TX,Ellis,48139,Ellis,ERCOT,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2027
+858,PA,Beaver,42007,Beaver,PJM,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,100.0,Hyperscale (100-999 MW),100.0,20.0,2029
+859,CA,Santa Clara,6085,Santa Clara,CAISO,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,72.0,Large (51-99 MW),72.0,14.4,2030
+860,OR,Washington,41067,Washington,Non-ISO,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,4.0,Small (0-10 MW),4.0,0.8,2029
+861,OR,Washington,41067,Washington,Non-ISO,Expanding,other,reported_MW,B,B: reported MW or committed inferred,0.2,25.0,Hyperscale (100-999 MW),25.0,5.0,2027
+862,AL,Jefferson,1073,Jefferson,Non-ISO,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,Hyperscale (100-999 MW),300.0,60.0,2029
+863,HI,Honolulu,15003,Honolulu,unmatched,Expanding,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+864,TX,Freestone,48161,Freestone,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,380.0,Hyperscale (100-999 MW),380.0,76.0,2029
+865,TX,Bosque,48217,Hill,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,400.0,Hyperscale (100-999 MW),400.0,80.0,2026
+866,GA,Columbia,13073,Columbia,Non-ISO,Approved/Permitted/Under construction,committed,size_rank_inferred,B,B: reported MW or committed inferred,0.8,,Unknown,75.0,60.0,2028
+867,CA,Los Angeles,6037,Los Angeles,CAISO,Suspended,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+868,NJ,Middlesex,34023,Middlesex,PJM,Cancelled,other,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Unknown,25.0,5.0,2029
+869,OH,Pickaway,39129,Pickaway,PJM,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+870,KY,Mercer,21167,Mercer,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,645.0,Hyperscale (100-999 MW),645.0,129.0,2030
+871,MD,Montgomery,24031,Montgomery,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,300.0,"Mega campus (>1,000 MW)",300.0,60.0,2029
+872,GA,Muscogee,13215,Muscogee,Non-ISO,Proposed,proposed,size_rank_inferred,C,C: inferred size-rank MW,0.2,,Hyperscale (100-999 MW),316.06961258558215,63.21392251711643,2029
+873,MN,Wright,27171,Wright,MISO,Proposed,proposed,unsized,D,D: unsized / excluded,0.2,,Unknown,,0.0,2029
+874,TX,Washington,48477,Washington,ERCOT,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,45.0,Medium (11-50 MW),45.0,9.0,2029
+875,MD,Charles,24017,Charles,PJM,Proposed,proposed,reported_MW,B,B: reported MW or committed inferred,0.2,500.0,Hyperscale (100-999 MW),500.0,100.0,2029

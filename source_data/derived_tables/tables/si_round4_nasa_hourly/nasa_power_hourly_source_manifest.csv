@@ -1,0 +1,4 @@
+artifact,rows,description,source,script
+nasa_power_hourly_iso_profiles_2025_jja.csv,8832,site-weighted ISO hourly irradiance proxy and scaled PV profile,site-hour NASA POWER output plus canonical JJA mean PV profile,scripts/build_si_nasa_hourly_pv_window_robustness.py
+nasa_power_hourly_pv_storage_window_results.csv,1476,"PV-ratio sweep for date-resolved peak-load, earlier and later windows",canonical Fig. 5 PV-storage grid assumptions plus NASA hourly profiles,scripts/build_si_nasa_hourly_pv_window_robustness.py
+nasa_power_hourly_pv_storage_window_summary.csv,36,threshold summary printed in SI,nasa_power_hourly_pv_storage_window_results.csv,scripts/build_si_nasa_hourly_pv_window_robustness.py

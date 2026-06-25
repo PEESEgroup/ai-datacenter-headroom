@@ -1,0 +1,32 @@
+\begingroup
+\color{blue}
+\begin{table}[H]
+\centering
+\caption{Robustness of the zone-level price-stress screen.}
+\label{tab:price-stress-robustness}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l l r r r r L{0.24\linewidth}}
+\toprule
+Robustness case & Grid region & Spearman vs baseline & Top-10 overlap (\%) & Median rank change & Max rank change & Interpretation \\
+\midrule
+early\_2023\_2024 & MISO & 0.94 & 100 & 0.0 & 1.0 & broadly stable \\
+early\_2023\_2024 & NYISO & 0.89 & 100 & 1.0 & 4.0 & broadly stable \\
+early\_2023\_2024 & PJM & 0.98 & 100 & 0.0 & 2.0 & broadly stable \\
+early\_2023\_2024 & SPP & 0.98 & 90 & 0.0 & 2.0 & broadly stable \\
+exclude\_top1\_lmp\_by\_zone & ISO-NE & 1.00 & 100 & 0.0 & 0.0 & broadly stable \\
+exclude\_top1\_lmp\_by\_zone & MISO & 0.94 & 100 & 0.0 & 1.0 & broadly stable \\
+exclude\_top1\_lmp\_by\_zone & NYISO & 1.00 & 100 & 0.0 & 0.0 & broadly stable \\
+exclude\_top1\_lmp\_by\_zone & PJM & 0.98 & 100 & 0.0 & 2.0 & broadly stable \\
+exclude\_top1\_lmp\_by\_zone & SPP & 0.97 & 90 & 0.0 & 3.0 & broadly stable \\
+late\_2025\_jan2026 & ISO-NE & 1.00 & 100 & 0.0 & 0.0 & broadly stable \\
+late\_2025\_jan2026 & MISO & 1.00 & 100 & 0.0 & 0.0 & broadly stable \\
+late\_2025\_jan2026 & NYISO & 0.80 & 100 & 1.0 & 5.0 & broadly stable \\
+late\_2025\_jan2026 & PJM & 0.86 & 90 & 1.5 & 4.0 & broadly stable \\
+late\_2025\_jan2026 & SPP & 0.95 & 90 & 1.0 & 5.0 & broadly stable \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{Ranks are computed within each grid region from a reduced-form stress metric combining positive load-price sensitivity and positive P95 LMP-minus-gas spread. This robustness screen tests stability to spike-hour exclusion and sample-period composition; it is not used to infer causal congestion, welfare effects or nodal deliverability.}
+\end{table}
+\endgroup

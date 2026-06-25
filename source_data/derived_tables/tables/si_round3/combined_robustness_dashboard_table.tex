@@ -1,0 +1,29 @@
+\begingroup
+\color{blue}
+\begin{table}[H]
+\centering
+\caption{Combined robustness dashboard for headline timing and exposure findings.}
+\label{tab:combined-robustness-dashboard}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{L{0.19\linewidth}L{0.17\linewidth}L{0.24\linewidth}L{0.25\linewidth}L{0.25\linewidth}}
+\toprule
+Finding & Central value & Robustness dimension & Qualitative conclusion & Interpretation \\
+\midrule
+MISO first-negative year & 2028 & AI scenario, headroom shift, project confidence, peak coincidence & early thin-margin exposure is robust, although the exact annual clock is convention-sensitive & Modeled exposure timing, not deterministic reliability-event timing. \\
+SPP first-negative year & 2028 & AI scenario, headroom shift, project confidence, peak coincidence & early exposure is robust in central screens but more sensitive than MISO under favorable assumptions & Early-exposure interpretation with no overprecision in annual timing. \\
+PJM first-negative year & 2033 & AI scenario, headroom shift, project confidence, peak coincidence & PJM is a cumulative host-corridor pressure case and is more realization-sensitive than MISO/SPP & Robust geography distinguished from realization-sensitive annual timing. \\
+2035 seven-region exposure share & 77.7--77.9\% across the low--high 2035 AI-load scenario envelope & AI scenario, project confidence and peak coincidence & scenario-envelope exposure concentration remains high; project-confidence screens are a separate audit in which the Tier-A-only stress test lowers the share because PJM does not cross by 2035 & Scenario-envelope headline retained; project-confidence dependence treated as a separate audit. \\
+Top-50 county concentration & 74.3\% & low/mid/high 2035 AI load scenarios & county concentration is stable & Stable headline spatial-concentration metric. \\
+MISO raw-linear sensitivity & main -6.0 GW; raw-linear -17.6 GW & cap-at-zero versus raw-linear headroom convention & do not mix raw-linear baseline pressure into AI-attributable shortfall & AI-attributable margins reported under cap-at-zero; raw-linear values retained as sign-sensitivity checks. \\
+PJM near-boundary behavior & later cumulative pressure & low-growth, headroom-extrapolation and project-confidence screens & PJM should be described as cumulative and realization-sensitive & Cumulative and realization-sensitive case, not overprecise annual timing. \\
+Project-confidence dependence & MISO/SPP less sensitive; PJM more sensitive & reported/committed, confidence-weighted, Tier-A-only and delayed Tier-C cases & thin-margin timing is more robust than cumulative host-corridor timing & Project-confidence caveat retained in the Results and SI. \\
+Peak-coincidence sensitivity & central regional Gamma & absolute Gamma 0.85 and 1.00 & regional ordering is more stable than exact annual crossing year & Timing reported as modeled bottleneck clocks, not deterministic reliability years. \\
+PV-window timing robustness & PJM 0.80--0.95; SPP 0.65--0.70; MISO 1.85 to \(>2.00\); ERCOT 0.00 & NASA POWER hourly peak-load week and \(\pm\)1 week shifted windows & PJM and SPP remain below 1.0\(\times\) PV across shifted windows, while MISO is more timing-sensitive; ERCOT has no modeled central firm gap & PV-plus-storage remains a planning screen; hourly timing check does not overturn the intervention-alignment result. \\
+Price-stress robustness & reduced-form screen & exclude top 1\% price hours and split hourly panel & screen is useful as auxiliary stress indicator but should remain reduced-form & Non-causal price-stress screen. \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{This dashboard separates findings that are stable across audit dimensions from findings that are convention- or realization-sensitive. It is an audit guide and does not replace the central scenario or main-text headline values.}
+\end{table}
+\endgroup

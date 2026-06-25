@@ -1,0 +1,24 @@
+\begin{table}[H]
+\centering
+\caption{Queue effective-conversion floor sensitivity for central-growth exposed regions.}
+\label{tab:queue-effective-floor}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrrlrr}
+\toprule
+Grid region & Case & Active queue & Canonical effective & Floor & Floor effective & First negative & 2035 margin & Deficit severity \\
+ &  & (GW) & additions (GW) &  & additions (GW) & year & (GW) & (GW-yr) \\
+\midrule
+PJM & base\_canonical & 94.2 & 9.7 & 0\% & 9.7 & 2033 & -6.0 & 8.3 \\
+MISO & base\_canonical & 250.3 & 0.5 & 0\% & 0.5 & 2028 & -6.0 & 38.9 \\
+SPP & base\_canonical & 83.7 & 3.8 & 0\% & 3.8 & 2028 & -2.3 & 18.3 \\
+PJM & active\_queue\_1pct\_floor & 94.2 & 9.7 & 1\% & 9.7 & 2033 & -6.0 & 8.3 \\
+MISO & active\_queue\_1pct\_floor & 250.3 & 0.5 & 1\% & 2.5 & 2029 & -3.9 & 23.7 \\
+SPP & active\_queue\_1pct\_floor & 83.7 & 3.8 & 1\% & 3.8 & 2028 & -2.3 & 18.3 \\
+PJM & active\_queue\_2pct\_floor & 94.2 & 9.7 & 2\% & 9.7 & 2033 & -6.0 & 8.3 \\
+MISO & active\_queue\_2pct\_floor & 250.3 & 0.5 & 2\% & 5.0 & 2029 & -1.4 & 7.4 \\
+SPP & active\_queue\_2pct\_floor & 83.7 & 3.8 & 2\% & 3.8 & 2028 & -2.3 & 18.3 \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{The 1\% and 2\% cases impose a minimum effective conversion on 2026--2028 active queue capacity. Only the incremental amount above the canonical effective-addition screen is added, with a 2026--2028 ramp. This is a robustness check, not a replacement for the base queue-credibility screen.}
+\end{table}

@@ -1,0 +1,6 @@
+table_file,source_tables,purpose
+combined_uncertainty_compact_table.tex,"tables/batch2_combined_uncertainty_20260528/batch2_combined_2035_margin_summary.csv; tables/batch2_combined_uncertainty_20260528/batch2_combined_first_deficit_summary.csv","Compact bounded combined-uncertainty screen"
+gas_co2e_sensitivity_table.tex,tables/batch4_emissions_robustness_20260528/batch4_hframe_50pct_summary.csv,"Scope 1 plus upstream methane CO2e sensitivity for selected gas-backstop cases"
+air_nonattainment_context_table.tex,tables/batch5_onsite_feasibility_20260528/derived/batch5_air_permitting_ai_load_summary.csv,"EPA Green Book nonattainment context by load denominator"
+cooling_water_context_table.tex,tables/batch5_onsite_feasibility_20260528/derived/batch5_gas_backstop_water_by_region.csv,"NREL cooling-water factor and USGS water-context screen"
+nuclear_evidence_status_compact_table.tex,tables/si_round2/nuclear_unit_recovery_ledger.csv,"Compact evidence/status traceability for selected nuclear recovery units"

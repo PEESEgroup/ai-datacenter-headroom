@@ -1,0 +1,30 @@
+\begingroup
+\color{blue}
+\begin{table}[H]
+\centering
+\caption{Date-resolved NASA POWER hourly PV-window robustness screen.}
+\label{tab:nasa-hourly-pv-window}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l l r r r r L{0.34\linewidth}}
+\toprule
+Grid region & Scenario & Earlier week & Peak-load week & Later week & Max--min & Interpretation \\
+\midrule
+PJM & low & 0.00 & 0.00 & 0.00 & 0.00 & all windows reach threshold \\
+PJM & mid & 0.95 & 0.95 & 0.80 & 0.15 & all windows reach threshold \\
+PJM & high & 1.45 & 1.45 & 1.25 & 0.20 & all windows reach threshold \\
+MISO & low & >2.00 & >2.00 & 1.85 & -- & threshold not reached by 200\% PV in at least one window \\
+MISO & mid & >2.00 & >2.00 & 1.85 & -- & threshold not reached by 200\% PV in at least one window \\
+MISO & high & >2.00 & >2.00 & 1.85 & -- & threshold not reached by 200\% PV in at least one window \\
+SPP & low & 0.20 & 0.20 & 0.20 & 0.00 & all windows reach threshold \\
+SPP & mid & 0.65 & 0.70 & 0.65 & 0.05 & all windows reach threshold \\
+SPP & high & 0.95 & 1.00 & 0.95 & 0.05 & all windows reach threshold \\
+ERCOT & low & 0.00 & 0.00 & 0.00 & 0.00 & all windows reach threshold \\
+ERCOT & mid & 0.00 & 0.00 & 0.00 & 0.00 & all windows reach threshold \\
+ERCOT & high & 0.00 & 0.00 & 0.00 & 0.00 & all windows reach threshold \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{Entries report the minimum PV nameplate ratio, relative to incremental AI peak load, required to reduce the AI-attributable residual firm requirement to at most 1\% with 4 h storage and storage power equal to 50\% of PV capacity. The peak-load week is the seven-day window centered on the 2025 summer peak-load date in the ISO/RTO hourly load panel; earlier and later weeks shift that calendar window by seven days. Hourly PV profiles use NASA POWER hourly \texttt{ALLSKY\_SFC\_SW\_DWN} at the AI-site coordinates, site-weighted by modeled site size and scaled to the canonical JJA mean PV profile used in the main Fig.~5 screen. This is a date-resolved screening robustness check, not site-specific PV engineering design. Values shown as \(>2.00\) do not reach the 1\% threshold within the evaluated 0--200\% PV grid.}
+\end{table}
+\endgroup

@@ -1,0 +1,5 @@
+ISO,status,http_status,parameter,time_standard,site_count,site_weight_mw_sum,hourly_values_sum,redaction_note
+ERCOT,ok,200,ALLSKY_SFC_SW_DWN,LST,44,31608.000,97152,"Exact latitude, longitude and request URL are omitted; site_hash and aggregate ISO profiles are included elsewhere in the public package."
+MISO,ok,200,ALLSKY_SFC_SW_DWN,LST,35,24750.000,77280,"Exact latitude, longitude and request URL are omitted; site_hash and aggregate ISO profiles are included elsewhere in the public package."
+PJM,ok,200,ALLSKY_SFC_SW_DWN,LST,58,51128.600,128064,"Exact latitude, longitude and request URL are omitted; site_hash and aggregate ISO profiles are included elsewhere in the public package."
+SPP,ok,200,ALLSKY_SFC_SW_DWN,LST,16,29811.000,35328,"Exact latitude, longitude and request URL are omitted; site_hash and aggregate ISO profiles are included elsewhere in the public package."

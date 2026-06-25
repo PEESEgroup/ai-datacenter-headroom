@@ -1,0 +1,13 @@
+ISO,window_case,peak_load_local_timestamp,peak_load_mw,window_center_date,window_start_date,window_end_date,load_panel_source
+ERCOT,one_week_earlier,2025-06-20T16:00:00,78041.33,2025-06-13,2025-06-10,2025-06-16,ERCOT restricted hourly load/LMP panel used for peak-window audit
+ERCOT,one_week_later,2025-06-20T16:00:00,78041.33,2025-06-27,2025-06-24,2025-06-30,ERCOT restricted hourly load/LMP panel used for peak-window audit
+ERCOT,peak_load_week,2025-06-20T16:00:00,78041.33,2025-06-20,2025-06-17,2025-06-23,ERCOT restricted hourly load/LMP panel used for peak-window audit
+MISO,one_week_earlier,2025-06-22T17:00:00,117218.26,2025-06-15,2025-06-12,2025-06-18,MISO restricted hourly load/LMP panel used for peak-window audit
+MISO,one_week_later,2025-06-22T17:00:00,117218.26,2025-06-29,2025-06-26,2025-07-02,MISO restricted hourly load/LMP panel used for peak-window audit
+MISO,peak_load_week,2025-06-22T17:00:00,117218.26,2025-06-22,2025-06-19,2025-06-25,MISO restricted hourly load/LMP panel used for peak-window audit
+PJM,one_week_earlier,2025-06-12T17:00:00,104763.029,2025-06-05,2025-06-02,2025-06-08,PJM restricted hourly load/LMP panel used for peak-window audit
+PJM,one_week_later,2025-06-12T17:00:00,104763.029,2025-06-19,2025-06-16,2025-06-22,PJM restricted hourly load/LMP panel used for peak-window audit
+PJM,peak_load_week,2025-06-12T17:00:00,104763.029,2025-06-12,2025-06-09,2025-06-15,PJM restricted hourly load/LMP panel used for peak-window audit
+SPP,one_week_earlier,2025-06-20T16:00:00,50687.653,2025-06-13,2025-06-10,2025-06-16,SPP restricted hourly load/LMP panel used for peak-window audit
+SPP,one_week_later,2025-06-20T16:00:00,50687.653,2025-06-27,2025-06-24,2025-06-30,SPP restricted hourly load/LMP panel used for peak-window audit
+SPP,peak_load_week,2025-06-20T16:00:00,50687.653,2025-06-20,2025-06-17,2025-06-23,SPP restricted hourly load/LMP panel used for peak-window audit

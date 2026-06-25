@@ -1,0 +1,24 @@
+\begingroup
+\begin{table}[H]
+\centering
+\caption{Sign-sensitive ISO-year cells in the main Fig.~2 headroom-extrapolation envelope.}
+\label{tab:sign-sensitive-fig2}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrll}
+\toprule
+Scenario & Grid region & Year & Main margin & Sensitivity-bound margin & Sign change & 0--2 GW \\
+ &  &  & (GW) & (GW) &  & warning \\
+\midrule
+low & MISO & 2033 & -4.35 & 0.62 & negative $\rightarrow$ nonnegative & no \\
+low & MISO & 2034 & -4.45 & 1.51 & negative $\rightarrow$ nonnegative & no \\
+low & MISO & 2035 & -4.52 & 2.44 & negative $\rightarrow$ nonnegative & no \\
+low & PJM & 2035 & 0.03 & -1.48 & nonnegative $\rightarrow$ negative & yes \\
+low & SPP & 2029 & 0.09 & -0.23 & nonnegative $\rightarrow$ negative & yes \\
+mid & MISO & 2035 & -5.98 & 0.98 & negative $\rightarrow$ nonnegative & no \\
+mid & PJM & 2033 & -1.46 & 0.69 & negative $\rightarrow$ nonnegative & no \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{Sign-sensitive cells are annual ISO/RTO-scenario observations whose margin sign changes somewhere within the headroom-extrapolation audit envelope used to mark main Fig.~2c cells, not a second trajectory band in main Fig.~2e. The sensitivity-bound margin is the main margin plus the relevant upper or lower envelope delta, not the raw-linear baseline margin reported in the cap-at-zero/raw-linear 2035 audit. These cells are retained as robustness flags and are not treated as deterministic reliability events.}
+\end{table}
+\endgroup

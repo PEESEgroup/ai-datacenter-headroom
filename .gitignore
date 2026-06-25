@@ -1,0 +1,32 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+*.aux
+*.blg
+*.bbl
+*.toc
+outputs/*.tmp
+
+# Manuscript and private review materials are intentionally excluded from the
+# public reproducibility package.
+manuscript/
+figures/
+docs/revision_tracking/
+docs/*REVIEW*
+docs/*Review*
+docs/*review*
+docs/*RESPONSE*
+docs/*Response*
+docs/*response*
+docs/*REVISION*
+docs/*Revision*
+docs/*revision*
+docs/JUNE_2026_SUPPLEMENTAL_EXPERIMENT_UPDATE.md
+
+# Do not publish exact site-coordinate/API logs or raw third-party downloads.
+source_data/**/raw_external/
+source_data/**/nasa_power_hourly_request_log.csv
+source_data/**/nasa_power_hourly_site_irradiance_*.csv.gz
+source_data/**/nsrdb_pvwatts_request_log.csv
+source_data/derived_tables/june2026_supplemental_checks/

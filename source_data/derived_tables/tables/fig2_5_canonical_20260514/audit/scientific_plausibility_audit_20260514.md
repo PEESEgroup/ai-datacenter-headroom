@@ -1,0 +1,10 @@
+# Scientific plausibility audit, Fig. 2-5 canonical data
+
+- **pass | AI scenario monotonicity**: low<=mid<=high for all ISO-years.
+- **warning | MISO raw-linear slack sensitivity**: MISO 2035 raw-linear extrapolated slack is -11.6 GW while main cap-at-zero AI-hosting headroom is 0.0 GW; use cap-at-zero HC_MW for main margins and retain raw-linear slack only as sensitivity.
+- **warning | Net headroom decline label**: PJM, MISO, ISO-NE have negative 2025-2035 net headroom change; do not call this negative new supply/buildout.
+- **pass | On-site attribution**: AI-attributable firm onsite requirement never exceeds incremental AI peak.
+- **note | LMP screen interpretation**: 1 of 64 zone beta estimates are negative and clipped to zero in stress metrics; describe as historical price-sensitivity screening, not causal congestion modeling.
+- **note | Nuclear restart timing**: 2 restart rows have missing retire_year by design and use 2028 availability fallback: Palisades, Crane Clean Energy Center
+- **pass | Fig5 missing values**: No missing values in Fig5 fingerprint.
+- **pass | Main MISO margin**: MISO main 2035 mid margin is -6.0 GW after cap-at-zero headroom is combined with incremental AI load; the -11.6 GW raw-linear value is not included in the main margin.

@@ -1,0 +1,20 @@
+\begingroup
+\begin{table}[H]
+\centering
+\caption{Project-confidence tiers and MW inference rules.}
+\label{tab:project-confidence-tiers}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lL{0.23\linewidth}L{0.13\linewidth}L{0.28\linewidth}lL{0.18\linewidth}}
+\toprule
+Tier & Record condition & MW source & MW inference rule & Main allocation & Delayed-case treatment \\
+\midrule
+A & capacity-usable, committed status and reported MW & reported MW & direct reported MW retained; effective MW applies status realization factor & yes & no delay \\
+B & reported MW with non-committed status, or committed status with size-rank inferred MW & reported MW or inferred MW & reported MW retained where available; otherwise size-rank inferred MW for committed projects & yes & no delay \\
+C & capacity-usable record without reported MW and without committed status & size-rank inferred MW & MW inferred from project size-rank class and existing project-size distribution & yes & online year shifted two years later in delayed Tier-C case \\
+D & insufficient usable capacity information & none & no capacity assigned & no & audit only \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{The confidence tiers are used to test dependence on project-level geography and capacity evidence; they do not replace the national load-growth scenario. Tier-specific screens are applied only to incremental 2025--2035 AI growth so that already-hosted 2025 load is not counted twice. Reported MW is used when available; otherwise the size-rank-inferred MW field from the project-inventory preprocessing is used only for records with enough information to enter the capacity-weighted allocation.}
+\end{table}
+\endgroup

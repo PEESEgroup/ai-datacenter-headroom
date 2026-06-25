@@ -1,0 +1,9 @@
+iso_region,pathway,candidate_units,raw_capacity_GW,recoverable_GW,effective_low_alpha08_GW,effective_mid_alpha09_GW,effective_high_alpha10_GW,earliest_available_year,latest_available_year,source_table
+CAISO,retention,1,1.118,0.0,0.0,0.0,0.0,2025,2025,tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv
+ERCOT,retention,2,2.4000000000000004,1.92,1.536,1.728,1.92,2030,2033,tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv
+MISO,restart,1,0.7685,0.7685,0.6148,0.69165,0.7685,2028,2028,tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv
+MISO,retention,7,4.755,1.8941600000000005,1.5153280000000005,1.7047440000000005,1.8941600000000005,2027,2034,tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv
+NYISO,retention,3,2.0557,0.9168350000000001,0.7334680000000001,0.8251515,0.9168350000000001,2029,2034,tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv
+PJM,restart,1,0.8028,0.8028,0.64224,0.7225199999999999,0.8028,2028,2028,tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv
+PJM,retention,7,6.7492,2.94971,2.3597680000000003,2.654739,2.94971,2026,2034,tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv
+SPP,retention,1,0.7685,0.26897499999999996,0.21517999999999998,0.24207749999999997,0.26897499999999996,2034,2034,tables/fig2_5_canonical_20260514/fig4/fig4_unit_level_nuclear_candidates_canonical.csv

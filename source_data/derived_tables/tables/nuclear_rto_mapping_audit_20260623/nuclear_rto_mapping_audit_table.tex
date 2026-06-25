@@ -1,0 +1,20 @@
+\begin{table}[H]
+\centering
+\caption{Generator-to-RTO mapping audit for boundary and restart nuclear units.}
+\label{tab:nuclear-rto-mapping-audit}
+\scriptsize
+\begin{tabular}{llllll}
+\toprule
+Unit & State & EIA-860M BA code & Previous region & Corrected region & Audit result \\
+\midrule
+Dresden Generating Station 2 & IL & PJM & PJM & PJM & verified \\
+Dresden Generating Station 3 & IL & PJM & PJM & PJM & verified \\
+Quad Cities Generating Station 1 & IL & PJM & MISO & PJM & corrected \\
+Quad Cities Generating Station 2 & IL & PJM & MISO & PJM & corrected \\
+Donald C Cook 1 & MI & PJM & PJM & PJM & verified \\
+Palisades 1 & MI & MISO & PJM & MISO & corrected \\
+Crane Clean Energy Center 1 & PA & PJM & PJM & PJM & verified \\
+\bottomrule
+\end{tabular}
+\tabnote{The audit uses generator-level EIA-860M balancing-authority codes, mapped to the paper's ISO/RTO labels, as the controlling source where county/spatial assignment conflicts with generator records. The full machine-readable audit covers all 23 nuclear candidate records.}
+\end{table}

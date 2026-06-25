@@ -1,0 +1,3 @@
+artifact,source,script,purpose
+nuclear_recoverability_sensitivity.csv,fig4_policy_margin_cases_canonical.csv; fig4_unit_level_nuclear_candidates_canonical.csv,scripts/build_si_nuclear_recoverability_sensitivity.py,Recoverability-factor sensitivity with alpha fixed at 0.90.
+nuclear_recoverability_evidence_crosswalk.csv,fig4_unit_level_nuclear_candidates_canonical.csv,scripts/build_si_nuclear_recoverability_sensitivity.py,Evidence-category crosswalk for rho values.

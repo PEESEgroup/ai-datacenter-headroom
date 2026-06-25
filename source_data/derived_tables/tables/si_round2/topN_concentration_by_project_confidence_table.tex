@@ -1,0 +1,22 @@
+\begingroup
+\begin{table}[H]
+\centering
+\caption{County concentration audit under grid-region project-confidence multipliers.}
+\label{tab:project-confidence-concentration}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrrrr}
+\toprule
+Filter case & Top 10 & Top 20 & Top 50 & Top 100 & Positive counties & $>$1 GW counties & Total load \\
+ & (\%) & (\%) & (\%) & (\%) &  &  & (GW) \\
+\midrule
+main inventory & 36.6\% & 51.7\% & 74.3\% & 88.6\% & 335 & 19 & 84.3 \\
+reported/committed & 36.6\% & 52.0\% & 74.6\% & 88.8\% & 335 & 19 & 80.1 \\
+confidence-weighted & 37.0\% & 52.5\% & 75.0\% & 89.1\% & 335 & 18 & 74.0 \\
+Tier A only & 40.1\% & 56.1\% & 79.2\% & 92.0\% & 330 & 8 & 47.2 \\
+delayed Tier C & 36.6\% & 51.7\% & 74.3\% & 88.6\% & 335 & 19 & 84.2 \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{This audit tests whether the spatial concentration result is driven by lower-confidence announced projects. It is separate from the seven-region exposure-share calculation and uses the full county allocation. Project-confidence filters are applied to county-level incremental load through grid-region multipliers derived from the same margin robustness pipeline, rather than by constructing an independent county-level national scenario or reassigning counties across grid regions.}
+\end{table}
+\endgroup

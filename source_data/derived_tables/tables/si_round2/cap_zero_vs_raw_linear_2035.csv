@@ -1,0 +1,8 @@
+iso_region,cap_at_zero_HC_2035_GW,cap_at_zero_margin_2035_GW,raw_linear_HC_2035_GW,raw_linear_margin_2035_GW,difference_raw_minus_cap_GW,main_deficit_GW,raw_linear_deficit_GW,interpretation_flag,source_table
+PJM,10.836693491667507,-6.04314597204997,10.836693491667507,-6.04314597204997,0.0,6.04314597204997,6.04314597204997,main exposed,tables/fig2_5_canonical_20260514/fig2/fig2_shared_canonical_gap_yearly.csv
+MISO,0.0,-5.97744813869023,-11.63923420575168,-17.616682344441912,-11.63923420575168,5.97744813869023,17.616682344441912,main exposed,tables/fig2_5_canonical_20260514/fig2/fig2_shared_canonical_gap_yearly.csv
+SPP,5.120710442016425,-2.310275476751692,5.120710442016425,-2.310275476751692,0.0,2.310275476751692,2.310275476751692,main exposed,tables/fig2_5_canonical_20260514/fig2/fig2_shared_canonical_gap_yearly.csv
+ERCOT,15.196439259431909,8.950492264546345,15.196439259431909,8.950492264546345,0.0,0.0,0.0,main positive,tables/fig2_5_canonical_20260514/fig2/fig2_shared_canonical_gap_yearly.csv
+CAISO,19.272207965973763,17.126406561460563,19.272207965973763,17.126406561460563,0.0,0.0,0.0,main positive,tables/fig2_5_canonical_20260514/fig2/fig2_shared_canonical_gap_yearly.csv
+NYISO,5.053637607667766,4.685411383070129,5.053637607667766,4.685411383070129,0.0,0.0,0.0,main positive,tables/fig2_5_canonical_20260514/fig2/fig2_shared_canonical_gap_yearly.csv
+ISO-NE,5.214409548228257,5.137396975522637,5.214409548228257,5.137396975522637,0.0,0.0,0.0,main positive,tables/fig2_5_canonical_20260514/fig2/fig2_shared_canonical_gap_yearly.csv

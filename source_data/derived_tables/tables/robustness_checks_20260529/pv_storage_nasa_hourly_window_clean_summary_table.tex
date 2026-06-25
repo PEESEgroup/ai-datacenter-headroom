@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Date-resolved NASA POWER hourly PV-window robustness screen under the central-growth case.}
+\label{tab:pv-storage-hourly-clean-summary}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lrrrrr}
+\toprule
+Grid region & Windows reaching $\leq$1\% residual & PV ratio range & PV ratio median & 100\%PV+4h residual range & Median residual \\
+ &  & (AI peak) & (AI peak) & (\% AI peak) & (GW) \\
+\midrule
+PJM & 3/3 & 0.80--0.95 & 0.95 & 0.1--0.9 & 0.12 \\
+MISO & 1/3 & 1.85--1.85 & 1.85 & 1.0--10.0 & 0.13 \\
+SPP & 3/3 & 0.65--0.70 & 0.65 & 0.0--0.5 & 0.02 \\
+ERCOT & 3/3 & 0.00--0.00 & 0.00 & 0.0--0.0 & 0.00 \\
+\bottomrule
+\end{tabular}%
+}
+\tabnote{The screen uses NASA POWER hourly irradiance for the peak-load week and one-week shifted windows. It is a robustness check for timing sensitivity, not a substitute for NSRDB, project engineering, capacity accreditation or full-year dispatch modeling.}
+\end{table}

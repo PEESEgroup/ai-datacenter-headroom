@@ -1,0 +1,17 @@
+figure_or_scope,check,status,finding,recommended_action
+Shared,National/ISO7 scope,pass,"2025 ISO7 raw share=65.6%, non-ISO coincident=10.1 GW; 2035 ISO7 raw share=69.3%, non-ISO coincident=25.6 GW",State explicitly that ISO7 is a modeled subset and non-ISO load is retained in Fig.1 allocation.
+Shared,Scenario monotonicity,pass,0 ISO-year monotonicity violations.,"If nonzero, explain as spatial-share uncertainty; current canonical output has none."
+Fig2,Old-vs-canonical demand correction,warning,4 ISOs change 2035 margin by >=1 GW after preserving non-ISO share; biggest change PJM: 2.9 GW.,Regenerate Fig.2 and all downstream text with canonical values; do not cite old margins.
+Fig2,2035 mid deficit pattern,pass,"PJM 6.0 GW (first 2032.4), MISO 6.0 GW (first 2027.5), SPP 2.3 GW (first 2027.2)",Core result should be MISO/PJM/SPP deficits; ERCOT remains positive in mid/high after canonical correction.
+Fig2,Low-growth sign sensitivity,note,"PJM low-growth 2035 margin is only 0.025 GW, essentially at the sign boundary.",Avoid saying PJM is safely positive under low growth; describe it as near-binding.
+Fig2,Net headroom zero/negative,warning,Net 2035 AI-hosting headroom is zero for MISO.,"Document retirement and generator-queue assumptions clearly for MISO."
+Fig2,Negative non-AI growth fields,note,"Non-AI growth field is negative for PJM, NYISO, ISO-NE.","If shown in Fig.2b, label as net non-AI relief/load decline; do not draw it as unexplained negative demand."
+Fig3,Archetype support,warning,Raw 4-cluster silhouette score is 0.266; rule-based archetype labels are included to avoid over-interpreting n=7 clustering.,"Caption should say archetypes are descriptive, supported by standardized metrics, not a predictive classifier."
+Fig3,Zone LMP coverage,pass,"CAISO: 4 zones, ERCOT: 4 zones, ISO-NE: 8 zones, MISO: 6 zones, NYISO: 11 zones, PJM: 14 zones, SPP: 17 zones",Good: ISO-NE is present after correction; retain data coverage note.
+Fig4,Nuclear offset under canonical margins,pass,"MISO: offset 3.0 GW, residual 3.0 GW, PJM: offset 2.8 GW, residual 3.3 GW, SPP: offset 0.2 GW, residual 2.1 GW","Nuclear is a partial mitigation, not a complete solution; emphasize uncertainty and residual deficits."
+Fig4,Scenario-dependent value,note,"PJM low-growth baseline shortfall is 0.0 GW, so PJM nuclear value can be zero under low AI growth.",Fig.4 should keep uncertainty bands to avoid overclaiming nuclear retention value.
+Fig5,Firm on-site requirement,pass,"MISO: 100%, PJM: 36%, SPP: 31%","Phrase as capacity required to close modeled AI-hosting margin, not economic adoption forecast."
+Fig5,PV+4h benchmark,pass,"ERCOT: residual 0.0%, MISO: residual 6.2%, PJM: residual 0.0%, SPP: residual 0.0%",This supports the claim that PV/storage helps but is region-specific; label PV ratio as nameplate / AI peak.
+Fig5,Fingerprint missing values,pass,0 rows contain missing fingerprint values.,"Current canonical table should have no n.a. for plotted metrics; if any appear, inspect source coverage."
+Fig5,Known data quality flags,warning,NYISO processed solar profile is zero (high); FracTracker power_source field sparse (medium); No external PVWatts/NSRDB coordinate query performed (methodological limitation),Keep NYISO solar profile caveat and state-price/tariff caveat in Methods/SI.
+Fig5,Value bounds,pass,"max firm share=1.00, max PV/storage residual share=1.00.","If >1, explain that full AI on-site generation cannot offset non-AI-driven shortage; current canonical net-headroom run should avoid this."

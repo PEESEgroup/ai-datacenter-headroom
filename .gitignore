@@ -28,5 +28,6 @@ docs/JUNE_2026_SUPPLEMENTAL_EXPERIMENT_UPDATE.md
 source_data/**/raw_external/
 source_data/**/nasa_power_hourly_request_log.csv
 source_data/**/nasa_power_hourly_site_irradiance_*.csv.gz
+!source_data/redacted_site_level/nasa_power_hourly_site_irradiance_2025_jja_redacted.csv.gz
 source_data/**/nsrdb_pvwatts_request_log.csv
 source_data/derived_tables/june2026_supplemental_checks/

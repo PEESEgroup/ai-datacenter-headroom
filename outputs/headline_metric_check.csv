@@ -1,0 +1,6 @@
+metric,value,expected_text_value,source
+"Fig.1 central-2035 top-50 county share, full county allocation (%)",74.3,74.3,fig1c_county_rank_canonical.csv
+Central-2035 AI load share in potential deficit-facing grid regions (%),77.8,77.8,canonical_iso_ai_demand_yearly.csv
+PJM central-2035 modeled margin (GW),-6.0,-6.0,fig2b_iso_margin_bridge_2035_canonical_source.csv
+MISO central-2035 modeled margin (GW),-6.0,-6.0,fig2b_iso_margin_bridge_2035_canonical_source.csv
+SPP central-2035 modeled margin (GW),-2.3,-2.3 to -4.8 depending current figure/caption convention,fig2b_iso_margin_bridge_2035_canonical_source.csv

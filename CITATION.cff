@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this public reproducibility package, please cite the associated study."
+title: "Public reproducibility package for AI data-center growth and regional supply-headroom alignment in the United States"
+type: dataset
+authors:
+  - family-names: Lu
+    given-names: Chenbei
+  - family-names: You
+    given-names: Fengqi
+date-released: "2026-05-26"
+repository-code: "https://github.com/Chenbei-Lu/ai-datacenter-headroom-repro"
+abstract: "Derived source-data tables, provenance scripts and audit documentation supporting analysis of AI data-center growth and regional supply-headroom alignment in the United States."
+license: "TO_BE_SELECTED"

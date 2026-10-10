@@ -1,0 +1,3 @@
+file,field,unit,meaning,replaces_legacy_field
+Fig1_county_display_downscaling.csv,allocated_average_MW,MW annual average,Author county downscaling for display; not coincident peak,MW_peak_total
+Fig1_county_display_downscaling.csv,gw,GW annual average,allocated_average_MW / 1000,

@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "frozen_utc": "2026-10-05 05:27:13 UTC",
+  "status": "retrospective mechanism-driven development; not blinded validation or preregistration",
+  "rationale": "Earlier component audit shows different operating-stock and planned-entry errors. Test preserving the published operating-stock schedule while applying the already frozen rolling-origin frequencies only to Planned projects. Do not change training thresholds, horizons, fallback, region weights or unseen-entry estimator.",
+  "candidates": ["existing_plan_project_frequency", "existing_plan_project_frequency_open"],
+  "comparators": ["inventory_persistence", "announced_schedule", "learned_visible_stock", "learned_open_stock"],
+  "existing_stock": "Operating-sheet records use origin-known status, retirement dates and announced capacity modifications, identically to announced_schedule. This is a conditional schedule, not guaranteed supply.",
+  "planned_projects": "Planned-sheet records use the previous capacity-weighted target-OP frequency and origin size, with no new calibration or region-specific tuning.",
+  "open_supply": "Reuse exactly the previous rolling-origin unseen-entry contribution; no additional extrapolation or fitted intercept.",
+  "sample": "unchanged 175 physical inventory and 120 fixed-origin wind/solar-adjusted index cases; prespecified origin>=2022 and lead<=2 remains a secondary scope",
+  "target": "reported-known June OP BA inventory, not firm seasonal resources or native NERC planning balances; target missing ratings remain unresolved",
+  "acceptance": "lower MAE than both persistence and announced schedule, positive improvements in all omit-one-region and omit-one-origin evaluations, and positive region-block lower confidence limits against both; passing this component gate would still not authorize EIA-to-NERC full-balance substitution",
+  "bootstrap_draws": 10000,
+  "seed": 20261005,
+  "native_annual_check": "fresh extraction of seven NERC LTRA 2025 summer tables and ERCOT provisional response; independently reconstruct 1050 annual balances, exact annual decomposition, and all 388800 paired DC replacement contributions",
+  "novelty_checks": [
+    "direct same-input annual accounting is an expected null, not a novel predictor",
+    "annual versus endpoint comparisons retain all four source resource-response conditions and separate timing stresses",
+    "DC pressure, added requirement and cushion consumption are paired within the same background before aggregation",
+    "MISO zero linked response is the principal controlled anchor; positive association is an outer structural bound",
+    "ERCOT associated response is scenario-specific, not measured DC-only causal response",
+    "hold resource background fixed in paired attribution and disclose inability to identify induced supply"
+  ],
+  "display": "reuse the existing framework-comparison protocol selection; do not choose attractive curves after examining new outputs",
+  "tolerance_GW": 1e-7,
+  "preservation": "new directory only; all old data, code, main/SI, figures and remote repositories unchanged",
+  "nonclaims": ["no promise of beating persistence", "no predictive validation of 2026-2035 balances", "no seven-region causal DC-only attribution", "no new probabilistic reliability forecast"]
+}

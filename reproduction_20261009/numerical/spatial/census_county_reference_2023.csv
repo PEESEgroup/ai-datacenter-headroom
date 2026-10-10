@@ -1,0 +1,3236 @@
+GEOID,STUSPS,NAME,STATE_NAME
+13065,GA,Clinch,Georgia
+21083,KY,Graves,Kentucky
+37177,NC,Tyrrell,North Carolina
+38013,ND,Burke,North Dakota
+40059,OK,Harper,Oklahoma
+31083,NE,Harlan,Nebraska
+31009,NE,Blaine,Nebraska
+02164,AK,Lake and Peninsula,Alaska
+17081,IL,Jefferson,Illinois
+18049,IN,Fulton,Indiana
+18031,IN,Decatur,Indiana
+19127,IA,Marshall,Iowa
+20111,KS,Lyon,Kansas
+20001,KS,Allen,Kansas
+28107,MS,Panola,Mississippi
+13235,GA,Pulaski,Georgia
+39079,OH,Jackson,Ohio
+40149,OK,Washita,Oklahoma
+20053,KS,Ellsworth,Kansas
+48059,TX,Callahan,Texas
+48047,TX,Brooks,Texas
+51820,VA,Waynesboro,Virginia
+54101,WV,Webster,West Virginia
+30033,MT,Garfield,Montana
+16057,ID,Latah,Idaho
+21105,KY,Hickman,Kentucky
+23003,ME,Aroostook,Maine
+26095,MI,Luce,Michigan
+29159,MO,Pettis,Missouri
+37005,NC,Alleghany,North Carolina
+32510,NV,Carson City,Nevada
+13279,GA,Toombs,Georgia
+18045,IN,Fountain,Indiana
+27015,MN,Brown,Minnesota
+35029,NM,Luna,New Mexico
+40125,OK,Pottawatomie,Oklahoma
+41023,OR,Grant,Oregon
+48131,TX,Duval,Texas
+48283,TX,La Salle,Texas
+55039,WI,Fond du Lac,Wisconsin
+40077,OK,Latimer,Oklahoma
+60040,AS,Swains Island,American Samoa
+06091,CA,Sierra,California
+13131,GA,Grady,Georgia
+26019,MI,Benzie,Michigan
+28075,MS,Lauderdale,Mississippi
+31169,NE,Thayer,Nebraska
+36103,NY,Suffolk,New York
+31143,NE,Polk,Nebraska
+48109,TX,Culberson,Texas
+01105,AL,Perry,Alabama
+02230,AK,Skagway,Alaska
+13227,GA,Pickens,Georgia
+17107,IL,Logan,Illinois
+18041,IN,Fayette,Indiana
+19035,IA,Cherokee,Iowa
+27067,MN,Kandiyohi,Minnesota
+29175,MO,Randolph,Missouri
+35028,NM,Los Alamos,New Mexico
+39129,OH,Pickaway,Ohio
+19121,IA,Madison,Iowa
+46101,SD,Moody,South Dakota
+48375,TX,Potter,Texas
+55067,WI,Langlade,Wisconsin
+72047,PR,Corozal,Puerto Rico
+46003,SD,Aurora,South Dakota
+12111,FL,St. Lucie,Florida
+13055,GA,Chattooga,Georgia
+18075,IN,Jay,Indiana
+20075,KS,Hamilton,Kansas
+30075,MT,Powder River,Montana
+29131,MO,Miller,Missouri
+31011,NE,Boone,Nebraska
+31093,NE,Howard,Nebraska
+31137,NE,Phelps,Nebraska
+31113,NE,Logan,Nebraska
+05097,AR,Montgomery,Arkansas
+17039,IL,De Witt,Illinois
+19075,IA,Grundy,Iowa
+28039,MS,George,Mississippi
+29083,MO,Henry,Missouri
+28017,MS,Chickasaw,Mississippi
+39065,OH,Hardin,Ohio
+18009,IN,Blackford,Indiana
+40025,OK,Cimarron,Oklahoma
+46035,SD,Davison,South Dakota
+48145,TX,Falls,Texas
+27101,MN,Murray,Minnesota
+35011,NM,De Baca,New Mexico
+46125,SD,Turner,South Dakota
+46037,SD,Day,South Dakota
+48501,TX,Yoakum,Texas
+54091,WV,Taylor,West Virginia
+13281,GA,Towns,Georgia
+21057,KY,Cumberland,Kentucky
+24043,MD,Washington,Maryland
+28095,MS,Monroe,Mississippi
+29077,MO,Greene,Missouri
+41065,OR,Wasco,Oregon
+55089,WI,Ozaukee,Wisconsin
+13129,GA,Gordon,Georgia
+17147,IL,Piatt,Illinois
+19067,IA,Floyd,Iowa
+22061,LA,Lincoln,Louisiana
+26057,MI,Gratiot,Michigan
+31063,NE,Frontier,Nebraska
+38031,ND,Foster,North Dakota
+39175,OH,Wyandot,Ohio
+19197,IA,Wright,Iowa
+46047,SD,Fall River,South Dakota
+48303,TX,Lubbock,Texas
+48193,TX,Hamilton,Texas
+49013,UT,Duchesne,Utah
+38039,ND,Griggs,North Dakota
+38041,ND,Hettinger,North Dakota
+48153,TX,Floyd,Texas
+31099,NE,Kearney,Nebraska
+06083,CA,Santa Barbara,California
+08063,CO,Kit Carson,Colorado
+21053,KY,Clinton,Kentucky
+27105,MN,Nobles,Minnesota
+31087,NE,Hitchcock,Nebraska
+39125,OH,Paulding,Ohio
+31121,NE,Merrick,Nebraska
+53033,WA,King,Washington
+31041,NE,Custer,Nebraska
+13109,GA,Evans,Georgia
+08105,CO,Rio Grande,Colorado
+19041,IA,Clay,Iowa
+19001,IA,Adair,Iowa
+20195,KS,Trego,Kansas
+27039,MN,Dodge,Minnesota
+28103,MS,Noxubee,Mississippi
+31059,NE,Fillmore,Nebraska
+39141,OH,Ross,Ohio
+19039,IA,Clarke,Iowa
+48255,TX,Karnes,Texas
+48461,TX,Upton,Texas
+51111,VA,Lunenburg,Virginia
+38047,ND,Logan,North Dakota
+46015,SD,Brule,South Dakota
+20017,KS,Chase,Kansas
+31075,NE,Grant,Nebraska
+19139,IA,Muscatine,Iowa
+26059,MI,Hillsdale,Michigan
+29151,MO,Osage,Missouri
+38075,ND,Renville,North Dakota
+51025,VA,Brunswick,Virginia
+02130,AK,Ketchikan Gateway,Alaska
+05071,AR,Johnson,Arkansas
+12049,FL,Hardee,Florida
+13023,GA,Bleckley,Georgia
+17009,IL,Brown,Illinois
+17145,IL,Perry,Illinois
+18021,IN,Clay,Indiana
+19105,IA,Jones,Iowa
+27153,MN,Todd,Minnesota
+27059,MN,Isanti,Minnesota
+39139,OH,Richland,Ohio
+47077,TN,Henderson,Tennessee
+48383,TX,Reagan,Texas
+48179,TX,Gray,Texas
+48341,TX,Moore,Texas
+48503,TX,Young,Texas
+55049,WI,Iowa,Wisconsin
+04015,AZ,Mohave,Arizona
+16049,ID,Idaho,Idaho
+28091,MS,Marion,Mississippi
+30025,MT,Fallon,Montana
+29141,MO,Morgan,Missouri
+29001,MO,Adair,Missouri
+31023,NE,Butler,Nebraska
+49005,UT,Cache,Utah
+01085,AL,Lowndes,Alabama
+02100,AK,Haines,Alaska
+13217,GA,Newton,Georgia
+18109,IN,Morgan,Indiana
+19123,IA,Mahaska,Iowa
+27033,MN,Cottonwood,Minnesota
+28155,MS,Webster,Mississippi
+31159,NE,Seward,Nebraska
+39157,OH,Tuscarawas,Ohio
+46087,SD,McCook,South Dakota
+47061,TN,Grundy,Tennessee
+48233,TX,Hutchinson,Texas
+51840,VA,Winchester,Virginia
+55097,WI,Portage,Wisconsin
+55107,WI,Rusk,Wisconsin
+47015,TN,Cannon,Tennessee
+49039,UT,Sanpete,Utah
+48207,TX,Haskell,Texas
+19103,IA,Johnson,Iowa
+18099,IN,Marshall,Indiana
+16021,ID,Boundary,Idaho
+18113,IN,Noble,Indiana
+19169,IA,Story,Iowa
+17123,IL,Marshall,Illinois
+19179,IA,Wapello,Iowa
+47143,TN,Rhea,Tennessee
+17169,IL,Schuyler,Illinois
+47109,TN,McNairy,Tennessee
+48079,TX,Cochran,Texas
+47137,TN,Pickett,Tennessee
+20155,KS,Reno,Kansas
+31181,NE,Webster,Nebraska
+21021,KY,Boyle,Kentucky
+18007,IN,Benton,Indiana
+19109,IA,Kossuth,Iowa
+17005,IL,Bond,Illinois
+48195,TX,Hansford,Texas
+19099,IA,Jasper,Iowa
+20059,KS,Franklin,Kansas
+19135,IA,Monroe,Iowa
+38065,ND,Oliver,North Dakota
+19165,IA,Shelby,Iowa
+46097,SD,Miner,South Dakota
+44001,RI,Bristol,Rhode Island
+42037,PA,Columbia,Pennsylvania
+47101,TN,Lewis,Tennessee
+27083,MN,Lyon,Minnesota
+31003,NE,Antelope,Nebraska
+48251,TX,Johnson,Texas
+48035,TX,Bosque,Texas
+55099,WI,Price,Wisconsin
+29103,MO,Knox,Missouri
+29125,MO,Maries,Missouri
+26039,MI,Crawford,Michigan
+27161,MN,Waseca,Minnesota
+29135,MO,Moniteau,Missouri
+42097,PA,Northumberland,Pennsylvania
+31119,NE,Madison,Nebraska
+31123,NE,Morrill,Nebraska
+26161,MI,Washtenaw,Michigan
+31141,NE,Platte,Nebraska
+33007,NH,Coos,New Hampshire
+42105,PA,Potter,Pennsylvania
+39069,OH,Henry,Ohio
+26073,MI,Isabella,Michigan
+05031,AR,Craighead,Arkansas
+33009,NH,Grafton,New Hampshire
+02275,AK,Wrangell,Alaska
+51630,VA,Fredericksburg,Virginia
+37025,NC,Cabarrus,North Carolina
+38045,ND,LaMoure,North Dakota
+38069,ND,Pierce,North Dakota
+05053,AR,Grant,Arkansas
+56023,WY,Lincoln,Wyoming
+55119,WI,Taylor,Wisconsin
+51065,VA,Fluvanna,Virginia
+41069,OR,Wheeler,Oregon
+30097,MT,Sweet Grass,Montana
+27117,MN,Pipestone,Minnesota
+27133,MN,Rock,Minnesota
+27031,MN,Cook,Minnesota
+27147,MN,Steele,Minnesota
+29055,MO,Crawford,Missouri
+29057,MO,Dade,Missouri
+17017,IL,Cass,Illinois
+13115,GA,Floyd,Georgia
+20057,KS,Ford,Kansas
+13247,GA,Rockdale,Georgia
+16063,ID,Lincoln,Idaho
+31091,NE,Hooker,Nebraska
+48111,TX,Dallam,Texas
+42131,PA,Wyoming,Pennsylvania
+20199,KS,Wallace,Kansas
+20011,KS,Bourbon,Kansas
+48099,TX,Coryell,Texas
+17139,IL,Moultrie,Illinois
+20031,KS,Coffey,Kansas
+21115,KY,Johnson,Kentucky
+17041,IL,Douglas,Illinois
+19195,IA,Worth,Iowa
+20133,KS,Neosho,Kansas
+20203,KS,Wichita,Kansas
+26077,MI,Kalamazoo,Michigan
+21165,KY,Menifee,Kentucky
+26085,MI,Lake,Michigan
+21173,KY,Montgomery,Kentucky
+46051,SD,Grant,South Dakota
+26117,MI,Montcalm,Michigan
+26127,MI,Oceana,Michigan
+27051,MN,Grant,Minnesota
+17049,IL,Effingham,Illinois
+17065,IL,Hamilton,Illinois
+23031,ME,York,Maine
+40103,OK,Noble,Oklahoma
+46013,SD,Brown,South Dakota
+41001,OR,Baker,Oregon
+46005,SD,Beadle,South Dakota
+46011,SD,Brookings,South Dakota
+46025,SD,Clark,South Dakota
+42015,PA,Bradford,Pennsylvania
+46115,SD,Spink,South Dakota
+48017,TX,Bailey,Texas
+02105,AK,Hoonah-Angoon,Alaska
+48023,TX,Baylor,Texas
+46057,SD,Hamlin,South Dakota
+46077,SD,Kingsbury,South Dakota
+13053,GA,Chattahoochee,Georgia
+48413,TX,Schleicher,Texas
+27165,MN,Watonwan,Minnesota
+48429,TX,Stephens,Texas
+35009,NM,Curry,New Mexico
+48437,TX,Swisher,Texas
+30049,MT,Lewis and Clark,Montana
+48279,TX,Lamb,Texas
+31049,NE,Deuel,Nebraska
+13125,GA,Glascock,Georgia
+13149,GA,Heard,Georgia
+02016,AK,Aleutians West,Alaska
+02050,AK,Bethel,Alaska
+05123,AR,St. Francis,Arkansas
+05037,AR,Cross,Arkansas
+55141,WI,Wood,Wisconsin
+39037,OH,Darke,Ohio
+39115,OH,Morgan,Ohio
+46017,SD,Buffalo,South Dakota
+29079,MO,Grundy,Missouri
+48049,TX,Brown,Texas
+38103,ND,Wells,North Dakota
+31069,NE,Garden,Nebraska
+01109,AL,Pike,Alabama
+48191,TX,Hall,Texas
+38083,ND,Sheridan,North Dakota
+38043,ND,Kidder,North Dakota
+51520,VA,Bristol,Virginia
+29215,MO,Texas,Missouri
+51600,VA,Fairfax,Virginia
+51640,VA,Galax,Virginia
+20013,KS,Brown,Kansas
+51678,VA,Lexington,Virginia
+18073,IN,Jasper,Indiana
+17087,IL,Johnson,Illinois
+17011,IL,Bureau,Illinois
+19021,IA,Buena Vista,Iowa
+20071,KS,Greeley,Kansas
+40037,OK,Creek,Oklahoma
+48269,TX,King,Texas
+29169,MO,Pulaski,Missouri
+08079,CO,Mineral,Colorado
+01069,AL,Houston,Alabama
+19055,IA,Delaware,Iowa
+16065,ID,Madison,Idaho
+17109,IL,McDonough,Illinois
+20113,KS,McPherson,Kansas
+08121,CO,Washington,Colorado
+19079,IA,Hamilton,Iowa
+17121,IL,Marion,Illinois
+48311,TX,McMullen,Texas
+17129,IL,Menard,Illinois
+20127,KS,Morris,Kansas
+20193,KS,Thomas,Kansas
+19101,IA,Jefferson,Iowa
+13061,GA,Clay,Georgia
+17175,IL,Stark,Illinois
+19157,IA,Poweshiek,Iowa
+08125,CO,Yuma,Colorado
+08085,CO,Montrose,Colorado
+39149,OH,Shelby,Ohio
+48445,TX,Terry,Texas
+48451,TX,Tom Green,Texas
+39161,OH,Van Wert,Ohio
+13171,GA,Lamar,Georgia
+39033,OH,Crawford,Ohio
+39059,OH,Guernsey,Ohio
+48483,TX,Wheeler,Texas
+48493,TX,Wilson,Texas
+48507,TX,Zavala,Texas
+48011,TX,Armstrong,Texas
+39055,OH,Geauga,Ohio
+40043,OK,Dewey,Oklahoma
+48349,TX,Navarro,Texas
+48297,TX,Live Oak,Texas
+38019,ND,Cavalier,North Dakota
+18169,IN,Wabash,Indiana
+20085,KS,Jackson,Kansas
+02240,AK,Southeast Fairbanks,Alaska
+02158,AK,Kusilvak,Alaska
+19031,IA,Cedar,Iowa
+19087,IA,Henry,Iowa
+19015,IA,Boone,Iowa
+18159,IN,Tipton,Indiana
+49043,UT,Summit,Utah
+06057,CA,Nevada,California
+55115,WI,Shawano,Wisconsin
+20101,KS,Lane,Kansas
+27087,MN,Mahnomen,Minnesota
+40051,OK,Grady,Oklahoma
+05047,AR,Franklin,Arkansas
+48379,TX,Rains,Texas
+36023,NY,Cortland,New York
+22095,LA,St. John the Baptist,Louisiana
+36093,NY,Schenectady,New York
+40005,OK,Atoka,Oklahoma
+48287,TX,Lee,Texas
+48373,TX,Polk,Texas
+40127,OK,Pushmataha,Oklahoma
+02290,AK,Yukon-Koyukuk,Alaska
+01107,AL,Pickens,Alabama
+51155,VA,Pulaski,Virginia
+28079,MS,Leake,Mississippi
+29025,MO,Caldwell,Missouri
+51750,VA,Radford,Virginia
+20131,KS,Nemaha,Kansas
+20171,KS,Scott,Kansas
+27119,MN,Polk,Minnesota
+27135,MN,Roseau,Minnesota
+13193,GA,Macon,Georgia
+22029,LA,Concordia,Louisiana
+51095,VA,James City,Virginia
+37143,NC,Perquimans,North Carolina
+29067,MO,Douglas,Missouri
+48115,TX,Dawson,Texas
+08001,CO,Adams,Colorado
+40011,OK,Blaine,Oklahoma
+48033,TX,Borden,Texas
+40015,OK,Caddo,Oklahoma
+48305,TX,Lynn,Texas
+29065,MO,Dent,Missouri
+48327,TX,Menard,Texas
+08005,CO,Arapahoe,Colorado
+08047,CO,Gilpin,Colorado
+08073,CO,Lincoln,Colorado
+48441,TX,Taylor,Texas
+48169,TX,Garza,Texas
+48417,TX,Shackelford,Texas
+48433,TX,Stonewall,Texas
+48135,TX,Ector,Texas
+48235,TX,Irion,Texas
+48027,TX,Bell,Texas
+53043,WA,Lincoln,Washington
+13313,GA,Whitfield,Georgia
+28069,MS,Kemper,Mississippi
+50023,VT,Washington,Vermont
+48405,TX,San Augustine,Texas
+72015,PR,Arroyo,Puerto Rico
+26025,MI,Calhoun,Michigan
+29139,MO,Montgomery,Missouri
+15005,HI,Kalawao,Hawaii
+15009,HI,Maui,Hawaii
+27021,MN,Cass,Minnesota
+38089,ND,Stark,North Dakota
+20009,KS,Barton,Kansas
+20145,KS,Pawnee,Kansas
+20159,KS,Rice,Kansas
+41021,OR,Gilliam,Oregon
+26051,MI,Gladwin,Michigan
+02185,AK,North Slope,Alaska
+18017,IN,Cass,Indiana
+17187,IL,Warren,Illinois
+13021,GA,Bibb,Georgia
+26119,MI,Montmorency,Michigan
+26129,MI,Ogemaw,Michigan
+20051,KS,Ellis,Kansas
+17079,IL,Jasper,Illinois
+72153,PR,Yauco,Puerto Rico
+72121,PR,Sabana Grande,Puerto Rico
+05099,AR,Nevada,Arkansas
+20047,KS,Edwards,Kansas
+26155,MI,Shiawassee,Michigan
+28111,MS,Perry,Mississippi
+29229,MO,Wright,Missouri
+39127,OH,Perry,Ohio
+20067,KS,Grant,Kansas
+47169,TN,Trousdale,Tennessee
+48133,TX,Eastland,Texas
+47121,TN,Meigs,Tennessee
+21201,KY,Robertson,Kentucky
+13143,GA,Haralson,Georgia
+20025,KS,Clark,Kansas
+23009,ME,Hancock,Maine
+30081,MT,Ravalli,Montana
+31109,NE,Lancaster,Nebraska
+48117,TX,Deaf Smith,Texas
+55071,WI,Manitowoc,Wisconsin
+17037,IL,DeKalb,Illinois
+28129,MS,Smith,Mississippi
+35037,NM,Quay,New Mexico
+19073,IA,Greene,Iowa
+31061,NE,Franklin,Nebraska
+54033,WV,Harrison,West Virginia
+54097,WV,Upshur,West Virginia
+29049,MO,Clinton,Missouri
+72027,PR,Camuy,Puerto Rico
+72039,PR,Ciales,Puerto Rico
+72049,PR,Culebra,Puerto Rico
+05111,AR,Poinsett,Arkansas
+12035,FL,Flagler,Florida
+13083,GA,Dade,Georgia
+13095,GA,Dougherty,Georgia
+13287,GA,Turner,Georgia
+28023,MS,Clarke,Mississippi
+46045,SD,Edmunds,South Dakota
+28085,MS,Lincoln,Mississippi
+72081,PR,Lares,Puerto Rico
+27111,MN,Otter Tail,Minnesota
+08095,CO,Phillips,Colorado
+26105,MI,Mason,Michigan
+42073,PA,Lawrence,Pennsylvania
+54047,WV,McDowell,West Virginia
+02180,AK,Nome,Alaska
+05129,AR,Searcy,Arkansas
+18085,IN,Kosciusko,Indiana
+19091,IA,Humboldt,Iowa
+20083,KS,Hodgeman,Kansas
+29035,MO,Carter,Missouri
+29075,MO,Gentry,Missouri
+38003,ND,Barnes,North Dakota
+19017,IA,Bremer,Iowa
+48397,TX,Rockwall,Texas
+55139,WI,Winnebago,Wisconsin
+72099,PR,Moca,Puerto Rico
+13233,GA,Polk,Georgia
+19143,IA,Osceola,Iowa
+29209,MO,Stone,Missouri
+31081,NE,Hamilton,Nebraska
+54061,WV,Monongalia,West Virginia
+13085,GA,Dawson,Georgia
+19011,IA,Benton,Iowa
+20151,KS,Pratt,Kansas
+30069,MT,Petroleum,Montana
+31101,NE,Keith,Nebraska
+20069,KS,Gray,Kansas
+46073,SD,Jerauld,South Dakota
+48021,TX,Bastrop,Texas
+48031,TX,Blanco,Texas
+48275,TX,Knox,Texas
+13111,GA,Fannin,Georgia
+31067,NE,Gage,Nebraska
+29073,MO,Gasconade,Missouri
+42057,PA,Fulton,Pennsylvania
+04007,AZ,Gila,Arizona
+20179,KS,Sheridan,Kansas
+48125,TX,Dickens,Texas
+01111,AL,Randolph,Alabama
+19115,IA,Louisa,Iowa
+27047,MN,Freeborn,Minnesota
+33001,NH,Belknap,New Hampshire
+31007,NE,Banner,Nebraska
+13277,GA,Tift,Georgia
+17025,IL,Clay,Illinois
+18107,IN,Montgomery,Indiana
+26075,MI,Jackson,Michigan
+27085,MN,McLeod,Minnesota
+31115,NE,Loup,Nebraska
+40153,OK,Woodward,Oklahoma
+18157,IN,Tippecanoe,Indiana
+17159,IL,Richland,Illinois
+46069,SD,Hyde,South Dakota
+19033,IA,Cerro Gordo,Iowa
+20169,KS,Saline,Kansas
+17073,IL,Henry,Illinois
+48069,TX,Castro,Texas
+19147,IA,Palo Alto,Iowa
+27079,MN,Le Sueur,Minnesota
+27091,MN,Martin,Minnesota
+29007,MO,Audrain,Missouri
+30059,MT,Meagher,Montana
+56031,WY,Platte,Wyoming
+23029,ME,Washington,Maine
+55047,WI,Green Lake,Wisconsin
+05023,AR,Cleburne,Arkansas
+31165,NE,Sioux,Nebraska
+37033,NC,Caswell,North Carolina
+27129,MN,Renville,Minnesota
+30001,MT,Beaverhead,Montana
+30107,MT,Wheatland,Montana
+28013,MS,Calhoun,Mississippi
+39117,OH,Morrow,Ohio
+22003,LA,Allen,Louisiana
+48173,TX,Glasscock,Texas
+48363,TX,Palo Pinto,Texas
+48243,TX,Jeff Davis,Texas
+20081,KS,Haskell,Kansas
+06037,CA,Los Angeles,California
+20037,KS,Crawford,Kansas
+30017,MT,Custer,Montana
+29039,MO,Cedar,Missouri
+31129,NE,Nuckolls,Nebraska
+02220,AK,Sitka,Alaska
+13035,GA,Butts,Georgia
+18101,IN,Martin,Indiana
+19137,IA,Montgomery,Iowa
+28119,MS,Quitman,Mississippi
+36037,NY,Genesee,New York
+45081,SC,Saluda,South Carolina
+48149,TX,Fayette,Texas
+49037,UT,San Juan,Utah
+55055,WI,Jefferson,Wisconsin
+48081,TX,Coke,Texas
+20033,KS,Comanche,Kansas
+47069,TN,Hardeman,Tennessee
+51595,VA,Emporia,Virginia
+55078,WI,Menominee,Wisconsin
+72067,PR,Hormigueros,Puerto Rico
+48421,TX,Sherman,Texas
+13119,GA,Franklin,Georgia
+26153,MI,Schoolcraft,Michigan
+29059,MO,Dallas,Missouri
+01013,AL,Butler,Alabama
+08039,CO,Elbert,Colorado
+17053,IL,Ford,Illinois
+20027,KS,Clay,Kansas
+27005,MN,Becker,Minnesota
+39137,OH,Putnam,Ohio
+40099,OK,Murray,Oklahoma
+47075,TN,Haywood,Tennessee
+26113,MI,Missaukee,Michigan
+38027,ND,Eddy,North Dakota
+04011,AZ,Greenlee,Arizona
+18047,IN,Franklin,Indiana
+26031,MI,Cheboygan,Michigan
+29041,MO,Chariton,Missouri
+31039,NE,Cuming,Nebraska
+31001,NE,Adams,Nebraska
+02195,AK,Petersburg,Alaska
+19093,IA,Ida,Iowa
+21081,KY,Grant,Kentucky
+27041,MN,Douglas,Minnesota
+28099,MS,Neshoba,Mississippi
+31005,NE,Arthur,Nebraska
+47117,TN,Marshall,Tennessee
+51720,VA,Norton,Virginia
+56043,WY,Washakie,Wyoming
+32027,NV,Pershing,Nevada
+37061,NC,Duplin,North Carolina
+27057,MN,Hubbard,Minnesota
+22093,LA,St. James,Louisiana
+32009,NV,Esmeralda,Nevada
+26135,MI,Oscoda,Michigan
+20163,KS,Rooks,Kansas
+26157,MI,Tuscola,Michigan
+72037,PR,Ceiba,Puerto Rico
+72054,PR,Florida,Puerto Rico
+08003,CO,Alamosa,Colorado
+28037,MS,Franklin,Mississippi
+72093,PR,Maricao,Puerto Rico
+55137,WI,Waushara,Wisconsin
+38077,ND,Richland,North Dakota
+02060,AK,Bristol Bay,Alaska
+20041,KS,Dickinson,Kansas
+72071,PR,Isabela,Puerto Rico
+31111,NE,Lincoln,Nebraska
+28153,MS,Wayne,Mississippi
+46043,SD,Douglas,South Dakota
+29121,MO,Macon,Missouri
+18095,IN,Madison,Indiana
+31045,NE,Dawes,Nebraska
+20147,KS,Phillips,Kansas
+42069,PA,Lackawanna,Pennsylvania
+47153,TN,Sequatchie,Tennessee
+26067,MI,Ionia,Michigan
+21143,KY,Lyon,Kentucky
+26159,MI,Van Buren,Michigan
+17031,IL,Cook,Illinois
+40047,OK,Garfield,Oklahoma
+46111,SD,Sanborn,South Dakota
+46039,SD,Deuel,South Dakota
+46067,SD,Hutchinson,South Dakota
+46059,SD,Hand,South Dakota
+39067,OH,Harrison,Ohio
+48425,TX,Somervell,Texas
+29115,MO,Linn,Missouri
+13311,GA,White,Georgia
+06071,CA,San Bernardino,California
+41055,OR,Sherman,Oregon
+38093,ND,Stutsman,North Dakota
+28019,MS,Choctaw,Mississippi
+29061,MO,Daviess,Missouri
+05069,AR,Jefferson,Arkansas
+51670,VA,Hopewell,Virginia
+48205,TX,Hartley,Texas
+20003,KS,Anderson,Kansas
+20099,KS,Labette,Kansas
+17095,IL,Knox,Illinois
+19083,IA,Hardin,Iowa
+16037,ID,Custer,Idaho
+08081,CO,Moffat,Colorado
+13059,GA,Clarke,Georgia
+39147,OH,Seneca,Ohio
+48447,TX,Throckmorton,Texas
+39163,OH,Vinton,Ohio
+48463,TX,Uvalde,Texas
+13165,GA,Jenkins,Georgia
+40057,OK,Harmon,Oklahoma
+20077,KS,Harper,Kansas
+19171,IA,Tama,Iowa
+18103,IN,Miami,Indiana
+46085,SD,Lyman,South Dakota
+20089,KS,Jewell,Kansas
+05101,AR,Newton,Arkansas
+31073,NE,Gosper,Nebraska
+36017,NY,Chenango,New York
+54043,WV,Lincoln,West Virginia
+54073,WV,Pleasants,West Virginia
+30019,MT,Daniels,Montana
+05141,AR,Van Buren,Arkansas
+29017,MO,Bollinger,Missouri
+30029,MT,Flathead,Montana
+22073,LA,Ouachita,Louisiana
+48415,TX,Scurry,Texas
+08119,CO,Teller,Colorado
+48227,TX,Howard,Texas
+13101,GA,Echols,Georgia
+27109,MN,Olmsted,Minnesota
+06065,CA,Riverside,California
+02013,AK,Aleutians East,Alaska
+46119,SD,Sully,South Dakota
+51660,VA,Harrisonburg,Virginia
+13011,GA,Banks,Georgia
+17113,IL,McLean,Illinois
+16085,ID,Valley,Idaho
+48399,TX,Runnels,Texas
+39047,OH,Fayette,Ohio
+40097,OK,Mayes,Oklahoma
+19173,IA,Taylor,Iowa
+31071,NE,Garfield,Nebraska
+40053,OK,Grant,Oklahoma
+31117,NE,McPherson,Nebraska
+18037,IN,Dubois,Indiana
+19009,IA,Audubon,Iowa
+19063,IA,Emmet,Iowa
+20139,KS,Osage,Kansas
+39089,OH,Licking,Ohio
+55077,WI,Marquette,Wisconsin
+31019,NE,Buffalo,Nebraska
+26111,MI,Midland,Michigan
+46107,SD,Potter,South Dakota
+13289,GA,Twiggs,Georgia
+28131,MS,Stone,Mississippi
+48221,TX,Hood,Texas
+19117,IA,Lucas,Iowa
+19037,IA,Chickasaw,Iowa
+28145,MS,Union,Mississippi
+29085,MO,Hickory,Missouri
+51011,VA,Appomattox,Virginia
+31135,NE,Perkins,Nebraska
+35005,NM,Chaves,New Mexico
+56029,WY,Park,Wyoming
+17027,IL,Clinton,Illinois
+27023,MN,Chippewa,Minnesota
+48291,TX,Liberty,Texas
+27127,MN,Redwood,Minnesota
+48267,TX,Kimble,Texas
+48329,TX,Midland,Texas
+56041,WY,Uinta,Wyoming
+13173,GA,Lanier,Georgia
+47051,TN,Franklin,Tennessee
+20167,KS,Russell,Kansas
+39051,OH,Fulton,Ohio
+72117,PR,Rincón,Puerto Rico
+01075,AL,Lamar,Alabama
+31095,NE,Jefferson,Nebraska
+31167,NE,Stanton,Nebraska
+20049,KS,Elk,Kansas
+04012,AZ,La Paz,Arizona
+13097,GA,Douglas,Georgia
+28065,MS,Jefferson Davis,Mississippi
+55005,WI,Barron,Wisconsin
+13075,GA,Cook,Georgia
+17155,IL,Putnam,Illinois
+39085,OH,Lake,Ohio
+36123,NY,Yates,New York
+31171,NE,Thomas,Nebraska
+48285,TX,Lavaca,Texas
+28003,MS,Alcorn,Mississippi
+20065,KS,Graham,Kansas
+26015,MI,Barry,Michigan
+21203,KY,Rockcastle,Kentucky
+48065,TX,Carson,Texas
+31047,NE,Dawson,Nebraska
+28127,MS,Simpson,Mississippi
+46079,SD,Lake,South Dakota
+46063,SD,Harding,South Dakota
+38073,ND,Ransom,North Dakota
+31133,NE,Pawnee,Nebraska
+24001,MD,Allegany,Maryland
+01027,AL,Clay,Alabama
+28043,MS,Grenada,Mississippi
+37145,NC,Person,North Carolina
+32003,NV,Clark,Nevada
+38079,ND,Rolette,North Dakota
+31035,NE,Clay,Nebraska
+19069,IA,Franklin,Iowa
+48319,TX,Mason,Texas
+19175,IA,Union,Iowa
+20107,KS,Linn,Kansas
+17115,IL,Macon,Illinois
+29117,MO,Livingston,Missouri
+26143,MI,Roscommon,Michigan
+27151,MN,Swift,Minnesota
+27097,MN,Morrison,Minnesota
+31029,NE,Chase,Nebraska
+55131,WI,Washington,Wisconsin
+20093,KS,Kearny,Kansas
+48093,TX,Comanche,Texas
+27009,MN,Benton,Minnesota
+48009,TX,Archer,Texas
+20123,KS,Mitchell,Kansas
+28115,MS,Pontotoc,Mississippi
+21229,KY,Washington,Kentucky
+49033,UT,Rich,Utah
+26165,MI,Wexford,Michigan
+55035,WI,Eau Claire,Wisconsin
+17117,IL,Macoupin,Illinois
+19095,IA,Iowa,Iowa
+56005,WY,Campbell,Wyoming
+26137,MI,Otsego,Michigan
+48163,TX,Frio,Texas
+41025,OR,Harney,Oregon
+31089,NE,Holt,Nebraska
+48143,TX,Erath,Texas
+26133,MI,Osceola,Michigan
+45009,SC,Bamberg,South Carolina
+27149,MN,Stevens,Minnesota
+02150,AK,Kodiak Island,Alaska
+29219,MO,Warren,Missouri
+19029,IA,Cass,Iowa
+20109,KS,Logan,Kansas
+13161,GA,Jeff Davis,Georgia
+48211,TX,Hemphill,Texas
+48459,TX,Upshur,Texas
+26107,MI,Mecosta,Michigan
+26123,MI,Newaygo,Michigan
+17153,IL,Pulaski,Illinois
+55081,WI,Monroe,Wisconsin
+48189,TX,Hale,Texas
+51620,VA,Franklin,Virginia
+51730,VA,Petersburg,Virginia
+19051,IA,Davis,Iowa
+08087,CO,Morgan,Colorado
+13195,GA,Madison,Georgia
+48249,TX,Jim Wells,Texas
+29167,MO,Polk,Missouri
+20019,KS,Chautauqua,Kansas
+40019,OK,Carter,Oklahoma
+28159,MS,Winston,Mississippi
+48317,TX,Martin,Texas
+48151,TX,Fisher,Texas
+48495,TX,Winkler,Texas
+13003,GA,Atkinson,Georgia
+27035,MN,Crow Wing,Minnesota
+26145,MI,Saginaw,Michigan
+13303,GA,Washington,Georgia
+72055,PR,Guánica,Puerto Rico
+08025,CO,Crowley,Colorado
+29225,MO,Webster,Missouri
+29137,MO,Monroe,Missouri
+31077,NE,Greeley,Nebraska
+01031,AL,Coffee,Alabama
+51179,VA,Stafford,Virginia
+31151,NE,Saline,Nebraska
+17191,IL,Wayne,Illinois
+48063,TX,Camp,Texas
+20061,KS,Geary,Kansas
+39151,OH,Stark,Ohio
+72077,PR,Juncos,Puerto Rico
+48359,TX,Oldham,Texas
+01067,AL,Henry,Alabama
+17035,IL,Cumberland,Illinois
+51830,VA,Williamsburg,Virginia
+47103,TN,Lincoln,Tennessee
+20141,KS,Osborne,Kansas
+21171,KY,Monroe,Kentucky
+28009,MS,Benton,Mississippi
+31125,NE,Nance,Nebraska
+16051,ID,Jefferson,Idaho
+31175,NE,Valley,Nebraska
+50009,VT,Essex,Vermont
+05079,AR,Lincoln,Arkansas
+36121,NY,Wyoming,New York
+29221,MO,Washington,Missouri
+37069,NC,Franklin,North Carolina
+20119,KS,Meade,Kansas
+27113,MN,Pennington,Minnesota
+51570,VA,Colonial Heights,Virginia
+04027,AZ,Yuma,Arizona
+05009,AR,Boone,Arkansas
+09150,CT,Northeastern Connecticut,Connecticut
+13105,GA,Elbert,Georgia
+17151,IL,Pope,Illinois
+29069,MO,Dunklin,Missouri
+30005,MT,Blaine,Montana
+37055,NC,Dare,North Carolina
+37031,NC,Carteret,North Carolina
+18091,IN,LaPorte,Indiana
+18089,IN,Lake,Indiana
+21101,KY,Henderson,Kentucky
+21019,KY,Boyd,Kentucky
+22085,LA,Sabine,Louisiana
+26033,MI,Chippewa,Michigan
+26005,MI,Allegan,Michigan
+40069,OK,Johnston,Oklahoma
+22007,LA,Assumption,Louisiana
+48263,TX,Kent,Texas
+31173,NE,Thurston,Nebraska
+18001,IN,Adams,Indiana
+19113,IA,Linn,Iowa
+12033,FL,Escambia,Florida
+17019,IL,Champaign,Illinois
+54015,WV,Clay,West Virginia
+16059,ID,Lemhi,Idaho
+13169,GA,Jones,Georgia
+29185,MO,St. Clair,Missouri
+18117,IN,Orange,Indiana
+28087,MS,Lowndes,Mississippi
+72101,PR,Morovis,Puerto Rico
+02198,AK,Prince of Wales-Hyder,Alaska
+13123,GA,Gilmer,Georgia
+29109,MO,Lawrence,Missouri
+72115,PR,Quebradillas,Puerto Rico
+02063,AK,Chugach,Alaska
+46061,SD,Hanson,South Dakota
+17135,IL,Montgomery,Illinois
+38087,ND,Slope,North Dakota
+72111,PR,Peñuelas,Puerto Rico
+35027,NM,Lincoln,New Mexico
+38009,ND,Bottineau,North Dakota
+42023,PA,Cameron,Pennsylvania
+13301,GA,Warren,Georgia
+27137,MN,St. Louis,Minnesota
+13265,GA,Taliaferro,Georgia
+48265,TX,Kerr,Texas
+48435,TX,Sutton,Texas
+28035,MS,Forrest,Mississippi
+21219,KY,Todd,Kentucky
+38099,ND,Walsh,North Dakota
+40027,OK,Cleveland,Oklahoma
+41035,OR,Klamath,Oregon
+42031,PA,Clarion,Pennsylvania
+21129,KY,Lee,Kentucky
+47107,TN,McMinn,Tennessee
+48185,TX,Grimes,Texas
+48003,TX,Andrews,Texas
+51683,VA,Manassas,Virginia
+54019,WV,Fayette,West Virginia
+55001,WI,Adams,Wisconsin
+48313,TX,Madison,Texas
+51775,VA,Salem,Virginia
+72095,PR,Maunabo,Puerto Rico
+39035,OH,Cuyahoga,Ohio
+46127,SD,Union,South Dakota
+46031,SD,Corson,South Dakota
+50011,VT,Franklin,Vermont
+51059,VA,Fairfax,Virginia
+54055,WV,Mercer,West Virginia
+55011,WI,Buffalo,Wisconsin
+01045,AL,Dale,Alabama
+05011,AR,Bradley,Arkansas
+13091,GA,Dodge,Georgia
+08029,CO,Delta,Colorado
+08065,CO,Lake,Colorado
+18133,IN,Putnam,Indiana
+19153,IA,Polk,Iowa
+19047,IA,Crawford,Iowa
+18137,IN,Ripley,Indiana
+20181,KS,Sherman,Kansas
+22013,LA,Bienville,Louisiana
+27065,MN,Kanabec,Minnesota
+27107,MN,Norman,Minnesota
+28029,MS,Copiah,Mississippi
+28117,MS,Prentiss,Mississippi
+31097,NE,Johnson,Nebraska
+31145,NE,Red Willow,Nebraska
+31185,NE,York,Nebraska
+35015,NM,Eddy,New Mexico
+35023,NM,Hidalgo,New Mexico
+36015,NY,Chemung,New York
+21127,KY,Lawrence,Kentucky
+23013,ME,Knox,Maine
+29097,MO,Jasper,Missouri
+29145,MO,Newton,Missouri
+30041,MT,Hill,Montana
+53051,WA,Pend Oreille,Washington
+06055,CA,Napa,California
+12043,FL,Glades,Florida
+13151,GA,Henry,Georgia
+17021,IL,Christian,Illinois
+18093,IN,Lawrence,Indiana
+18055,IN,Greene,Indiana
+18121,IN,Parke,Indiana
+19125,IA,Marion,Iowa
+20055,KS,Finney,Kansas
+21073,KY,Franklin,Kentucky
+21155,KY,Marion,Kentucky
+22127,LA,Winn,Louisiana
+28097,MS,Montgomery,Mississippi
+29089,MO,Howard,Missouri
+30077,MT,Powell,Montana
+29051,MO,Cole,Missouri
+31043,NE,Dakota,Nebraska
+29033,MO,Carroll,Missouri
+40079,OK,Le Flore,Oklahoma
+46135,SD,Yankton,South Dakota
+51043,VA,Clarke,Virginia
+48037,TX,Bowie,Texas
+50001,VT,Addison,Vermont
+01009,AL,Blount,Alabama
+72107,PR,Orocovis,Puerto Rico
+20129,KS,Morton,Kansas
+06041,CA,Marin,California
+10005,DE,Sussex,Delaware
+11001,DC,District of Columbia,District of Columbia
+13147,GA,Hart,Georgia
+17119,IL,Madison,Illinois
+17101,IL,Lawrence,Illinois
+18173,IN,Warrick,Indiana
+19163,IA,Scott,Iowa
+19111,IA,Lee,Iowa
+21185,KY,Oldham,Kentucky
+22087,LA,St. Bernard,Louisiana
+22109,LA,Terrebonne,Louisiana
+24035,MD,Queen Anne's,Maryland
+28147,MS,Walthall,Mississippi
+29045,MO,Clark,Missouri
+29029,MO,Camden,Missouri
+29177,MO,Ray,Missouri
+29015,MO,Benton,Missouri
+36051,NY,Livingston,New York
+37023,NC,Burke,North Carolina
+37081,NC,Guilford,North Carolina
+37159,NC,Rowan,North Carolina
+39049,OH,Franklin,Ohio
+40119,OK,Payne,Oklahoma
+42027,PA,Centre,Pennsylvania
+21169,KY,Metcalfe,Kentucky
+47185,TN,White,Tennessee
+48485,TX,Wichita,Texas
+48419,TX,Shelby,Texas
+53003,WA,Asotin,Washington
+54025,WV,Greenbrier,West Virginia
+46053,SD,Gregory,South Dakota
+48015,TX,Austin,Texas
+50013,VT,Grand Isle,Vermont
+51145,VA,Powhatan,Virginia
+01033,AL,Colbert,Alabama
+05121,AR,Randolph,Arkansas
+08099,CO,Prowers,Colorado
+08069,CO,Larimer,Colorado
+10001,DE,Kent,Delaware
+12015,FL,Charlotte,Florida
+13099,GA,Early,Georgia
+21013,KY,Bell,Kentucky
+31085,NE,Hayes,Nebraska
+35043,NM,Sandoval,New Mexico
+35055,NM,Taos,New Mexico
+37089,NC,Henderson,North Carolina
+37087,NC,Haywood,North Carolina
+37117,NC,Martin,North Carolina
+39109,OH,Miami,Ohio
+40003,OK,Alfalfa,Oklahoma
+40093,OK,Major,Oklahoma
+42081,PA,Lycoming,Pennsylvania
+45041,SC,Florence,South Carolina
+47007,TN,Bledsoe,Tennessee
+47021,TN,Cheatham,Tennessee
+48121,TX,Denton,Texas
+48499,TX,Wood,Texas
+48225,TX,Houston,Texas
+36115,NY,Washington,New York
+34027,NJ,Morris,New Jersey
+39043,OH,Erie,Ohio
+42017,PA,Bucks,Pennsylvania
+48479,TX,Webb,Texas
+31037,NE,Colfax,Nebraska
+04013,AZ,Maricopa,Arizona
+51089,VA,Henry,Virginia
+01015,AL,Calhoun,Alabama
+53057,WA,Skagit,Washington
+55031,WI,Douglas,Wisconsin
+05043,AR,Drew,Arkansas
+13063,GA,Clayton,Georgia
+13191,GA,McIntosh,Georgia
+08015,CO,Chaffee,Colorado
+17047,IL,Edwards,Illinois
+19019,IA,Buchanan,Iowa
+21233,KY,Webster,Kentucky
+22039,LA,Evangeline,Louisiana
+13211,GA,Morgan,Georgia
+13249,GA,Schley,Georgia
+24017,MD,Charles,Maryland
+16035,ID,Clearwater,Idaho
+37095,NC,Hyde,North Carolina
+55093,WI,Pierce,Wisconsin
+47161,TN,Stewart,Tennessee
+51029,VA,Buckingham,Virginia
+56009,WY,Converse,Wyoming
+51037,VA,Charlotte,Virginia
+45059,SC,Laurens,South Carolina
+25005,MA,Bristol,Massachusetts
+21123,KY,Larue,Kentucky
+29071,MO,Franklin,Missouri
+21139,KY,Livingston,Kentucky
+21141,KY,Logan,Kentucky
+06077,CA,San Joaquin,California
+27045,MN,Fillmore,Minnesota
+47065,TN,Hamilton,Tennessee
+19187,IA,Webster,Iowa
+17131,IL,Mercer,Illinois
+06085,CA,Santa Clara,California
+19191,IA,Winneshiek,Iowa
+45061,SC,Lee,South Carolina
+55065,WI,Lafayette,Wisconsin
+36047,NY,Kings,New York
+05029,AR,Conway,Arkansas
+01123,AL,Tallapoosa,Alabama
+51173,VA,Smyth,Virginia
+24003,MD,Anne Arundel,Maryland
+26081,MI,Kent,Michigan
+26083,MI,Keweenaw,Michigan
+21161,KY,Mason,Kentucky
+27027,MN,Clay,Minnesota
+45013,SC,Beaufort,South Carolina
+47039,TN,Decatur,Tennessee
+24023,MD,Garrett,Maryland
+46023,SD,Charles Mix,South Dakota
+47095,TN,Lake,Tennessee
+42107,PA,Schuylkill,Pennsylvania
+09110,CT,Capitol,Connecticut
+09120,CT,Greater Bridgeport,Connecticut
+09140,CT,Naugatuck Valley,Connecticut
+37105,NC,Lee,North Carolina
+37183,NC,Wake,North Carolina
+27063,MN,Jackson,Minnesota
+21175,KY,Morgan,Kentucky
+47029,TN,Cocke,Tennessee
+45019,SC,Charleston,South Carolina
+45035,SC,Dorchester,South Carolina
+47097,TN,Lauderdale,Tennessee
+47105,TN,Loudon,Tennessee
+02066,AK,Copper River,Alaska
+24037,MD,St. Mary's,Maryland
+09180,CT,Southeastern Connecticut,Connecticut
+39075,OH,Holmes,Ohio
+48155,TX,Foard,Texas
+05039,AR,Dallas,Arkansas
+51177,VA,Spotsylvania,Virginia
+33013,NH,Merrimack,New Hampshire
+06093,CA,Siskiyou,California
+55027,WI,Dodge,Wisconsin
+46091,SD,Marshall,South Dakota
+27025,MN,Chisago,Minnesota
+46027,SD,Clay,South Dakota
+45023,SC,Chester,South Carolina
+47063,TN,Hamblen,Tennessee
+46081,SD,Lawrence,South Dakota
+42029,PA,Chester,Pennsylvania
+45033,SC,Dillon,South Carolina
+17189,IL,Washington,Illinois
+26023,MI,Branch,Michigan
+24039,MD,Somerset,Maryland
+47119,TN,Maury,Tennessee
+22019,LA,Calcasieu,Louisiana
+29149,MO,Oregon,Missouri
+42111,PA,Somerset,Pennsylvania
+29186,MO,Ste. Genevieve,Missouri
+31153,NE,Sarpy,Nebraska
+35059,NM,Union,New Mexico
+51181,VA,Surry,Virginia
+21181,KY,Nicholas,Kentucky
+26121,MI,Muskegon,Michigan
+21189,KY,Owsley,Kentucky
+21197,KY,Powell,Kentucky
+21213,KY,Simpson,Kentucky
+47165,TN,Sumner,Tennessee
+37165,NC,Scotland,North Carolina
+39071,OH,Highland,Ohio
+16003,ID,Adams,Idaho
+27075,MN,Lake,Minnesota
+08091,CO,Ouray,Colorado
+17197,IL,Will,Illinois
+19045,IA,Clinton,Iowa
+17193,IL,White,Illinois
+04023,AZ,Santa Cruz,Arizona
+21147,KY,McCreary,Kentucky
+37191,NC,Wayne,North Carolina
+42119,PA,Union,Pennsylvania
+51049,VA,Cumberland,Virginia
+47183,TN,Weakley,Tennessee
+45063,SC,Lexington,South Carolina
+47187,TN,Williamson,Tennessee
+21225,KY,Union,Kentucky
+17043,IL,DuPage,Illinois
+17067,IL,Hancock,Illinois
+48365,TX,Panola,Texas
+56015,WY,Goshen,Wyoming
+29105,MO,Laclede,Missouri
+29107,MO,Lafayette,Missouri
+29119,MO,McDonald,Missouri
+42087,PA,Mifflin,Pennsylvania
+18147,IN,Spencer,Indiana
+18153,IN,Sullivan,Indiana
+21009,KY,Barren,Kentucky
+22059,LA,LaSalle,Louisiana
+21041,KY,Carroll,Kentucky
+31103,NE,Keya Paha,Nebraska
+55109,WI,St. Croix,Wisconsin
+56039,WY,Teton,Wyoming
+45077,SC,Pickens,South Carolina
+23017,ME,Oxford,Maine
+37057,NC,Davidson,North Carolina
+27003,MN,Anoka,Minnesota
+21025,KY,Breathitt,Kentucky
+27019,MN,Carver,Minnesota
+34041,NJ,Warren,New Jersey
+22117,LA,Washington,Louisiana
+04009,AZ,Graham,Arizona
+04017,AZ,Navajo,Arizona
+04019,AZ,Pima,Arizona
+38001,ND,Adams,North Dakota
+56025,WY,Natrona,Wyoming
+56027,WY,Niobrara,Wyoming
+45071,SC,Newberry,South Carolina
+45085,SC,Sumter,South Carolina
+56037,WY,Sweetwater,Wyoming
+45001,SC,Abbeville,South Carolina
+21027,KY,Breckinridge,Kentucky
+47053,TN,Gibson,Tennessee
+21007,KY,Ballard,Kentucky
+38105,ND,Williams,North Dakota
+29127,MO,Marion,Missouri
+26093,MI,Livingston,Michigan
+51149,VA,Prince George,Virginia
+22055,LA,Lafayette,Louisiana
+17003,IL,Alexander,Illinois
+37137,NC,Pamlico,North Carolina
+47129,TN,Morgan,Tennessee
+47031,TN,Coffee,Tennessee
+47177,TN,Warren,Tennessee
+21051,KY,Clay,Kentucky
+30061,MT,Mineral,Montana
+44005,RI,Newport,Rhode Island
+25011,MA,Franklin,Massachusetts
+45003,SC,Aiken,South Carolina
+21039,KY,Carlisle,Kentucky
+45005,SC,Allendale,South Carolina
+21033,KY,Caldwell,Kentucky
+05001,AR,Arkansas,Arkansas
+32011,NV,Eureka,Nevada
+34007,NJ,Camden,New Jersey
+34015,NJ,Gloucester,New Jersey
+37001,NC,Alamance,North Carolina
+21059,KY,Daviess,Kentucky
+49053,UT,Washington,Utah
+06017,CA,El Dorado,California
+41067,OR,Washington,Oregon
+53021,WA,Franklin,Washington
+30093,MT,Silver Bow,Montana
+42041,PA,Cumberland,Pennsylvania
+48055,TX,Caldwell,Texas
+42011,PA,Berks,Pennsylvania
+47079,TN,Henry,Tennessee
+45007,SC,Anderson,South Carolina
+47019,TN,Carter,Tennessee
+45011,SC,Barnwell,South Carolina
+48013,TX,Atascosa,Texas
+12009,FL,Brevard,Florida
+06003,CA,Alpine,California
+34019,NJ,Hunterdon,New Jersey
+39023,OH,Clark,Ohio
+42099,PA,Perry,Pennsylvania
+22015,LA,Bossier,Louisiana
+22017,LA,Caddo,Louisiana
+16071,ID,Oneida,Idaho
+24011,MD,Caroline,Maryland
+41039,OR,Lane,Oregon
+30057,MT,Madison,Montana
+12001,FL,Alachua,Florida
+41037,OR,Lake,Oregon
+51141,VA,Patrick,Virginia
+42063,PA,Indiana,Pennsylvania
+72023,PR,Cabo Rojo,Puerto Rico
+42065,PA,Jefferson,Pennsylvania
+18145,IN,Shelby,Indiana
+30039,MT,Granite,Montana
+37009,NC,Ashe,North Carolina
+31139,NE,Pierce,Nebraska
+38051,ND,McIntosh,North Dakota
+55059,WI,Kenosha,Wisconsin
+39045,OH,Fairfield,Ohio
+22031,LA,De Soto,Louisiana
+47083,TN,Houston,Tennessee
+47085,TN,Humphreys,Tennessee
+45037,SC,Edgefield,South Carolina
+45039,SC,Fairfield,South Carolina
+29027,MO,Callaway,Missouri
+51105,VA,Lee,Virginia
+41031,OR,Jefferson,Oregon
+51109,VA,Louisa,Virginia
+29043,MO,Christian,Missouri
+41017,OR,Deschutes,Oregon
+17097,IL,Lake,Illinois
+42071,PA,Lancaster,Pennsylvania
+37181,NC,Vance,North Carolina
+24045,MD,Wicomico,Maryland
+23001,ME,Androscoggin,Maine
+51087,VA,Henrico,Virginia
+47037,TN,Davidson,Tennessee
+16033,ID,Clark,Idaho
+40151,OK,Woods,Oklahoma
+30009,MT,Carbon,Montana
+47093,TN,Knox,Tennessee
+27073,MN,Lac qui Parle,Minnesota
+51075,VA,Goochland,Virginia
+53075,WA,Whitman,Washington
+55037,WI,Florence,Wisconsin
+27155,MN,Traverse,Minnesota
+51125,VA,Nelson,Virginia
+01057,AL,Fayette,Alabama
+42053,PA,Forest,Pennsylvania
+23023,ME,Sagadahoc,Maine
+20073,KS,Greenwood,Kansas
+48085,TX,Collin,Texas
+48101,TX,Cottle,Texas
+48105,TX,Crockett,Texas
+19059,IA,Dickinson,Iowa
+26037,MI,Clinton,Michigan
+47013,TN,Campbell,Tennessee
+35035,NM,Otero,New Mexico
+21047,KY,Christian,Kentucky
+34005,NJ,Burlington,New Jersey
+51760,VA,Richmond,Virginia
+44003,RI,Kent,Rhode Island
+56035,WY,Sublette,Wyoming
+78030,VI,St. Thomas,United States Virgin Islands
+53077,WA,Yakima,Washington
+25017,MA,Middlesex,Massachusetts
+50027,VT,Windsor,Vermont
+23007,ME,Franklin,Maine
+47145,TN,Roane,Tennessee
+17023,IL,Clark,Illinois
+37017,NC,Bladen,North Carolina
+19189,IA,Winnebago,Iowa
+47151,TN,Scott,Tennessee
+20079,KS,Harvey,Kansas
+06001,CA,Alameda,California
+16079,ID,Shoshone,Idaho
+47113,TN,Madison,Tennessee
+29173,MO,Ralls,Missouri
+51003,VA,Albemarle,Virginia
+45049,SC,Hampton,South Carolina
+56003,WY,Big Horn,Wyoming
+30053,MT,Lincoln,Montana
+42055,PA,Franklin,Pennsylvania
+51133,VA,Northumberland,Virginia
+21069,KY,Fleming,Kentucky
+51135,VA,Nottoway,Virginia
+19085,IA,Harrison,Iowa
+19053,IA,Decatur,Iowa
+47167,TN,Tipton,Tennessee
+20035,KS,Cowley,Kansas
+20205,KS,Wilson,Kansas
+06107,CA,Tulare,California
+24015,MD,Cecil,Maryland
+38059,ND,Morton,North Dakota
+55075,WI,Marinette,Wisconsin
+53011,WA,Clark,Washington
+45051,SC,Horry,South Carolina
+28055,MS,Issaquena,Mississippi
+16039,ID,Elmore,Idaho
+51650,VA,Hampton,Virginia
+01055,AL,Etowah,Alabama
+01035,AL,Conecuh,Alabama
+01103,AL,Morgan,Alabama
+05061,AR,Howard,Arkansas
+06029,CA,Kern,California
+48491,TX,Williamson,Texas
+48217,TX,Hill,Texas
+48057,TX,Calhoun,Texas
+48123,TX,DeWitt,Texas
+48089,TX,Colorado,Texas
+53005,WA,Benton,Washington
+48453,TX,Travis,Texas
+48347,TX,Nacogdoches,Texas
+48025,TX,Bee,Texas
+51121,VA,Montgomery,Virginia
+54067,WV,Nicholas,West Virginia
+55053,WI,Jackson,Wisconsin
+21111,KY,Jefferson,Kentucky
+21077,KY,Gallatin,Kentucky
+24025,MD,Harford,Maryland
+26131,MI,Ontonagon,Michigan
+06005,CA,Amador,California
+12107,FL,Putnam,Florida
+16015,ID,Boise,Idaho
+17063,IL,Grundy,Illinois
+17165,IL,Saline,Illinois
+18005,IN,Bartholomew,Indiana
+18023,IN,Clinton,Indiana
+54087,WV,Roane,West Virginia
+55087,WI,Outagamie,Wisconsin
+72123,PR,Salinas,Puerto Rico
+72043,PR,Coamo,Puerto Rico
+37103,NC,Jones,North Carolina
+47127,TN,Moore,Tennessee
+46055,SD,Haakon,South Dakota
+35021,NM,Harding,New Mexico
+72029,PR,Canóvanas,Puerto Rico
+38025,ND,Dunn,North Dakota
+48369,TX,Parmer,Texas
+46009,SD,Bon Homme,South Dakota
+45065,SC,McCormick,South Carolina
+27169,MN,Winona,Minnesota
+29003,MO,Andrew,Missouri
+31161,NE,Sheridan,Nebraska
+31131,NE,Otoe,Nebraska
+32017,NV,Lincoln,Nevada
+21183,KY,Ohio,Kentucky
+21209,KY,Scott,Kentucky
+21049,KY,Clark,Kentucky
+21045,KY,Casey,Kentucky
+22099,LA,St. Martin,Louisiana
+22069,LA,Natchitoches,Louisiana
+47033,TN,Crockett,Tennessee
+48177,TX,Gonzales,Texas
+51127,VA,New Kent,Virginia
+20187,KS,Stanton,Kansas
+19003,IA,Adams,Iowa
+27159,MN,Wadena,Minnesota
+51610,VA,Falls Church,Virginia
+72069,PR,Humacao,Puerto Rico
+08083,CO,Montezuma,Colorado
+48295,TX,Lipscomb,Texas
+54085,WV,Ritchie,West Virginia
+48345,TX,Motley,Texas
+05073,AR,Lafayette,Arkansas
+08045,CO,Garfield,Colorado
+08009,CO,Baca,Colorado
+36117,NY,Wayne,New York
+36075,NY,Oswego,New York
+41057,OR,Tillamook,Oregon
+41009,OR,Columbia,Oregon
+47181,TN,Wayne,Tennessee
+27037,MN,Dakota,Minnesota
+28101,MS,Newton,Mississippi
+13229,GA,Pierce,Georgia
+36069,NY,Ontario,New York
+36049,NY,Lewis,New York
+37195,NC,Wilson,North Carolina
+39165,OH,Warren,Ohio
+39027,OH,Clinton,Ohio
+48043,TX,Brewster,Texas
+53037,WA,Kittitas,Washington
+55033,WI,Dunn,Wisconsin
+72151,PR,Yabucoa,Puerto Rico
+13033,GA,Burke,Georgia
+17127,IL,Massac,Illinois
+18115,IN,Ohio,Indiana
+19193,IA,Woodbury,Iowa
+21003,KY,Allen,Kentucky
+32001,NV,Churchill,Nevada
+49021,UT,Iron,Utah
+04021,AZ,Pinal,Arizona
+39135,OH,Preble,Ohio
+40035,OK,Craig,Oklahoma
+41043,OR,Linn,Oregon
+45047,SC,Greenwood,South Carolina
+48199,TX,Hardin,Texas
+48091,TX,Comal,Texas
+35007,NM,Colfax,New Mexico
+38053,ND,McKenzie,North Dakota
+45017,SC,Calhoun,South Carolina
+51147,VA,Prince Edward,Virginia
+54001,WV,Barbour,West Virginia
+53069,WA,Wahkiakum,Washington
+22065,LA,Madison,Louisiana
+26041,MI,Delta,Michigan
+26061,MI,Houghton,Michigan
+01099,AL,Monroe,Alabama
+05083,AR,Logan,Arkansas
+05025,AR,Cleveland,Arkansas
+12055,FL,Highlands,Florida
+13177,GA,Lee,Georgia
+16067,ID,Minidoka,Idaho
+19183,IA,Washington,Iowa
+21149,KY,McLean,Kentucky
+48083,TX,Coleman,Texas
+48277,TX,Lamar,Texas
+51061,VA,Fauquier,Virginia
+72105,PR,Naranjito,Puerto Rico
+41049,OR,Morrow,Oregon
+47175,TN,Van Buren,Tennessee
+38091,ND,Steele,North Dakota
+29227,MO,Worth,Missouri
+01077,AL,Lauderdale,Alabama
+01113,AL,Russell,Alabama
+06075,CA,San Francisco,California
+26091,MI,Lenawee,Michigan
+29153,MO,Ozark,Missouri
+30021,MT,Dawson,Montana
+34003,NJ,Bergen,New Jersey
+21211,KY,Shelby,Kentucky
+21167,KY,Mercer,Kentucky
+21121,KY,Knox,Kentucky
+22089,LA,St. Charles,Louisiana
+29009,MO,Barry,Missouri
+28051,MS,Holmes,Mississippi
+13079,GA,Crawford,Georgia
+16009,ID,Benewah,Idaho
+16031,ID,Cassia,Idaho
+17161,IL,Rock Island,Illinois
+18129,IN,Posey,Indiana
+06053,CA,Monterey,California
+08057,CO,Jackson,Colorado
+12065,FL,Jefferson,Florida
+34025,NJ,Monmouth,New Jersey
+36101,NY,Steuben,New York
+38095,ND,Towner,North Dakota
+41011,OR,Coos,Oregon
+42123,PA,Warren,Pennsylvania
+40133,OK,Seminole,Oklahoma
+40065,OK,Jackson,Oklahoma
+40089,OK,McCurtain,Oklahoma
+18155,IN,Switzerland,Indiana
+21095,KY,Harlan,Kentucky
+21235,KY,Whitley,Kentucky
+12089,FL,Nassau,Florida
+13241,GA,Rabun,Georgia
+17183,IL,Vermilion,Illinois
+48007,TX,Aransas,Texas
+42009,PA,Bedford,Pennsylvania
+51013,VA,Arlington,Virginia
+20007,KS,Barber,Kansas
+46103,SD,Pennington,South Dakota
+47041,TN,DeKalb,Tennessee
+48161,TX,Freestone,Texas
+48075,TX,Childress,Texas
+49023,UT,Juab,Utah
+22107,LA,Tensas,Louisiana
+25021,MA,Norfolk,Massachusetts
+18083,IN,Knox,Indiana
+18077,IN,Jefferson,Indiana
+20039,KS,Decatur,Kansas
+21145,KY,McCracken,Kentucky
+53029,WA,Island,Washington
+54053,WV,Mason,West Virginia
+51031,VA,Campbell,Virginia
+51019,VA,Bedford,Virginia
+55073,WI,Marathon,Wisconsin
+72119,PR,Río Grande,Puerto Rico
+72137,PR,Toa Baja,Puerto Rico
+72051,PR,Dorado,Puerto Rico
+26163,MI,Wayne,Michigan
+27055,MN,Houston,Minnesota
+29095,MO,Jackson,Missouri
+29187,MO,St. Francois,Missouri
+29093,MO,Iron,Missouri
+22075,LA,Plaquemines,Louisiana
+26109,MI,Menominee,Michigan
+55095,WI,Polk,Wisconsin
+02070,AK,Dillingham,Alaska
+06069,CA,San Benito,California
+37015,NC,Bertie,North Carolina
+47087,TN,Jackson,Tennessee
+13253,GA,Seminole,Georgia
+01003,AL,Baldwin,Alabama
+01029,AL,Cleburne,Alabama
+05139,AR,Union,Arkansas
+36013,NY,Chautauqua,New York
+37075,NC,Graham,North Carolina
+40105,OK,Nowata,Oklahoma
+31149,NE,Rock,Nebraska
+47073,TN,Hawkins,Tennessee
+26115,MI,Monroe,Michigan
+29165,MO,Platte,Missouri
+29163,MO,Pike,Missouri
+30095,MT,Stillwater,Montana
+13187,GA,Lumpkin,Georgia
+15007,HI,Kauai,Hawaii
+18059,IN,Hancock,Indiana
+18119,IN,Owen,Indiana
+20015,KS,Butler,Kansas
+21087,KY,Green,Kentucky
+12013,FL,Calhoun,Florida
+06081,CA,San Mateo,California
+06035,CA,Lassen,California
+50017,VT,Orange,Vermont
+51001,VA,Accomack,Virginia
+01047,AL,Dallas,Alabama
+31105,NE,Kimball,Nebraska
+31025,NE,Cass,Nebraska
+34011,NJ,Cumberland,New Jersey
+36009,NY,Cattaraugus,New York
+36055,NY,Monroe,New York
+37129,NC,New Hanover,North Carolina
+21177,KY,Muhlenberg,Kentucky
+28081,MS,Lee,Mississippi
+28125,MS,Sharkey,Mississippi
+37155,NC,Robeson,North Carolina
+37021,NC,Buncombe,North Carolina
+38055,ND,McLean,North Dakota
+10003,DE,New Castle,Delaware
+12005,FL,Bay,Florida
+13295,GA,Walker,Georgia
+54103,WV,Wetzel,West Virginia
+02122,AK,Kenai Peninsula,Alaska
+05051,AR,Garland,Arkansas
+06099,CA,Stanislaus,California
+08043,CO,Fremont,Colorado
+12023,FL,Columbia,Florida
+13219,GA,Oconee,Georgia
+46099,SD,Minnehaha,South Dakota
+51077,VA,Grayson,Virginia
+51093,VA,Isle of Wight,Virginia
+54069,WV,Ohio,West Virginia
+02020,AK,Anchorage,Alaska
+05095,AR,Monroe,Arkansas
+39009,OH,Athens,Ohio
+40031,OK,Comanche,Oklahoma
+20149,KS,Pottawatomie,Kansas
+42109,PA,Snyder,Pennsylvania
+45067,SC,Marion,South Carolina
+45089,SC,Williamsburg,South Carolina
+47001,TN,Anderson,Tennessee
+16087,ID,Washington,Idaho
+20021,KS,Cherokee,Kansas
+20091,KS,Johnson,Kansas
+21023,KY,Bracken,Kentucky
+15001,HI,Hawaii,Hawaii
+17055,IL,Franklin,Illinois
+08053,CO,Hinsdale,Colorado
+18139,IN,Rush,Indiana
+19025,IA,Calhoun,Iowa
+20097,KS,Kiowa,Kansas
+20165,KS,Rush,Kansas
+05019,AR,Clark,Arkansas
+13067,GA,Cobb,Georgia
+13057,GA,Cherokee,Georgia
+13175,GA,Laurens,Georgia
+18035,IN,Delaware,Indiana
+20117,KS,Marshall,Kansas
+21001,KY,Adair,Kentucky
+48259,TX,Kendall,Texas
+48497,TX,Wise,Texas
+48247,TX,Jim Hogg,Texas
+51171,VA,Shenandoah,Virginia
+54027,WV,Hampshire,West Virginia
+55085,WI,Oneida,Wisconsin
+21133,KY,Letcher,Kentucky
+22113,LA,Vermilion,Louisiana
+25027,MA,Worcester,Massachusetts
+21109,KY,Jackson,Kentucky
+26065,MI,Ingham,Michigan
+28007,MS,Attala,Mississippi
+28139,MS,Tippah,Mississippi
+29011,MO,Barton,Missouri
+13197,GA,Marion,Georgia
+36001,NY,Albany,New York
+16023,ID,Butte,Idaho
+21113,KY,Jessamine,Kentucky
+21067,KY,Fayette,Kentucky
+21029,KY,Bullitt,Kentucky
+22097,LA,St. Landry,Louisiana
+13141,GA,Hancock,Georgia
+28077,MS,Lawrence,Mississippi
+13043,GA,Candler,Georgia
+37037,NC,Chatham,North Carolina
+40085,OK,Love,Oklahoma
+46041,SD,Dewey,South Dakota
+48271,TX,Kinney,Texas
+51051,VA,Dickenson,Virginia
+01049,AL,DeKalb,Alabama
+27167,MN,Wilkin,Minnesota
+28059,MS,Jackson,Mississippi
+28093,MS,Marshall,Mississippi
+37157,NC,Rockingham,North Carolina
+37093,NC,Hoke,North Carolina
+40131,OK,Rogers,Oklahoma
+40039,OK,Custer,Oklahoma
+21097,KY,Harrison,Kentucky
+21099,KY,Hart,Kentucky
+47141,TN,Putnam,Tennessee
+47005,TN,Benton,Tennessee
+47089,TN,Jefferson,Tennessee
+38057,ND,Mercer,North Dakota
+39011,OH,Auglaize,Ohio
+39015,OH,Brown,Ohio
+40017,OK,Canadian,Oklahoma
+20115,KS,Marion,Kansas
+48113,TX,Dallas,Texas
+01019,AL,Cherokee,Alabama
+05049,AR,Fulton,Arkansas
+13047,GA,Catoosa,Georgia
+13215,GA,Muscogee,Georgia
+13073,GA,Columbia,Georgia
+17059,IL,Gallatin,Illinois
+30063,MT,Missoula,Montana
+31017,NE,Brown,Nebraska
+45025,SC,Chesterfield,South Carolina
+47111,TN,Macon,Tennessee
+51143,VA,Pittsylvania,Virginia
+51199,VA,York,Virginia
+55023,WI,Crawford,Wisconsin
+48257,TX,Kaufman,Texas
+49007,UT,Carbon,Utah
+49015,UT,Emery,Utah
+72009,PR,Aibonito,Puerto Rico
+72091,PR,Manatí,Puerto Rico
+55061,WI,Kewaunee,Wisconsin
+01087,AL,Macon,Alabama
+13205,GA,Mitchell,Georgia
+13237,GA,Putnam,Georgia
+16013,ID,Blaine,Idaho
+01007,AL,Bibb,Alabama
+29111,MO,Lewis,Missouri
+05081,AR,Little River,Arkansas
+12045,FL,Gulf,Florida
+18127,IN,Porter,Indiana
+40013,OK,Bryan,Oklahoma
+42077,PA,Lehigh,Pennsylvania
+21031,KY,Butler,Kentucky
+47043,TN,Dickson,Tennessee
+48253,TX,Jones,Texas
+49019,UT,Grand,Utah
+48029,TX,Bexar,Texas
+48187,TX,Guadalupe,Texas
+49045,UT,Tooele,Utah
+17143,IL,Peoria,Illinois
+28149,MS,Warren,Mississippi
+29171,MO,Putnam,Missouri
+18043,IN,Floyd,Indiana
+54083,WV,Randolph,West Virginia
+72149,PR,Villalba,Puerto Rico
+51183,VA,Sussex,Virginia
+54089,WV,Summers,West Virginia
+51159,VA,Richmond,Virginia
+01059,AL,Franklin,Alabama
+49055,UT,Wayne,Utah
+18177,IN,Wayne,Indiana
+21089,KY,Greenup,Kentucky
+19159,IA,Ringgold,Iowa
+26089,MI,Leelanau,Michigan
+49047,UT,Uintah,Utah
+12121,FL,Suwannee,Florida
+12123,FL,Taylor,Florida
+51101,VA,King William,Virginia
+30031,MT,Gallatin,Montana
+30045,MT,Judith Basin,Montana
+39155,OH,Trumbull,Ohio
+06013,CA,Contra Costa,California
+09130,CT,Lower Connecticut River Valley,Connecticut
+17195,IL,Whiteside,Illinois
+18165,IN,Vermillion,Indiana
+28045,MS,Hancock,Mississippi
+28151,MS,Washington,Mississippi
+30079,MT,Prairie,Montana
+36003,NY,Allegany,New York
+39093,OH,Lorain,Ohio
+53009,WA,Clallam,Washington
+53027,WA,Grays Harbor,Washington
+30099,MT,Teton,Montana
+51103,VA,Lancaster,Virginia
+51175,VA,Southampton,Virginia
+02188,AK,Northwest Arctic,Alaska
+05045,AR,Faulkner,Arkansas
+21163,KY,Meade,Kentucky
+21223,KY,Trimble,Kentucky
+22119,LA,Webster,Louisiana
+24510,MD,Baltimore,Maryland
+40045,OK,Ellis,Oklahoma
+50003,VT,Bennington,Vermont
+53049,WA,Pacific,Washington
+54071,WV,Pendleton,West Virginia
+53055,WA,San Juan,Washington
+53063,WA,Spokane,Washington
+53073,WA,Whatcom,Washington
+06019,CA,Fresno,California
+13089,GA,DeKalb,Georgia
+20173,KS,Sedgwick,Kansas
+21217,KY,Taylor,Kentucky
+29005,MO,Atchison,Missouri
+30003,MT,Big Horn,Montana
+32033,NV,White Pine,Nevada
+47139,TN,Polk,Tennessee
+46033,SD,Custer,South Dakota
+49017,UT,Garfield,Utah
+13027,GA,Brooks,Georgia
+55009,WI,Brown,Wisconsin
+53017,WA,Douglas,Washington
+48355,TX,Nueces,Texas
+28067,MS,Jones,Mississippi
+21151,KY,Madison,Kentucky
+21239,KY,Woodford,Kentucky
+21193,KY,Perry,Kentucky
+40001,OK,Adair,Oklahoma
+42095,PA,Northampton,Pennsylvania
+44009,RI,Washington,Rhode Island
+31015,NE,Boyd,Nebraska
+22033,LA,East Baton Rouge,Louisiana
+13037,GA,Calhoun,Georgia
+31179,NE,Wayne,Nebraska
+35001,NM,Bernalillo,New Mexico
+36057,NY,Montgomery,New York
+37097,NC,Iredell,North Carolina
+40111,OK,Okmulgee,Oklahoma
+42043,PA,Dauphin,Pennsylvania
+13071,GA,Colquitt,Georgia
+55101,WI,Racine,Wisconsin
+30035,MT,Glacier,Montana
+55127,WI,Walworth,Wisconsin
+51580,VA,Covington,Virginia
+23025,ME,Somerset,Maine
+28053,MS,Humphreys,Mississippi
+17171,IL,Scott,Illinois
+37107,NC,Lenoir,North Carolina
+39169,OH,Wayne,Ohio
+54003,WV,Berkeley,West Virginia
+12019,FL,Clay,Florida
+17105,IL,Livingston,Illinois
+17103,IL,Lee,Illinois
+18027,IN,Daviess,Indiana
+21005,KY,Anderson,Kentucky
+21187,KY,Owen,Kentucky
+47003,TN,Bedford,Tennessee
+48241,TX,Jasper,Texas
+48281,TX,Lampasas,Texas
+50015,VT,Lamoille,Vermont
+53025,WA,Grant,Washington
+13069,GA,Coffee,Georgia
+55045,WI,Green,Wisconsin
+32019,NV,Lyon,Nevada
+32029,NV,Storey,Nevada
+72145,PR,Vega Baja,Puerto Rico
+72129,PR,San Lorenzo,Puerto Rico
+72135,PR,Toa Alta,Puerto Rico
+40007,OK,Beaver,Oklahoma
+51021,VA,Bland,Virginia
+54017,WV,Doddridge,West Virginia
+30105,MT,Valley,Montana
+22053,LA,Jefferson Davis,Louisiana
+13093,GA,Dooly,Georgia
+36111,NY,Ulster,New York
+37027,NC,Caldwell,North Carolina
+37139,NC,Pasquotank,North Carolina
+39173,OH,Wood,Ohio
+48171,TX,Gillespie,Texas
+35051,NM,Sierra,New Mexico
+37111,NC,McDowell,North Carolina
+38023,ND,Divide,North Dakota
+48095,TX,Concho,Texas
+54063,WV,Monroe,West Virginia
+72127,PR,San Juan,Puerto Rico
+30067,MT,Park,Montana
+19049,IA,Dallas,Iowa
+72143,PR,Vega Alta,Puerto Rico
+02090,AK,Fairbanks North Star,Alaska
+51015,VA,Augusta,Virginia
+54041,WV,Lewis,West Virginia
+37133,NC,Onslow,North Carolina
+54031,WV,Hardy,West Virginia
+54105,WV,Wirt,West Virginia
+41033,OR,Josephine,Oregon
+54023,WV,Grant,West Virginia
+55015,WI,Calumet,Wisconsin
+39111,OH,Monroe,Ohio
+08023,CO,Costilla,Colorado
+06059,CA,Orange,California
+08021,CO,Conejos,Colorado
+12103,FL,Pinellas,Florida
+26027,MI,Cass,Michigan
+12115,FL,Sarasota,Florida
+13185,GA,Lowndes,Georgia
+13107,GA,Emanuel,Georgia
+30109,MT,Wibaux,Montana
+47123,TN,Monroe,Tennessee
+12079,FL,Madison,Florida
+28105,MS,Oktibbeha,Mississippi
+51005,VA,Alleghany,Virginia
+46095,SD,Mellette,South Dakota
+05027,AR,Columbia,Arkansas
+08067,CO,La Plata,Colorado
+08007,CO,Archuleta,Colorado
+12085,FL,Martin,Florida
+12047,FL,Hamilton,Florida
+17085,IL,Jo Daviess,Illinois
+18029,IN,Dearborn,Indiana
+18061,IN,Harrison,Indiana
+46093,SD,Meade,South Dakota
+47091,TN,Johnson,Tennessee
+37083,NC,Halifax,North Carolina
+12003,FL,Baker,Florida
+27029,MN,Clearwater,Minnesota
+54007,WV,Braxton,West Virginia
+47055,TN,Giles,Tennessee
+72001,PR,Adjuntas,Puerto Rico
+72021,PR,Bayamón,Puerto Rico
+54005,WV,Boone,West Virginia
+54035,WV,Jackson,West Virginia
+20183,KS,Smith,Kansas
+21159,KY,Martin,Kentucky
+22067,LA,Morehouse,Louisiana
+24019,MD,Dorchester,Maryland
+29199,MO,Scotland,Missouri
+25013,MA,Hampden,Massachusetts
+27071,MN,Koochiching,Minnesota
+39171,OH,Williams,Ohio
+26013,MI,Baraga,Michigan
+38101,ND,Ward,North Dakota
+38081,ND,Sargent,North Dakota
+38007,ND,Billings,North Dakota
+27001,MN,Aitkin,Minnesota
+26069,MI,Iosco,Michigan
+22005,LA,Ascension,Louisiana
+72031,PR,Carolina,Puerto Rico
+72041,PR,Cidra,Puerto Rico
+72065,PR,Hatillo,Puerto Rico
+28123,MS,Scott,Mississippi
+31065,NE,Furnas,Nebraska
+39095,OH,Lucas,Ohio
+01083,AL,Limestone,Alabama
+30043,MT,Jefferson,Montana
+37161,NC,Rutherford,North Carolina
+39053,OH,Gallia,Ohio
+47071,TN,Hardin,Tennessee
+49025,UT,Kane,Utah
+05147,AR,Woodruff,Arkansas
+06043,CA,Mariposa,California
+34009,NJ,Cape May,New Jersey
+41061,OR,Union,Oregon
+40101,OK,Muskogee,Oklahoma
+26035,MI,Clare,Michigan
+41041,OR,Lincoln,Oregon
+26063,MI,Huron,Michigan
+38049,ND,McHenry,North Dakota
+08017,CO,Cheyenne,Colorado
+47173,TN,Union,Tennessee
+19177,IA,Van Buren,Iowa
+05093,AR,Mississippi,Arkansas
+12017,FL,Citrus,Florida
+12053,FL,Hernando,Florida
+12073,FL,Leon,Florida
+12091,FL,Okaloosa,Florida
+51131,VA,Northampton,Virginia
+53061,WA,Snohomish,Washington
+55029,WI,Door,Wisconsin
+48337,TX,Montague,Texas
+37175,NC,Transylvania,North Carolina
+13139,GA,Hall,Georgia
+48465,TX,Val Verde,Texas
+32023,NV,Nye,Nevada
+20103,KS,Leavenworth,Kansas
+37049,NC,Craven,North Carolina
+34029,NJ,Ocean,New Jersey
+22063,LA,Livingston,Louisiana
+12113,FL,Santa Rosa,Florida
+12117,FL,Seminole,Florida
+12129,FL,Wakulla,Florida
+12131,FL,Walton,Florida
+13087,GA,Decatur,Georgia
+13201,GA,Miller,Georgia
+12097,FL,Osceola,Florida
+18143,IN,Scott,Indiana
+21207,KY,Russell,Kentucky
+21103,KY,Henry,Kentucky
+27013,MN,Blue Earth,Minnesota
+28137,MS,Tate,Mississippi
+28049,MS,Hinds,Mississippi
+48505,TX,Zapata,Texas
+12069,FL,Lake,Florida
+38011,ND,Bowman,North Dakota
+45091,SC,York,South Carolina
+05143,AR,Washington,Arkansas
+01005,AL,Barbour,Alabama
+26007,MI,Alpena,Michigan
+48307,TX,McCulloch,Texas
+72103,PR,Naguabo,Puerto Rico
+72059,PR,Guayanilla,Puerto Rico
+26147,MI,St. Clair,Michigan
+13275,GA,Thomas,Georgia
+13315,GA,Wilcox,Georgia
+72017,PR,Barceloneta,Puerto Rico
+28021,MS,Claiborne,Mississippi
+28025,MS,Clay,Mississippi
+46049,SD,Faulk,South Dakota
+46129,SD,Walworth,South Dakota
+47099,TN,Lawrence,Tennessee
+35006,NM,Cibola,New Mexico
+36099,NY,Seneca,New York
+36031,NY,Essex,New York
+40109,OK,Oklahoma,Oklahoma
+48473,TX,Waller,Texas
+54045,WV,Logan,West Virginia
+01127,AL,Walker,Alabama
+37029,NC,Camden,North Carolina
+72003,PR,Aguada,Puerto Rico
+26017,MI,Bay,Michigan
+60010,AS,Eastern,American Samoa
+26047,MI,Emmet,Michigan
+37185,NC,Warren,North Carolina
+26087,MI,Lapeer,Michigan
+69120,MP,Tinian,Commonwealth of the Northern Mariana Islands
+69110,MP,Saipan,Commonwealth of the Northern Mariana Islands
+28047,MS,Harrison,Mississippi
+72083,PR,Las Marías,Puerto Rico
+72147,PR,Vieques,Puerto Rico
+72089,PR,Luquillo,Puerto Rico
+72085,PR,Las Piedras,Puerto Rico
+54079,WV,Putnam,West Virginia
+54081,WV,Raleigh,West Virginia
+35049,NM,Santa Fe,New Mexico
+37173,NC,Swain,North Carolina
+48041,TX,Brazos,Texas
+48051,TX,Burleson,Texas
+51137,VA,Orange,Virginia
+08059,CO,Jefferson,Colorado
+40033,OK,Cotton,Oklahoma
+08019,CO,Clear Creek,Colorado
+40067,OK,Jefferson,Oklahoma
+37059,NC,Davie,North Carolina
+06011,CA,Colusa,California
+48197,TX,Hardeman,Texas
+05067,AR,Jackson,Arkansas
+37067,NC,Forsyth,North Carolina
+51530,VA,Buena Vista,Virginia
+05085,AR,Lonoke,Arkansas
+48457,TX,Tyler,Texas
+12051,FL,Hendry,Florida
+13179,GA,Liberty,Georgia
+13183,GA,Long,Georgia
+48469,TX,Victoria,Texas
+39025,OH,Clermont,Ohio
+48471,TX,Walker,Texas
+40023,OK,Choctaw,Oklahoma
+51009,VA,Amherst,Virginia
+51680,VA,Lynchburg,Virginia
+48477,TX,Washington,Texas
+48339,TX,Montgomery,Texas
+29123,MO,Madison,Missouri
+29179,MO,Reynolds,Missouri
+29203,MO,Shannon,Missouri
+48411,TX,San Saba,Texas
+48475,TX,Ward,Texas
+48487,TX,Wilbarger,Texas
+29161,MO,Phelps,Missouri
+42003,PA,Allegheny,Pennsylvania
+06027,CA,Inyo,California
+34001,NJ,Atlantic,New Jersey
+13199,GA,Meriwether,Georgia
+48481,TX,Wharton,Texas
+39073,OH,Hocking,Ohio
+13221,GA,Oglethorpe,Georgia
+39077,OH,Huron,Ohio
+13231,GA,Pike,Georgia
+39031,OH,Coshocton,Ohio
+13243,GA,Randolph,Georgia
+13259,GA,Stewart,Georgia
+40095,OK,Marshall,Oklahoma
+40123,OK,Pontotoc,Oklahoma
+66010,GU,Guam,Guam
+48395,TX,Robertson,Texas
+40147,OK,Washington,Oklahoma
+48489,TX,Willacy,Texas
+36011,NY,Cayuga,New York
+37091,NC,Hertford,North Carolina
+48261,TX,Kenedy,Texas
+08117,CO,Summit,Colorado
+37109,NC,Lincoln,North Carolina
+29510,MO,St. Louis,Missouri
+29205,MO,Shelby,Missouri
+22101,LA,St. Mary,Louisiana
+05109,AR,Pike,Arkansas
+40009,OK,Beckham,Oklahoma
+16073,ID,Owyhee,Idaho
+24009,MD,Calvert,Maryland
+13245,GA,Richmond,Georgia
+06067,CA,Sacramento,California
+40061,OK,Haskell,Oklahoma
+39013,OH,Belmont,Ohio
+42125,PA,Washington,Pennsylvania
+06079,CA,San Luis Obispo,California
+40107,OK,Okfuskee,Oklahoma
+39005,OH,Ashland,Ohio
+48409,TX,San Patricio,Texas
+51041,VA,Chesterfield,Virginia
+37141,NC,Pender,North Carolina
+17083,IL,Jersey,Illinois
+19013,IA,Black Hawk,Iowa
+20023,KS,Cheyenne,Kansas
+13001,GA,Appling,Georgia
+20043,KS,Doniphan,Kansas
+13255,GA,Spalding,Georgia
+40055,OK,Greer,Oklahoma
+13283,GA,Treutlen,Georgia
+27131,MN,Rice,Minnesota
+48321,TX,Matagorda,Texas
+37099,NC,Jackson,North Carolina
+01091,AL,Marengo,Alabama
+42059,PA,Greene,Pennsylvania
+54099,WV,Wayne,West Virginia
+13039,GA,Camden,Georgia
+16027,ID,Canyon,Idaho
+39081,OH,Jefferson,Ohio
+36021,NY,Columbia,New York
+01051,AL,Elmore,Alabama
+48229,TX,Hudspeth,Texas
+13077,GA,Coweta,Georgia
+18039,IN,Elkhart,Indiana
+37197,NC,Yadkin,North Carolina
+01021,AL,Chilton,Alabama
+17071,IL,Henderson,Illinois
+23011,ME,Kennebec,Maine
+05013,AR,Calhoun,Arkansas
+18163,IN,Vanderburgh,Indiana
+60050,AS,Western,American Samoa
+54013,WV,Calhoun,West Virginia
+51027,VA,Buchanan,Virginia
+13291,GA,Union,Georgia
+39001,OH,Adams,Ohio
+31155,NE,Saunders,Nebraska
+13297,GA,Walton,Georgia
+27141,MN,Sherburne,Minnesota
+34031,NJ,Passaic,New Jersey
+17137,IL,Morgan,Illinois
+05127,AR,Scott,Arkansas
+13157,GA,Jackson,Georgia
+39097,OH,Madison,Ohio
+12061,FL,Indian River,Florida
+05131,AR,Sebastian,Arkansas
+13009,GA,Baldwin,Georgia
+38037,ND,Grant,North Dakota
+55017,WI,Chippewa,Wisconsin
+32031,NV,Washoe,Nevada
+32005,NV,Douglas,Nevada
+20087,KS,Jefferson,Kansas
+20177,KS,Shawnee,Kansas
+54057,WV,Mineral,West Virginia
+01129,AL,Washington,Alabama
+51185,VA,Tazewell,Virginia
+30007,MT,Broadwater,Montana
+13309,GA,Wheeler,Georgia
+40115,OK,Ottawa,Oklahoma
+13135,GA,Gwinnett,Georgia
+51007,VA,Amelia,Virginia
+05135,AR,Sharp,Arkansas
+40041,OK,Delaware,Oklahoma
+18141,IN,St. Joseph,Indiana
+48273,TX,Kleberg,Texas
+18111,IN,Newton,Indiana
+32007,NV,Elko,Nevada
+55051,WI,Iron,Wisconsin
+01089,AL,Madison,Alabama
+18067,IN,Howard,Indiana
+18097,IN,Marion,Indiana
+28133,MS,Sunflower,Mississippi
+29081,MO,Harrison,Missouri
+29211,MO,Sullivan,Missouri
+54095,WV,Tyler,West Virginia
+51063,VA,Floyd,Virginia
+30091,MT,Sheridan,Montana
+30011,MT,Carter,Montana
+20143,KS,Ottawa,Kansas
+13189,GA,McDuffie,Georgia
+41059,OR,Umatilla,Oregon
+41063,OR,Wallowa,Oregon
+55041,WI,Forest,Wisconsin
+55057,WI,Juneau,Wisconsin
+06061,CA,Placer,California
+13013,GA,Barrow,Georgia
+16053,ID,Jerome,Idaho
+39107,OH,Mercer,Ohio
+19061,IA,Dubuque,Iowa
+06051,CA,Mono,California
+28089,MS,Madison,Mississippi
+33003,NH,Carroll,New Hampshire
+30103,MT,Treasure,Montana
+20157,KS,Republic,Kansas
+30111,MT,Yellowstone,Montana
+31051,NE,Dixon,Nebraska
+02110,AK,Juneau,Alaska
+05077,AR,Lee,Arkansas
+05117,AR,Prairie,Arkansas
+05107,AR,Phillips,Arkansas
+20121,KS,Miami,Kansas
+05149,AR,Yell,Arkansas
+13025,GA,Brantley,Georgia
+12081,FL,Manatee,Florida
+19065,IA,Fayette,Iowa
+13029,GA,Bryan,Georgia
+45045,SC,Greenville,South Carolina
+37189,NC,Watauga,North Carolina
+45055,SC,Kershaw,South Carolina
+06031,CA,Kings,California
+55013,WI,Burnett,Wisconsin
+22021,LA,Caldwell,Louisiana
+22025,LA,Catahoula,Louisiana
+22041,LA,Franklin,Louisiana
+55083,WI,Oconto,Wisconsin
+02068,AK,Denali,Alaska
+02170,AK,Matanuska-Susitna,Alaska
+69100,MP,Rota,Commonwealth of the Northern Mariana Islands
+56017,WY,Hot Springs,Wyoming
+37131,NC,Northampton,North Carolina
+06047,CA,Merced,California
+01041,AL,Crenshaw,Alabama
+12099,FL,Palm Beach,Florida
+39113,OH,Montgomery,Ohio
+01081,AL,Lee,Alabama
+41005,OR,Clackamas,Oregon
+06045,CA,Mendocino,California
+16069,ID,Nez Perce,Idaho
+29037,MO,Cass,Missouri
+55043,WI,Grant,Wisconsin
+05115,AR,Pope,Arkansas
+06095,CA,Solano,California
+27089,MN,Marshall,Minnesota
+05103,AR,Ouachita,Arkansas
+12031,FL,Duval,Florida
+42019,PA,Butler,Pennsylvania
+12093,FL,Okeechobee,Florida
+17125,IL,Mason,Illinois
+20153,KS,Rawlins,Kansas
+39119,OH,Muskingum,Ohio
+48333,TX,Mills,Texas
+01101,AL,Montgomery,Alabama
+08097,CO,Pitkin,Colorado
+55019,WI,Clark,Wisconsin
+29213,MO,Taney,Missouri
+48315,TX,Marion,Texas
+05007,AR,Benton,Arkansas
+37113,NC,Macon,North Carolina
+19043,IA,Clayton,Iowa
+27157,MN,Wabasha,Minnesota
+36027,NY,Dutchess,New York
+05133,AR,Sevier,Arkansas
+12067,FL,Lafayette,Florida
+39131,OH,Pike,Ohio
+42049,PA,Erie,Pennsylvania
+42039,PA,Crawford,Pennsylvania
+46121,SD,Todd,South Dakota
+17149,IL,Pike,Illinois
+17157,IL,Randolph,Illinois
+51081,VA,Greensville,Virginia
+48371,TX,Pecos,Texas
+51083,VA,Halifax,Virginia
+45073,SC,Oconee,South Carolina
+05033,AR,Crawford,Arkansas
+48203,TX,Harrison,Texas
+06015,CA,Del Norte,California
+37073,NC,Gates,North Carolina
+55063,WI,La Crosse,Wisconsin
+48141,TX,El Paso,Texas
+39061,OH,Hamilton,Ohio
+47081,TN,Hickman,Tennessee
+48381,TX,Randall,Texas
+08111,CO,San Juan,Colorado
+08113,CO,San Miguel,Colorado
+48385,TX,Real,Texas
+51085,VA,Hanover,Virginia
+08115,CO,Sedgwick,Colorado
+19129,IA,Mills,Iowa
+42127,PA,Wayne,Pennsylvania
+36043,NY,Herkimer,New York
+36077,NY,Otsego,New York
+51195,VA,Wise,Virginia
+06113,CA,Yolo,California
+36087,NY,Rockland,New York
+08011,CO,Bent,Colorado
+49003,UT,Box Elder,Utah
+36083,NY,Rensselaer,New York
+37071,NC,Gaston,North Carolina
+05057,AR,Hempstead,Arkansas
+12101,FL,Pasco,Florida
+19161,IA,Sac,Iowa
+17181,IL,Union,Illinois
+39143,OH,Sandusky,Ohio
+19167,IA,Sioux,Iowa
+42089,PA,Monroe,Pennsylvania
+05087,AR,Madison,Arkansas
+48467,TX,Van Zandt,Texas
+36113,NY,Warren,New York
+36091,NY,Saratoga,New York
+51710,VA,Norfolk,Virginia
+05005,AR,Baxter,Arkansas
+48301,TX,Loving,Texas
+08031,CO,Denver,Colorado
+05137,AR,Stone,Arkansas
+34033,NJ,Salem,New Jersey
+51191,VA,Washington,Virginia
+01011,AL,Bullock,Alabama
+39145,OH,Scioto,Ohio
+21227,KY,Warren,Kentucky
+48403,TX,Sabine,Texas
+08123,CO,Weld,Colorado
+19185,IA,Wayne,Iowa
+36025,NY,Delaware,New York
+48423,TX,Smith,Texas
+48231,TX,Hunt,Texas
+51735,VA,Poquoson,Virginia
+29157,MO,Perry,Missouri
+08013,CO,Boulder,Colorado
+51800,VA,Suffolk,Virginia
+38035,ND,Grand Forks,North Dakota
+36085,NY,Richmond,New York
+34039,NJ,Union,New Jersey
+12021,FL,Collier,Florida
+13127,GA,Glynn,Georgia
+17199,IL,Williamson,Illinois
+17203,IL,Woodford,Illinois
+17069,IL,Hardin,Illinois
+13153,GA,Houston,Georgia
+22103,LA,St. Tammany,Louisiana
+28063,MS,Jefferson,Mississippi
+31053,NE,Dodge,Nebraska
+51590,VA,Danville,Virginia
+42005,PA,Armstrong,Pennsylvania
+29217,MO,Vernon,Missouri
+37115,NC,Madison,North Carolina
+22045,LA,Iberia,Louisiana
+13261,GA,Sumter,Georgia
+55121,WI,Trempealeau,Wisconsin
+55123,WI,Vernon,Wisconsin
+51700,VA,Newport News,Virginia
+49027,UT,Millard,Utah
+12109,FL,St. Johns,Florida
+30073,MT,Pondera,Montana
+19131,IA,Mitchell,Iowa
+13271,GA,Telfair,Georgia
+42033,PA,Clearfield,Pennsylvania
+55021,WI,Columbia,Wisconsin
+46019,SD,Butte,South Dakota
+08107,CO,Routt,Colorado
+17185,IL,Wabash,Illinois
+28157,MS,Wilkinson,Mississippi
+01043,AL,Cullman,Alabama
+48201,TX,Harris,Texas
+08037,CO,Eagle,Colorado
+01037,AL,Coosa,Alabama
+08051,CO,Gunnison,Colorado
+36089,NY,St. Lawrence,New York
+48309,TX,McLennan,Texas
+08103,CO,Rio Blanco,Colorado
+13081,GA,Crisp,Georgia
+19107,IA,Keokuk,Iowa
+13145,GA,Harris,Georgia
+39017,OH,Butler,Ohio
+48239,TX,Jackson,Texas
+20209,KS,Wyandotte,Kansas
+21071,KY,Floyd,Kentucky
+42047,PA,Elk,Pennsylvania
+51187,VA,Warren,Virginia
+13321,GA,Worth,Georgia
+22077,LA,Pointe Coupee,Louisiana
+17007,IL,Boone,Illinois
+48061,TX,Cameron,Texas
+13113,GA,Fayette,Georgia
+18079,IN,Jennings,Indiana
+21065,KY,Estill,Kentucky
+39019,OH,Carroll,Ohio
+47017,TN,Carroll,Tennessee
+16019,ID,Bonneville,Idaho
+39101,OH,Marion,Ohio
+51035,VA,Carroll,Virginia
+39103,OH,Medina,Ohio
+01061,AL,Geneva,Alabama
+12071,FL,Lee,Florida
+13267,GA,Tattnall,Georgia
+18069,IN,Huntington,Indiana
+39091,OH,Logan,Ohio
+27173,MN,Yellow Medicine,Minnesota
+48183,TX,Gregg,Texas
+48159,TX,Franklin,Texas
+36053,NY,Madison,New York
+20125,KS,Montgomery,Kansas
+39133,OH,Portage,Ohio
+22009,LA,Avoyelles,Louisiana
+48001,TX,Anderson,Texas
+72097,PR,Mayagüez,Puerto Rico
+05021,AR,Clay,Arkansas
+51023,VA,Botetourt,Virginia
+09170,CT,South Central Connecticut,Connecticut
+23027,ME,Waldo,Maine
+12087,FL,Monroe,Florida
+51053,VA,Dinwiddie,Virginia
+16041,ID,Franklin,Idaho
+29087,MO,Holt,Missouri
+39099,OH,Mahoning,Ohio
+31033,NE,Cheyenne,Nebraska
+27143,MN,Sibley,Minnesota
+36095,NY,Schoharie,New York
+48401,TX,Rusk,Texas
+13251,GA,Screven,Georgia
+19149,IA,Plymouth,Iowa
+13121,GA,Fulton,Georgia
+18011,IN,Boone,Indiana
+22121,LA,West Baton Rouge,Louisiana
+48157,TX,Fort Bend,Texas
+17133,IL,Monroe,Illinois
+19097,IA,Jackson,Iowa
+48361,TX,Orange,Texas
+06039,CA,Madera,California
+38071,ND,Ramsey,North Dakota
+05055,AR,Greene,Arkansas
+27077,MN,Lake of the Woods,Minnesota
+44007,RI,Providence,Rhode Island
+38067,ND,Pembina,North Dakota
+53047,WA,Okanogan,Washington
+49057,UT,Weber,Utah
+35033,NM,Mora,New Mexico
+30071,MT,Phillips,Montana
+06063,CA,Plumas,California
+48427,TX,Starr,Texas
+48443,TX,Terrell,Texas
+12119,FL,Sumter,Florida
+55079,WI,Milwaukee,Wisconsin
+22001,LA,Acadia,Louisiana
+48053,TX,Burnet,Texas
+48335,TX,Mitchell,Texas
+16017,ID,Bonner,Idaho
+26053,MI,Gogebic,Michigan
+06109,CA,Tuolumne,California
+37063,NC,Durham,North Carolina
+49051,UT,Wasatch,Utah
+72113,PR,Ponce,Puerto Rico
+20201,KS,Washington,Kansas
+35025,NM,Lea,New Mexico
+48353,TX,Nolan,Texas
+48389,TX,Reeves,Texas
+08101,CO,Pueblo,Colorado
+08071,CO,Las Animas,Colorado
+08093,CO,Park,Colorado
+06105,CA,Trinity,California
+39159,OH,Union,Ohio
+12011,FL,Broward,Florida
+13319,GA,Wilkinson,Georgia
+53019,WA,Ferry,Washington
+18081,IN,Johnson,Indiana
+37085,NC,Harnett,North Carolina
+46007,SD,Bennett,South Dakota
+54021,WV,Gilmer,West Virginia
+17075,IL,Iroquois,Illinois
+06025,CA,Imperial,California
+34013,NJ,Essex,New Jersey
+05063,AR,Independence,Arkansas
+18071,IN,Jackson,Indiana
+41015,OR,Curry,Oregon
+08035,CO,Douglas,Colorado
+36065,NY,Oneida,New York
+13017,GA,Ben Hill,Georgia
+19155,IA,Pottawattamie,Iowa
+41045,OR,Malheur,Oregon
+28109,MS,Pearl River,Mississippi
+37041,NC,Chowan,North Carolina
+01117,AL,Shelby,Alabama
+19151,IA,Pocahontas,Iowa
+36109,NY,Tompkins,New York
+40137,OK,Stephens,Oklahoma
+50005,VT,Caledonia,Vermont
+48077,TX,Clay,Texas
+01053,AL,Escambia,Alabama
+13019,GA,Berrien,Georgia
+49029,UT,Morgan,Utah
+54093,WV,Tucker,West Virginia
+50007,VT,Chittenden,Vermont
+05145,AR,White,Arkansas
+48351,TX,Newton,Texas
+13257,GA,Stephens,Georgia
+13273,GA,Terrell,Georgia
+26151,MI,Sanilac,Michigan
+13005,GA,Bacon,Georgia
+27093,MN,Meeker,Minnesota
+17091,IL,Kankakee,Illinois
+40081,OK,Lincoln,Oklahoma
+51169,VA,Scott,Virginia
+72019,PR,Barranquitas,Puerto Rico
+16045,ID,Gem,Idaho
+47027,TN,Clay,Tennessee
+16083,ID,Twin Falls,Idaho
+37101,NC,Johnston,North Carolina
+26055,MI,Grand Traverse,Michigan
+30087,MT,Rosebud,Montana
+01065,AL,Hale,Alabama
+18015,IN,Carroll,Indiana
+27053,MN,Hennepin,Minnesota
+21061,KY,Edmonson,Kentucky
+51790,VA,Staunton,Virginia
+28121,MS,Rankin,Mississippi
+34023,NJ,Middlesex,New Jersey
+13163,GA,Jefferson,Georgia
+34017,NJ,Hudson,New Jersey
+22105,LA,Tangipahoa,Louisiana
+06103,CA,Tehama,California
+29019,MO,Boone,Missouri
+51770,VA,Roanoke,Virginia
+37149,NC,Polk,North Carolina
+17163,IL,St. Clair,Illinois
+37187,NC,Washington,North Carolina
+21055,KY,Crittenden,Kentucky
+35039,NM,Rio Arriba,New Mexico
+45043,SC,Georgetown,South Carolina
+69085,MP,Northern Islands,Commonwealth of the Northern Mariana Islands
+05089,AR,Marion,Arkansas
+17001,IL,Adams,Illinois
+29207,MO,Stoddard,Missouri
+12041,FL,Gilchrist,Florida
+33015,NH,Rockingham,New Hampshire
+05059,AR,Hot Spring,Arkansas
+05065,AR,Izard,Arkansas
+37077,NC,Granville,North Carolina
+39029,OH,Columbiana,Ohio
+46029,SD,Codington,South Dakota
+31021,NE,Burt,Nebraska
+40087,OK,McClain,Oklahoma
+40113,OK,Osage,Oklahoma
+51033,VA,Caroline,Virginia
+42083,PA,McKean,Pennsylvania
+38029,ND,Emmons,North Dakota
+48039,TX,Brazoria,Texas
+20105,KS,Lincoln,Kansas
+26001,MI,Alcona,Michigan
+60020,AS,Manu'a,American Samoa
+54049,WV,Marion,West Virginia
+72025,PR,Caguas,Puerto Rico
+72063,PR,Gurabo,Puerto Rico
+53015,WA,Cowlitz,Washington
+12077,FL,Liberty,Florida
+08033,CO,Dolores,Colorado
+29183,MO,St. Charles,Missouri
+08049,CO,Grand,Colorado
+17099,IL,LaSalle,Illinois
+18167,IN,Vigo,Indiana
+36033,NY,Franklin,New York
+36105,NY,Sullivan,New York
+36007,NY,Broome,New York
+51047,VA,Culpeper,Virginia
+29143,MO,New Madrid,Missouri
+26103,MI,Marquette,Michigan
+29195,MO,Saline,Missouri
+51057,VA,Essex,Virginia
+13007,GA,Baker,Georgia
+28001,MS,Adams,Mississippi
+04003,AZ,Cochise,Arizona
+18087,IN,LaGrange,Indiana
+13167,GA,Johnson,Georgia
+29053,MO,Cooper,Missouri
+08077,CO,Mesa,Colorado
+34021,NJ,Mercer,New Jersey
+41003,OR,Benton,Oregon
+22023,LA,Cameron,Louisiana
+53045,WA,Mason,Washington
+36107,NY,Tioga,New York
+51157,VA,Rappahannock,Virginia
+01133,AL,Winston,Alabama
+01025,AL,Clarke,Alabama
+54011,WV,Cabell,West Virginia
+29023,MO,Butler,Missouri
+54029,WV,Hancock,West Virginia
+19071,IA,Fremont,Iowa
+18149,IN,Starke,Indiana
+48097,TX,Cooke,Texas
+37065,NC,Edgecombe,North Carolina
+46065,SD,Hughes,South Dakota
+56001,WY,Albany,Wyoming
+18019,IN,Clark,Indiana
+01071,AL,Jackson,Alabama
+37019,NC,Brunswick,North Carolina
+21079,KY,Garrard,Kentucky
+37121,NC,Mitchell,North Carolina
+27139,MN,Scott,Minnesota
+39167,OH,Washington,Ohio
+22125,LA,West Feliciana,Louisiana
+51045,VA,Craig,Virginia
+26003,MI,Alger,Michigan
+21125,KY,Laurel,Kentucky
+01073,AL,Jefferson,Alabama
+51079,VA,Greene,Virginia
+54051,WV,Marshall,West Virginia
+25009,MA,Essex,Massachusetts
+39105,OH,Meigs,Ohio
+06009,CA,Calaveras,California
+36061,NY,New York,New York
+42007,PA,Beaver,Pennsylvania
+46117,SD,Stanley,South Dakota
+46137,SD,Ziebach,South Dakota
+54059,WV,Mingo,West Virginia
+28143,MS,Tunica,Mississippi
+29063,MO,DeKalb,Missouri
+29197,MO,Schuyler,Missouri
+54065,WV,Morgan,West Virginia
+29129,MO,Mercer,Missouri
+36045,NY,Jefferson,New York
+22047,LA,Iberville,Louisiana
+19181,IA,Warren,Iowa
+19081,IA,Hancock,Iowa
+48431,TX,Sterling,Texas
+20175,KS,Seward,Kansas
+30101,MT,Toole,Montana
+39007,OH,Ashtabula,Ohio
+54107,WV,Wood,West Virginia
+27121,MN,Pope,Minnesota
+19141,IA,O'Brien,Iowa
+48293,TX,Limestone,Texas
+30027,MT,Fergus,Montana
+51197,VA,Wythe,Virginia
+51510,VA,Alexandria,Virginia
+38097,ND,Traill,North Dakota
+30055,MT,McCone,Montana
+22035,LA,East Carroll,Louisiana
+19005,IA,Allamakee,Iowa
+26141,MI,Presque Isle,Michigan
+51740,VA,Portsmouth,Virginia
+30047,MT,Lake,Montana
+26097,MI,Mackinac,Michigan
+38005,ND,Benson,North Dakota
+27007,MN,Beltrami,Minnesota
+27061,MN,Itasca,Minnesota
+41027,OR,Hood River,Oregon
+01001,AL,Autauga,Alabama
+51810,VA,Virginia Beach,Virginia
+47059,TN,Greene,Tennessee
+42025,PA,Carbon,Pennsylvania
+47067,TN,Hancock,Tennessee
+45031,SC,Darlington,South Carolina
+42045,PA,Delaware,Pennsylvania
+35013,NM,Doña Ana,New Mexico
+35017,NM,Grant,New Mexico
+09190,CT,Western Connecticut,Connecticut
+38063,ND,Nelson,North Dakota
+13051,GA,Chatham,Georgia
+18151,IN,Steuben,Indiana
+19119,IA,Lyon,Iowa
+21091,KY,Hancock,Kentucky
+01097,AL,Mobile,Alabama
+72035,PR,Cayey,Puerto Rico
+18183,IN,Whitley,Indiana
+72131,PR,San Sebastián,Puerto Rico
+17089,IL,Kane,Illinois
+72013,PR,Arecibo,Puerto Rico
+37003,NC,Alexander,North Carolina
+06007,CA,Butte,California
+33005,NH,Cheshire,New Hampshire
+30065,MT,Musselshell,Montana
+36059,NY,Nassau,New York
+35047,NM,San Miguel,New Mexico
+39087,OH,Lawrence,Ohio
+21093,KY,Hardin,Kentucky
+25025,MA,Suffolk,Massachusetts
+29155,MO,Pemiscot,Missouri
+29013,MO,Bates,Missouri
+51550,VA,Chesapeake,Virginia
+51071,VA,Giles,Virginia
+72007,PR,Aguas Buenas,Puerto Rico
+51017,VA,Bath,Virginia
+13209,GA,Montgomery,Georgia
+55113,WI,Sawyer,Wisconsin
+55125,WI,Vilas,Wisconsin
+56013,WY,Fremont,Wyoming
+33017,NH,Strafford,New Hampshire
+27123,MN,Ramsey,Minnesota
+48175,TX,Goliad,Texas
+35003,NM,Catron,New Mexico
+36079,NY,Putnam,New York
+40071,OK,Kay,Oklahoma
+46109,SD,Roberts,South Dakota
+54039,WV,Kanawha,West Virginia
+28031,MS,Covington,Mississippi
+01079,AL,Lawrence,Alabama
+05041,AR,Desha,Arkansas
+12039,FL,Gadsden,Florida
+06023,CA,Humboldt,California
+12063,FL,Jackson,Florida
+16043,ID,Fremont,Idaho
+36081,NY,Queens,New York
+27099,MN,Mower,Minnesota
+53013,WA,Columbia,Washington
+27103,MN,Nicollet,Minnesota
+30023,MT,Deer Lodge,Montana
+48377,TX,Presidio,Texas
+50021,VT,Rutland,Vermont
+12133,FL,Washington,Florida
+28033,MS,DeSoto,Mississippi
+46089,SD,McPherson,South Dakota
+28041,MS,Greene,Mississippi
+72141,PR,Utuado,Puerto Rico
+18135,IN,Randolph,Indiana
+18123,IN,Perry,Indiana
+20137,KS,Norton,Kansas
+21231,KY,Wayne,Kentucky
+22027,LA,Claiborne,Louisiana
+24005,MD,Baltimore,Maryland
+29031,MO,Cape Girardeau,Missouri
+28073,MS,Lamar,Mississippi
+35061,NM,Valencia,New Mexico
+37167,NC,Stanly,North Carolina
+39057,OH,Greene,Ohio
+40063,OK,Hughes,Oklahoma
+41053,OR,Polk,Oregon
+55003,WI,Ashland,Wisconsin
+13225,GA,Peach,Georgia
+18181,IN,White,Indiana
+18053,IN,Grant,Indiana
+18013,IN,Brown,Indiana
+21215,KY,Spencer,Kentucky
+28071,MS,Lafayette,Mississippi
+28061,MS,Jasper,Mississippi
+34037,NJ,Sussex,New Jersey
+28057,MS,Itawamba,Mississippi
+04001,AZ,Apache,Arizona
+17015,IL,Carroll,Illinois
+26021,MI,Berrien,Michigan
+29223,MO,Wayne,Missouri
+37119,NC,Mecklenburg,North Carolina
+39123,OH,Ottawa,Ohio
+47047,TN,Fayette,Tennessee
+45075,SC,Orangeburg,South Carolina
+48367,TX,Parker,Texas
+48407,TX,San Jacinto,Texas
+27125,MN,Red Lake,Minnesota
+37011,NC,Avery,North Carolina
+47057,TN,Grainger,Tennessee
+36097,NY,Schuyler,New York
+37153,NC,Richmond,North Carolina
+37199,NC,Yancey,North Carolina
+40145,OK,Wagoner,Oklahoma
+41013,OR,Crook,Oregon
+42079,PA,Luzerne,Pennsylvania
+22123,LA,West Carroll,Louisiana
+05119,AR,Pulaski,Arkansas
+28015,MS,Carroll,Mississippi
+40021,OK,Cherokee,Oklahoma
+47179,TN,Washington,Tennessee
+31057,NE,Dundy,Nebraska
+48167,TX,Galveston,Texas
+51117,VA,Mecklenburg,Virginia
+01121,AL,Talladega,Alabama
+48387,TX,Red River,Texas
+12029,FL,Dixie,Florida
+17033,IL,Crawford,Illinois
+18025,IN,Crawford,Indiana
+22071,LA,Orleans,Louisiana
+45029,SC,Colleton,South Carolina
+48107,TX,Crosby,Texas
+48449,TX,Titus,Texas
+48165,TX,Gaines,Texas
+53001,WA,Adams,Washington
+35053,NM,Socorro,New Mexico
+40129,OK,Roger Mills,Oklahoma
+12086,FL,Miami-Dade,Florida
+21037,KY,Campbell,Kentucky
+51069,VA,Frederick,Virginia
+05075,AR,Lawrence,Arkansas
+06089,CA,Shasta,California
+26009,MI,Antrim,Michigan
+27043,MN,Faribault,Minnesota
+28011,MS,Bolivar,Mississippi
+30013,MT,Cascade,Montana
+30015,MT,Chouteau,Montana
+48289,TX,Leon,Texas
+51113,VA,Madison,Virginia
+05015,AR,Carroll,Arkansas
+12075,FL,Levy,Florida
+13213,GA,Murray,Georgia
+21117,KY,Kenton,Kentucky
+29133,MO,Mississippi,Missouri
+31177,NE,Washington,Nebraska
+08027,CO,Custer,Colorado
+18125,IN,Pike,Indiana
+17051,IL,Fayette,Illinois
+18065,IN,Henry,Indiana
+18105,IN,Monroe,Indiana
+20045,KS,Douglas,Kansas
+21137,KY,Lincoln,Kentucky
+21179,KY,Nelson,Kentucky
+26045,MI,Eaton,Michigan
+16025,ID,Camas,Idaho
+36073,NY,Orleans,New York
+42115,PA,Susquehanna,Pennsylvania
+45069,SC,Marlboro,South Carolina
+48215,TX,Hidalgo,Texas
+50019,VT,Orleans,Vermont
+22091,LA,St. Helena,Louisiana
+24013,MD,Carroll,Maryland
+28141,MS,Tishomingo,Mississippi
+29091,MO,Howell,Missouri
+31055,NE,Douglas,Nebraska
+31147,NE,Richardson,Nebraska
+47159,TN,Smith,Tennessee
+72033,PR,Cataño,Puerto Rico
+12127,FL,Volusia,Florida
+26043,MI,Dickinson,Michigan
+42117,PA,Tioga,Pennsylvania
+53059,WA,Skamania,Washington
+47189,TN,Wilson,Tennessee
+38061,ND,Mountrail,North Dakota
+18171,IN,Warren,Indiana
+18131,IN,Pulaski,Indiana
+38085,ND,Sioux,North Dakota
+16047,ID,Gooding,Idaho
+53031,WA,Jefferson,Washington
+55117,WI,Sheboygan,Wisconsin
+08014,CO,Broomfield,Colorado
+13223,GA,Paulding,Georgia
+33019,NH,Sullivan,New Hampshire
+37053,NC,Currituck,North Carolina
+31031,NE,Cherry,Nebraska
+47011,TN,Bradley,Tennessee
+53071,WA,Walla Walla,Washington
+51115,VA,Mathews,Virginia
+51119,VA,Middlesex,Virginia
+50025,VT,Windham,Vermont
+24021,MD,Frederick,Maryland
+54077,WV,Preston,West Virginia
+24031,MD,Montgomery,Maryland
+19023,IA,Butler,Iowa
+08055,CO,Huerfano,Colorado
+17173,IL,Shelby,Illinois
+18175,IN,Washington,Indiana
+19133,IA,Monona,Iowa
+20189,KS,Stevens,Kansas
+26125,MI,Oakland,Michigan
+48323,TX,Maverick,Texas
+01131,AL,Wilcox,Alabama
+54037,WV,Jefferson,West Virginia
+08041,CO,El Paso,Colorado
+13117,GA,Forsyth,Georgia
+17077,IL,Jackson,Illinois
+42061,PA,Huntingdon,Pennsylvania
+72057,PR,Guayama,Puerto Rico
+17093,IL,Kendall,Illinois
+42067,PA,Juniata,Pennsylvania
+18161,IN,Union,Indiana
+37147,NC,Pitt,North Carolina
+17201,IL,Winnebago,Illinois
+37151,NC,Randolph,North Carolina
+24047,MD,Worcester,Maryland
+48357,TX,Ochiltree,Texas
+27171,MN,Wright,Minnesota
+28027,MS,Coahoma,Mississippi
+35041,NM,Roosevelt,New Mexico
+37135,NC,Orange,North Carolina
+40143,OK,Tulsa,Oklahoma
+40139,OK,Texas,Oklahoma
+13305,GA,Wayne,Georgia
+20161,KS,Riley,Kansas
+22043,LA,Grant,Louisiana
+23021,ME,Piscataquis,Maine
+13159,GA,Jasper,Georgia
+37193,NC,Wilkes,North Carolina
+39063,OH,Hancock,Ohio
+29099,MO,Jefferson,Missouri
+47149,TN,Rutherford,Tennessee
+19027,IA,Carroll,Iowa
+37163,NC,Sampson,North Carolina
+47157,TN,Shelby,Tennessee
+17013,IL,Calhoun,Illinois
+37007,NC,Anson,North Carolina
+19007,IA,Appanoose,Iowa
+21063,KY,Elliott,Kentucky
+42129,PA,Westmoreland,Pennsylvania
+47155,TN,Sevier,Tennessee
+47049,TN,Fentress,Tennessee
+47133,TN,Overton,Tennessee
+40121,OK,Pittsburg,Oklahoma
+45079,SC,Richland,South Carolina
+48139,TX,Ellis,Texas
+48213,TX,Henderson,Texas
+48067,TX,Cass,Texas
+21131,KY,Leslie,Kentucky
+26071,MI,Iron,Michigan
+20197,KS,Wabaunsee,Kansas
+48127,TX,Dimmit,Texas
+47045,TN,Dyer,Tennessee
+37125,NC,Moore,North Carolina
+53053,WA,Pierce,Washington
+17167,IL,Sangamon,Illinois
+22081,LA,Red River,Louisiana
+27081,MN,Lincoln,Minnesota
+56007,WY,Carbon,Wyoming
+48119,TX,Delta,Texas
+48325,TX,Medina,Texas
+53007,WA,Chelan,Washington
+55025,WI,Dane,Wisconsin
+55069,WI,Lincoln,Wisconsin
+72125,PR,San Germán,Puerto Rico
+42093,PA,Montour,Pennsylvania
+51161,VA,Roanoke,Virginia
+55133,WI,Waukesha,Wisconsin
+72061,PR,Guaynabo,Puerto Rico
+72133,PR,Santa Isabel,Puerto Rico
+37079,NC,Greene,North Carolina
+31107,NE,Knox,Nebraska
+26139,MI,Ottawa,Michigan
+26149,MI,St. Joseph,Michigan
+17061,IL,Greene,Illinois
+27011,MN,Big Stone,Minnesota
+21237,KY,Wolfe,Kentucky
+21017,KY,Bourbon,Kentucky
+42001,PA,Adams,Pennsylvania
+47125,TN,Montgomery,Tennessee
+47135,TN,Perry,Tennessee
+30037,MT,Golden Valley,Montana
+45057,SC,Lancaster,South Carolina
+47171,TN,Unicoi,Tennessee
+47025,TN,Claiborne,Tennessee
+48137,TX,Edwards,Texas
+42121,PA,Venango,Pennsylvania
+48223,TX,Hopkins,Texas
+48331,TX,Milam,Texas
+49011,UT,Davis,Utah
+51073,VA,Gloucester,Virginia
+51067,VA,Franklin,Virginia
+32015,NV,Lander,Nevada
+72109,PR,Patillas,Puerto Rico
+13299,GA,Ware,Georgia
+25023,MA,Plymouth,Massachusetts
+45053,SC,Jasper,South Carolina
+48019,TX,Bandera,Texas
+56011,WY,Crook,Wyoming
+22111,LA,Union,Louisiana
+36005,NY,Bronx,New York
+39021,OH,Champaign,Ohio
+38021,ND,Dickey,North Dakota
+37171,NC,Surry,North Carolina
+55091,WI,Pepin,Wisconsin
+78010,VI,St. Croix,United States Virgin Islands
+47115,TN,Marion,Tennessee
+48087,TX,Collingsworth,Texas
+51685,VA,Manassas Park,Virginia
+72079,PR,Lajas,Puerto Rico
+06073,CA,San Diego,California
+41051,OR,Multnomah,Oregon
+37127,NC,Nash,North Carolina
+13155,GA,Irwin,Georgia
+42101,PA,Philadelphia,Pennsylvania
+24027,MD,Howard,Maryland
+55135,WI,Waupaca,Wisconsin
+49035,UT,Salt Lake,Utah
+47163,TN,Sullivan,Tennessee
+45027,SC,Clarendon,South Carolina
+13181,GA,Lincoln,Georgia
+06115,CA,Yuba,California
+26029,MI,Charlevoix,Michigan
+26099,MI,Macomb,Michigan
+54009,WV,Brooke,West Virginia
+37039,NC,Cherokee,North Carolina
+05035,AR,Crittenden,Arkansas
+01125,AL,Tuscaloosa,Alabama
+48005,TX,Angelina,Texas
+27049,MN,Goodhue,Minnesota
+20135,KS,Ness,Kansas
+39041,OH,Delaware,Ohio
+12007,FL,Bradford,Florida
+01115,AL,St. Clair,Alabama
+06033,CA,Lake,California
+28113,MS,Pike,Mississippi
+45021,SC,Cherokee,South Carolina
+48219,TX,Hockley,Texas
+27145,MN,Stearns,Minnesota
+41071,OR,Yamhill,Oregon
+42075,PA,Lebanon,Pennsylvania
+34035,NJ,Somerset,New Jersey
+24033,MD,Prince George's,Maryland
+51099,VA,King George,Virginia
+72005,PR,Aguadilla,Puerto Rico
+38017,ND,Cass,North Dakota
+13207,GA,Monroe,Georgia
+48455,TX,Trinity,Texas
+54075,WV,Pocahontas,West Virginia
+37013,NC,Beaufort,North Carolina
+28135,MS,Tallahatchie,Mississippi
+12037,FL,Franklin,Florida
+42133,PA,York,Pennsylvania
+05105,AR,Perry,Arkansas
+01017,AL,Chambers,Alabama
+39121,OH,Noble,Ohio
+48391,TX,Refugio,Texas
+72075,PR,Juana Díaz,Puerto Rico
+01119,AL,Sumter,Alabama
+46083,SD,Lincoln,South Dakota
+21075,KY,Fulton,Kentucky
+51690,VA,Martinsville,Virginia
+40049,OK,Garvin,Oklahoma
+49001,UT,Beaver,Utah
+30089,MT,Sanders,Montana
+12083,FL,Marion,Florida
+13103,GA,Effingham,Georgia
+12057,FL,Hillsborough,Florida
+16005,ID,Bannock,Idaho
+18003,IN,Allen,Indiana
+20185,KS,Stafford,Kansas
+22057,LA,Lafourche,Louisiana
+20207,KS,Woodson,Kansas
+37051,NC,Cumberland,North Carolina
+21011,KY,Bath,Kentucky
+38015,ND,Burleigh,North Dakota
+24029,MD,Kent,Maryland
+51540,VA,Charlottesville,Virginia
+51153,VA,Prince William,Virginia
+53023,WA,Garfield,Washington
+36039,NY,Greene,New York
+46075,SD,Jones,South Dakota
+16055,ID,Kootenai,Idaho
+24041,MD,Talbot,Maryland
+18057,IN,Hamilton,Indiana
+16077,ID,Power,Idaho
+37043,NC,Clay,North Carolina
+01095,AL,Marshall,Alabama
+49031,UT,Piute,Utah
+17045,IL,Edgar,Illinois
+40073,OK,Kingfisher,Oklahoma
+25019,MA,Nantucket,Massachusetts
+27115,MN,Pine,Minnesota
+30083,MT,Richland,Montana
+13031,GA,Bulloch,Georgia
+16081,ID,Teton,Idaho
+19145,IA,Page,Iowa
+49049,UT,Utah,Utah
+25001,MA,Barnstable,Massachusetts
+48129,TX,Donley,Texas
+30051,MT,Liberty,Montana
+22079,LA,Rapides,Louisiana
+18051,IN,Gibson,Indiana
+21205,KY,Rowan,Kentucky
+27069,MN,Kittson,Minnesota
+21035,KY,Calloway,Kentucky
+45015,SC,Berkeley,South Carolina
+29147,MO,Nodaway,Missouri
+13293,GA,Upson,Georgia
+13307,GA,Webster,Georgia
+13133,GA,Greene,Georgia
+27095,MN,Mille Lacs,Minnesota
+48343,TX,Morris,Texas
+36035,NY,Fulton,New York
+08061,CO,Kiowa,Colorado
+53067,WA,Thurston,Washington
+06111,CA,Ventura,California
+22011,LA,Beauregard,Louisiana
+51091,VA,Highland,Virginia
+48181,TX,Grayson,Texas
+23019,ME,Penobscot,Maine
+01039,AL,Covington,Alabama
+33011,NH,Hillsborough,New Hampshire
+56021,WY,Laramie,Wyoming
+47147,TN,Robertson,Tennessee
+05091,AR,Miller,Arkansas
+51167,VA,Russell,Virginia
+46102,SD,Oglala Lakota,South Dakota
+51193,VA,Westmoreland,Virginia
+06021,CA,Glenn,California
+12027,FL,DeSoto,Florida
+16001,ID,Ada,Idaho
+37169,NC,Stokes,North Carolina
+13285,GA,Troup,Georgia
+13317,GA,Wilkes,Georgia
+21199,KY,Pulaski,Kentucky
+35019,NM,Guadalupe,New Mexico
+78020,VI,St. John,United States Virgin Islands
+06087,CA,Santa Cruz,California
+30085,MT,Roosevelt,Montana
+41007,OR,Clatsop,Oregon
+42035,PA,Clinton,Pennsylvania
+32021,NV,Mineral,Nevada
+26049,MI,Genesee,Michigan
+26079,MI,Kalkaska,Michigan
+18063,IN,Hendricks,Indiana
+21107,KY,Hopkins,Kentucky
+42091,PA,Montgomery,Pennsylvania
+36019,NY,Clinton,New York
+48147,TX,Fannin,Texas
+16007,ID,Bear Lake,Idaho
+19089,IA,Howard,Iowa
+13045,GA,Carroll,Georgia
+17179,IL,Tazewell,Illinois
+12105,FL,Polk,Florida
+13137,GA,Habersham,Georgia
+13239,GA,Quitman,Georgia
+12095,FL,Orange,Florida
+08109,CO,Saguache,Colorado
+40135,OK,Sequoyah,Oklahoma
+38033,ND,Golden Valley,North Dakota
+06049,CA,Modoc,California
+26101,MI,Manistee,Michigan
+05125,AR,Saline,Arkansas
+31027,NE,Cedar,Nebraska
+48237,TX,Jack,Texas
+08075,CO,Logan,Colorado
+13015,GA,Bartow,Georgia
+19057,IA,Des Moines,Iowa
+09160,CT,Northwest Hills,Connecticut
+42113,PA,Sullivan,Pennsylvania
+56019,WY,Johnson,Wyoming
+45087,SC,Union,South Carolina
+29201,MO,Scott,Missouri
+25015,MA,Hampshire,Massachusetts
+18179,IN,Wells,Indiana
+05017,AR,Chicot,Arkansas
+16061,ID,Lewis,Idaho
+36041,NY,Hamilton,New York
+37179,NC,Union,North Carolina
+41029,OR,Jackson,Oregon
+56033,WY,Sheridan,Wyoming
+46105,SD,Perkins,South Dakota
+16075,ID,Payette,Idaho
+40117,OK,Pawnee,Oklahoma
+05003,AR,Ashley,Arkansas
+22083,LA,Richland,Louisiana
+06101,CA,Sutter,California
+18033,IN,DeKalb,Indiana
+47035,TN,Cumberland,Tennessee
+13049,GA,Charlton,Georgia
+23015,ME,Lincoln,Maine
+41047,OR,Marion,Oregon
+36071,NY,Orange,New York
+40091,OK,McIntosh,Oklahoma
+51139,VA,Page,Virginia
+42051,PA,Fayette,Pennsylvania
+29047,MO,Clay,Missouri
+42103,PA,Pike,Pennsylvania
+21085,KY,Grayson,Kentucky
+27163,MN,Washington,Minnesota
+21195,KY,Pike,Kentucky
+42085,PA,Mercer,Pennsylvania
+17029,IL,Coles,Illinois
+21119,KY,Knott,Kentucky
+21135,KY,Lewis,Kentucky
+21153,KY,Magoffin,Kentucky
+48439,TX,Tarrant,Texas
+55007,WI,Bayfield,Wisconsin
+22037,LA,East Feliciana,Louisiana
+13269,GA,Taylor,Georgia
+29101,MO,Johnson,Missouri
+40075,OK,Kiowa,Oklahoma
+40083,OK,Logan,Oklahoma
+48245,TX,Jefferson,Texas
+72087,PR,Loíza,Puerto Rico
+55129,WI,Washburn,Wisconsin
+22051,LA,Jefferson,Louisiana
+04025,AZ,Yavapai,Arizona
+31127,NE,Nemaha,Nebraska
+36067,NY,Onondaga,New York
+31183,NE,Wheeler,Nebraska
+31079,NE,Hall,Nebraska
+20063,KS,Gove,Kansas
+40029,OK,Coal,Oklahoma
+08089,CO,Otero,Colorado
+48045,TX,Briscoe,Texas
+48393,TX,Roberts,Texas
+72073,PR,Jayuya,Puerto Rico
+21221,KY,Trigg,Kentucky
+21043,KY,Carter,Kentucky
+47009,TN,Blount,Tennessee
+42021,PA,Cambria,Pennsylvania
+53039,WA,Klickitat,Washington
+60030,AS,Rose Island,American Samoa
+49041,UT,Sevier,Utah
+01093,AL,Marion,Alabama
+32013,NV,Humboldt,Nevada
+17057,IL,Fulton,Illinois
+13263,GA,Talbot,Georgia
+25007,MA,Dukes,Massachusetts
+72053,PR,Fajardo,Puerto Rico
+16011,ID,Bingham,Idaho
+28163,MS,Yazoo,Mississippi
+22049,LA,Jackson,Louisiana
+35057,NM,Torrance,New Mexico
+04005,AZ,Coconino,Arizona
+28161,MS,Yalobusha,Mississippi
+31163,NE,Sherman,Nebraska
+29181,MO,Ripley,Missouri
+21191,KY,Pendleton,Kentucky
+22115,LA,Vernon,Louisiana
+35045,NM,San Juan,New Mexico
+01063,AL,Greene,Alabama
+17141,IL,Ogle,Illinois
+39153,OH,Summit,Ohio
+02282,AK,Yakutat,Alaska
+29189,MO,St. Louis,Missouri
+23005,ME,Cumberland,Maine
+37045,NC,Cleveland,North Carolina
+42013,PA,Blair,Pennsylvania
+48103,TX,Crane,Texas
+06097,CA,Sonoma,California
+48209,TX,Hays,Texas
+51036,VA,Charles City,Virginia
+17177,IL,Stephenson,Illinois
+51107,VA,Loudoun,Virginia
+46071,SD,Jackson,South Dakota
+41019,OR,Douglas,Oregon
+55111,WI,Sauk,Wisconsin
+01023,AL,Choctaw,Alabama
+37047,NC,Columbus,North Carolina
+39039,OH,Defiance,Ohio
+21015,KY,Boone,Kentucky
+36029,NY,Erie,New York
+51165,VA,Rockingham,Virginia
+46123,SD,Tripp,South Dakota
+48073,TX,Cherokee,Texas
+25003,MA,Berkshire,Massachusetts
+72045,PR,Comerío,Puerto Rico
+12059,FL,Holmes,Florida
+53035,WA,Kitsap,Washington
+28005,MS,Amite,Mississippi
+53041,WA,Lewis,Washington
+54109,WV,Wyoming,West Virginia
+20095,KS,Kingman,Kansas
+55103,WI,Richland,Wisconsin
+48299,TX,Llano,Texas
+36119,NY,Westchester,New York
+40141,OK,Tillman,Oklahoma
+49009,UT,Daggett,Utah
+29113,MO,Lincoln,Missouri
+51163,VA,Rockbridge,Virginia
+31157,NE,Scotts Bluff,Nebraska
+39083,OH,Knox,Ohio
+55105,WI,Rock,Wisconsin
+45083,SC,Spartanburg,South Carolina
+16029,ID,Caribou,Idaho
+12125,FL,Union,Florida
+28083,MS,Leflore,Mississippi
+26011,MI,Arenac,Michigan
+48071,TX,Chambers,Texas
+15003,HI,Honolulu,Hawaii
+53065,WA,Stevens,Washington
+72139,PR,Trujillo Alto,Puerto Rico
+27017,MN,Carlton,Minnesota
+51097,VA,King and Queen,Virginia
+20029,KS,Cloud,Kansas
+31013,NE,Box Butte,Nebraska
+19077,IA,Guthrie,Iowa
+20191,KS,Sumner,Kansas
+37123,NC,Montgomery,North Carolina
+37035,NC,Catawba,North Carolina
+47131,TN,Obion,Tennessee
+29021,MO,Buchanan,Missouri
+21157,KY,Marshall,Kentucky
+47023,TN,Chester,Tennessee
+46021,SD,Campbell,South Dakota
+35031,NM,McKinley,New Mexico
+20005,KS,Atchison,Kansas
+05113,AR,Polk,Arkansas
+72011,PR,Añasco,Puerto Rico
+39003,OH,Allen,Ohio
+56045,WY,Weston,Wyoming
+17111,IL,McHenry,Illinois
+36063,NY,Niagara,New York

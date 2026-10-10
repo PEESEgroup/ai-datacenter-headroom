@@ -1,0 +1,74 @@
+Region,Comparison,Allocation,Minimum,Maximum
+Region,Comparison,Allocation,Minimum,Maximum
+ERCOT,Replacement,broad reported MW,-60.18,128.60
+ERCOT,Replacement,broad site count,-53.19,130.06
+ERCOT,Replacement,core site count,-53.16,130.07
+ERCOT,Replacement,high evidence reported MW,-55.95,129.48
+ERCOT,Replacement,reported MW high imputation,-58.13,129.03
+ERCOT,Replacement,reported MW low imputation,-60.22,128.59
+ERCOT,Replacement,reported MW reference imputation,-59.06,128.83
+ERCOT,Replacement,reported plus size proxy,-58.41,128.97
+MISO,Replacement,broad reported MW,-15.57,14.22
+MISO,Replacement,broad site count,-14.49,14.45
+MISO,Replacement,core site count,-14.94,14.35
+MISO,Replacement,high evidence reported MW,-13.62,14.63
+MISO,Replacement,reported MW high imputation,-15.00,14.34
+MISO,Replacement,reported MW low imputation,-14.43,14.46
+MISO,Replacement,reported MW reference imputation,-14.74,14.39
+MISO,Replacement,reported plus size proxy,-16.70,13.98
+ERCOT,Partial additional,broad reported MW,-73.66,103.29
+ERCOT,Partial additional,broad site count,-70.17,104.02
+ERCOT,Partial additional,core site count,-70.16,104.02
+ERCOT,Partial additional,high evidence reported MW,-71.55,103.73
+ERCOT,Partial additional,reported MW high imputation,-72.64,103.50
+ERCOT,Partial additional,reported MW low imputation,-73.68,103.28
+ERCOT,Partial additional,reported MW reference imputation,-73.11,103.40
+ERCOT,Partial additional,reported plus size proxy,-72.78,103.47
+ISO-NE,Partial additional,broad reported MW,0.91,8.89
+ISO-NE,Partial additional,broad site count,0.36,8.78
+ISO-NE,Partial additional,core site count,0.30,8.77
+ISO-NE,Partial additional,high evidence reported MW,1.03,8.92
+ISO-NE,Partial additional,reported MW high imputation,0.91,8.89
+ISO-NE,Partial additional,reported MW low imputation,0.88,8.89
+ISO-NE,Partial additional,reported MW reference imputation,0.90,8.89
+ISO-NE,Partial additional,reported plus size proxy,0.92,8.90
+MISO,Partial additional,broad reported MW,-24.89,-3.23
+MISO,Partial additional,broad site count,-24.35,-3.12
+MISO,Partial additional,core site count,-24.58,-3.17
+MISO,Partial additional,high evidence reported MW,-23.91,-3.03
+MISO,Partial additional,reported MW high imputation,-24.61,-3.17
+MISO,Partial additional,reported MW low imputation,-24.32,-3.11
+MISO,Partial additional,reported MW reference imputation,-24.48,-3.15
+MISO,Partial additional,reported plus size proxy,-25.46,-3.35
+NYISO,Partial additional,broad reported MW,-1.25,4.14
+NYISO,Partial additional,broad site count,-1.16,4.16
+NYISO,Partial additional,core site count,-1.00,4.19
+NYISO,Partial additional,high evidence reported MW,-0.10,4.38
+NYISO,Partial additional,reported MW high imputation,-0.76,4.24
+NYISO,Partial additional,reported MW low imputation,-0.96,4.20
+NYISO,Partial additional,reported MW reference imputation,-0.85,4.22
+NYISO,Partial additional,reported plus size proxy,-0.68,4.26
+PJM,Partial additional,broad reported MW,-106.34,-36.90
+PJM,Partial additional,broad site count,-117.52,-39.24
+PJM,Partial additional,core site count,-116.76,-39.09
+PJM,Partial additional,high evidence reported MW,-109.09,-37.48
+PJM,Partial additional,reported MW high imputation,-107.65,-37.18
+PJM,Partial additional,reported MW low imputation,-106.62,-36.96
+PJM,Partial additional,reported MW reference imputation,-107.19,-37.08
+PJM,Partial additional,reported plus size proxy,-108.11,-37.28
+SPP,Partial additional,broad reported MW,-15.77,18.09
+SPP,Partial additional,broad site count,-7.68,19.78
+SPP,Partial additional,core site count,-8.06,19.70
+SPP,Partial additional,high evidence reported MW,-18.24,17.57
+SPP,Partial additional,reported MW high imputation,-16.55,17.92
+SPP,Partial additional,reported MW low imputation,-16.32,17.97
+SPP,Partial additional,reported MW reference imputation,-16.44,17.94
+SPP,Partial additional,reported plus size proxy,-15.21,18.20
+California,Partial additional,broad reported MW,10.34,20.15
+California,Partial additional,broad site count,8.45,19.75
+California,Partial additional,core site count,8.30,19.72
+California,Partial additional,high evidence reported MW,10.61,20.21
+California,Partial additional,reported MW high imputation,10.37,20.16
+California,Partial additional,reported MW low imputation,10.25,20.13
+California,Partial additional,reported MW reference imputation,10.32,20.15
+California,Partial additional,reported plus size proxy,10.43,20.17

@@ -1,0 +1,42 @@
+{
+  "analysis_regions": ["PJM", "MISO", "SPP", "ERCOT"],
+  "weather_sample": "five previously frozen NASA POWER representatives per region",
+  "site_primary_weighting": "equal_representative",
+  "site_sensitivity": "leave_one_representative_out",
+  "weather": {
+    "nasa_power_period": "2016-01-01/2025-12-31",
+    "nasa_power_variable": "ALLSKY_SFC_SW_DWN",
+    "era5_variables": ["t2m", "u10", "v10"],
+    "coordinate_match_required": "exact to displayed source precision"
+  },
+  "pv_conversion": {
+    "method": "NOAA solar geometry plus Erbs decomposition, isotropic-sky transposition, Faiman cell temperature, normalized PVWatts-style DC output",
+    "azimuth_deg": 180,
+    "tilt_rule": "absolute latitude clipped to 10-40 degrees",
+    "ground_albedo": 0.2,
+    "faiman_u0_w_m2k": 25.0,
+    "faiman_u1_w_s_m3k": 6.84,
+    "temperature_coefficient_per_c": -0.0047,
+    "system_losses_fraction": 0.1408,
+    "ac_output_limit_per_kwdc": 1.0
+  },
+  "dispatch": {
+    "load_mw": 1.0,
+    "pv_nameplate_per_mw_load": [0.5, 1.0, 1.5, 2.0, 3.0],
+    "storage_duration_h": [0.0, 4.0, 8.0, 12.0, 24.0],
+    "battery_charge_power_per_mw_load": 1.0,
+    "battery_discharge_power_per_mw_load": 1.0,
+    "round_trip_efficiency": 0.85,
+    "round_trip_efficiency_sensitivity": [0.75, 0.92],
+    "grid_charging_allowed": false,
+    "export_allowed": false,
+    "control": "causal greedy self-consumption",
+    "warmup_days": 30
+  },
+  "interpretation": {
+    "estimand": "conditional grid-facing residual-load mechanism screen",
+    "elcc_estimate": false,
+    "capacity_accreditation_estimate": false,
+    "reliability_event_probability": false
+  }
+}

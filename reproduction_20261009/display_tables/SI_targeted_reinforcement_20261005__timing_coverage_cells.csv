@@ -1,0 +1,16 @@
+ERCOT,A,Earlier arrival,0/9
+ERCOT,A,Early final plateau,0/9
+ERCOT,A,Later arrival,0/9
+ERCOT,A,Linear,0/9
+ERCOT,P,Earlier arrival,0/9
+ERCOT,P,Early final plateau,0/9
+ERCOT,P,Later arrival,0/9
+ERCOT,P,Linear,0/9
+MISO,A,Earlier arrival,6/9
+MISO,A,Early final plateau,3/9
+MISO,A,Later arrival,9/9
+MISO,A,Linear,9/9
+MISO,P,Earlier arrival,3/9
+MISO,P,Early final plateau,3/9
+MISO,P,Later arrival,6/9
+MISO,P,Linear,3/9

@@ -1,0 +1,32 @@
+{
+  "id": "annual_decision_thresholds_20261004",
+  "status": "rules_fixed_before_threshold_run_not_blinded_preregistration",
+  "information_set": "Frozen seasonal ledger and existing paired DC paths; no fitted coefficients, new resource forecasts or selected validation outcomes",
+  "years": [2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035],
+  "source_resources": ["anticipated", "prospective"],
+  "regions": ["MISO", "PJM", "SPP", "ERCOT", "NYISO", "ISO-NE", "WECC-California"],
+  "realization_fractions": [0, 0.25, 0.5, 0.75, 1],
+  "display_selection": {
+    "data_center_scenario_id": "lbnl_reference",
+    "post2030_extension_id": "epri_quarter_rate_taper",
+    "footprint_capture_case": "core_active_reported_mw_share",
+    "peak_mapping_case": "reference_coincidence",
+    "allocation_case": "reported_MW_reference_imputation",
+    "resource_conditions": ["anticipated", "prospective"],
+    "response_conditions": ["current_cap", "published_all"],
+    "linked_response_fractions": [0, 0.5, 1]
+  },
+  "rules": {
+    "generic_realization": "F=Fcap+rho*(Fpublished-Fcap); fixed rho across an entire ten-year trajectory",
+    "ercot_realization": "F=Fordinary_t+zeta*Fprovisional_large_load_t; published annual ordinary response retained; zeta=0 is not current_cap",
+    "dc_threshold": "B(L)=B_no_new-(1+mu)*(1-eta)*L, eta=Hcandidate/Lcandidate; threshold exists only if the no-new background is nonnegative and eta<1",
+    "background_negative": "Do not label zero as DC hosting capacity when the no-new-growth background is below reference",
+    "whole_horizon_realization": "Maximum of the ten annual required fractions under a single fixed response fraction",
+    "timing_metric": "Sum of annual positive-part native contribution requirements in GW-year, not unserved energy",
+    "association": "lambda is a structural association fraction, not response realization or an empirical completion probability",
+    "MISO_bound": "Available associated response is min(official DC path, credited total response); a feasibility bound, not a measured DC-only response increment",
+    "ERCOT_bound": "Available associated response is bounded by the official DC path and the increase in provisional large-load curtailment above 2025; not all large loads are DC",
+    "prediction": "No new prediction score or replacement of adverse historical holdout results"
+  },
+  "tolerance_GW": 1e-7
+}

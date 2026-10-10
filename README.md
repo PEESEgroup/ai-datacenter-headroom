@@ -1,5 +1,20 @@
 # Public reproducibility package
 
+## Current revised analysis: 9 October 2026
+
+The current code-and-data package is in **[reproduction_20261009](reproduction_20261009/README.md)**.
+It reproduces the California-aligned annual regional scenarios, matched growth-path
+comparisons and supporting results from packaged standardized inputs, and exports
+full-precision results and numerical figure/table data. See that folder's README
+for the supported Python 3.12 environment and one-command runner.
+
+No author manuscript, Supplementary Information, review report or response letter
+is included. Author-written code is MIT-licensed; third-party data retain their
+provider terms. The files below are the **earlier release**, preserved unchanged
+for provenance; they are not the reproduction entry point for the revised study.
+
+## Earlier release
+
 This repository provides a public reproducibility package for the analysis of AI data-center growth and regional supply-headroom alignment in the United States.
 
 The package is intentionally built around **derived source-data tables and reproducibility scripts**, not a dump of the full research workspace. It supports three checks:

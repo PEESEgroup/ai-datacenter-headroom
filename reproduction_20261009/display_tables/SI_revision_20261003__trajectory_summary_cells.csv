@@ -1,0 +1,30 @@
+Region,Condition,First below,Years below,Minimum GW,2035 GW
+Region,Condition,First below,Years below,Minimum GW,2035 GW
+ERCOT,A/current,2027,9,-58.71,-58.71
+ERCOT,A/published,--,0,8.20,8.20
+ERCOT,P/current,--,0,17.69,39.49
+ERCOT,P/published,--,0,27.77,106.41
+ISO-NE,A/current,--,0,1.03,1.03
+ISO-NE,A/published,--,0,1.03,1.03
+ISO-NE,P/current,--,0,4.80,8.92
+ISO-NE,P/published,--,0,4.80,8.92
+MISO,A/current,2030,6,-14.61,-14.61
+MISO,A/published,2030,6,-14.61,-14.61
+MISO,P/current,2034,2,-1.08,-1.08
+MISO,P/published,2034,2,-1.08,-1.08
+NYISO,A/current,--,0,0.12,0.12
+NYISO,A/published,--,0,0.12,0.12
+NYISO,P/current,--,0,2.82,4.42
+NYISO,P/published,--,0,2.82,4.42
+PJM,A/current,2029,7,-73.81,-73.81
+PJM,A/published,2029,7,-70.51,-70.51
+PJM,P/current,2032,4,-33.40,-33.40
+PJM,P/published,2032,4,-30.09,-30.09
+SPP,A/current,2031,5,-2.67,-2.67
+SPP,A/published,2032,4,-1.97,-1.97
+SPP,P/current,--,0,8.80,20.13
+SPP,P/published,--,0,8.80,20.83
+California,A/current,--,0,10.88,10.97
+California,A/published,--,0,10.97,11.06
+California,P/current,--,0,16.73,20.19
+California,P/published,--,0,16.78,20.28

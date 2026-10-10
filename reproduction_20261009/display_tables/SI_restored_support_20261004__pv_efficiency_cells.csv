@@ -1,0 +1,14 @@
+Region,Round-trip (\%),Energy displaced (\%),Conversion loss (\%),Max residual (\%)
+Region,Round-trip (\%),Energy displaced (\%),Conversion loss (\%),Max residual (\%)
+ERCOT,75,35.1,1.30,100.0
+ERCOT,85,35.6,0.78,100.0
+ERCOT,92,36.0,0.41,100.0
+MISO,75,30.3,0.98,100.0
+MISO,85,30.7,0.59,100.0
+MISO,92,31.0,0.31,100.0
+PJM,75,28.8,0.81,100.0
+PJM,85,29.1,0.48,100.0
+PJM,92,29.3,0.26,100.0
+SPP,75,35.3,1.46,100.0
+SPP,85,35.9,0.88,100.0
+SPP,92,36.3,0.47,100.0

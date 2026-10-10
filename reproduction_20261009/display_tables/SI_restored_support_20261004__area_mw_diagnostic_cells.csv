@@ -1,0 +1,6 @@
+Subset,Pairs,Spearman,Log-fit R$^2$,CV median factor,CV P90 factor
+Subset,Pairs,Spearman,Log-fit R$^2$,CV median factor,CV P90 factor
+all statuses,394,0.857,0.715,1.80,5.71
+operating,151,0.857,0.678,1.70,3.86
+core statuses,188,0.794,0.622,1.71,4.01
+archived core-status subset,138,0.782,0.598,1.83,3.92

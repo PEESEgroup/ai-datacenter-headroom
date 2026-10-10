@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+results/1*
+results/contribution/
+results/historical_refit/
+docs/
+clean_run_verification.json
+reproduction_verification.json

@@ -1,0 +1,17 @@
+[
+  {
+    "stored": "compressed_fixtures/support/expected/inventory/01_full_inventory_ledger.csv.gz",
+    "target": "support/expected/inventory/01_full_inventory_ledger.csv",
+    "uncompressed_sha256": "53338c7496dbe466b637022e46684a013ec68f5ac062b5b371e014e28c10519b"
+  },
+  {
+    "stored": "compressed_fixtures/support/expected/inventory/04_target_active_cohorts.csv.gz",
+    "target": "support/expected/inventory/04_target_active_cohorts.csv",
+    "uncompressed_sha256": "3e3bcdf2408d37b7c454c6aee3db33c077d799f94ef62392fbc2d1dc06cf0a1a"
+  },
+  {
+    "stored": "compressed_fixtures/support/expected/inventory/10_unit_predictions.csv.gz",
+    "target": "support/expected/inventory/10_unit_predictions.csv",
+    "uncompressed_sha256": "c5fc45be899916039413a6da2073a5dd757e3352defdfa25930e128625800414"
+  }
+]

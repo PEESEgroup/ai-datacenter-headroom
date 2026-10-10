@@ -1,0 +1,22 @@
+Check,Sample,Result,Interpretation
+Check,Sample,Result,Interpretation
+source transcription and native-basis definitions,90,90/90 selected items matched,"Transcription and definition checks, including the retained ERCOT table--narrative difference."
+source ARM arithmetic reproduction,70,Maximum error 0.04982 pp,All 70 annual margins agree within one-decimal source rounding; arithmetic reproduction only.
+regional demand magnitude only,120,MAPE 4.41\%; persistence 4.25\%,Observed demand magnitude only; no test of the full resource balance or predictive advantage.
+normalized regional summer solar diurnal timing,4,Correlation 0.911--0.934; timing within 1 h,Normalized regional diurnal timing; not absolute site generation or capacity credit.
+PV conversion plausibility,4,Four cached comparisons; maximum capacity-factor difference 0.83 pp,"Different weather years and coordinates in PJM, MISO and ERCOT; no SPP comparison."
+chronological PV-storage implementation,200,Maximum energy-balance residual 1.82e-12,"Load, PV and storage conservation; implementation verification rather than empirical performance."
+site-sample and efficiency sensitivity of 2x PV plus 4h storage,28,Annual displacement changes by at most 1.12 pp with site omission and 0.58 pp with efficiency,Equal-weight representative sites; not population uncertainty or validation of peak capacity.
+Current uncalibrated planning paths,150,Gap MAE 9.89 pp; balance MAE 7.18 GW,Uncalibrated forecast-vintage target-year path.
+Split-component calibrated candidate,150,Gap MAE 7.63 pp; balance MAE 5.65 GW,Rolling split calibration; includes 60 cold-start fallback cases.
+Same-reference persistence,150,Gap MAE 7.13 pp; balance MAE 5.37 GW,Origin demand/resources/response retained; forecast-vintage target-year reference.
+Fully frozen persistence,150,Gap MAE 6.99 pp; balance MAE 5.38 GW,Origin demand/resources/response and reference all retained.
+Historical-component drift,150,Gap MAE 6.54 pp; balance MAE 4.98 GW,"Fixed origin-history drift for demand, response and resources; strong simple baseline."
+Resource drift with calibrated load/response,150,Gap MAE 6.38 pp; balance MAE 4.85 GW,Retrospectively developed comparison; improvement depends on regional coverage.
+Heldout-region refit of resource-drift comparison,150,Gap MAE 6.33 pp; balance MAE 4.80 GW,Excludes heldout-region future labels from fitting; local origin history remains a permitted input.
+Resource-drift method: trainable-origin gap,90,Gap MAE 6.29 pp; persistence 7.54 pp,"Same trainable cases as the split-component comparison below; saved predictions, no refit."
+Resource-drift method: trainable-origin balance,90,Balance MAE 5.25 GW; persistence 6.12 GW,Identical origins and targets; not an independent new validation sample.
+Split-component: trainable-origin full gap,90,Calibrated 8.37 pp; persistence 7.54 pp,"Earlier split-component method, excluding 60 cold-start cases; this method does not outperform persistence."
+Split-component: trainable-origin demand,90,Raw 1.74; calibrated 2.03; persistence 2.20 GW,"Earlier method's component MAE, not the resource-drift full-gap score."
+Split-component: trainable-origin resources,90,Raw 6.95; calibrated 4.87; persistence 5.46 GW,Earlier method's component MAE; its improvement does not persist when ERCOT is excluded.
+Split-component: trainable-origin response,90,Raw 0.81; calibrated 0.67; persistence 0.70 GW,"Earlier method's component MAE, not evidence of full-balance superiority."

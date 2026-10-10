@@ -1,0 +1,10 @@
+{
+  "purpose": "Recorded working environment for provider-file re-extraction, not a newly tested locked installation",
+  "python": "3.11.14",
+  "xarray": "2026.4.0",
+  "netCDF4": "1.7.4",
+  "pandas": "2.3.3",
+  "numpy": "2.4.1",
+  "tested_command": "python -B scripts/run_pv_hourly.py --from-provider-files",
+  "main_pinned_environment_uses_matched_hourly_CSV": true
+}

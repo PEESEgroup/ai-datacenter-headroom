@@ -1,0 +1,30 @@
+Region,Path,2030 balance,2035 balance
+Region,Path,2030 balance,2035 balance
+ERCOT,No delay,13.83,8.20
+ERCOT,Delay 1y,13.54,8.20
+ERCOT,Delay 2y,12.96,8.20
+ERCOT,Delay 3y,9.61,8.20
+ISO-NE,No delay,2.64,1.03
+ISO-NE,Delay 1y,2.41,1.03
+ISO-NE,Delay 2y,2.40,0.68
+ISO-NE,Delay 3y,1.42,0.68
+MISO,No delay,-5.49,-14.61
+MISO,Delay 1y,-5.49,-14.61
+MISO,Delay 2y,-6.89,-14.61
+MISO,Delay 3y,-10.17,-14.73
+NYISO,No delay,2.40,0.12
+NYISO,Delay 1y,2.40,0.12
+NYISO,Delay 2y,2.40,0.12
+NYISO,Delay 3y,2.25,0.12
+PJM,No delay,-21.64,-70.51
+PJM,Delay 1y,-21.64,-70.51
+PJM,Delay 2y,-21.64,-70.51
+PJM,Delay 3y,-22.34,-70.51
+SPP,No delay,2.22,-1.97
+SPP,Delay 1y,1.64,-1.97
+SPP,Delay 2y,1.18,-1.97
+SPP,Delay 3y,0.50,-1.97
+California,No delay,15.05,11.06
+California,Delay 1y,14.12,9.25
+California,Delay 2y,11.95,8.29
+California,Delay 3y,10.32,7.02

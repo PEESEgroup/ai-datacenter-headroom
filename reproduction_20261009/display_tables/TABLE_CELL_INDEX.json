@@ -1,0 +1,374 @@
+[
+  {
+    "rounded_export": "display_tables/SI_contribution_optimization_20261005__annual_outcomes_cells.csv",
+    "rows": 8,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/annual_outcomes.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_contribution_optimization_20261005__coverage_cells.csv",
+    "rows": 4,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/coverage.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_contribution_optimization_20261005__main_outcomes_cells.csv",
+    "rows": 3,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/main_outcomes.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_contribution_optimization_20261005__path_limits_cells.csv",
+    "rows": 8,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/path_limits.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_contribution_optimization_20261005__response_association_cells.csv",
+    "rows": 10,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/response_association.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_display_trim_20261008__annual_conditions_cells.csv",
+    "rows": 6,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/display_trim_20261008/annual_conditions.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_display_trim_20261008__threshold_note_cells.csv",
+    "rows": 39,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/display_trim_20261008/threshold_note.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_framework_comparison_20261004__framework_comparison_note_cells.csv",
+    "rows": 22,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/framework_comparison_20261004/framework_comparison_note.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_framework_comparison_20261004__regional_inputs_cells.csv",
+    "rows": 24,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/framework_comparison_20261004/regional_inputs.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__annual_paired_chain_cells.csv",
+    "rows": 62,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/annual_paired_chain.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__area_mw_diagnostic_cells.csv",
+    "rows": 6,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/area_mw_diagnostic.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__county_context_cells.csv",
+    "rows": 6,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/county_context.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__gas_capacity_credit_cells.csv",
+    "rows": 14,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/gas_capacity_credit.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__input_inventory_cells.csv",
+    "rows": 14,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/input_inventory.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__inventory_mapping_cells.csv",
+    "rows": 11,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/inventory_mapping.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__inventory_status_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/inventory_status.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__inventory_timing_cells.csv",
+    "rows": 13,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/inventory_timing.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__price_coverage_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/price_coverage.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__price_robustness_cells.csv",
+    "rows": 16,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/price_robustness.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__price_slopes_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/price_slopes.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__project_omission_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/project_omission.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__pv_architectures_cells.csv",
+    "rows": 10,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/pv_architectures.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__pv_efficiency_cells.csv",
+    "rows": 14,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/pv_efficiency.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__pv_site_sensitivity_cells.csv",
+    "rows": 6,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/pv_site_sensitivity.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_restored_support_20261004__weather_coordinates_cells.csv",
+    "rows": 22,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/restored_support_20261004/weather_coordinates.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__allocation_cells.csv",
+    "rows": 10,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/allocation.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__allocation_envelope_cells.csv",
+    "rows": 74,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/allocation_envelope.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__annual_balances_cells.csv",
+    "rows": 72,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/annual_balances.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__core_labels_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/core_labels.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__delivery_evaluation_cells.csv",
+    "rows": 5,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/delivery_evaluation.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__driver_decomposition_cells.csv",
+    "rows": 42,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/driver_decomposition.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__extension_paths_cells.csv",
+    "rows": 11,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/extension_paths.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__gas_consequences_cells.csv",
+    "rows": 12,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/gas_consequences.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__intervention_requirements_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/intervention_requirements.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__national_paths_cells.csv",
+    "rows": 14,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/national_paths.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__native_basis_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/native_basis.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__nuclear_ledger_cells.csv",
+    "rows": 7,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/nuclear_ledger.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__official_dc_paths_cells.csv",
+    "rows": 22,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/official_dc_paths.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__paired_display_cells.csv",
+    "rows": 26,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/paired_display.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__peak_mapping_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/peak_mapping.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__pjm_floor_cells.csv",
+    "rows": 6,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/pjm_floor.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__pv_results_cells.csv",
+    "rows": 14,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/pv_results.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__replacement_envelope_cells.csv",
+    "rows": 10,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/replacement_envelope.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__source_checks_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/source_checks.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__timing_stress_cells.csv",
+    "rows": 30,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/timing_stress.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__trajectory_summary_cells.csv",
+    "rows": 30,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/trajectory_summary.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__unknown_outcomes_cells.csv",
+    "rows": 7,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/unknown_outcomes.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_revision_20261003__validation_cells.csv",
+    "rows": 22,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/revision_20261003/validation.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_source_quality_20261005__footprint_scope_cells.csv",
+    "rows": 7,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/source_quality_20261005/footprint_scope.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_source_quality_20261005__lower_endpoints_cells.csv",
+    "rows": 18,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/source_quality_20261005/lower_endpoints.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_source_quality_20261005__peak_alignment_cells.csv",
+    "rows": 6,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/source_quality_20261005/peak_alignment.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_source_quality_20261005__peak_coverage_cells.csv",
+    "rows": 26,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/source_quality_20261005/peak_coverage.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_submission_evidence_20261005__core_limits_cells.csv",
+    "rows": 8,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/submission_evidence_20261005/core_limits.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_submission_evidence_20261005__core_ranges_cells.csv",
+    "rows": 8,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/submission_evidence_20261005/core_ranges.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_targeted_reinforcement_20261005__resource_conditions_cells.csv",
+    "rows": 4,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/targeted_reinforcement_20261005/resource_conditions.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_targeted_reinforcement_20261005__response_budget_cells.csv",
+    "rows": 4,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/targeted_reinforcement_20261005/response_budget.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_targeted_reinforcement_20261005__timing_coverage_cells.csv",
+    "rows": 16,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/targeted_reinforcement_20261005/timing_coverage.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_targeted_reinforcement_20261005__timing_display_cells.csv",
+    "rows": 8,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/targeted_reinforcement_20261005/timing_display.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_validation_latest_20261005__historical_diagnostics_cells.csv",
+    "rows": 6,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/validation_latest_20261005/historical_diagnostics.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_validation_latest_20261005__historical_models_cells.csv",
+    "rows": 9,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/validation_latest_20261005/historical_models.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_validation_latest_20261005__inventory_data_rules_cells.csv",
+    "rows": 6,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/validation_latest_20261005/inventory_data_rules.tex"
+  },
+  {
+    "rounded_export": "display_tables/SI_validation_latest_20261005__inventory_estimation_cells.csv",
+    "rows": 6,
+    "role": "presentation cells, not model input or full-precision result",
+    "publication_source_label": "manuscript/tables/validation_latest_20261005/inventory_estimation.tex"
+  }
+]

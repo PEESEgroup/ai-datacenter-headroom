@@ -1,0 +1,55 @@
+{
+  "parent_archive_sha256": "90e6c75cc7f727913dab39373bc9c756f5c0f977067a5ae7e5e49618b983599d",
+  "parent_archive_download_date": "2026-06-02",
+  "source_url": "https://www.eia.gov/opendata/bulk/EBA.zip",
+  "no_author_imputation": true,
+  "series": {
+    "ERCO": {
+      "series_id": "EBA.ERCO-ALL.D.H",
+      "name": "Demand for Electric Reliability Council of Texas, Inc. (ERCO), hourly - UTC time",
+      "units": "megawatthours",
+      "f": "H",
+      "description": "Timestamps follow the ISO8601 standard (https://en.wikipedia.org/wiki/ISO_8601). Hourly representations are provided in Universal Time.",
+      "start": "20190101T00",
+      "end": "20260602T08",
+      "last_updated": "02-JUN-26 05.04.08 AM"
+    },
+    "MISO": {
+      "series_id": "EBA.MISO-ALL.D.H",
+      "name": "Demand for Midcontinent Independent System Operator, Inc. (MISO), hourly - UTC time",
+      "units": "megawatthours",
+      "f": "H",
+      "description": "Timestamps follow the ISO8601 standard (https://en.wikipedia.org/wiki/ISO_8601). Hourly representations are provided in Universal Time.",
+      "start": "20190101T00",
+      "end": "20260528T19",
+      "last_updated": "02-JUN-26 05.04.08 AM"
+    },
+    "SWPP": {
+      "series_id": "EBA.SWPP-ALL.D.H",
+      "name": "Demand for Southwest Power Pool (SWPP), hourly - UTC time",
+      "units": "megawatthours",
+      "f": "H",
+      "description": "Timestamps follow the ISO8601 standard (https://en.wikipedia.org/wiki/ISO_8601). Hourly representations are provided in Universal Time.",
+      "start": "20190101T00",
+      "end": "20260602T08",
+      "last_updated": "02-JUN-26 05.04.08 AM"
+    },
+    "PJM": {
+      "series_id": "EBA.PJM-ALL.D.H",
+      "name": "Demand for PJM Interconnection, LLC (PJM), hourly - UTC time",
+      "units": "megawatthours",
+      "f": "H",
+      "description": "Timestamps follow the ISO8601 standard (https://en.wikipedia.org/wiki/ISO_8601). Hourly representations are provided in Universal Time.",
+      "start": "20190101T00",
+      "end": "20260602T08",
+      "last_updated": "02-JUN-26 05.04.08 AM"
+    }
+  },
+  "one_hour_MWh_numeric_equals_mean_MW": true,
+  "subset_hashes": {
+    "ERCO_reported_demand_2023_2025.json.gz": "9dda309510137c8f43100df252d8c6fe9153af0447a0b67246349acc6c1fa73c",
+    "PJM_reported_demand_2023_2025.json.gz": "6ae722802b30fccbf658b3f98bd2501aee7ee92ac2cebc90a165ac859f60cc6d",
+    "SWPP_reported_demand_2023_2025.json.gz": "f3e15e802795e27cb1c95a8469eb4e273065bdaa819b1bba9f9a9a09a4095353",
+    "MISO_reported_demand_2023_2025.json.gz": "3d11ef6ef2a071cbb8bb861b6ac8c7690c47e1fb4d5845a26e442e37b44e5274"
+  }
+}

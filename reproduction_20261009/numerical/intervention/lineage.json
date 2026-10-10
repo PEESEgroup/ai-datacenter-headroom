@@ -1,0 +1,13 @@
+{
+  "weather_builder_sha256": "73d039e80be31ddda7444cfad9690367ac65765d19a34f3d0ddd23a94628239e",
+  "functions_copied_without_algorithm_changes": [
+    "solar_geometry_and_pv",
+    "simulate_storage"
+  ],
+  "original_hourly_load_sha256": "bbd59c9fe6cf309a80940a5dc00f3c14fc89db266383f2f386a0ee438129bd8f",
+  "load_subset": "four study areas, UTC years 2023-2025; no price fields",
+  "raw_provider_weather_included": true,
+  "hourly_weather_is_source_matched_not_simulated": true,
+  "site_count": 20,
+  "physics_changed": false
+}

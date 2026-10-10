@@ -1,0 +1,11 @@
+{
+  "raw_workbook_sha256": "f2265a565b72e44986b0ff5796cd9972c5e946d358c9ea8985d10304f6ca1715",
+  "raw_records": 1680,
+  "original_builder_sha256": "9e0231b9d84b1a650bce82634bb35f72a4e8c24c5319fa944833a7f6ac36f5d6",
+  "allocation_functions_unchanged": true,
+  "adapter": "Excel sheet exported to CSV without changing source rows",
+  "spatial_reproduction_boundary": "County-name joins, frozen record-GEOID fallback and frozen county-area crosswalk; no re-ingestion of all geographic polygons and no certification of actual electric service",
+  "deduplication": "Original source rows retained; duplicate keys are disclosed rather than silently collapsed",
+  "area_proxy": "Labeled sensitivity only; never an imputation in reported-MW cases",
+  "original_source_url": "https://www.fractracker.org/data-centers/"
+}

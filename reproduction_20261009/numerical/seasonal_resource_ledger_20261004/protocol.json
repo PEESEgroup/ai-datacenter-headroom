@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "date": "2026-10-04",
+  "scope": "Audited source-native summer stock/addition/transfer/response accounting, with a separate component-specific supply-timing stress. Not a new trained point forecast.",
+  "source_vintage": "NERC LTRA 2025; do not substitute later accreditation or reference requirements into older vintages",
+  "years": [2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035],
+  "season": "NERC summer, June-September; not all-season adequacy or risk-hour ELCC estimation",
+  "stock": "Unfold existing-certain from the displayed existing-certain-and-transfer quantity. This is a projected native summer capacity contribution, not nameplate or an independently verified operating inventory.",
+  "retirement": "Confirmed retirements are already included in anticipated resources. Do not subtract another retirement series without unit-level baseline exclusion and compatible contribution evidence. A decline in existing-certain capacity is not uniquely a retirement.",
+  "accreditation": "Retain region-native capacity and the matching region-native RML. Never apply a second generic ELCC factor. Do not universally label all regions UCAP or ICAP.",
+  "transfers": "Separate the reported transfer row without adding it a second time. WECC uses its own model transfer convention; not a verified universal firm-import ledger.",
+  "prospective": "Reconstruct from published prospective ARM and published source net demand. Preserve the region-native condition; do not equate it universally to anticipated plus Tier 2.",
+  "response": "Gross total internal demand minus the explicit dispatchable/controllable response line only. Other DSM already embedded in gross demand is not separately subtracted.",
+  "current_cap": "min(source ordinary response in year t, first forecast-year ordinary response). Explicit ERCOT large-load curtailment excluded. Preserve reported declines. Alias of old current_only, not a new numerical response scenario.",
+  "timing_stress": "Shift the source Tier 1 contribution path by 1/2/3 years, including first forecast-year planned additions. Keep existing-certain and transfers on the source calendar. Availability before the first forecast year is zero for this visible planned category. If the source category later declines, cap shifted contribution by contemporaneous source Tier 1. This is aggregate availability sensitivity, not project-level delivery or technology-specific ELCC recomputation.",
+  "miso_delay": "Additional delay relative to MISO's already-delayed source integration ramp; not an unbiased new realization forecast",
+  "historical": "Reconcile SRA existing-certain + Tier 1 + transfers. Diagnose origin anticipated-resource anchors; no new completion probability is inferred from category changes.",
+  "input_rounding_tolerance_MW": 1.01,
+  "old_result_preservation": "Write only within seasonal_resource_ledger_20261004; do not modify old source files, results, main/SI, figures or calibration trials",
+  "unresolved": "All-season paths, project-level baseline exclusion, actual future ELCC and independent observed accredited-stock outcomes remain outside this repair. Do not claim full predictive validation."
+}

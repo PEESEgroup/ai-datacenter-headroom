@@ -1,0 +1,10 @@
+{
+  "true_heldout_prediction_rows": 700,
+  "status_anomaly_rows": 1,
+  "unknown_cohort_rows": 1584,
+  "probability_coefficient_rows": 1606,
+  "maximum_stock_flow_residual_MW": 3.5470293369144195e-11,
+  "maximum_error_decomposition_residual_MW": 6.912159733474255e-11,
+  "full_balance_accepted": false,
+  "reason": "physical stock and fixed-origin index are not an audited accredited, tier/transfer-matched NERC balance"
+}

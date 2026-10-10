@@ -1,0 +1,9 @@
+Footprint,Displayed share (\%),Leave-one-out range (\%),Max shift (pp)
+Footprint,Displayed share (\%),Leave-one-out range (\%),Max shift (pp)
+ERCOT,21.20,19.82--23.05,1.85
+ISO-NE,0.21,0.04--0.23,0.17
+MISO,15.18,13.97--16.50,1.32
+NYISO,1.43,1.09--1.55,0.34
+PJM,41.65,38.40--45.28,3.63
+SPP,19.40,12.37--20.48,7.03
+California,0.94,0.72--1.03,0.23

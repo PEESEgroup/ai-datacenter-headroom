@@ -1,0 +1,22 @@
+ID,Latitude,Longitude,Selection and aggregation
+ID,Latitude,Longitude,Selection and aggregation
+ERCOT\_01,32.5754,-96.6995,Dispersed cluster representative; equal weather-site weight
+ERCOT\_02,30.7797,-102.6980,Dispersed cluster representative; equal weather-site weight
+ERCOT\_03,28.6891,-96.9617,Dispersed cluster representative; equal weather-site weight
+ERCOT\_04,32.5334,-100.4096,Dispersed cluster representative; equal weather-site weight
+ERCOT\_05,30.5368,-97.5178,Dispersed cluster representative; equal weather-site weight
+MISO\_01,32.5953,-90.0962,Dispersed cluster representative; equal weather-site weight
+MISO\_02,40.3066,-86.5855,Dispersed cluster representative; equal weather-site weight
+MISO\_03,47.0271,-98.6796,Dispersed cluster representative; equal weather-site weight
+MISO\_04,42.8525,-85.5601,Dispersed cluster representative; equal weather-site weight
+MISO\_05,41.5346,-93.8656,Dispersed cluster representative; equal weather-site weight
+PJM\_01,40.3509,-76.3658,Dispersed cluster representative; equal weather-site weight
+PJM\_02,39.4230,-83.8455,Dispersed cluster representative; equal weather-site weight
+PJM\_03,40.5387,-79.7906,Dispersed cluster representative; equal weather-site weight
+PJM\_04,37.8831,-78.0388,Dispersed cluster representative; equal weather-site weight
+PJM\_05,41.6885,-86.4736,Dispersed cluster representative; equal weather-site weight
+SPP\_01,35.2876,-101.5540,Dispersed cluster representative; equal weather-site weight
+SPP\_02,41.0317,-104.7964,Dispersed cluster representative; equal weather-site weight
+SPP\_03,39.0176,-94.5668,Dispersed cluster representative; equal weather-site weight
+SPP\_04,43.5961,-96.6499,Dispersed cluster representative; equal weather-site weight
+SPP\_05,33.3897,-104.5360,Dispersed cluster representative; equal weather-site weight

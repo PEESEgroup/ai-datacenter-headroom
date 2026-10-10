@@ -1,11 +1,10 @@
 # License notice
 
-A final repository license has not been selected in this generated package. Before making the GitHub repository public, choose a code license and a data license that are compatible with the third-party source-data terms.
+Author-written code is released under the repository's MIT LICENSE. Third-party
+data are not relicensed under MIT. The current reproduction package provides
+source-specific attribution and conditions in
+[THIRD_PARTY_NOTICES.md](reproduction_20261009/THIRD_PARTY_NOTICES.md).
 
-Suggested conservative setup:
-
-- Code: MIT, BSD-3-Clause or Apache-2.0, if approved by the author team.
-- Derived tables: CC-BY 4.0 only for tables whose upstream sources permit redistribution.
-- Restricted/redacted materials: keep under controlled private access until source-specific permission is confirmed.
-
-Third-party data providers retain their original rights and terms. This package does not grant rights to redistribute raw third-party datasets.
+The older release's redacted or omitted inputs remain subject to the original
+provider terms and the access boundaries described in DATA_AVAILABILITY.md.
+Public access to the repository does not waive those terms.

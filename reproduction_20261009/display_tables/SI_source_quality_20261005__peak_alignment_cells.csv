@@ -1,0 +1,6 @@
+Region,Weather label -1 h,Nominal label,Weather label +1 h
+Region,Weather label -1 h,Nominal label,Weather label +1 h
+PJM,95.9,100.0,100.0
+MISO,79.1,98.3,100.0
+SPP,60.5,92.1,100.0
+ERCOT,20.9,77.5,99.8

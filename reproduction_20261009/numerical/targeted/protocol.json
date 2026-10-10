@@ -1,0 +1,23 @@
+{
+  "version": "targeted-reinforcement-20261005",
+  "scope": "Sensitivity and derived decision conditions; no change to original source inputs, historical methods or baseline annual cube",
+  "official_DC_anchors_GW": {
+    "MISO": {"2025": 0, "2027": 6, "2030": 14, "2035": 18},
+    "ERCOT": {"2025": 0, "2027": 6.7, "2030": 23, "2035": 25}
+  },
+  "timing_rules": {
+    "linear": "Progress x between each consecutive pair of anchors",
+    "earlier_arrival": "Progress sqrt(x) between each consecutive pair of anchors",
+    "later_arrival": "Progress x^2 between each consecutive pair of anchors",
+    "last_interval_early_plateau": "Linear through 2030; traverse the last source-anchor increment in 2031-2034, then hold it in 2035"
+  },
+  "timing_rules_evidence": "Illustrative monotone, anchor-preserving author scenarios, fixed before computing new outcomes; not four independently observed annual forecasts or calibrated probability bounds",
+  "source_total_system_paths": "Unchanged at every year; changing the decomposed DC component changes the implied non-DC background and does not certify that background as an independently forecast path",
+  "base_year_rule": "Keep the existing zero incremental 2025 comparison base; this sensitivity does not validate the base-year inclusion assumption",
+  "core": {"resources": ["anticipated", "prospective"], "responses": ["current_cap", "published_all"], "linked_response_fraction": 0},
+  "candidate_temporal_shapes": "Three national paths times three extensions; capture, fixed peak mapping and allocation modify amplitude, not the normalized temporal shape",
+  "response_stock_comparison": "Compare the original per-load scaled association with H^S=min(H^O, per-load scaled H^S) at fixed source background. The latter retains a fixed associated-response budget; neither identifies actual DC-induced response.",
+  "resource_frontier": "At zero associated response, interpolate algebraically between matched anticipated and prospective native contributions R(u)=R_A+u(R_P-R_A), 0<=u<=1. Required u is the greatest annual -B_A/(R_P-R_A), respecting infeasible and zero-u cases. This is a conditional contribution threshold, not a completion probability or a build forecast.",
+  "probabilities_assigned": false,
+  "tolerance_GW": 1e-7
+}

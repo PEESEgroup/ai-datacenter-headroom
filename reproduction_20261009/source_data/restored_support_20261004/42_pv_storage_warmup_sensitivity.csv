@@ -1,0 +1,21 @@
+ISO,representative_id,case,maximum_absolute_residual_difference_30d_vs_60d
+PJM,PJM_01,PV=2x_load; storage=24h; RTE=0.85,0.0
+PJM,PJM_02,PV=2x_load; storage=24h; RTE=0.85,0.0
+PJM,PJM_03,PV=2x_load; storage=24h; RTE=0.85,0.0
+PJM,PJM_04,PV=2x_load; storage=24h; RTE=0.85,0.0
+PJM,PJM_05,PV=2x_load; storage=24h; RTE=0.85,0.0
+MISO,MISO_01,PV=2x_load; storage=24h; RTE=0.85,0.0
+MISO,MISO_02,PV=2x_load; storage=24h; RTE=0.85,0.0
+MISO,MISO_03,PV=2x_load; storage=24h; RTE=0.85,0.0
+MISO,MISO_04,PV=2x_load; storage=24h; RTE=0.85,0.0
+MISO,MISO_05,PV=2x_load; storage=24h; RTE=0.85,0.0
+SPP,SPP_01,PV=2x_load; storage=24h; RTE=0.85,0.0
+SPP,SPP_02,PV=2x_load; storage=24h; RTE=0.85,0.0
+SPP,SPP_03,PV=2x_load; storage=24h; RTE=0.85,0.0
+SPP,SPP_04,PV=2x_load; storage=24h; RTE=0.85,0.0
+SPP,SPP_05,PV=2x_load; storage=24h; RTE=0.85,0.0
+ERCOT,ERCOT_01,PV=2x_load; storage=24h; RTE=0.85,0.0
+ERCOT,ERCOT_02,PV=2x_load; storage=24h; RTE=0.85,0.0
+ERCOT,ERCOT_03,PV=2x_load; storage=24h; RTE=0.85,0.0
+ERCOT,ERCOT_04,PV=2x_load; storage=24h; RTE=0.85,0.0
+ERCOT,ERCOT_05,PV=2x_load; storage=24h; RTE=0.85,0.0

@@ -1,0 +1,122 @@
+[
+  {
+    "source": "archived-author-source:protocol.json",
+    "copy": "source_data_revision/latest_estimation_20261005/historical_supply_bridge_20261005/protocol.json",
+    "sha256": "32bef06b9c865208cce1c499bcdb81554f74ece6c2cfa444fb5e2d4c34ab5813"
+  },
+  {
+    "source": "archived-author-source:24_comparison_summary.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/historical_supply_bridge_20261005/24_comparison_summary.csv",
+    "sha256": "991d6c9f27d84856ef221ce3b0e96fe6e70be48db5fff75e627b612b51293edd"
+  },
+  {
+    "source": "archived-author-source:01_predictions.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/historical_supply_bridge_20261005/01_predictions.csv",
+    "sha256": "acdb18bac6670c53068623c8eea091573a26aba3e354c8fb27d61b0d0f6bd924"
+  },
+  {
+    "source": "archived-author-source:07_true_region_heldout_predictions.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/historical_supply_bridge_20261005/07_true_region_heldout_predictions.csv",
+    "sha256": "173e539467f9caccafdc887f4dee633ef839bf246fea7004ba7acffff4115072"
+  },
+  {
+    "source": "archived-author-source:21_all_declared_model_deletion_diagnostics.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/historical_supply_bridge_20261005/21_all_declared_model_deletion_diagnostics.csv",
+    "sha256": "209f18cdae435d5867d598754e375e509fc6c74e060974d84297e0a40d1991db"
+  },
+  {
+    "source": "archived-author-source:22_all_declared_model_block_intervals.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/historical_supply_bridge_20261005/22_all_declared_model_block_intervals.csv",
+    "sha256": "d5e08191c940465903c1ade51956361ee111077dec72a1c66f01438ab1c204a9"
+  },
+  {
+    "source": "archived-author-source:10_source_definition_audit.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/historical_supply_bridge_20261005/10_source_definition_audit.csv",
+    "sha256": "5b5276a1825c0e50154ded2963e5ca0ebf195f5b42381e6a53cadcd145e9ba42"
+  },
+  {
+    "source": "archived-author-source:11_anticipated_stock_identity.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/historical_supply_bridge_20261005/11_anticipated_stock_identity.csv",
+    "sha256": "214dcd7546ac25f8e5dddb09b4b1de76052dae2066c04b5c0ecc1e28a0fcc35a"
+  },
+  {
+    "source": "archived-author-source:protocol.json",
+    "copy": "source_data_revision/latest_estimation_20261005/physical_stock_flow_CC_20261005/protocol.json",
+    "sha256": "3bd806f0d3d8b9d2d3ed2cf165db8257831767c7e5fca3ba89beaea6f09640a8"
+  },
+  {
+    "source": "archived-author-source:02_EIA_source_manifest.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/physical_stock_flow_CC_20261005/02_EIA_source_manifest.csv",
+    "sha256": "3297bd5d3c024e4ab3d4fd894d564b4937e55a49cdc640aa14081ae2bd7c6685"
+  },
+  {
+    "source": "archived-author-source:24_component_evidence_gates.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/physical_stock_flow_CC_20261005/24_component_evidence_gates.csv",
+    "sha256": "35462faf8f17cb6cc8d3bf23df7c8465f45d5cffa11c9acbee8cc819e27cda53"
+  },
+  {
+    "source": "archived-author-source:32_shared_capacity_reporting_audit.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/physical_stock_flow_CC_20261005/32_shared_capacity_reporting_audit.csv",
+    "sha256": "682da926506fa63c856eb16318b9a95febf796eaeabacee8ada541749ee9edd4"
+  },
+  {
+    "source": "archived-author-source:34_resolved_capacity_coverage.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/physical_stock_flow_CC_20261005/34_resolved_capacity_coverage.csv",
+    "sha256": "d1f9245f33a7185372cd97efb12ac6100c8965ad319ad13f28b88a286ecbc139"
+  },
+  {
+    "source": "archived-author-source:35_source_examples_no_duplicate_credit.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/physical_stock_flow_CC_20261005/35_source_examples_no_duplicate_credit.csv",
+    "sha256": "442c26f36a2df3e79d704d93f0af2483f1310b8c5f0ea309921b691c54e0ec46"
+  },
+  {
+    "source": "archived-author-source:36_unresolved_active_capacity_records.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/physical_stock_flow_CC_20261005/36_unresolved_active_capacity_records.csv",
+    "sha256": "10dc0359e505ce6630320338c012eb4b68b7b6d0f3563a875733882d1d7ca3cd"
+  },
+  {
+    "source": "archived-author-source:protocol.json",
+    "copy": "source_data_revision/latest_estimation_20261005/scientific_strengthening_20261005/protocol.json",
+    "sha256": "0ab55f1898394eedd751a5b1240b5a126d1e80f5b63aa471a8e22a4c21d71a3f"
+  },
+  {
+    "source": "archived-author-source:01_all_supply_predictions.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/scientific_strengthening_20261005/01_all_supply_predictions.csv",
+    "sha256": "22456bc9ec89a31e3c7d606d3a23d039a370c77a2d48c46084f4a62e1817e33f"
+  },
+  {
+    "source": "archived-author-source:02_supply_scores.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/scientific_strengthening_20261005/02_supply_scores.csv",
+    "sha256": "a10d2875f8ef5d77c538b123a10edcbc8ce3803770ad174d74774ec2e38b422f"
+  },
+  {
+    "source": "archived-author-source:04_supply_deletion_checks.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/scientific_strengthening_20261005/04_supply_deletion_checks.csv",
+    "sha256": "8b9b3b0c8979ab0195e79cf6822a2e904dfca19668a0e688512615c886c85c43"
+  },
+  {
+    "source": "archived-author-source:05_supply_block_intervals.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/scientific_strengthening_20261005/05_supply_block_intervals.csv",
+    "sha256": "8d350fca9ce3a2357e2d59f37aa47edd0c318fa712e5d0481da334b6331a9eaf"
+  },
+  {
+    "source": "archived-author-source:06_supply_evidence_gates.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/scientific_strengthening_20261005/06_supply_evidence_gates.csv",
+    "sha256": "a4e8441d695b46293b288593ec86081c4d6ca58843eea53437203fe3f308e75a"
+  },
+  {
+    "source": "archived-author-source:09_MISO_PJM_entry_visibility.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/scientific_strengthening_20261005/09_MISO_PJM_entry_visibility.csv",
+    "sha256": "6b189265673c97ecb906e341b5dc86ed0bee10fd7532f3ae84a83dc1267aedd1"
+  },
+  {
+    "source": "archived-author-source:18_annual_DC_effect_summary.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/scientific_strengthening_20261005/18_annual_DC_effect_summary.csv",
+    "sha256": "3972658603fdc60c22f18eba7f586855017da4bd4b539d0002f50fd9025d1d8e"
+  },
+  {
+    "source": "archived-author-source:17_response_thresholds.csv",
+    "copy": "source_data_revision/latest_estimation_20261005/scientific_strengthening_20261005/17_response_thresholds.csv",
+    "sha256": "9e7df72322147216b8f27fe2f991d777c607b4636dd1dd69ee52db5fde0a67eb"
+  }
+]

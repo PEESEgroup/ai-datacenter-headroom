@@ -1,0 +1,70 @@
+source_row_a,source_row_b,name_a,name_b,distance_m,is_confirmed_duplicate
+41,42,Expedient Data Center,PHX1,4.439999999831912,False
+82,83,Colovore SJC01,Colovore SJC02,78.80999999977689,False
+138,143,ATL2 Colo Data Center,Atlanta ATL14,22.14750656955017,False
+139,140,Atlanta,Atlanta AT1,58.896955324454225,False
+139,142,Atlanta,Atlanta ATL13,0.0,False
+139,149,Atlanta,ATLDC 55 Marietta,58.896955324454225,False
+139,151,Atlanta,Cogent Data Center Atlanta 1,58.896955324454225,False
+139,161,Atlanta,Digital Realty 10 Forsyth Street NW Data Center,50.833804852671015,False
+139,169,Atlanta,Equinix Atlanta AT2 AT3,0.0,False
+139,171,Atlanta,FOGO Atlanta,0.0,False
+140,142,Atlanta AT1,Atlanta ATL13,58.89684757126368,False
+140,149,Atlanta AT1,ATLDC 55 Marietta,0.0,False
+140,151,Atlanta AT1,Cogent Data Center Atlanta 1,0.0,False
+140,161,Atlanta AT1,Digital Realty 10 Forsyth Street NW Data Center,97.20020903725145,False
+140,169,Atlanta AT1,Equinix Atlanta AT2 AT3,58.89684757126368,False
+140,171,Atlanta AT1,FOGO Atlanta,58.89684757126368,False
+142,149,Atlanta ATL13,ATLDC 55 Marietta,58.896955324454225,False
+142,151,Atlanta ATL13,Cogent Data Center Atlanta 1,58.896955324454225,False
+142,161,Atlanta ATL13,Digital Realty 10 Forsyth Street NW Data Center,50.833804852671015,False
+142,169,Atlanta ATL13,Equinix Atlanta AT2 AT3,0.0,False
+142,171,Atlanta ATL13,FOGO Atlanta,0.0,False
+144,180,Atlanta Metro DC1,QTS Atlanta Metro Data Center,0.6659999998959165,False
+149,151,ATLDC 55 Marietta,Cogent Data Center Atlanta 1,0.0,False
+149,161,ATLDC 55 Marietta,Digital Realty 10 Forsyth Street NW Data Center,97.20020903725145,False
+149,169,ATLDC 55 Marietta,Equinix Atlanta AT2 AT3,58.89684757126368,False
+149,171,ATLDC 55 Marietta,FOGO Atlanta,58.89684757126368,False
+151,161,Cogent Data Center Atlanta 1,Digital Realty 10 Forsyth Street NW Data Center,97.20020903725145,False
+151,169,Cogent Data Center Atlanta 1,Equinix Atlanta AT2 AT3,58.89684757126368,False
+151,171,Cogent Data Center Atlanta 1,FOGO Atlanta,58.89684757126368,False
+156,157,DataBank ATL1 Data Center,DataBank ATL1 Midtown Atlanta Data Center,85.97271630499235,False
+158,159,DataBank ATL2 Data Center,DataBank ATL3 Data Center,98.29604401944958,False
+161,169,Digital Realty 10 Forsyth Street NW Data Center,Equinix Atlanta AT2 AT3,50.83379007330941,False
+161,171,Digital Realty 10 Forsyth Street NW Data Center,FOGO Atlanta,50.83379007330941,False
+165,166,Edged ATL01-1,Edged ATL01-2 Data Center,0.0,False
+165,167,Edged ATL01-1,Edged ATL01-3,0.0,False
+166,167,Edged ATL01-2 Data Center,Edged ATL01-3,0.0,False
+168,174,Equinix Atlanta AT1,Lumen Atlanta 2,0.0,False
+169,171,Equinix Atlanta AT2 AT3,FOGO Atlanta,0.0,False
+215,251,Douglasville Campus,Microsoft: FTY101,3.5493487529750434,False
+236,238,0 Rocky Creek Data Center Campus,Rocky Creek,29.796938580990265,False
+246,247,Atlanta ATL1a,Atlanta ATL1b,0.0,False
+261,262,Grindcap,Marietta Data Center,28.395741527971836,False
+277,279,Project Firecracker (Microsoft),Rome Campus,99.5221316697097,False
+298,299,ATL03/Red Oak,Union City Data Center,54.92833535651496,False
+534,535,Metrobloks data center,Metrobloks/ Lincoln Data Center,4.9692398036224175,False
+550,553,Netrality Data Centers St. Louis- 210 North Tucker,TierPoint - St Louis Olive Data Center,93.29114679718616,False
+684,685,LGA2,Oxford Quantum Circuits Data Center,5.163767771702582,False
+712,713,COL 1 (Cologix) Data Center,COL 2 (Cologix) Data Center,11.100000000368482,False
+712,714,COL 1 (Cologix) Data Center,COL 3 (Cologix) Data Center,18.670859052613018,False
+713,714,COL 2 (Cologix) Data Center,COL 3 (Cologix) Data Center,17.300804185359585,False
+717,721,Microsoft Licking County Data Center,Microsoft Columbus Data Center,0.0,False
+784,786,Flexential Hillsboro 1,Flexential Hillsboro 3,1.1100000003523292,False
+861,862,365 Data Centers Philadelphia Data Center,H5 Philadelphia Data Center,5.68669828998381,False
+863,867,Lumen Philadelphia 1,Netrality Philadelphia Data Center,57.33542581464816,False
+863,868,Lumen Philadelphia 1,Philadelphia IBX Data Center,49.99019745528245,False
+867,868,Netrality Philadelphia Data Center,Philadelphia IBX Data Center,24.534688273874686,False
+874,877,DataBank Downtown Pittsburgh Campus,Expedient PIT2,43.927536935938875,False
+956,957,EdgeConneX AUS01,EdgeConneX AUS02,97.67183247764594,False
+1116,1117,Project Dorothy 1A and 1B,Project Dorothy 2,90.11369525980545,False
+1136,1137,Midlothian 3 Data Center,Midlothian 4 Data Center,0.0,False
+1223,1225,Sabey Data Center,Sabey Data Centers - Intergate.Ashburn Building C,89.80055600804336,False
+1313,1315,Amazon AWS IAD450 - Cosner Tech Campus,Amazon Data Services: Cosner Tech Campus,11.308928180713977,False
+1324,1330,Hunters Ridge LLC Data Center,PowerHouse95,81.84921804978977,False
+1325,1619,Hunter's Ridge South,Mattameade Tech Campus- Caroline ,0.0,False
+1327,1332,Neon Project at Celebrate Virginia South,Stack Infrastructure Data Center,80.70084966073726,False
+1416,1436,INNOVATION EXECUTIVE CENTER DC-3,QTS Manassas DC 2,83.95107081793091,False
+1528,1565,Amazon AWS IAD - 22745 Relocation Drive Data Center,IAD57 Data Center,99.29089360929976,False
+1544,1595,DCT DULLES DOWNS Land Bay A,Sterling Data Center,12.807252835159066,False
+1545,1546,DCT DULLES DOWNS Land Bay B,DCT DULLES DOWNS Land Bay B,96.56244374550155,False

@@ -1,0 +1,11 @@
+Extension,Load path,Annual rate (\%),2035 TWh,2035 mean GW
+Extension,Load path,Annual rate (\%),2035 TWh,2035 mean GW
+Quarter-rate taper,lower,4.57,651.5,74.4
+Hold 2030 level,lower,0.00,521.0,59.5
+Half-rate taper,lower,9.14,806.9,92.1
+Quarter-rate taper,upper,6.53,1156.9,132.1
+Hold 2030 level,upper,0.00,843.0,96.2
+Half-rate taper,upper,13.07,1557.9,177.8
+Quarter-rate taper,reference,5.65,854.3,97.5
+Hold 2030 level,reference,0.00,649.0,74.1
+Half-rate taper,reference,11.30,1108.6,126.6

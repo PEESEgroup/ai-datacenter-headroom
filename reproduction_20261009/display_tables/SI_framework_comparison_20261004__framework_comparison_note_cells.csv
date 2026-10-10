@@ -1,0 +1,22 @@
+MISO,Anticipated,14.61,14.61,2034,6
+MISO,Tier 1 +2 y,14.61,14.61,2034,10
+PJM,Anticipated,70.51,70.51,2035,7
+PJM,Tier 1 +2 y,70.51,70.51,2035,8
+SPP,Anticipated,1.97,1.97,2035,4
+SPP,Tier 1 +2 y,1.97,1.97,2035,5
+ERCOT,Anticipated,0.00,0.00,2035,0
+ERCOT,Tier 1 +2 y,0.00,1.46,2027,1
+NYISO,Anticipated,0.00,0.00,2035,0
+NYISO,Tier 1 +2 y,0.00,0.00,2035,0
+ISO-NE,Anticipated,0.00,0.00,2035,0
+ISO-NE,Tier 1 +2 y,0.00,0.07,2027,1
+WECC-Calif.,Anticipated,0.00,0.00,2034,0
+WECC-Calif.,Tier 1 +2 y,0.00,0.00,2027,0
+ERCOT,A/cap,-42.99,-30.28,-30.28,0.00
+ERCOT,A/published,+8.20,+20.91,+8.20,0.00
+ERCOT,P/cap,+55.22,+67.93,+67.93,0.00
+ERCOT,P/published,+106.41,+119.12,+106.41,0.00
+MISO,A/cap,-8.73,-0.02,-4.03,4.01
+MISO,A/published,-8.73,-0.02,-4.03,4.01
+MISO,P/cap,+4.80,+13.51,+9.50,0.00
+MISO,P/published,+4.80,+13.51,+9.50,0.00

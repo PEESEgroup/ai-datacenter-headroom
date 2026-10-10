@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the exact code version used."
+type: software
+title: "Data-center growth and regional planning scenarios"
+version: "wecc-california-reproduction-20261009"
+repository-code: "https://github.com/PEESEgroup/ai-datacenter-headroom"
+authors:
+  - family-names: Lu
+    given-names: Chenbei
+  - family-names: You
+    given-names: Fengqi
+license: MIT

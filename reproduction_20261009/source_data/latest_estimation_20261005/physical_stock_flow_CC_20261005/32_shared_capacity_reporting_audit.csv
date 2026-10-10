@@ -1,0 +1,375 @@
+snapshot_year,plant_id,unit_code,plant_name,region,members,missing_members,reported_summer_MW,nameplate_MW,identified_reporting_pattern,consistent_status_and_BA,carrier_unit_keys,blank_unit_keys,meaning
+2019,613.0,C791,Lauderdale,,3,2,442.0,521.2,True,True,613::ST4,613::4GT1;613::4GT2,reporting allocation only; no individual CT capacity inferred
+2019,613.0,C792,Lauderdale,,3,2,442.0,521.2,True,True,613::ST5,613::5GT1;613::5GT2,reporting allocation only; no individual CT capacity inferred
+2019,643.0,G180,Lansing Smith,,3,2,511.0,619.7,True,True,643::3S,643::3A;643::3B,reporting allocation only; no individual CT capacity inferred
+2019,981.0,G361,State Line Energy,,2,1,124.9,224.9,False,True,981::3,981::3A,reporting allocation only; no individual CT capacity inferred
+2019,981.0,G362,State Line Energy,,2,1,209.4,388.9,False,True,981::4,981::4A,reporting allocation only; no individual CT capacity inferred
+2019,1004.0,0001,Edwardsport,MISO,3,2,595.0,804.5,True,True,1004::ST,1004::CT1;1004::CT2,reporting allocation only; no individual CT capacity inferred
+2019,1403.0,PB01,Nine Mile Point,MISO,3,2,560.2,649.5,True,True,1403::6C,1403::6A;1403::6B,reporting allocation only; no individual CT capacity inferred
+2019,2190.0,A031,Milltown,,5,4,2.6,3.0,True,True,2190::1,2190::2;2190::3;2190::4;2190::5,reporting allocation only; no individual CT capacity inferred
+2019,4053.0,B059,Kilbourn,MISO,4,3,9.5,9.7,True,True,4053::2,4053::HC1;4053::HC5;4053::HC6,reporting allocation only; no individual CT capacity inferred
+2019,4056.0,B061,Prairie Du Sac,MISO,8,7,29.0,33.4,True,True,4056::1,4056::2;4056::3;4056::4;4056::5;4056::6;4056::7;4056::8,reporting allocation only; no individual CT capacity inferred
+2019,6073.0,0003,Victor J Daniel Jr,,3,2,541.0,566.2,True,True,6073::3,6073::3CT;6073::3ST,reporting allocation only; no individual CT capacity inferred
+2019,6073.0,0004,Victor J Daniel Jr,,3,2,540.0,566.2,True,True,6073::4,6073::4CT;6073::4ST,reporting allocation only; no individual CT capacity inferred
+2019,6246.0,C782,Putnam,,3,2,249.0,290.0,True,True,6246::1ST,6246::1GT1;6246::1GT2,reporting allocation only; no individual CT capacity inferred
+2019,6246.0,C783,Putnam,,3,2,249.0,290.0,True,True,6246::2ST,6246::2GT1;6246::2GT2,reporting allocation only; no individual CT capacity inferred
+2019,6645.0,A184,Foothill Feeder,CAISO,2,1,7.1,9.0,True,True,6645::1,6645::2,reporting allocation only; no individual CT capacity inferred
+2019,10099.0,CC1,Pedricktown Cogeneration Company LP,PJM,2,1,115.3,140.2,True,True,10099::GEN1,10099::GEN2,reporting allocation only; no individual CT capacity inferred
+2019,10485.0,H001,"RG Steel Sparrows Point, LLC",,4,3,152.3,120.0,True,True,10485::GEN1,10485::GEN2;10485::GEN3;10485::GEN4,reporting allocation only; no individual CT capacity inferred
+2019,10725.0,F801,Selkirk Cogen,NYISO,2,1,78.1,107.2,False,False,10725::GEN1,10725::GEN2,reporting allocation only; no individual CT capacity inferred
+2019,10725.0,F802,Selkirk Cogen,NYISO,3,2,282.1,338.8,True,True,10725::GEN3,10725::GEN4;10725::GEN5,reporting allocation only; no individual CT capacity inferred
+2019,10751.0,CC1,Camden Plant Holdings LLC,PJM,2,1,145.0,172.9,True,True,10751::GEN1,10751::GEN2,reporting allocation only; no individual CT capacity inferred
+2019,50308.0,F401,Utility Plants Section,,5,1,23.0,22.5,False,False,50308::GEN1;50308::GEN3;50308::GEN4;50308::GEN5,50308::GEN2,reporting allocation only; no individual CT capacity inferred
+2019,50385.0,CC1,Newark Bay Cogeneration Partnership LP,PJM,3,2,120.2,152.0,True,True,50385::GEN1,50385::GEN2;50385::GEN3,reporting allocation only; no individual CT capacity inferred
+2019,50449.0,G722,Indeck Silver Springs Energy Center,NYISO,2,1,49.5,56.599999999999994,True,True,50449::GEN1,50449::GEN2,reporting allocation only; no individual CT capacity inferred
+2019,50450.0,CC1,Indeck Oswego Energy Center,NYISO,2,1,48.9,57.400000000000006,True,True,50450::GEN1,50450::GEN2,reporting allocation only; no individual CT capacity inferred
+2019,50451.0,CC1,Indeck Yerkes Energy Center,NYISO,2,1,47.7,59.900000000000006,True,True,50451::GEN1,50451::GEN2,reporting allocation only; no individual CT capacity inferred
+2019,50497.0,CC1,Bayonne Plant Holding LLC,PJM,4,3,163.0,191.6,True,True,50497::GTG1,50497::GTG2;50497::GTG3;50497::STG1,reporting allocation only; no individual CT capacity inferred
+2019,50707.0,J272,JM Shafer Generating Station,,7,1,272.0,396.9,True,True,50707::LMA,50707::LMB,reporting allocation only; no individual CT capacity inferred
+2019,50852.0,CC1,Elmwood Park Power LLC,PJM,2,1,70.0,89.5,True,True,50852::GEN1,50852::GEN2,reporting allocation only; no individual CT capacity inferred
+2019,52026.0,CC1,Dartmouth Power Associates LP,ISO-NE,2,1,62.1,74.1,True,True,52026::GEN1,52026::GEN2,reporting allocation only; no individual CT capacity inferred
+2019,54693.0,CC1,York Generation Company LLC,PJM,6,5,46.2,52.2,True,True,54693::GT#1,54693::GT#2;54693::GT#5;54693::GT#6;54693::ST#1;54693::ST#2,reporting allocation only; no individual CT capacity inferred
+2019,54832.0,F701,Brandywine Power Facility,PJM,3,2,230.0,288.8,True,True,54832::3,54832::1;54832::2,reporting allocation only; no individual CT capacity inferred
+2019,55218.0,PB01,Hinds Energy Facility,MISO,3,2,454.6,551.3,True,True,55218::H03,55218::H01;55218::H02,reporting allocation only; no individual CT capacity inferred
+2019,55220.0,PB01,Attala,MISO,3,2,455.3,551.3,True,True,55220::A03,55220::A01;55220::A02,reporting allocation only; no individual CT capacity inferred
+2019,55380.0,BL01,Union Power Station,MISO,3,2,507.2,607.0,True,True,55380::STG1,55380::CTG1;55380::CTG2,reporting allocation only; no individual CT capacity inferred
+2019,55380.0,BL02,Union Power Station,MISO,3,2,498.5,607.0,True,True,55380::STG2,55380::CTG3;55380::CTG4,reporting allocation only; no individual CT capacity inferred
+2019,55380.0,BL03,Union Power Station,MISO,3,2,502.4,607.0,True,True,55380::STG3,55380::CTG5;55380::CTG6,reporting allocation only; no individual CT capacity inferred
+2019,55380.0,BL04,Union Power Station,MISO,3,2,500.5,607.0,True,True,55380::STG4,55380::CTG7;55380::CTG8,reporting allocation only; no individual CT capacity inferred
+2019,55418.0,PB01,Hot Spring Generating Facility,MISO,3,2,605.3,714.8,True,True,55418::ST1,55418::CT1;55418::CT2,reporting allocation only; no individual CT capacity inferred
+2019,55463.0,G112,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST01,55463::CT01,reporting allocation only; no individual CT capacity inferred
+2019,55463.0,G113,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST02,55463::CT02,reporting allocation only; no individual CT capacity inferred
+2019,55463.0,G114,Redbud Power Plant,SPP,2,1,300.0,358.4,True,True,55463::ST03,55463::CT03,reporting allocation only; no individual CT capacity inferred
+2019,55463.0,G115,Redbud Power Plant,SPP,2,1,301.0,358.4,True,True,55463::ST04,55463::CT04,reporting allocation only; no individual CT capacity inferred
+2019,55467.0,PB01,Ouachita,MISO,2,1,243.2,301.3,True,True,55467::STG1,55467::CTG1,reporting allocation only; no individual CT capacity inferred
+2019,55467.0,PB02,Ouachita,MISO,2,1,248.6,301.3,True,True,55467::STG2,55467::CTG2,reporting allocation only; no individual CT capacity inferred
+2019,55467.0,PB03,Ouachita,MISO,2,1,244.6,301.3,True,True,55467::STG3,55467::CTG3,reporting allocation only; no individual CT capacity inferred
+2019,55620.0,PB01,Perryville Power Station,MISO,3,2,528.1,637.9,True,True,55620::ST-1,55620::CT-1;55620::CT-2,reporting allocation only; no individual CT capacity inferred
+2019,57037.0,0001,Ratcliffe,,3,2,675.4,840.0,True,True,57037::1A,57037::1B;57037::1C,reporting allocation only; no individual CT capacity inferred
+2019,60903.0,0001,Salem Harbor Station NGCC,ISO-NE,2,1,338.9,399.1,True,True,60903::1,60903::3,reporting allocation only; no individual CT capacity inferred
+2019,60903.0,0002,Salem Harbor Station NGCC,ISO-NE,2,1,338.2,399.1,True,True,60903::2,60903::4,reporting allocation only; no individual CT capacity inferred
+2020,613.0,C791,Lauderdale,,3,2,442.0,521.2,True,True,613::ST4,613::4GT1;613::4GT2,reporting allocation only; no individual CT capacity inferred
+2020,613.0,C792,Lauderdale,,3,2,442.0,521.2,True,True,613::ST5,613::5GT1;613::5GT2,reporting allocation only; no individual CT capacity inferred
+2020,643.0,G180,Lansing Smith,,3,2,511.0,619.7,True,True,643::3S,643::3A;643::3B,reporting allocation only; no individual CT capacity inferred
+2020,981.0,G361,State Line Energy,,2,1,124.9,224.9,False,True,981::3,981::3A,reporting allocation only; no individual CT capacity inferred
+2020,981.0,G362,State Line Energy,,2,1,209.4,388.9,False,True,981::4,981::4A,reporting allocation only; no individual CT capacity inferred
+2020,1004.0,0001,Edwardsport,MISO,3,2,595.0,804.5,True,True,1004::ST,1004::CT1;1004::CT2,reporting allocation only; no individual CT capacity inferred
+2020,2190.0,A031,Milltown,,5,4,2.6,3.0,True,True,2190::1,2190::2;2190::3;2190::4;2190::5,reporting allocation only; no individual CT capacity inferred
+2020,4053.0,B059,Kilbourn,MISO,4,3,9.5,9.7,True,True,4053::2,4053::HC1;4053::HC5;4053::HC6,reporting allocation only; no individual CT capacity inferred
+2020,4056.0,B061,Prairie Du Sac,MISO,8,7,29.0,33.4,True,True,4056::1,4056::2;4056::3;4056::4;4056::5;4056::6;4056::7;4056::8,reporting allocation only; no individual CT capacity inferred
+2020,6073.0,0003,Victor J Daniel Jr,,3,2,541.0,566.2,True,True,6073::3,6073::3CT;6073::3ST,reporting allocation only; no individual CT capacity inferred
+2020,6073.0,0004,Victor J Daniel Jr,,3,2,540.0,566.2,True,True,6073::4,6073::4CT;6073::4ST,reporting allocation only; no individual CT capacity inferred
+2020,6246.0,C782,Putnam,,3,2,249.0,290.0,True,True,6246::1ST,6246::1GT1;6246::1GT2,reporting allocation only; no individual CT capacity inferred
+2020,6246.0,C783,Putnam,,3,2,249.0,290.0,True,True,6246::2ST,6246::2GT1;6246::2GT2,reporting allocation only; no individual CT capacity inferred
+2020,6645.0,A184,Foothill Feeder,CAISO,2,1,7.1,9.0,True,True,6645::1,6645::2,reporting allocation only; no individual CT capacity inferred
+2020,10099.0,CC1,Pedricktown Cogeneration Company LP,PJM,2,1,115.1,140.2,True,True,10099::GEN1,10099::GEN2,reporting allocation only; no individual CT capacity inferred
+2020,10485.0,H001,"RG Steel Sparrows Point, LLC",,4,3,152.3,120.0,True,True,10485::GEN1,10485::GEN2;10485::GEN3;10485::GEN4,reporting allocation only; no individual CT capacity inferred
+2020,10725.0,F801,Selkirk Cogen,NYISO,2,1,76.9,107.2,False,False,10725::GEN1,10725::GEN2,reporting allocation only; no individual CT capacity inferred
+2020,10725.0,F802,Selkirk Cogen,NYISO,3,2,272.3,338.8,True,True,10725::GEN3,10725::GEN4;10725::GEN5,reporting allocation only; no individual CT capacity inferred
+2020,10751.0,CC1,Camden Plant Holdings LLC,PJM,2,1,144.7,172.9,True,True,10751::GEN1,10751::GEN2,reporting allocation only; no individual CT capacity inferred
+2020,50308.0,F401,Utility Plants Section,,5,1,22.099999999999998,22.5,False,False,50308::GEN1;50308::GEN3;50308::GEN4;50308::GEN5,50308::GEN2,reporting allocation only; no individual CT capacity inferred
+2020,50385.0,CC1,Newark Bay Cogeneration Partnership LP,PJM,3,2,136.2,152.0,True,True,50385::GEN1,50385::GEN2;50385::GEN3,reporting allocation only; no individual CT capacity inferred
+2020,50450.0,CC1,Indeck Oswego Energy Center,NYISO,2,1,49.8,57.400000000000006,True,True,50450::GEN1,50450::GEN2,reporting allocation only; no individual CT capacity inferred
+2020,50451.0,CC1,Indeck Yerkes Energy Center,NYISO,2,1,48.7,59.900000000000006,True,True,50451::GEN1,50451::GEN2,reporting allocation only; no individual CT capacity inferred
+2020,50497.0,CC1,Bayonne Plant Holding LLC,PJM,4,3,163.0,191.6,True,True,50497::GTG1,50497::GTG2;50497::GTG3;50497::STG1,reporting allocation only; no individual CT capacity inferred
+2020,50707.0,J272,JM Shafer Generating Station,,7,6,272.0,396.9,True,True,50707::LMA,50707::LMB;50707::LMC;50707::LMD;50707::LME;50707::STA;50707::STB,reporting allocation only; no individual CT capacity inferred
+2020,50852.0,CC1,Elmwood Park Power LLC,PJM,2,1,70.0,89.5,True,True,50852::GEN1,50852::GEN2,reporting allocation only; no individual CT capacity inferred
+2020,52026.0,CC1,Dartmouth Power Associates LP,ISO-NE,2,1,62.1,74.1,True,True,52026::GEN1,52026::GEN2,reporting allocation only; no individual CT capacity inferred
+2020,54693.0,CC1,York Generation Company LLC,PJM,6,5,46.9,52.2,True,True,54693::GT#1,54693::GT#2;54693::GT#5;54693::GT#6;54693::ST#1;54693::ST#2,reporting allocation only; no individual CT capacity inferred
+2020,54832.0,F701,Brandywine Power Facility,PJM,3,2,230.0,288.8,True,True,54832::3,54832::1;54832::2,reporting allocation only; no individual CT capacity inferred
+2020,55218.0,PB01,Hinds Energy Facility,MISO,3,2,454.6,551.3,True,True,55218::H03,55218::H01;55218::H02,reporting allocation only; no individual CT capacity inferred
+2020,55220.0,PB01,Attala,MISO,3,2,450.6,551.3,True,True,55220::A03,55220::A01;55220::A02,reporting allocation only; no individual CT capacity inferred
+2020,55380.0,BL01,Union Power Station,MISO,3,2,507.2,607.0,True,True,55380::STG1,55380::CTG1;55380::CTG2,reporting allocation only; no individual CT capacity inferred
+2020,55380.0,BL02,Union Power Station,MISO,3,2,498.0,607.0,True,True,55380::STG2,55380::CTG3;55380::CTG4,reporting allocation only; no individual CT capacity inferred
+2020,55380.0,BL03,Union Power Station,MISO,3,2,505.6,607.0,True,True,55380::STG3,55380::CTG5;55380::CTG6,reporting allocation only; no individual CT capacity inferred
+2020,55380.0,BL04,Union Power Station,MISO,3,2,503.2,607.0,True,True,55380::STG4,55380::CTG7;55380::CTG8,reporting allocation only; no individual CT capacity inferred
+2020,55418.0,PB01,Hot Spring Generating Facility,MISO,3,2,605.3,714.8,True,True,55418::ST1,55418::CT1;55418::CT2,reporting allocation only; no individual CT capacity inferred
+2020,55463.0,G112,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST01,55463::CT01,reporting allocation only; no individual CT capacity inferred
+2020,55463.0,G113,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST02,55463::CT02,reporting allocation only; no individual CT capacity inferred
+2020,55463.0,G114,Redbud Power Plant,SPP,2,1,300.0,358.4,True,True,55463::ST03,55463::CT03,reporting allocation only; no individual CT capacity inferred
+2020,55463.0,G115,Redbud Power Plant,SPP,2,1,301.0,358.4,True,True,55463::ST04,55463::CT04,reporting allocation only; no individual CT capacity inferred
+2020,55467.0,PB01,Ouachita,MISO,2,1,241.7,301.3,True,True,55467::STG1,55467::CTG1,reporting allocation only; no individual CT capacity inferred
+2020,55467.0,PB02,Ouachita,MISO,2,1,244.3,301.3,True,True,55467::STG2,55467::CTG2,reporting allocation only; no individual CT capacity inferred
+2020,55467.0,PB03,Ouachita,MISO,2,1,240.8,301.3,True,True,55467::STG3,55467::CTG3,reporting allocation only; no individual CT capacity inferred
+2020,55620.0,PB01,Perryville Power Station,MISO,3,2,526.2,637.9,True,True,55620::ST-1,55620::CT-1;55620::CT-2,reporting allocation only; no individual CT capacity inferred
+2020,57037.0,0001,Ratcliffe,,3,2,675.3,840.0,True,True,57037::1A,57037::1B;57037::1C,reporting allocation only; no individual CT capacity inferred
+2020,60903.0,0001,Salem Harbor Station NGCC,ISO-NE,2,1,337.8,399.1,True,True,60903::1,60903::3,reporting allocation only; no individual CT capacity inferred
+2020,60903.0,0002,Salem Harbor Station NGCC,ISO-NE,2,1,337.2,399.1,True,True,60903::2,60903::4,reporting allocation only; no individual CT capacity inferred
+2021,613.0,C791,Lauderdale,,3,2,442.0,521.2,True,True,613::ST4,613::4GT1;613::4GT2,reporting allocation only; no individual CT capacity inferred
+2021,613.0,C792,Lauderdale,,3,2,442.0,521.2,True,True,613::ST5,613::5GT1;613::5GT2,reporting allocation only; no individual CT capacity inferred
+2021,643.0,G180,Lansing Smith,,3,2,511.0,619.7,True,True,643::3S,643::3A;643::3B,reporting allocation only; no individual CT capacity inferred
+2021,981.0,G361,State Line Energy,,2,1,124.9,224.9,False,True,981::3,981::3A,reporting allocation only; no individual CT capacity inferred
+2021,981.0,G362,State Line Energy,,2,1,209.4,388.9,False,True,981::4,981::4A,reporting allocation only; no individual CT capacity inferred
+2021,1004.0,0001,Edwardsport,MISO,3,2,595.0,804.5,True,True,1004::ST,1004::CT1;1004::CT2,reporting allocation only; no individual CT capacity inferred
+2021,2190.0,A031,Milltown,,5,4,2.6,3.0,True,True,2190::1,2190::2;2190::3;2190::4;2190::5,reporting allocation only; no individual CT capacity inferred
+2021,4053.0,B059,Kilbourn,MISO,4,3,9.5,9.7,True,True,4053::2,4053::HC1;4053::HC5;4053::HC6,reporting allocation only; no individual CT capacity inferred
+2021,4056.0,B061,Prairie Du Sac,MISO,8,7,29.0,33.4,True,True,4056::1,4056::2;4056::3;4056::4;4056::5;4056::6;4056::7;4056::8,reporting allocation only; no individual CT capacity inferred
+2021,6073.0,0003,Victor J Daniel Jr,,3,2,541.0,566.2,True,True,6073::3,6073::3CT;6073::3ST,reporting allocation only; no individual CT capacity inferred
+2021,6073.0,0004,Victor J Daniel Jr,,3,2,540.0,566.2,True,True,6073::4,6073::4CT;6073::4ST,reporting allocation only; no individual CT capacity inferred
+2021,6246.0,C782,Putnam,,3,2,249.0,290.0,True,True,6246::1ST,6246::1GT1;6246::1GT2,reporting allocation only; no individual CT capacity inferred
+2021,6246.0,C783,Putnam,,3,2,249.0,290.0,True,True,6246::2ST,6246::2GT1;6246::2GT2,reporting allocation only; no individual CT capacity inferred
+2021,6645.0,A184,Foothill Feeder,CAISO,2,1,7.1,9.0,True,True,6645::1,6645::2,reporting allocation only; no individual CT capacity inferred
+2021,10099.0,CC1,Pedricktown Cogeneration Company LP,PJM,2,1,112.8,140.2,True,True,10099::GEN1,10099::GEN2,reporting allocation only; no individual CT capacity inferred
+2021,10485.0,H001,"RG Steel Sparrows Point, LLC",,4,3,152.3,120.0,True,True,10485::GEN1,10485::GEN2;10485::GEN3;10485::GEN4,reporting allocation only; no individual CT capacity inferred
+2021,10725.0,F801,Selkirk Cogen,NYISO,2,1,76.9,107.2,False,False,10725::GEN1,10725::GEN2,reporting allocation only; no individual CT capacity inferred
+2021,10725.0,F802,Selkirk Cogen,NYISO,3,2,272.3,338.8,True,True,10725::GEN3,10725::GEN4;10725::GEN5,reporting allocation only; no individual CT capacity inferred
+2021,10751.0,CC1,Camden Plant Holdings LLC,PJM,2,1,145.0,172.9,True,True,10751::GEN1,10751::GEN2,reporting allocation only; no individual CT capacity inferred
+2021,50308.0,F401,Utility Plants Section,,5,1,22.099999999999998,22.5,False,False,50308::GEN1;50308::GEN3;50308::GEN4;50308::GEN5,50308::GEN2,reporting allocation only; no individual CT capacity inferred
+2021,50385.0,CC1,Newark Bay Cogeneration Partnership LP,PJM,3,2,120.2,152.0,True,True,50385::GEN1,50385::GEN2;50385::GEN3,reporting allocation only; no individual CT capacity inferred
+2021,50450.0,CC1,Indeck Oswego Energy Center,NYISO,2,1,49.8,57.400000000000006,True,True,50450::GEN1,50450::GEN2,reporting allocation only; no individual CT capacity inferred
+2021,50451.0,CC1,Indeck Yerkes Energy Center,NYISO,2,1,47.4,59.900000000000006,True,True,50451::GEN1,50451::GEN2,reporting allocation only; no individual CT capacity inferred
+2021,50497.0,CC1,Bayonne Plant Holding LLC,PJM,4,3,163.0,191.6,True,True,50497::GTG1,50497::GTG2;50497::GTG3;50497::STG1,reporting allocation only; no individual CT capacity inferred
+2021,50498.0,CC1,Capitol District Energy Center,ISO-NE,2,1,52.4,70.5,True,True,50498::GTG,50498::STG,reporting allocation only; no individual CT capacity inferred
+2021,50558.0,CC01,Frontier,SPP,2,1,120.0,131.4,True,True,50558::ST01,50558::GT01,reporting allocation only; no individual CT capacity inferred
+2021,50707.0,J272,JM Shafer Generating Station,,7,6,272.0,396.9,True,True,50707::LMA,50707::LMB;50707::LMC;50707::LMD;50707::LME;50707::STA;50707::STB,reporting allocation only; no individual CT capacity inferred
+2021,52026.0,CC1,Dartmouth Power Associates LP,ISO-NE,2,1,62.1,74.1,True,True,52026::GEN1,52026::GEN2,reporting allocation only; no individual CT capacity inferred
+2021,54693.0,CC1,York Generation Company LLC,PJM,6,5,46.2,52.2,True,True,54693::GT#1,54693::GT#2;54693::GT#5;54693::GT#6;54693::ST#1;54693::ST#2,reporting allocation only; no individual CT capacity inferred
+2021,54832.0,F701,Brandywine Power Facility,PJM,3,2,230.0,288.8,True,True,54832::3,54832::1;54832::2,reporting allocation only; no individual CT capacity inferred
+2021,55218.0,PB01,Hinds Energy Facility,MISO,3,2,459.3,551.3,True,True,55218::H03,55218::H01;55218::H02,reporting allocation only; no individual CT capacity inferred
+2021,55220.0,PB01,Attala,MISO,3,2,459.3,551.3,True,True,55220::A03,55220::A01;55220::A02,reporting allocation only; no individual CT capacity inferred
+2021,55380.0,BL01,Union Power Station,MISO,3,2,507.4,607.0,True,True,55380::STG1,55380::CTG1;55380::CTG2,reporting allocation only; no individual CT capacity inferred
+2021,55380.0,BL02,Union Power Station,MISO,3,2,498.5,607.0,True,True,55380::STG2,55380::CTG3;55380::CTG4,reporting allocation only; no individual CT capacity inferred
+2021,55380.0,BL03,Union Power Station,MISO,3,2,504.8,607.0,True,True,55380::STG3,55380::CTG5;55380::CTG6,reporting allocation only; no individual CT capacity inferred
+2021,55380.0,BL04,Union Power Station,MISO,3,2,505.0,607.0,True,True,55380::STG4,55380::CTG7;55380::CTG8,reporting allocation only; no individual CT capacity inferred
+2021,55418.0,PB01,Hot Spring Generating Facility,MISO,3,2,590.9,714.8,True,True,55418::ST1,55418::CT1;55418::CT2,reporting allocation only; no individual CT capacity inferred
+2021,55463.0,G112,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST01,55463::CT01,reporting allocation only; no individual CT capacity inferred
+2021,55463.0,G113,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST02,55463::CT02,reporting allocation only; no individual CT capacity inferred
+2021,55463.0,G114,Redbud Power Plant,SPP,2,1,300.0,358.4,True,True,55463::ST03,55463::CT03,reporting allocation only; no individual CT capacity inferred
+2021,55463.0,G115,Redbud Power Plant,SPP,2,1,300.0,358.4,True,True,55463::ST04,55463::CT04,reporting allocation only; no individual CT capacity inferred
+2021,55467.0,PB01,Ouachita,MISO,2,1,241.7,301.3,True,True,55467::STG1,55467::CTG1,reporting allocation only; no individual CT capacity inferred
+2021,55467.0,PB02,Ouachita,MISO,2,1,244.3,301.3,True,True,55467::STG2,55467::CTG2,reporting allocation only; no individual CT capacity inferred
+2021,55467.0,PB03,Ouachita,MISO,2,1,240.8,301.3,True,True,55467::STG3,55467::CTG3,reporting allocation only; no individual CT capacity inferred
+2021,55620.0,PB01,Perryville Power Station,MISO,3,2,526.2,637.9,True,True,55620::ST-1,55620::CT-1;55620::CT-2,reporting allocation only; no individual CT capacity inferred
+2021,57037.0,0001,Ratcliffe,,3,2,693.0,840.0,True,True,57037::1A,57037::1B;57037::1C,reporting allocation only; no individual CT capacity inferred
+2021,60903.0,0001,Salem Harbor Station NGCC,ISO-NE,2,1,337.8,399.1,True,True,60903::1,60903::3,reporting allocation only; no individual CT capacity inferred
+2021,60903.0,0002,Salem Harbor Station NGCC,ISO-NE,2,1,337.2,399.1,True,True,60903::2,60903::4,reporting allocation only; no individual CT capacity inferred
+2022,613.0,C791,Lauderdale,,3,2,442.0,521.2,True,True,613::ST4,613::4GT1;613::4GT2,reporting allocation only; no individual CT capacity inferred
+2022,613.0,C792,Lauderdale,,3,2,442.0,521.2,True,True,613::ST5,613::5GT1;613::5GT2,reporting allocation only; no individual CT capacity inferred
+2022,643.0,G180,Lansing Smith,,3,2,660.0,619.7,True,True,643::3S,643::3A;643::3B,reporting allocation only; no individual CT capacity inferred
+2022,981.0,G361,State Line Energy,,2,1,124.9,224.9,False,True,981::3,981::3A,reporting allocation only; no individual CT capacity inferred
+2022,981.0,G362,State Line Energy,,2,1,209.4,388.9,False,True,981::4,981::4A,reporting allocation only; no individual CT capacity inferred
+2022,1004.0,0001,Edwardsport,MISO,3,2,595.0,804.5,True,True,1004::ST,1004::CT1;1004::CT2,reporting allocation only; no individual CT capacity inferred
+2022,2190.0,A031,Milltown,,5,4,2.6,3.0,True,True,2190::1,2190::2;2190::3;2190::4;2190::5,reporting allocation only; no individual CT capacity inferred
+2022,4053.0,B059,Kilbourn,MISO,4,3,9.5,9.7,True,True,4053::2,4053::HC1;4053::HC5;4053::HC6,reporting allocation only; no individual CT capacity inferred
+2022,4056.0,B061,Prairie Du Sac,MISO,8,7,29.0,33.4,True,True,4056::1,4056::2;4056::3;4056::4;4056::5;4056::6;4056::7;4056::8,reporting allocation only; no individual CT capacity inferred
+2022,6073.0,0003,Victor J Daniel Jr,,3,2,539.0,566.2,True,True,6073::3,6073::3CT;6073::3ST,reporting allocation only; no individual CT capacity inferred
+2022,6073.0,0004,Victor J Daniel Jr,,3,2,559.0,566.2,True,True,6073::4,6073::4CT;6073::4ST,reporting allocation only; no individual CT capacity inferred
+2022,6246.0,C782,Putnam,,3,2,249.0,290.0,True,True,6246::1ST,6246::1GT1;6246::1GT2,reporting allocation only; no individual CT capacity inferred
+2022,6246.0,C783,Putnam,,3,2,249.0,290.0,True,True,6246::2ST,6246::2GT1;6246::2GT2,reporting allocation only; no individual CT capacity inferred
+2022,6645.0,A184,Foothill Feeder,CAISO,2,1,7.1,9.0,True,True,6645::1,6645::2,reporting allocation only; no individual CT capacity inferred
+2022,10485.0,H001,"RG Steel Sparrows Point, LLC",,4,3,152.3,120.0,True,True,10485::GEN1,10485::GEN2;10485::GEN3;10485::GEN4,reporting allocation only; no individual CT capacity inferred
+2022,10725.0,F802,Selkirk Cogen,NYISO,4,2,349.20000000000005,434.0,False,True,10725::GEN1;10725::GEN3,10725::GEN4;10725::GEN5,reporting allocation only; no individual CT capacity inferred
+2022,10751.0,CC1,Camden Plant Holdings LLC,PJM,2,1,145.0,172.9,True,True,10751::GEN1,10751::GEN2,reporting allocation only; no individual CT capacity inferred
+2022,50308.0,F401,Utility Plants Section,,5,1,22.099999999999998,22.5,False,False,50308::GEN1;50308::GEN3;50308::GEN4;50308::GEN5,50308::GEN2,reporting allocation only; no individual CT capacity inferred
+2022,50450.0,CC1,Indeck Oswego Energy Center,NYISO,2,1,50.6,57.400000000000006,True,True,50450::GEN1,50450::GEN2,reporting allocation only; no individual CT capacity inferred
+2022,50451.0,CC1,Indeck Yerkes Energy Center,NYISO,2,1,47.3,59.900000000000006,True,True,50451::GEN1,50451::GEN2,reporting allocation only; no individual CT capacity inferred
+2022,50497.0,CC1,Bayonne Plant Holding LLC,PJM,4,3,163.0,191.6,True,True,50497::GTG1,50497::GTG2;50497::GTG3;50497::STG1,reporting allocation only; no individual CT capacity inferred
+2022,50498.0,CC1,Capitol District Energy Center,ISO-NE,2,1,52.4,70.5,True,True,50498::GTG,50498::STG,reporting allocation only; no individual CT capacity inferred
+2022,50558.0,CC01,Frontier,SPP,2,1,120.0,131.4,True,True,50558::ST01,50558::GT01,reporting allocation only; no individual CT capacity inferred
+2022,50707.0,J272,JM Shafer Generating Station,,7,6,272.0,396.9,True,True,50707::LMA,50707::LMB;50707::LMC;50707::LMD;50707::LME;50707::STA;50707::STB,reporting allocation only; no individual CT capacity inferred
+2022,52026.0,CC1,Dartmouth Power Associates LP,ISO-NE,2,1,62.1,74.1,True,True,52026::GEN1,52026::GEN2,reporting allocation only; no individual CT capacity inferred
+2022,54693.0,CC1,York Generation Company LLC,PJM,6,5,46.2,52.2,True,True,54693::GT#1,54693::GT#2;54693::GT#5;54693::GT#6;54693::ST#1;54693::ST#2,reporting allocation only; no individual CT capacity inferred
+2022,54832.0,F701,Brandywine Power Facility,PJM,3,2,230.0,288.8,True,True,54832::3,54832::1;54832::2,reporting allocation only; no individual CT capacity inferred
+2022,55218.0,PB01,Hinds Energy Facility,MISO,3,2,459.3,551.3,True,True,55218::H03,55218::H01;55218::H02,reporting allocation only; no individual CT capacity inferred
+2022,55220.0,PB01,Attala,MISO,3,2,459.3,551.3,True,True,55220::A03,55220::A01;55220::A02,reporting allocation only; no individual CT capacity inferred
+2022,55380.0,BL01,Union Power Station,MISO,3,2,507.4,607.0,True,True,55380::STG1,55380::CTG1;55380::CTG2,reporting allocation only; no individual CT capacity inferred
+2022,55380.0,BL02,Union Power Station,MISO,3,2,498.5,607.0,True,True,55380::STG2,55380::CTG3;55380::CTG4,reporting allocation only; no individual CT capacity inferred
+2022,55380.0,BL03,Union Power Station,MISO,3,2,504.8,607.0,True,True,55380::STG3,55380::CTG5;55380::CTG6,reporting allocation only; no individual CT capacity inferred
+2022,55380.0,BL04,Union Power Station,MISO,3,2,505.0,607.0,True,True,55380::STG4,55380::CTG7;55380::CTG8,reporting allocation only; no individual CT capacity inferred
+2022,55418.0,PB01,Hot Spring Generating Facility,MISO,3,2,590.9,714.8,True,True,55418::ST1,55418::CT1;55418::CT2,reporting allocation only; no individual CT capacity inferred
+2022,55463.0,G112,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST01,55463::CT01,reporting allocation only; no individual CT capacity inferred
+2022,55463.0,G113,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST02,55463::CT02,reporting allocation only; no individual CT capacity inferred
+2022,55463.0,G114,Redbud Power Plant,SPP,2,1,300.0,358.4,True,True,55463::ST03,55463::CT03,reporting allocation only; no individual CT capacity inferred
+2022,55463.0,G115,Redbud Power Plant,SPP,2,1,300.0,358.4,True,True,55463::ST04,55463::CT04,reporting allocation only; no individual CT capacity inferred
+2022,55467.0,PB01,Ouachita,MISO,2,1,239.2,301.3,True,True,55467::STG1,55467::CTG1,reporting allocation only; no individual CT capacity inferred
+2022,55467.0,PB02,Ouachita,MISO,2,1,239.2,301.3,True,True,55467::STG2,55467::CTG2,reporting allocation only; no individual CT capacity inferred
+2022,55467.0,PB03,Ouachita,MISO,2,1,240.8,301.3,True,True,55467::STG3,55467::CTG3,reporting allocation only; no individual CT capacity inferred
+2022,55620.0,PB01,Perryville Power Station,MISO,3,2,526.3,637.9,True,True,55620::ST-1,55620::CT-1;55620::CT-2,reporting allocation only; no individual CT capacity inferred
+2022,57037.0,0001,Ratcliffe,,3,2,675.6,840.0,True,True,57037::1A,57037::1B;57037::1C,reporting allocation only; no individual CT capacity inferred
+2022,60903.0,0001,Salem Harbor Power Development LP,ISO-NE,2,1,337.8,399.1,True,True,60903::1,60903::3,reporting allocation only; no individual CT capacity inferred
+2022,60903.0,0002,Salem Harbor Power Development LP,ISO-NE,2,1,337.2,399.1,True,True,60903::2,60903::4,reporting allocation only; no individual CT capacity inferred
+2023,613.0,C791,Lauderdale,,3,2,442.0,521.2,True,True,613::ST4,613::4GT1;613::4GT2,reporting allocation only; no individual CT capacity inferred
+2023,613.0,C792,Lauderdale,,3,2,442.0,521.2,True,True,613::ST5,613::5GT1;613::5GT2,reporting allocation only; no individual CT capacity inferred
+2023,643.0,G180,Lansing Smith,,3,2,660.0,619.7,True,True,643::3S,643::3A;643::3B,reporting allocation only; no individual CT capacity inferred
+2023,981.0,G361,State Line Energy,,2,1,124.9,224.9,False,True,981::3,981::3A,reporting allocation only; no individual CT capacity inferred
+2023,981.0,G362,State Line Energy,,2,1,209.4,388.9,False,True,981::4,981::4A,reporting allocation only; no individual CT capacity inferred
+2023,1004.0,0001,Edwardsport,MISO,3,2,595.0,804.5,True,True,1004::ST,1004::CT1;1004::CT2,reporting allocation only; no individual CT capacity inferred
+2023,2190.0,A031,Milltown,,5,4,2.6,3.0,True,True,2190::1,2190::2;2190::3;2190::4;2190::5,reporting allocation only; no individual CT capacity inferred
+2023,4053.0,B059,Kilbourn,MISO,4,3,9.5,9.7,True,True,4053::2,4053::HC1;4053::HC5;4053::HC6,reporting allocation only; no individual CT capacity inferred
+2023,4056.0,B061,Prairie Du Sac,MISO,8,7,29.0,33.4,True,True,4056::1,4056::2;4056::3;4056::4;4056::5;4056::6;4056::7;4056::8,reporting allocation only; no individual CT capacity inferred
+2023,6073.0,0003,Victor J Daniel Jr,,3,2,563.0,566.2,True,True,6073::3,6073::3CT;6073::3ST,reporting allocation only; no individual CT capacity inferred
+2023,6073.0,0004,Victor J Daniel Jr,,3,2,559.0,566.2,True,True,6073::4,6073::4CT;6073::4ST,reporting allocation only; no individual CT capacity inferred
+2023,6246.0,C782,Putnam,,3,2,249.0,290.0,True,True,6246::1ST,6246::1GT1;6246::1GT2,reporting allocation only; no individual CT capacity inferred
+2023,6246.0,C783,Putnam,,3,2,249.0,290.0,True,True,6246::2ST,6246::2GT1;6246::2GT2,reporting allocation only; no individual CT capacity inferred
+2023,6645.0,A184,Foothill Feeder,CAISO,2,1,7.1,9.0,True,True,6645::1,6645::2,reporting allocation only; no individual CT capacity inferred
+2023,10485.0,H001,"RG Steel Sparrows Point, LLC",,4,3,152.3,120.0,True,True,10485::GEN1,10485::GEN2;10485::GEN3;10485::GEN4,reporting allocation only; no individual CT capacity inferred
+2023,10725.0,F802,Selkirk Cogen,NYISO,4,2,349.20000000000005,434.0,False,True,10725::GEN1;10725::GEN3,10725::GEN4;10725::GEN5,reporting allocation only; no individual CT capacity inferred
+2023,10751.0,CC1,Camden Plant Holdings LLC,PJM,2,1,145.0,172.9,True,True,10751::GEN1,10751::GEN2,reporting allocation only; no individual CT capacity inferred
+2023,50308.0,F401,Utility Plants Section,,5,1,22.099999999999998,22.5,False,False,50308::GEN1;50308::GEN3;50308::GEN4;50308::GEN5,50308::GEN2,reporting allocation only; no individual CT capacity inferred
+2023,50450.0,CC1,Indeck Oswego Energy Center,NYISO,2,1,52.7,57.400000000000006,True,True,50450::GEN1,50450::GEN2,reporting allocation only; no individual CT capacity inferred
+2023,50451.0,CC1,Indeck Yerkes Energy Center,NYISO,2,1,45.8,59.900000000000006,True,True,50451::GEN1,50451::GEN2,reporting allocation only; no individual CT capacity inferred
+2023,50497.0,CC1,Bayonne Plant Holding LLC,PJM,4,3,163.0,191.6,True,True,50497::GTG1,50497::GTG2;50497::GTG3;50497::STG1,reporting allocation only; no individual CT capacity inferred
+2023,50498.0,CC1,Capitol District Energy Center,ISO-NE,2,1,52.4,70.5,True,True,50498::GTG,50498::STG,reporting allocation only; no individual CT capacity inferred
+2023,50558.0,CC01,Frontier,SPP,2,1,120.0,131.4,True,True,50558::ST01,50558::GT01,reporting allocation only; no individual CT capacity inferred
+2023,50707.0,J272,JM Shafer Generating Station,,7,6,272.0,396.9,True,True,50707::LMA,50707::LMB;50707::LMC;50707::LMD;50707::LME;50707::STA;50707::STB,reporting allocation only; no individual CT capacity inferred
+2023,52026.0,CC1,Dartmouth Power Associates LP,ISO-NE,2,1,62.1,74.1,True,True,52026::GEN1,52026::GEN2,reporting allocation only; no individual CT capacity inferred
+2023,54693.0,CC1,York Generation Company LLC,PJM,6,5,46.2,52.2,True,True,54693::GT#1,54693::GT#2;54693::GT#5;54693::GT#6;54693::ST#1;54693::ST#2,reporting allocation only; no individual CT capacity inferred
+2023,54832.0,F701,Brandywine Power Facility,PJM,3,2,230.0,288.8,True,True,54832::3,54832::1;54832::2,reporting allocation only; no individual CT capacity inferred
+2023,55218.0,PB01,Hinds Energy Facility,MISO,3,2,454.6,551.3,True,True,55218::H03,55218::H01;55218::H02,reporting allocation only; no individual CT capacity inferred
+2023,55220.0,PB01,Attala,MISO,3,2,456.0,551.3,True,True,55220::A03,55220::A01;55220::A02,reporting allocation only; no individual CT capacity inferred
+2023,55380.0,BL01,Union Power Station,MISO,3,2,506.2,607.0,True,True,55380::STG1,55380::CTG1;55380::CTG2,reporting allocation only; no individual CT capacity inferred
+2023,55380.0,BL02,Union Power Station,MISO,3,2,496.0,607.0,True,True,55380::STG2,55380::CTG3;55380::CTG4,reporting allocation only; no individual CT capacity inferred
+2023,55380.0,BL03,Union Power Station,MISO,3,2,507.0,607.0,True,True,55380::STG3,55380::CTG5;55380::CTG6,reporting allocation only; no individual CT capacity inferred
+2023,55380.0,BL04,Union Power Station,MISO,3,2,503.1,607.0,True,True,55380::STG4,55380::CTG7;55380::CTG8,reporting allocation only; no individual CT capacity inferred
+2023,55418.0,PB01,Hot Spring Generating Facility,MISO,3,2,592.5,714.8,True,True,55418::ST1,55418::CT1;55418::CT2,reporting allocation only; no individual CT capacity inferred
+2023,55463.0,G112,Redbud Power Plant,SPP,2,1,154.0,358.4,False,True,55463::ST01,55463::CT01,reporting allocation only; no individual CT capacity inferred
+2023,55463.0,G113,Redbud Power Plant,SPP,2,1,154.0,358.4,False,True,55463::ST02,55463::CT02,reporting allocation only; no individual CT capacity inferred
+2023,55463.0,G114,Redbud Power Plant,SPP,2,1,153.0,358.4,False,True,55463::ST03,55463::CT03,reporting allocation only; no individual CT capacity inferred
+2023,55463.0,G115,Redbud Power Plant,SPP,2,1,153.0,358.4,False,True,55463::ST04,55463::CT04,reporting allocation only; no individual CT capacity inferred
+2023,55467.0,PB01,Ouachita,MISO,2,1,242.5,301.3,True,True,55467::STG1,55467::CTG1,reporting allocation only; no individual CT capacity inferred
+2023,55467.0,PB02,Ouachita,MISO,2,1,236.5,301.3,True,True,55467::STG2,55467::CTG2,reporting allocation only; no individual CT capacity inferred
+2023,55467.0,PB03,Ouachita,MISO,2,1,248.6,301.3,True,True,55467::STG3,55467::CTG3,reporting allocation only; no individual CT capacity inferred
+2023,55620.0,PB01,Perryville Power Station,MISO,3,2,578.5,637.9,True,True,55620::ST-1,55620::CT-1;55620::CT-2,reporting allocation only; no individual CT capacity inferred
+2023,57037.0,0001,Ratcliffe,,3,2,675.6,840.0,True,True,57037::1A,57037::1B;57037::1C,reporting allocation only; no individual CT capacity inferred
+2023,60903.0,0001,Salem Harbor Power Development LP,ISO-NE,2,1,337.8,399.1,True,True,60903::1,60903::3,reporting allocation only; no individual CT capacity inferred
+2023,60903.0,0002,Salem Harbor Power Development LP,ISO-NE,2,1,337.2,399.1,True,True,60903::2,60903::4,reporting allocation only; no individual CT capacity inferred
+2024,613.0,C791,Lauderdale,,3,2,442.0,521.2,True,True,613::ST4,613::4GT1;613::4GT2,reporting allocation only; no individual CT capacity inferred
+2024,613.0,C792,Lauderdale,,3,2,442.0,521.2,True,True,613::ST5,613::5GT1;613::5GT2,reporting allocation only; no individual CT capacity inferred
+2024,643.0,G180,Lansing Smith,,3,2,660.0,619.7,True,True,643::3S,643::3A;643::3B,reporting allocation only; no individual CT capacity inferred
+2024,981.0,G361,State Line Energy,,2,1,124.9,224.9,False,True,981::3,981::3A,reporting allocation only; no individual CT capacity inferred
+2024,981.0,G362,State Line Energy,,2,1,209.4,388.9,False,True,981::4,981::4A,reporting allocation only; no individual CT capacity inferred
+2024,1004.0,0001,Edwardsport,MISO,3,2,555.0,812.7,True,True,1004::ST,1004::CT1;1004::CT2,reporting allocation only; no individual CT capacity inferred
+2024,2190.0,A031,Milltown,,5,4,2.6,3.0,True,True,2190::1,2190::2;2190::3;2190::4;2190::5,reporting allocation only; no individual CT capacity inferred
+2024,4053.0,B059,Kilbourn,MISO,4,3,9.5,9.7,True,True,4053::2,4053::HC1;4053::HC5;4053::HC6,reporting allocation only; no individual CT capacity inferred
+2024,4056.0,B061,Prairie Du Sac,MISO,8,7,29.0,33.4,True,True,4056::1,4056::2;4056::3;4056::4;4056::5;4056::6;4056::7;4056::8,reporting allocation only; no individual CT capacity inferred
+2024,6073.0,0003,Victor J Daniel Jr,,3,2,563.0,566.2,True,True,6073::3,6073::3CT;6073::3ST,reporting allocation only; no individual CT capacity inferred
+2024,6073.0,0004,Victor J Daniel Jr,,3,2,559.0,566.2,True,True,6073::4,6073::4CT;6073::4ST,reporting allocation only; no individual CT capacity inferred
+2024,6246.0,C782,Putnam,,3,2,249.0,290.0,True,True,6246::1ST,6246::1GT1;6246::1GT2,reporting allocation only; no individual CT capacity inferred
+2024,6246.0,C783,Putnam,,3,2,249.0,290.0,True,True,6246::2ST,6246::2GT1;6246::2GT2,reporting allocation only; no individual CT capacity inferred
+2024,6645.0,A184,Foothill Feeder,CAISO,2,1,7.1,9.0,True,True,6645::1,6645::2,reporting allocation only; no individual CT capacity inferred
+2024,10485.0,H001,"RG Steel Sparrows Point, LLC",,4,3,152.3,120.0,True,True,10485::GEN1,10485::GEN2;10485::GEN3;10485::GEN4,reporting allocation only; no individual CT capacity inferred
+2024,10725.0,F802,Selkirk Cogen,NYISO,4,2,349.20000000000005,434.0,False,True,10725::GEN1;10725::GEN3,10725::GEN4;10725::GEN5,reporting allocation only; no individual CT capacity inferred
+2024,10751.0,CC1,Camden Plant Holding LLC,PJM,2,1,145.0,172.9,True,True,10751::GEN1,10751::GEN2,reporting allocation only; no individual CT capacity inferred
+2024,50308.0,F401,Utility Plants Section,,5,1,22.099999999999998,22.5,False,False,50308::GEN1;50308::GEN3;50308::GEN4;50308::GEN5,50308::GEN2,reporting allocation only; no individual CT capacity inferred
+2024,50450.0,CC1,Indeck Oswego Energy Center,NYISO,2,1,51.8,57.400000000000006,True,True,50450::GEN1,50450::GEN2,reporting allocation only; no individual CT capacity inferred
+2024,50451.0,CC1,Indeck Yerkes Energy Center,NYISO,2,1,43.8,59.900000000000006,True,True,50451::GEN1,50451::GEN2,reporting allocation only; no individual CT capacity inferred
+2024,50497.0,CC1,Bayonne Plant Holding LLC,PJM,4,3,163.0,191.6,True,True,50497::GTG1,50497::GTG2;50497::GTG3;50497::STG1,reporting allocation only; no individual CT capacity inferred
+2024,50498.0,CC1,Capitol District Energy Center,ISO-NE,2,1,52.4,70.5,True,True,50498::GTG,50498::STG,reporting allocation only; no individual CT capacity inferred
+2024,50558.0,CC01,Frontier,SPP,2,1,126.0,131.4,True,True,50558::ST01,50558::GT01,reporting allocation only; no individual CT capacity inferred
+2024,50707.0,J272,JM Shafer Generating Station,,7,6,272.0,396.9,True,True,50707::LMA,50707::LMB;50707::LMC;50707::LMD;50707::LME;50707::STA;50707::STB,reporting allocation only; no individual CT capacity inferred
+2024,52026.0,CC1,Dartmouth Power Associates LP,ISO-NE,2,1,62.1,74.1,True,True,52026::GEN1,52026::GEN2,reporting allocation only; no individual CT capacity inferred
+2024,54693.0,CC1,York Generation Company LLC,PJM,6,5,46.2,52.2,True,True,54693::GT#1,54693::GT#2;54693::GT#5;54693::GT#6;54693::ST#1;54693::ST#2,reporting allocation only; no individual CT capacity inferred
+2024,54832.0,F701,Brandywine Power Facility,PJM,3,2,230.0,288.8,True,True,54832::3,54832::1;54832::2,reporting allocation only; no individual CT capacity inferred
+2024,55218.0,PB01,Hinds Energy Facility,MISO,3,2,452.1,551.3,True,True,55218::H03,55218::H01;55218::H02,reporting allocation only; no individual CT capacity inferred
+2024,55220.0,PB01,Attala,MISO,3,2,455.4,551.3,True,True,55220::A03,55220::A01;55220::A02,reporting allocation only; no individual CT capacity inferred
+2024,55380.0,BL01,Union Power Station,MISO,3,2,506.0,607.0,True,True,55380::STG1,55380::CTG1;55380::CTG2,reporting allocation only; no individual CT capacity inferred
+2024,55380.0,BL02,Union Power Station,MISO,3,2,504.0,607.0,True,True,55380::STG2,55380::CTG3;55380::CTG4,reporting allocation only; no individual CT capacity inferred
+2024,55380.0,BL03,Union Power Station,MISO,3,2,511.0,607.0,True,True,55380::STG3,55380::CTG5;55380::CTG6,reporting allocation only; no individual CT capacity inferred
+2024,55380.0,BL04,Union Power Station,MISO,3,2,510.0,607.0,True,True,55380::STG4,55380::CTG7;55380::CTG8,reporting allocation only; no individual CT capacity inferred
+2024,55418.0,PB01,Hot Spring Generating Facility,MISO,3,2,562.7,714.8,True,True,55418::ST1,55418::CT1;55418::CT2,reporting allocation only; no individual CT capacity inferred
+2024,55463.0,G112,Redbud Power Plant,SPP,2,1,307.0,358.4,True,True,55463::ST01,55463::CT01,reporting allocation only; no individual CT capacity inferred
+2024,55463.0,G113,Redbud Power Plant,SPP,2,1,300.9,358.4,True,True,55463::ST02,55463::CT02,reporting allocation only; no individual CT capacity inferred
+2024,55463.0,G114,Redbud Power Plant,SPP,2,1,301.0,358.4,True,True,55463::ST03,55463::CT03,reporting allocation only; no individual CT capacity inferred
+2024,55463.0,G115,Redbud Power Plant,SPP,2,1,300.0,358.4,True,True,55463::ST04,55463::CT04,reporting allocation only; no individual CT capacity inferred
+2024,55467.0,PB01,Ouachita,MISO,2,1,236.1,301.3,True,True,55467::STG1,55467::CTG1,reporting allocation only; no individual CT capacity inferred
+2024,55467.0,PB02,Ouachita,MISO,2,1,245.0,301.3,True,True,55467::STG2,55467::CTG2,reporting allocation only; no individual CT capacity inferred
+2024,55467.0,PB03,Ouachita,MISO,2,1,242.6,301.3,True,True,55467::STG3,55467::CTG3,reporting allocation only; no individual CT capacity inferred
+2024,55620.0,PB01,Perryville Power Station,MISO,3,2,576.8,637.9,True,True,55620::ST-1,55620::CT-1;55620::CT-2,reporting allocation only; no individual CT capacity inferred
+2024,57037.0,0001,Ratcliffe,,3,2,661.7,840.0,True,True,57037::1A,57037::1B;57037::1C,reporting allocation only; no individual CT capacity inferred
+2024,60302.0,CC1,Keys Energy Center,PJM,3,2,763.0,830.6,True,True,60302::10,60302::11;60302::12,reporting allocation only; no individual CT capacity inferred
+2024,60903.0,0001,Salem Harbor Power Development LP,ISO-NE,2,1,337.8,399.1,True,True,60903::1,60903::3,reporting allocation only; no individual CT capacity inferred
+2024,60903.0,0002,Salem Harbor Power Development LP,ISO-NE,2,1,337.2,399.1,True,True,60903::2,60903::4,reporting allocation only; no individual CT capacity inferred
+2025,613.0,C791,Lauderdale,,3,2,442.0,521.2,True,True,613::ST4,613::4GT1;613::4GT2,reporting allocation only; no individual CT capacity inferred
+2025,613.0,C792,Lauderdale,,3,2,442.0,521.2,True,True,613::ST5,613::5GT1;613::5GT2,reporting allocation only; no individual CT capacity inferred
+2025,643.0,G180,Lansing Smith,,3,2,660.0,619.7,True,True,643::3S,643::3A;643::3B,reporting allocation only; no individual CT capacity inferred
+2025,981.0,G361,State Line Energy,,2,1,124.9,224.9,False,True,981::3,981::3A,reporting allocation only; no individual CT capacity inferred
+2025,981.0,G362,State Line Energy,,2,1,209.4,388.9,False,True,981::4,981::4A,reporting allocation only; no individual CT capacity inferred
+2025,1004.0,0001,Edwardsport,MISO,3,2,555.0,812.7,True,True,1004::ST,1004::CT1;1004::CT2,reporting allocation only; no individual CT capacity inferred
+2025,2190.0,A031,Milltown,,5,4,2.6,3.0,True,True,2190::1,2190::2;2190::3;2190::4;2190::5,reporting allocation only; no individual CT capacity inferred
+2025,4053.0,B059,Kilbourn,MISO,4,3,9.5,9.7,True,True,4053::2,4053::HC1;4053::HC5;4053::HC6,reporting allocation only; no individual CT capacity inferred
+2025,4056.0,B061,Prairie Du Sac,MISO,8,7,29.0,33.4,True,True,4056::1,4056::2;4056::3;4056::4;4056::5;4056::6;4056::7;4056::8,reporting allocation only; no individual CT capacity inferred
+2025,6073.0,0003,Victor J Daniel Jr,,3,2,563.0,566.2,True,True,6073::3,6073::3CT;6073::3ST,reporting allocation only; no individual CT capacity inferred
+2025,6073.0,0004,Victor J Daniel Jr,,3,2,585.6,566.2,True,True,6073::4,6073::4CT;6073::4ST,reporting allocation only; no individual CT capacity inferred
+2025,6246.0,C782,Putnam,,3,2,249.0,290.0,True,True,6246::1ST,6246::1GT1;6246::1GT2,reporting allocation only; no individual CT capacity inferred
+2025,6246.0,C783,Putnam,,3,2,249.0,290.0,True,True,6246::2ST,6246::2GT1;6246::2GT2,reporting allocation only; no individual CT capacity inferred
+2025,6645.0,A184,Foothill Feeder,CAISO,2,1,7.1,9.0,True,True,6645::1,6645::2,reporting allocation only; no individual CT capacity inferred
+2025,10485.0,H001,"RG Steel Sparrows Point, LLC",,4,3,152.3,120.0,True,True,10485::GEN1,10485::GEN2;10485::GEN3;10485::GEN4,reporting allocation only; no individual CT capacity inferred
+2025,10725.0,F802,Selkirk Cogen,NYISO,4,2,353.29999999999995,434.0,False,True,10725::GEN1;10725::GEN3,10725::GEN4;10725::GEN5,reporting allocation only; no individual CT capacity inferred
+2025,10751.0,CC1,Camden Plant Holding LLC,PJM,2,1,145.0,172.9,True,True,10751::GEN1,10751::GEN2,reporting allocation only; no individual CT capacity inferred
+2025,50308.0,F401,Utility Plants Section,,5,1,22.099999999999998,22.5,False,False,50308::GEN1;50308::GEN3;50308::GEN4;50308::GEN5,50308::GEN2,reporting allocation only; no individual CT capacity inferred
+2025,50450.0,CC1,Indeck Oswego Energy Center,NYISO,2,1,51.9,57.400000000000006,True,True,50450::GEN1,50450::GEN2,reporting allocation only; no individual CT capacity inferred
+2025,50451.0,CC1,Indeck Yerkes Energy Center,NYISO,2,1,43.1,59.900000000000006,True,True,50451::GEN1,50451::GEN2,reporting allocation only; no individual CT capacity inferred
+2025,50497.0,CC1,Bayonne Plant Holding LLC,PJM,4,3,163.0,191.6,True,True,50497::GTG1,50497::GTG2;50497::GTG3;50497::STG1,reporting allocation only; no individual CT capacity inferred
+2025,50498.0,CC1,Capitol District Energy Center,ISO-NE,2,1,52.4,70.5,True,True,50498::GTG,50498::STG,reporting allocation only; no individual CT capacity inferred
+2025,50558.0,CC01,Frontier,SPP,2,1,126.0,131.4,True,True,50558::ST01,50558::GT01,reporting allocation only; no individual CT capacity inferred
+2025,50707.0,J272,JM Shafer Generating Station,,7,6,272.0,396.9,True,True,50707::LMA,50707::LMB;50707::LMC;50707::LMD;50707::LME;50707::STA;50707::STB,reporting allocation only; no individual CT capacity inferred
+2025,52026.0,CC1,Dartmouth Power Associates LP,ISO-NE,2,1,62.1,74.1,True,True,52026::GEN1,52026::GEN2,reporting allocation only; no individual CT capacity inferred
+2025,54693.0,CC1,York Generation Company LLC,PJM,6,5,46.2,52.2,True,True,54693::GT#1,54693::GT#2;54693::GT#5;54693::GT#6;54693::ST#1;54693::ST#2,reporting allocation only; no individual CT capacity inferred
+2025,54832.0,F701,Brandywine Power Facility,PJM,3,2,230.0,288.8,True,True,54832::3,54832::1;54832::2,reporting allocation only; no individual CT capacity inferred
+2025,55218.0,PB01,Hinds Energy Facility,MISO,3,2,445.5,551.3,True,True,55218::H03,55218::H01;55218::H02,reporting allocation only; no individual CT capacity inferred
+2025,55220.0,PB01,Attala,MISO,3,2,459.3,551.3,True,True,55220::A03,55220::A01;55220::A02,reporting allocation only; no individual CT capacity inferred
+2025,55380.0,BL01,Union Power Station,MISO,3,2,505.0,607.0,True,True,55380::STG1,55380::CTG1;55380::CTG2,reporting allocation only; no individual CT capacity inferred
+2025,55380.0,BL02,Union Power Station,MISO,3,2,507.0,607.0,True,True,55380::STG2,55380::CTG3;55380::CTG4,reporting allocation only; no individual CT capacity inferred
+2025,55380.0,BL03,Union Power Station,MISO,3,2,512.0,607.0,True,True,55380::STG3,55380::CTG5;55380::CTG6,reporting allocation only; no individual CT capacity inferred
+2025,55380.0,BL04,Union Power Station,MISO,3,2,513.0,607.0,True,True,55380::STG4,55380::CTG7;55380::CTG8,reporting allocation only; no individual CT capacity inferred
+2025,55418.0,PB01,Hot Spring Generating Facility,MISO,3,2,562.7,714.8,True,True,55418::ST1,55418::CT1;55418::CT2,reporting allocation only; no individual CT capacity inferred
+2025,55463.0,G112,Redbud Power Plant,SPP,2,1,307.0,358.4,True,True,55463::ST01,55463::CT01,reporting allocation only; no individual CT capacity inferred
+2025,55463.0,G113,Redbud Power Plant,SPP,2,1,301.0,358.4,True,True,55463::ST02,55463::CT02,reporting allocation only; no individual CT capacity inferred
+2025,55463.0,G114,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST03,55463::CT03,reporting allocation only; no individual CT capacity inferred
+2025,55463.0,G115,Redbud Power Plant,SPP,2,1,304.0,358.4,True,True,55463::ST04,55463::CT04,reporting allocation only; no individual CT capacity inferred
+2025,55467.0,PB01,Ouachita,MISO,2,1,234.6,301.3,True,True,55467::STG1,55467::CTG1,reporting allocation only; no individual CT capacity inferred
+2025,55467.0,PB02,Ouachita,MISO,2,1,242.4,301.3,True,True,55467::STG2,55467::CTG2,reporting allocation only; no individual CT capacity inferred
+2025,55467.0,PB03,Ouachita,MISO,2,1,245.0,301.3,True,True,55467::STG3,55467::CTG3,reporting allocation only; no individual CT capacity inferred
+2025,55620.0,PB01,Perryville Power Station,MISO,3,2,577.0,637.9,True,True,55620::ST-1,55620::CT-1;55620::CT-2,reporting allocation only; no individual CT capacity inferred
+2025,56196.0,CC1,Zeltmann,NYISO,3,1,476.0,528.0,False,True,56196::CT01;56196::CT02,56196::CA01,reporting allocation only; no individual CT capacity inferred
+2025,57037.0,0001,Ratcliffe,,3,2,704.0,840.0,True,True,57037::1A,57037::1B;57037::1C,reporting allocation only; no individual CT capacity inferred
+2025,60302.0,CC1,Keys Energy Center,PJM,3,2,763.0,830.6,True,True,60302::10,60302::11;60302::12,reporting allocation only; no individual CT capacity inferred
+2025,60903.0,0001,Salem Harbor Power Development LP,ISO-NE,2,1,337.8,399.1,True,True,60903::1,60903::3,reporting allocation only; no individual CT capacity inferred
+2025,60903.0,0002,Salem Harbor Power Development LP,ISO-NE,2,1,337.2,399.1,True,True,60903::2,60903::4,reporting allocation only; no individual CT capacity inferred
+2026,613.0,C791,Lauderdale,,3,2,442.0,521.2,True,True,613::ST4,613::4GT1;613::4GT2,reporting allocation only; no individual CT capacity inferred
+2026,613.0,C792,Lauderdale,,3,2,442.0,521.2,True,True,613::ST5,613::5GT1;613::5GT2,reporting allocation only; no individual CT capacity inferred
+2026,643.0,G180,Lansing Smith,,3,2,660.0,619.7,True,True,643::3S,643::3A;643::3B,reporting allocation only; no individual CT capacity inferred
+2026,981.0,G361,State Line Energy,,2,1,124.9,224.9,False,True,981::3,981::3A,reporting allocation only; no individual CT capacity inferred
+2026,981.0,G362,State Line Energy,,2,1,209.4,388.9,False,True,981::4,981::4A,reporting allocation only; no individual CT capacity inferred
+2026,1004.0,0001,Edwardsport,MISO,3,2,555.0,812.7,True,True,1004::ST,1004::CT1;1004::CT2,reporting allocation only; no individual CT capacity inferred
+2026,2190.0,A031,Milltown,,5,4,2.6,3.0,True,True,2190::1,2190::2;2190::3;2190::4;2190::5,reporting allocation only; no individual CT capacity inferred
+2026,4053.0,B059,Kilbourn,MISO,4,3,9.5,9.7,True,True,4053::2,4053::HC1;4053::HC5;4053::HC6,reporting allocation only; no individual CT capacity inferred
+2026,4056.0,B061,Prairie Du Sac,MISO,8,7,29.0,33.4,True,True,4056::1,4056::2;4056::3;4056::4;4056::5;4056::6;4056::7;4056::8,reporting allocation only; no individual CT capacity inferred
+2026,6073.0,0003,Victor J Daniel Jr,,3,2,570.0,566.2,True,True,6073::3,6073::3CT;6073::3ST,reporting allocation only; no individual CT capacity inferred
+2026,6073.0,0004,Victor J Daniel Jr,,3,2,573.0,566.2,True,True,6073::4,6073::4CT;6073::4ST,reporting allocation only; no individual CT capacity inferred
+2026,6246.0,C782,Putnam,,3,2,249.0,290.0,True,True,6246::1ST,6246::1GT1;6246::1GT2,reporting allocation only; no individual CT capacity inferred
+2026,6246.0,C783,Putnam,,3,2,249.0,290.0,True,True,6246::2ST,6246::2GT1;6246::2GT2,reporting allocation only; no individual CT capacity inferred
+2026,6645.0,A184,Foothill Feeder,CAISO,2,1,7.1,9.0,True,True,6645::1,6645::2,reporting allocation only; no individual CT capacity inferred
+2026,10485.0,H001,"RG Steel Sparrows Point, LLC",,4,3,152.3,120.0,True,True,10485::GEN1,10485::GEN2;10485::GEN3;10485::GEN4,reporting allocation only; no individual CT capacity inferred
+2026,10725.0,F802,Selkirk Cogen,NYISO,4,2,353.0,434.0,False,True,10725::GEN1;10725::GEN3,10725::GEN4;10725::GEN5,reporting allocation only; no individual CT capacity inferred
+2026,10751.0,CC1,Camden Plant Holding LLC,PJM,2,1,145.0,172.9,True,True,10751::GEN1,10751::GEN2,reporting allocation only; no individual CT capacity inferred
+2026,50308.0,F401,FWA Central Heat and Power Plant,,5,1,18.5,22.5,False,False,50308::GEN1;50308::GEN3;50308::GEN4;50308::GEN5,50308::GEN2,reporting allocation only; no individual CT capacity inferred
+2026,50450.0,CC1,Indeck Oswego Energy Center,NYISO,2,1,51.6,57.400000000000006,True,True,50450::GEN1,50450::GEN2,reporting allocation only; no individual CT capacity inferred
+2026,50451.0,CC1,Indeck Yerkes Energy Center,NYISO,2,1,46.5,59.900000000000006,True,True,50451::GEN1,50451::GEN2,reporting allocation only; no individual CT capacity inferred
+2026,50497.0,CC1,Bayonne Plant Holding LLC,PJM,4,3,163.0,191.6,True,True,50497::GTG1,50497::GTG2;50497::GTG3;50497::STG1,reporting allocation only; no individual CT capacity inferred
+2026,50498.0,CC1,Capitol District Energy Center,ISO-NE,2,1,52.4,70.5,True,True,50498::GTG,50498::STG,reporting allocation only; no individual CT capacity inferred
+2026,50558.0,CC01,Frontier,SPP,2,1,126.0,131.4,True,True,50558::ST01,50558::GT01,reporting allocation only; no individual CT capacity inferred
+2026,50707.0,J272,JM Shafer Generating Station,,7,6,272.0,396.9,True,True,50707::LMA,50707::LMB;50707::LMC;50707::LMD;50707::LME;50707::STA;50707::STB,reporting allocation only; no individual CT capacity inferred
+2026,52026.0,CC1,Dartmouth Power Associates LP,ISO-NE,2,1,62.1,74.1,True,True,52026::GEN1,52026::GEN2,reporting allocation only; no individual CT capacity inferred
+2026,54693.0,CC1,York Generation Company LLC,PJM,6,5,46.2,52.2,True,True,54693::GT#1,54693::GT#2;54693::GT#5;54693::GT#6;54693::ST#1;54693::ST#2,reporting allocation only; no individual CT capacity inferred
+2026,54832.0,F701,Brandywine Power Facility,PJM,3,2,230.0,288.8,True,True,54832::3,54832::1;54832::2,reporting allocation only; no individual CT capacity inferred
+2026,55218.0,PB01,Hinds Energy Facility,MISO,3,2,457.7,551.3,True,True,55218::H03,55218::H01;55218::H02,reporting allocation only; no individual CT capacity inferred
+2026,55220.0,PB01,Attala,MISO,3,2,458.7,551.3,True,True,55220::A03,55220::A01;55220::A02,reporting allocation only; no individual CT capacity inferred
+2026,55380.0,BL01,Union Power Station,MISO,3,2,512.4,607.0,True,True,55380::STG1,55380::CTG1;55380::CTG2,reporting allocation only; no individual CT capacity inferred
+2026,55380.0,BL02,Union Power Station,MISO,3,2,508.7,607.0,True,True,55380::STG2,55380::CTG3;55380::CTG4,reporting allocation only; no individual CT capacity inferred
+2026,55380.0,BL03,Union Power Station,MISO,3,2,513.6,607.0,True,True,55380::STG3,55380::CTG5;55380::CTG6,reporting allocation only; no individual CT capacity inferred
+2026,55380.0,BL04,Union Power Station,MISO,3,2,513.9,607.0,True,True,55380::STG4,55380::CTG7;55380::CTG8,reporting allocation only; no individual CT capacity inferred
+2026,55418.0,PB01,Hot Spring Generating Facility,MISO,3,2,559.2,714.8,True,True,55418::ST1,55418::CT1;55418::CT2,reporting allocation only; no individual CT capacity inferred
+2026,55463.0,G112,Redbud Power Plant,SPP,2,1,307.0,358.4,True,True,55463::ST01,55463::CT01,reporting allocation only; no individual CT capacity inferred
+2026,55463.0,G113,Redbud Power Plant,SPP,2,1,301.0,358.4,True,True,55463::ST02,55463::CT02,reporting allocation only; no individual CT capacity inferred
+2026,55463.0,G114,Redbud Power Plant,SPP,2,1,302.0,358.4,True,True,55463::ST03,55463::CT03,reporting allocation only; no individual CT capacity inferred
+2026,55463.0,G115,Redbud Power Plant,SPP,2,1,304.0,358.4,True,True,55463::ST04,55463::CT04,reporting allocation only; no individual CT capacity inferred
+2026,55467.0,PB01,Ouachita,MISO,2,1,234.0,301.3,True,True,55467::STG1,55467::CTG1,reporting allocation only; no individual CT capacity inferred
+2026,55467.0,PB02,Ouachita,MISO,2,1,242.1,301.3,True,True,55467::STG2,55467::CTG2,reporting allocation only; no individual CT capacity inferred
+2026,55467.0,PB03,Ouachita,MISO,2,1,243.2,301.3,True,True,55467::STG3,55467::CTG3,reporting allocation only; no individual CT capacity inferred
+2026,55620.0,PB01,Perryville Power Station,MISO,3,2,574.8,637.9,True,True,55620::ST-1,55620::CT-1;55620::CT-2,reporting allocation only; no individual CT capacity inferred
+2026,56196.0,CC1,Zeltmann,NYISO,3,1,474.0,528.0,False,True,56196::CT01;56196::CT02,56196::CA01,reporting allocation only; no individual CT capacity inferred
+2026,57037.0,0001,Ratcliffe,,3,2,704.0,840.0,True,True,57037::1A,57037::1B;57037::1C,reporting allocation only; no individual CT capacity inferred
+2026,60302.0,CC1,Key,PJM,3,2,766.1,830.6,True,True,60302::10,60302::11;60302::12,reporting allocation only; no individual CT capacity inferred
+2026,60903.0,0001,Salem Harbor Power Development LP,ISO-NE,2,1,337.8,399.1,True,True,60903::1,60903::3,reporting allocation only; no individual CT capacity inferred
+2026,60903.0,0002,Salem Harbor Power Development LP,ISO-NE,2,1,337.2,399.1,True,True,60903::2,60903::4,reporting allocation only; no individual CT capacity inferred

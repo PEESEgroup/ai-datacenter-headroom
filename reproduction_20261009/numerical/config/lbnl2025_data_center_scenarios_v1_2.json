@@ -1,0 +1,259 @@
+{
+  "protocol_id": "lbnl2025_data_center_scenario_update_v1_2",
+  "frozen_on": "2026-09-30",
+  "analysis_horizon": {
+    "source_first_year": 2024,
+    "source_last_year": 2030,
+    "planning_first_year": 2026,
+    "planning_last_year": 2035
+  },
+  "modeled_load_category": "data-center load scenario",
+  "national_energy_scenarios": [
+    {
+      "id": "lbnl_compounded_lower",
+      "display_label": "LBNL compounded lower data-center load scenario",
+      "role": "lower boundary of the LBNL compounded uncertainty range"
+    },
+    {
+      "id": "lbnl_reference",
+      "display_label": "LBNL reference data-center load scenario",
+      "role": "LBNL Reference Case"
+    },
+    {
+      "id": "lbnl_compounded_upper",
+      "display_label": "LBNL compounded upper data-center load scenario",
+      "role": "upper boundary of the LBNL compounded uncertainty range"
+    }
+  ],
+  "post_2030_extensions": [
+    {
+      "id": "hold_2030_level",
+      "growth_rate_multiplier": 0.0,
+      "role": "structural lower continuation in which national energy use remains at its 2030 level"
+    },
+    {
+      "id": "epri_quarter_rate_taper",
+      "growth_rate_multiplier": 0.25,
+      "role": "cross-source taper-rule continuation applying EPRI's factor-of-four rule to each LBNL path without transferring EPRI load levels"
+    },
+    {
+      "id": "slower_half_rate_taper_stress",
+      "growth_rate_multiplier": 0.5,
+      "role": "author-defined slower-taper stress using one-half of the 2025-2030 compound annual growth rate"
+    }
+  ],
+  "peak_mapping_cases": [
+    {
+      "id": "low_coincidence",
+      "source_shape": "low",
+      "role": "March complete-shape template, normalized at fixed annual energy"
+    },
+    {
+      "id": "reference_coincidence",
+      "source_shape": "avg",
+      "role": "average complete-shape template, normalized at fixed annual energy"
+    },
+    {
+      "id": "high_coincidence",
+      "source_shape": "high",
+      "role": "October complete-shape template, normalized at fixed annual energy"
+    }
+  ],
+  "overlap_cases": [
+    {
+      "id": "fully_embedded",
+      "assumed_embedded_share": 1.0,
+      "additional_share": 0.0
+    },
+    {
+      "id": "half_embedded_diagnostic",
+      "assumed_embedded_share": 0.5,
+      "additional_share": 0.5
+    },
+    {
+      "id": "fully_additional",
+      "assumed_embedded_share": 0.0,
+      "additional_share": 1.0
+    }
+  ],
+  "analyzed_footprint_capture_cases": [
+    {
+      "id": "core_active_reported_mw_share",
+      "capture_share": 0.729171064925618,
+      "role": "share of core-active reported project MW located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy"
+    },
+    {
+      "id": "broad_active_reported_mw_share",
+      "capture_share": 0.741814185003457,
+      "role": "share of broad-active reported project MW located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy"
+    },
+    {
+      "id": "core_active_site_count_share",
+      "capture_share": 0.7878128400435256,
+      "role": "share of core-active project records located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy"
+    },
+    {
+      "id": "full_national_assignment_upper_stress",
+      "capture_share": 1.0,
+      "role": "upper stress assigning the full national increment to the seven-region siting footprint"
+    }
+  ],
+  "reported_footprint_case": "core_active_reported_mw_share",
+  "manuscript_display": {
+    "national_energy_scenario": "lbnl_reference",
+    "post_2030_extension": "epri_quarter_rate_taper",
+    "footprint_capture_case": "core_active_reported_mw_share",
+    "peak_mapping_case": "reference_coincidence",
+    "overlap_cases": [
+      "fully_embedded",
+      "half_embedded_diagnostic",
+      "fully_additional"
+    ],
+    "resource_response_pairs": [
+      {
+        "id": "anticipated_published_response",
+        "resource_condition": "anticipated",
+        "response_condition": "published_all",
+        "role": "source-published anticipated-resource and response condition"
+      },
+      {
+        "id": "anticipated_current_response",
+        "resource_condition": "anticipated",
+        "response_condition": "current_only",
+        "role": "anticipated resources with current-response condition"
+      },
+      {
+        "id": "prospective_published_response",
+        "resource_condition": "prospective",
+        "response_condition": "published_all",
+        "role": "source-published prospective-resource and response condition"
+      },
+      {
+        "id": "two_year_supply_delay_published_response",
+        "resource_condition": "anticipated_positive_net_additions_delayed_2y",
+        "response_condition": "published_all",
+        "role": "two-year positive-net-addition timing stress with published response"
+      },
+      {
+        "id": "joint_two_year_delay_current_response",
+        "resource_condition": "anticipated_positive_net_additions_delayed_2y",
+        "response_condition": "current_only",
+        "role": "joint two-year supply-timing and current-response stress"
+      }
+    ],
+    "interpretation": "an illustrative named-scenario family for main-text display; it is not a central, most-likely or probabilistic forecast"
+  },
+  "spatial_allocation": {
+    "cube_case": "central_reported_mid",
+    "cube_case_display_label": "reported-MW reference allocation",
+    "legacy_id_notice": "central_reported_mid is a frozen internal identifier and must not be described as a central forecast in the manuscript",
+    "sensitivity_cases": [
+      "central_reported_low",
+      "central_reported_mid",
+      "central_reported_high",
+      "central_reported_plus_size_proxy_sensitivity",
+      "central_site_count",
+      "broad_reported_mid",
+      "broad_site_count",
+      "high_evidence_reported_mid"
+    ],
+    "interpretation": "announced-project evidence supplies conditional location weights only; national scenario totals are imposed before allocation; regional robustness labels require the pre-specified fixed-total allocation envelope rather than the display allocation alone"
+  },
+  "scientific_claim_freeze": {
+    "attribution_hierarchy": [
+      {
+        "regions": [
+          "MISO",
+          "ERCOT"
+        ],
+        "primary_result": "source-path removal/replacement with a linked-response ladder",
+        "generic_cube_role": "secondary additional-load consistency stress"
+      },
+      {
+        "regions": [
+          "PJM"
+        ],
+        "primary_result": "strict-floor partial-identification diagnostic",
+        "generic_cube_role": "additional-load stress outside the official demand path"
+      },
+      {
+        "regions": [
+          "SPP",
+          "NYISO",
+          "ISO-NE"
+        ],
+        "primary_result": "named additional data-center load stress outside the official demand path",
+        "generic_cube_role": "conditional stress analysis without complete source-path replacement or point attribution"
+      },
+      {
+        "regions": [
+          "WECC-California"
+        ],
+        "primary_result": "native source-path planning balance",
+        "generic_cube_role": "additional-load stress with geographic proxy and explicitly transferred peak-shape scenarios; not DC attribution"
+      }
+    ],
+    "linked_response_rule": "Do not select a single central association. Report feasible endpoints and the 0, 0.5 and 1 linked-share ladder where applicable, using the same linked-object rule in retained and removed pathway worlds.",
+    "peak_mapping_role": "traceable load-shape scenario family based on the submission-vintage CEC data-center hourly shape and regional peak windows; not seven-region empirical validation",
+    "core_envelope": {
+      "national_paths": [
+        "lbnl_compounded_lower",
+        "lbnl_reference",
+        "lbnl_compounded_upper"
+      ],
+      "post_2030_extensions": [
+        "hold_2030_level",
+        "epri_quarter_rate_taper",
+        "slower_half_rate_taper_stress"
+      ],
+      "footprint_capture_cases": [
+        "core_active_reported_mw_share",
+        "broad_active_reported_mw_share",
+        "core_active_site_count_share"
+      ],
+      "peak_mapping_cases": [
+        "low_coincidence",
+        "reference_coincidence",
+        "high_coincidence"
+      ],
+      "spatial_allocation_cases": "all eight pre-specified fixed-total allocation cases",
+      "resource_response_conditions": "all source-published anticipated/prospective and current/published-response comparisons",
+      "source_replacement_rule": "use source-path replacement wherever identified"
+    },
+    "upper_stress_cases": [
+      "full_national_assignment_upper_stress",
+      "fully_additional",
+      "joint positive-net-addition delay and current-response stress"
+    ],
+    "robust_label_rule": "Use robust only when the reported direction or mechanism is preserved across the applicable core envelope. Report upper-stress results separately and never use them to establish robustness.",
+    "prohibited_inference": "A count across the illustrative 15 trajectories is not a test of robustness to lower or replacement data-center paths."
+  },
+  "matched_planning_regions": [
+    "PJM",
+    "MISO",
+    "SPP",
+    "ERCOT",
+    "NYISO",
+    "ISO-NE",
+    "WECC-California"
+  ],
+  "footprint_exclusion": {
+    "none": true,
+    "spatial_match_is_exact_NERC_GIS": false,
+    "California_basis": "NERC-listed-component HIFLD geographic proxy"
+  },
+  "interpretation_boundaries": [
+    "All load paths are named scenarios; none is labelled a central or probabilistic forecast.",
+    "LBNL reports annual energy. Energy-to-average-power conversion is arithmetic, while peak-equivalent planning load is a separately audited mapping.",
+    "The LBNL 50 percent utilization illustration for interconnection capacity is not used as a planning-peak conversion.",
+    "Values after 2030 are explicit continuation scenarios and are not attributed to LBNL.",
+    "Generic national paths are not automatically additional to official regional demand forecasts; embedded-load overlap is retained as a full envelope.",
+    "The national increment is not automatically assigned in full to the seven-region siting footprint; footprint capture is an explicit evidence-based sensitivity.",
+    "MISO and ERCOT source-identified load-path replacement with linked-response bounds governs attribution for those regions.",
+    "PJM is limited to strict-floor partial identification; SPP, NYISO and ISO-NE generic rows are additional-load stresses rather than complete source-path replacements.",
+    "The peak-equivalent mapping is a traceable load-shape scenario family, not seven-region empirical validation.",
+    "Robust regional labels require stability across the applicable core envelope; upper stresses are reported separately.",
+    "A negative balance means resources fall below the region-native reference requirement under the stated scenario, not that outages are predicted.",
+    "Region-native GW balances are not summed across planning regions."
+  ]
+}

@@ -1,0 +1,11 @@
+check,passed,value
+exact_stock_flow_identity,True,3.54702933691442e-11
+probabilities_bounded,True,438411.0
+no_future_training_target,True,1606.0
+no_same_origin_training,True,1606.0
+unknown_labels_remain_nan,True,1584.0
+nonnegative_predictions,True,700.0
+fixed_all_case_count,True,700.0
+forecast_weight_max_year_is_origin,True,2020.0
+old_files_preserved,True,59.0
+shared_reporting_blanks_not_imputed,True,1284.0

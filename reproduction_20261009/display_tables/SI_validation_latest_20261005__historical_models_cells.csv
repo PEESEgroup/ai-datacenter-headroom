@@ -1,0 +1,9 @@
+Same-reference persistence,5.37,7.13,5.37,7.13
+Fully frozen persistence,5.38,6.99,5.38,6.99
+Uncalibrated source path,7.18,9.89,7.18,9.89
+Split-component calibration,5.65,7.63,6.10,8.30
+Historical-component drift,4.98,6.54,4.98,6.54
+Resource drift + calibrated demand/response,4.85,6.38,4.80,6.33
+Resource persistence + calibrated demand/response,5.56,7.51,5.47,7.37
+Source-level resource bridge,5.37,7.12,5.55,7.40
+Source-change resource bridge,5.55,6.95,5.32,6.94

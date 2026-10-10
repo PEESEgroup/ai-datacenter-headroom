@@ -1,0 +1,16 @@
+{
+  "version": "2026-10-05 independent-review data-integrity correction",
+  "rules_not_fitted_to_PV_performance": true,
+  "summer_gate": "2,928 hour-ending local June-September timestamps, unique, finite, positive and with zero gross outliers",
+  "gross_outlier": "more than 10 times the area's finite-positive summer median; 5 and 20 times archived as screen diagnostics",
+  "unresolved_anomaly_action": "invalidate the entire common year; do not clip, interpolate or replace with a forecast",
+  "primary_peak_years": [2025],
+  "SPP_2023_point": {"timestamp_utc":"2023-06-13T02:00:00Z","reported_MW":3621097,"credible_replacement_obtained":false},
+  "secondary_SPP_check": "exclude the point and rerank 2023 plus 2025 as an incomplete-season diagnostic only",
+  "scope_evidence": "purpose, other_info, facility_name, information_source and all eight saved source URL fields",
+  "use_classification": "affirmative purpose-only pure tags separated from narrative mixed/transition and uncertain references; no crypto MW fraction inferred",
+  "campus_selection": "each allocation rule resolves status, mapping and positive-weight eligibility before selecting the largest reported MW with source row tie-breaker",
+  "unknown_addresses": "placeholder or non-street addresses receive record-specific keys",
+  "output_load_fields": "reference_candidate_gross_path_GW is unchanged input; candidate_GW is the actual case-specific increment",
+  "native_annual_balance_and_historical_methods_changed": false
+}

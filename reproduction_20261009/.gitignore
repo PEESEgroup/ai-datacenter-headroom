@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+numerical/results/
+numerical/docs/
+support/physical_results/
+support/price/results/
+package_reproduction_verification.json
+alignment/*verification*.json
+alignment/baseline/reader_exports_pre_final_audit/
+numerical/seasonal_resource_ledger_20261004/*.csv
+numerical/decision_thresholds_20261004/results/
+support/inventory/[0-9][0-9]_*.csv
+/support/expected/inventory/01_full_inventory_ledger.csv
+/support/expected/inventory/04_target_active_cohorts.csv
+/support/expected/inventory/10_unit_predictions.csv

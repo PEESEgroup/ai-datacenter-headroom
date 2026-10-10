@@ -1,0 +1,8 @@
+field,unit,meaning
+reference_candidate_gross_path_GW,GW coincident scenario increment,Unmodified candidate input before this targeted case; not the load of the output scenario ID
+candidate_GW,GW coincident scenario increment,Actual case-specific candidate DC growth used in every balance and paired contribution
+background_GW,native GW planning contribution,Matched no-new-DC-growth balance under the stated source-component timing rule
+balance_GW,native GW planning contribution,background_GW minus pressure_GW
+pressure_GW,native GW planning contribution,(1 + reference_margin_level_pct/100) times candidate_GW
+added_requirement_GW,native GW planning contribution,Positive-part requirement difference between matched candidate and no-new-growth cases
+cushion_consumed_GW,native GW planning contribution,pressure_GW minus added_requirement_GW

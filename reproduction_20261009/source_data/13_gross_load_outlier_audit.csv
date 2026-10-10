@@ -1,0 +1,4 @@
+ISO,year,timestamp_utc,reported_demand_MW,median_multiple,automatic_replacement,main_season_excluded
+SPP,2023,2023-06-13 02:00:00+00:00,3621097.0,5.0,False,True
+SPP,2023,2023-06-13 02:00:00+00:00,3621097.0,10.0,False,True
+SPP,2023,2023-06-13 02:00:00+00:00,3621097.0,20.0,False,True

@@ -1,0 +1,6 @@
+planning region,GW,0.522,"[-0.520, 2.021]",6
+target year,GW,0.522,"[0.127, 0.863]",7
+planning region,pp,0.749,"[-0.401, 2.421]",6
+target year,pp,0.749,"[0.158, 1.290]",7
+Omit ERCOT scoring,GW,-0.163,Not a confidence interval,5 regions
+Omit ERCOT scoring,pp,-0.046,Not a confidence interval,5 regions

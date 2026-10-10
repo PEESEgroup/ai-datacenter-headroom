@@ -1,0 +1,18 @@
+Region,2030 TWh,Resource,Response,$B^S$,$P^{DC}$,$\Delta A^{DC}$
+Region,2030 TWh,Resource,Response,$B^S$,$P^{DC}$,$\Delta A^{DC}$
+ERCOT,390,A,Capped,-34.60,4.32,4.32
+ERCOT,390,A,Published,32.32,4.32,0.00
+MISO,390,A,Capped,2.03,2.96,0.00
+MISO,390,A,Published,2.03,2.96,0.00
+ERCOT,390,P,Capped,63.61,4.32,0.00
+ERCOT,390,P,Published,130.53,4.32,0.00
+MISO,390,P,Capped,15.55,2.96,0.00
+MISO,390,P,Published,15.55,2.96,0.00
+ERCOT,430,A,Capped,-35.81,5.53,5.53
+ERCOT,430,A,Published,31.11,5.53,0.00
+MISO,430,A,Capped,1.20,3.79,0.00
+MISO,430,A,Published,1.20,3.79,0.00
+ERCOT,430,P,Capped,62.40,5.53,0.00
+ERCOT,430,P,Published,129.32,5.53,0.00
+MISO,430,P,Capped,14.73,3.79,0.00
+MISO,430,P,Published,14.73,3.79,0.00

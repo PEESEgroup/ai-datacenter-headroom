@@ -1,5 +1,17 @@
 # Data availability and redistribution notes
 
+## Current revised analysis
+
+The 9 October 2026 package is [reproduction_20261009](reproduction_20261009/README.md).
+It provides the standardized inputs, scenario rules, model code, full-precision
+result generation and numerical data underlying the revised figures and tables.
+The supported runner does not require a separate private companion archive.
+Source attribution and provider terms are listed in
+[THIRD_PARTY_NOTICES.md](reproduction_20261009/THIRD_PARTY_NOTICES.md).
+The package does not include the author manuscript or Supplementary Information.
+
+## Earlier release
+
 This package prioritizes reproducibility while respecting third-party data restrictions.
 
 ## Included

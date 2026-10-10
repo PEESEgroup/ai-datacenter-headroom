@@ -1,0 +1,110 @@
+{
+  "results/118_fig2_source_annual_plotting.csv": {
+    "sha256": "f00d7a4da45f767d0f6622273be5da89049b201c06d94f4e50544155f5d0b32b",
+    "rows": 280
+  },
+  "ledgers/01_regional_native_ontology.csv": {
+    "sha256": "450d7415b70a9ebcbef1f459c32b24f254a3247c27515d13c0ba8318ec65bbf7",
+    "rows": 7
+  },
+  "results/04_nerc_region_audit_summary.csv": {
+    "sha256": "a3f6d252c3e49229cd24ae516a01d71df0cb6eed992175d69a5492fdcef21092",
+    "rows": 7
+  },
+  "results/101_lbnl2025_national_energy_paths.csv": {
+    "sha256": "6ece34207652c1eefd0334cb506cd04c5567afed14b2de4c7a683fb5be4bf02a",
+    "rows": 108
+  },
+  "results/124_fig1_spatial_allocation_plotting.csv": {
+    "sha256": "064ff4b31af84bb4b5644ee7790d34f8694f41048c9eeac69f9d6594a5568f54",
+    "rows": 48
+  },
+  "results/102_lbnl2025_peak_mapping_crosswalk.csv": {
+    "sha256": "b93249a4a273cb9646f6a2c4dfca82f7b79294342a464272596f5161c2625d3a",
+    "rows": 21
+  },
+  "results/112_core_total_system_trajectories.csv": {
+    "sha256": "02f6d9c6c6580c9b395a23bc7eebfc62225531787c90f3f88318afa4160d3227",
+    "rows": 28
+  },
+  "results/119_fig3_driver_decomposition_plotting.csv": {
+    "sha256": "93edc1587f266a6f6fbac59d2a8bd02a525f2357391b39fac7630fbae4e77f23",
+    "rows": 160
+  },
+  "results/104_annual_scenario_cube_v1_2.csv": {
+    "sha256": "c42190019481d4ade26dad1013b44c84a6b3478c07f0ad49b1ec6517f4b1609b",
+    "rows": 292650
+  },
+  "results/121_fig4_paired_contribution_display.csv": {
+    "sha256": "ce56c16d981aaa0d902e338898d430f5bc85ccc5bc6965a2d31c0d3f34690a83",
+    "rows": 240
+  },
+  "results/114_core_source_path_replacement_annual.csv": {
+    "sha256": "2034fcce1e09ec7600b3f7c06a33dc17602ea45db5ccec25cb9a829eba978eb3",
+    "rows": 155520
+  },
+  "results/123_fig4_pjm_floor_2035.csv": {
+    "sha256": "2024794c12f0ec472597d3d51d8980771e135e2a19b07a5bb87b2049f743f87f",
+    "rows": 4
+  },
+  "results/84_source_identified_dc_counterfactuals.csv": {
+    "sha256": "aea563b4420a713bc0fb0302828cd48d52eaaf945af96732bc0a046805c1c958",
+    "rows": 1050
+  },
+  "results/116_core_envelope_region_labels.csv": {
+    "sha256": "3e4b803ceb5fd04b59cf0fd2ff310719369128198bbb4ccafec9e4d95556855d",
+    "rows": 7
+  },
+  "results/113_core_partial_additional_trajectory_summary.csv": {
+    "sha256": "1942d90842f367af8e83d2db72fb9968c26b01cd402353cffb63f8644a2c48d8",
+    "rows": 15552
+  },
+  "figures/revision_main_story_fig5_20261003/plot_data/annual_intervention_requirements.csv": {
+    "sha256": "49a87d8c17633bfc64d6b4d3caa8f7caaab85f3104ec714be07cce39840161f2",
+    "rows": 280
+  },
+  "figures/revision_main_story_fig5_20261003/plot_data/displayed_pv_storage_cases.csv": {
+    "sha256": "62708e18511ac3037355b3d5b695f1e910e0fb3136d9416dab21d2d9b5fd025b",
+    "rows": 12
+  },
+  "figures/revision_main_story_fig5_20261003/plot_data/nuclear_baseline_checked_ledger.csv": {
+    "sha256": "1586d11352c781b5b912bf11b1c26103ecae2c7bcc0e068b2725a93b7773e082",
+    "rows": 5
+  },
+  "figures/revision_main_story_fig5_20261003/plot_data/gas_utilization_consequences_per_credited_GW.csv": {
+    "sha256": "1a7a70e4acc9661b6f050b787ca6b35221e0c7d739a470ef68c1f9c836d8cb49",
+    "rows": 1548
+  },
+  "ledgers/07_validation_registry.csv": {
+    "sha256": "0a3b75eb419b1f070cdb5658cbfd4dbec8fc20690e497965de7e974f46e5edec",
+    "rows": 9
+  },
+  "calibrated_reference_20261004/02_metrics.csv": {
+    "sha256": "c96c8909d361567913f21d1cf901511e8132019ea689eb1369dbb0be4014ce8e",
+    "rows": 570
+  },
+  "results/75_delivery_horizon_metrics.csv": {
+    "sha256": "cd67d303272fb40d17c848f2da2496c53ef8f8546f9d8665dd7d95e1afb423b5",
+    "rows": 3
+  },
+  "results/73_target_season_unknown_summary.csv": {
+    "sha256": "ce59a52862cbae20020d654cc4913fc77e5fac846abc5fbb83f33c3b50cc39f1",
+    "rows": 80
+  },
+  "figures/revision_main_story_fig5_20261003/plot_data/pv_storage_site_year_cases.csv": {
+    "sha256": "397f64b5b278eba4eb8f5702a7f4dfcd38959c48252d676a24cf648a34394a23",
+    "rows": 180
+  },
+  "results/117_core_envelope_acceptance_qa.csv": {
+    "sha256": "7f1ae1a5467a79a1f2c9833195bb575b0edf810fc38424893245076b67d1d332",
+    "rows": 22
+  },
+  "results/126_main_figure_plotting_qa.csv": {
+    "sha256": "14d1b3e8a183ca74e8877c25ebf8703ffb3e1971d8eefda20c839e171055fc4d",
+    "rows": 7
+  },
+  "figures/revision_main_story_fig5_20261003/plot_data/qa_checks.csv": {
+    "sha256": "4a95b23e832099ea9ae17c671a2e6c0f35b2a7476229927c42d82f53b96e8078",
+    "rows": 201
+  }
+}

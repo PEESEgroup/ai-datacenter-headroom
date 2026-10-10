@@ -1,0 +1,26 @@
+Region,Summer,Source,"Quality-valid/2,928 h",Passes gate
+Region,Summer,Source,"Quality-valid/2,928 h",Passes gate
+ERCOT,2023,Earlier extract,1775,No
+ERCOT,2024,Earlier extract,2928,Yes
+ERCOT,2025,Earlier extract,2928,Yes
+MISO,2023,Earlier extract,1776,No
+MISO,2024,Earlier extract,2928,Yes
+MISO,2025,Earlier extract,2928,Yes
+PJM,2023,Earlier extract,1753,No
+PJM,2024,Earlier extract,2928,Yes
+PJM,2025,Earlier extract,2928,Yes
+SPP,2023,Earlier extract,1536,No
+SPP,2024,Earlier extract,2928,Yes
+SPP,2025,Earlier extract,2928,Yes
+ERCOT,2023,EIA reported,2928,Yes
+ERCOT,2024,EIA reported,2928,Yes
+ERCOT,2025,EIA reported,2928,Yes
+MISO,2023,EIA reported,2928,Yes
+MISO,2024,EIA reported,2904,No
+MISO,2025,EIA reported,2928,Yes
+PJM,2023,EIA reported,2928,Yes
+PJM,2024,EIA reported,2928,Yes
+PJM,2025,EIA reported,2928,Yes
+SPP,2023,EIA reported,2927,No
+SPP,2024,EIA reported,2927,No
+SPP,2025,EIA reported,2928,Yes

@@ -1,0 +1,22 @@
+year,scenario_id,electricity_TWh,value_basis,source_location,digitization_uncertainty_TWh
+2024,lbnl_compounded_lower,192.0,reported historical value,p. 8 text and Figure 1,0.0
+2024,lbnl_reference,192.0,reported historical value,p. 8 text and Figure 1,0.0
+2024,lbnl_compounded_upper,192.0,reported historical value,p. 8 text and Figure 1,0.0
+2025,lbnl_compounded_lower,225.0,rounded figure digitization,Figure 1 lower boundary,5.0
+2025,lbnl_reference,234.24,derived from reported 22 percent annual increase,pp. 26-27 text,2.0
+2025,lbnl_compounded_upper,264.0,rounded figure digitization,Figure 1 upper boundary,5.0
+2026,lbnl_compounded_lower,276.0,rounded figure digitization,Figure 1 lower boundary,5.0
+2026,lbnl_reference,302.1696,derived from reported 29 percent annual increase,pp. 26-27 text,3.0
+2026,lbnl_compounded_upper,366.0,rounded figure digitization,Figure 1 upper boundary,5.0
+2027,lbnl_compounded_lower,333.0,rounded figure digitization,Figure 1 lower boundary,5.0
+2027,lbnl_reference,378.0,rounded figure digitization,Figure 1 reference path,3.0
+2027,lbnl_compounded_upper,471.0,rounded figure digitization,Figure 1 upper boundary,5.0
+2028,lbnl_compounded_lower,393.0,rounded figure digitization,Figure 1 lower boundary,5.0
+2028,lbnl_reference,464.0,reported reference value,p. 8 text,0.0
+2028,lbnl_compounded_upper,594.0,rounded figure digitization,Figure 1 upper boundary,5.0
+2029,lbnl_compounded_lower,459.0,rounded figure digitization,Figure 1 lower boundary,5.0
+2029,lbnl_reference,558.0,rounded figure digitization,Figure 1 reference path,3.0
+2029,lbnl_compounded_upper,724.0,rounded figure digitization,Figure 1 upper boundary,5.0
+2030,lbnl_compounded_lower,521.0,reported compounded lower value,p. 9 text and Table 2,0.0
+2030,lbnl_reference,649.0,reported reference value,p. 8 text and Table 2,0.0
+2030,lbnl_compounded_upper,843.0,reported compounded upper value,p. 9 text and Table 2,0.0

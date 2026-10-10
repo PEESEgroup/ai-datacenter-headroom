@@ -1,0 +1,10 @@
+Region,Storage architecture,Energy displaced (\%),PV curtailed (\%),Full-year max residual (\%)
+Region,Storage architecture,Energy displaced (\%),PV curtailed (\%),Full-year max residual (\%)
+PJM,independent site storage,29.1,0.0,100.0
+PJM,pooled regional storage sensitivity,29.3,0.0,100.0
+MISO,independent site storage,30.7,0.0,100.0
+MISO,pooled regional storage sensitivity,31.0,0.0,100.0
+SPP,independent site storage,35.9,0.0,100.0
+SPP,pooled regional storage sensitivity,36.2,0.0,100.0
+ERCOT,independent site storage,35.6,0.0,100.0
+ERCOT,pooled regional storage sensitivity,35.8,0.0,100.0

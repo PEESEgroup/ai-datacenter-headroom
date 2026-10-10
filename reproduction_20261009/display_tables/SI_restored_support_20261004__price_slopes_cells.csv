@@ -1,0 +1,9 @@
+Region,Zones,Median slope,Mean slope,Positive zones (\%)
+Region,Zones,Median slope,Mean slope,Positive zones (\%)
+CAISO,4,-0.09,-0.44,50.0
+ERCOT,4,3.51,2.15,75.0
+ISO-NE,8,0.21,0.19,87.5
+MISO,6,0.75,0.91,100.0
+NYISO,11,1.13,0.36,54.5
+PJM,14,2.35,2.65,100.0
+SPP,17,2.42,2.65,100.0

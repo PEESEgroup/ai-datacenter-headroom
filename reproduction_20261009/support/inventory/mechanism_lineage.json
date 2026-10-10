@@ -1,0 +1,12 @@
+{
+  "original_builder_sha256": "fccfdea09dfb58ba739f5ceb4383242990fa09b1e441454abafb027ff169dba1",
+  "functions": [
+    "hybrid_units",
+    "hybrid_predictions",
+    "diagnostics",
+    "gates"
+  ],
+  "functions_copied_verbatim": true,
+  "model_rules_changed": false,
+  "reason": "separate portable entry point for retained SI mechanism comparisons"
+}

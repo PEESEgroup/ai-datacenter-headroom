@@ -1,0 +1,20 @@
+[
+  {
+    "source": "DOE Palisades project page",
+    "date": "accessed 2026-10-03",
+    "url": "https://www.energy.gov/edf/palisades",
+    "use": "restart location and MISO; no exact availability year inferred"
+  },
+  {
+    "source": "Constellation Q2 2026 results",
+    "date": "2026-08-06",
+    "url": "https://investors.constellationenergy.com/news-releases/news-release-details/constellation-reports-second-quarter-2026-results",
+    "use": "2027 announced Crane target; capacity-rights transfer from Eddystone means gross size is not automatically net new native capacity"
+  },
+  {
+    "source": "Xcel 2024 Form 10-K",
+    "date": "2025-02-27",
+    "url": "https://s202.q4cdn.com/586283047/files/doc_downloads/2025/03/XCEL-12-31-24-10-K-As-Filed-2-27-25.pdf",
+    "use": "February 2025 planning extensions to 2050/2053/2054; stale 2030/2033/2034 fields are not used as new 2026-2035 retirement opportunities"
+  }
+]

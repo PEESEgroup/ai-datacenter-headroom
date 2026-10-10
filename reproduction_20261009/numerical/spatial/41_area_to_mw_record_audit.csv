@@ -1,0 +1,139 @@
+source_row,facility_name,state,ISO_ASSIGNED,status,facility_size_sqft,reported_sqft,sqft_parse_class,mw,reported_mw_mid,mw_parse_class,area_cv_fold,predicted_mw_cv,cv_predicted_to_reported_ratio,cv_multiplicative_error
+21,Grant County Data Center,AR,MISO,Proposed,"1,000,000",1000000.0,reported_point,500,500.0,reported_point,0,263.98328619210724,0.5279665723842145,1.8940593066037423
+61,AWS Gilroy,CA,CAISO,Approved/Permitted/Under construction,"438,500",438500.0,reported_point,49-98,73.5,reported_range_midpoint,4,145.68815058707565,1.982151708667696,1.982151708667696
+63,Imperial Data Center,CA,CAISO,Approved/Permitted/Under construction,"950,000",950000.0,reported_point,330,330.0,reported_point,1,254.8290436652811,0.7722092232281245,1.2949858275709587
+64,Inyokern Data Center,CA,CAISO,Proposed,"238,000",238000.0,reported_point,99,99.0,reported_point,3,90.67635996041544,0.915922827882984,1.0917950394481897
+70,Former Oakland Scientific Facility,CA,CAISO,Proposed,"83,000",83000.0,reported_point,20,20.0,reported_point,2,37.73010204142396,1.886505102071198,1.886505102071198
+72,AVAIO Perseus Data Center,CA,CAISO,Approved/Permitted/Under construction,"300,000",300000.0,reported_point,99,99.0,reported_point,1,99.96792445277872,1.0097770146745326,1.0097770146745326
+74,Equinix,CA,CAISO,Approved/Permitted/Under construction,"150,000",150000.0,reported_point,40,40.0,reported_point,3,64.47319826004059,1.6118299565010148,1.6118299565010148
+78,Nvidia Data Center,CA,CAISO,Approved/Permitted/Under construction,"97,800",97800.0,reported_point,20,20.0,reported_point,0,38.51166812336662,1.925583406168331,1.925583406168331
+79,Prologis Data Center,CA,CAISO,Proposed,"1,684,000",1684000.0,reported_point,396,396.0,reported_point,0,406.42858284949375,1.0263348051754893,1.0263348051754893
+80,Prologis Data Center,CA,CAISO,Proposed,"516,000",516000.0,reported_point,99,99.0,reported_point,2,160.0197726442897,1.61636133984131,1.61636133984131
+84,CoreSite SV9,CA,CAISO,Proposed,"228,000",228000.0,reported_point,34,34.0,reported_point,0,77.6168889726441,2.2828496756660033,2.2828496756660033
+85,Digital Realty SJC14,CA,CAISO,Proposed,"52,000",52000.0,reported_point,9,9.0,reported_point,0,22.826887153943545,2.536320794882616,2.536320794882616
+86,Digital Realty SJC37 Data Center,CA,CAISO,Approved/Permitted/Under construction,"430,000",430000.0,reported_point,100,100.0,reported_point,2,138.5364899585974,1.385364899585974,1.385364899585974
+92,Menlo Equities Data Centere,CA,CAISO,Proposed,"244,215",244215.0,reported_point,49,49.0,reported_point,2,88.57060182939426,1.8075633026406992,1.8075633026406992
+94,Beacon Data Center,CA,CAISO,Proposed,"400,000",400000.0,reported_point,275,275.0,reported_point,1,126.26580655120183,0.4591483874589158,2.1779451421670935
+97,Digital Data Center,CA,CAISO,Proposed,"253,200",253200.0,reported_point,32,32.0,reported_point,4,96.56888752564632,3.017777735176448,3.017777735176448
+110,Bristol Technology Center,CT,ISO-NE,Proposed,"15,000",15000.0,reported_point,4,4.0,reported_point,4,11.636241275986048,2.9090603189965116,2.9090603189965116
+308,Edged DSM01-1 Data Center,IA,MISO,Approved/Permitted/Under construction,"100,000",100000.0,reported_point,13,13.0,reported_point,4,48.165283333398015,3.7050217948767705,3.7050217948767705
+313,Edged Data Center,IA,SPP,Proposed,"570,000",570000.0,reported_point,200,200.0,reported_point,0,165.74655766412943,0.8287327883206472,1.2066615609917044
+315,Project Ruthenium,IA,MISO,Proposed,"245,000",245000.0,reported_point,100-200,150.0,reported_range_midpoint,1,84.81229160609297,0.5654152773739531,1.7686115674915204
+326,Project Ginger East (Microsoft),IA,MISO,Proposed,"1,800,000",1800000.0,reported_point,200,200.0,reported_point,0,429.47529807669935,2.147376490383497,2.147376490383497
+327,Project Ginger West,IA,MISO,Approved/Permitted/Under construction,"1,800,000",1800000.0,reported_point,200,200.0,reported_point,4,419.42032287770274,2.0971016143885137,2.0971016143885137
+351,T5 Data Center,IL,PJM,Approved/Permitted/Under construction,"250,000",250000.0,reported_point,36,36.0,reported_point,4,95.65358050546496,2.6570439029295825,2.6570439029295825
+352,T5 Grayslake Data Center,IL,PJM,Approved/Permitted/Under construction,10000000,10000000.0,reported_point,480,480.0,reported_point,3,1434.9833871446451,2.9895487232180105,2.9895487232180105
+354,Joliet Technology Center,IL,PJM,Approved/Permitted/Under construction,"3,468,000",3468000.0,reported_point,1800,1800.0,reported_point,0,739.1859737036177,0.4106588742797876,2.4351111412210367
+355,Hut8 Data Center,IL,MISO,Proposed,"1,000,000",1000000.0,reported_point,500,500.0,reported_point,3,261.85850030418334,0.5237170006083667,1.909428181323821
+356,Cloud Centers Data Center,IL,PJM,Proposed,"256,000",256000.0,reported_point,50,50.0,reported_point,4,97.3673993694132,1.947347987388264,1.947347987388264
+357,CyrusOne Data Center,IL,PJM,Approved/Permitted/Under construction,"500,000",500000.0,reported_point,18,18.0,reported_point,2,156.08348889505646,8.671304938614249,8.671304938614249
+359,Tract Morris Data Center,IL,PJM,Proposed,"2,900,000",2900000.0,reported_point,"1,000",1000.0,reported_point,2,626.6250466205412,0.6266250466205412,1.5958506692209506
+368,Whiterose Partners LLC Data Center,IL,PJM,Proposed,"200,000",200000.0,reported_point,48,48.0,reported_point,4,80.93521747833506,1.6861503641319804,1.6861503641319804
+369,Troy Cloverleaf Data Center,IL,MISO,Proposed,"1,584,000",1584000.0,reported_point,500,500.0,reported_point,3,367.825509730812,0.7356510194616239,1.3593401946643615
+370,CyrusOne,IL,MISO,Approved/Permitted/Under construction,"250,000",250000.0,reported_point,632,632.0,reported_point,4,95.65358050546496,0.1513506020656091,6.607175566876893
+374,QLevr Data Center,IN,MISO,Proposed,"60,000",60000.0,reported_point,3,3.0,reported_point,3,32.76340394858573,10.921134649528575,10.921134649528575
+379,Sabey Data Center,IN,MISO,Proposed,"900,000",900000.0,reported_point,250,250.0,reported_point,3,242.2489751422717,0.9689959005690868,1.031996110006972
+384,CoreWeave,IN,MISO,Proposed,"450,000",450000.0,reported_point,180,180.0,reported_point,3,145.16668147058655,0.8064815637254809,1.2399539493259777
+393,Thunderbird Commerce Center Project,IN,MISO,Approved/Permitted/Under construction,"320,000",320000.0,reported_point,100,100.0,reported_point,0,102.76568590868732,1.027656859086873,1.027656859086873
+416,Digital Realty Data Center,KS,SPP,Proposed,"3,000,000",3000000.0,reported_point,600-2000,1300.0,reported_range_midpoint,1,648.1256344270097,0.498558180328469,2.0057839575336267
+421,Red Wolf Properties,KS,SPP,Proposed,"1,980,000",1980000.0,reported_point,600,600.0,reported_point,3,433.74755925677783,0.7229125987612964,1.3832930864858215
+422,Alcove Development Data Center,KS,SPP,Proposed,"600,000",600000.0,reported_point,50,50.0,reported_point,4,184.2440638038047,3.684881276076094,3.684881276076094
+441,PowerHouse Data Centers,KY,PJM,Approved/Permitted/Under construction,"1,800,000",1800000.0,reported_point,130,130.0,reported_point,0,429.47529807669935,3.3036561390515335,3.3036561390515335
+457,River Bend Campus,LA,MISO,Approved/Permitted/Under construction,"900,000",900000.0,reported_point,300,300.0,reported_point,2,248.4298056852937,0.8280993522843123,1.207584569703502
+463,Servistar Data Center,MA,ISO-NE,Proposed,"2,700,000",2700000.0,reported_point,300,300.0,reported_point,3,545.4433898131856,1.8181446327106188,1.8181446327106188
+467,Aligned IAD-06,MD,PJM,Approved/Permitted/Under construction,"450,000",450000.0,reported_point,72,72.0,reported_point,0,136.2829911360836,1.8928193213344944,1.8928193213344944
+468,Quantum Frederick,MD,PJM,Proposed,"1,100,000",1100000.0,reported_point,"264-2,400",1332.0,reported_range_midpoint,4,290.06934402640496,0.2177697777976013,4.592005420189278
+488,Switch Pyramid Data Center,MI,MISO,Approved/Permitted/Under construction,"1,800,000",1800000.0,reported_point,320,320.0,reported_point,0,429.47529807669935,1.3421103064896855,1.3421103064896855
+494,Southfield Data Center,MI,MISO,Proposed,"110,000",110000.0,reported_point,100,100.0,reported_point,2,47.1415061006057,0.471415061006057,2.121272913652522
+504,Lyon Township Data Center/ Project Flex,MI,MISO,Proposed,"1,800,000",1800000.0,reported_point,200-525,362.5,reported_range_midpoint,2,429.7653314983757,1.1855595351679329,1.1855595351679329
+506,Related Digital/The Barn,MI,MISO,Approved/Permitted/Under construction,"2,200,000",2200000.0,reported_point,1400,1400.0,reported_point,2,503.6652254017809,0.3597608752869863,2.7796241022659447
+507,Panattoni Project Cannoli,MI,MISO,Proposed,"800,000",800000.0,reported_point,1000-2700,1850.0,reported_range_midpoint,4,228.53060814746436,0.1235300584580888,8.095195715780212
+521,Project Skyway,MN,MISO,Proposed,"3,000,000",3000000.0,reported_point,1200-1900,1550.0,reported_range_midpoint,3,589.5958402855094,0.3803844130874254,2.628919497209171
+525,Nebius Data Center,MO,SPP,Approved/Permitted/Under construction,"2,500,000",2500000.0,reported_point,880,880.0,reported_point,3,515.2961222430388,0.5855637752761804,1.7077559135695362
+531,Project Micah,MO,SPP,Approved/Permitted/Under construction,"1,560,000",1560000.0,reported_point,700,700.0,reported_point,4,376.8033338678191,0.5382904769540273,1.8577330322813883
+535,Metrobloks/ Lincoln Data Center,MO,SPP,Proposed,"568,000",568000.0,reported_point,150,150.0,reported_point,3,172.4185908546178,1.1494572723641188,1.1494572723641188
+541,Project Spade,MO,MISO,Proposed,"3,242,760",3242760.0,reported_point,1200,1200.0,reported_point,0,699.2075917275741,0.5826729931063118,1.7162285052356023
+634,DataOne/ Nebius Data Center,NJ,PJM,Approved/Permitted/Under construction,"2,600,000",2600000.0,reported_point,"300-2,000",1150.0,reported_range_midpoint,4,552.3690049262458,0.4803208738489093,2.0819415820653298
+657,Webb Data Center,NV,CAISO,Approved/Permitted/Under construction,"82,000",82000.0,reported_point,28,28.0,reported_point,3,41.26804165287584,1.4738586304598515,1.4738586304598515
+664,"STAMP Data Center ""Project Double Reed""",NY,NYISO,Proposed,"2,200,000",2200000.0,reported_point,500,500.0,reported_point,3,468.85847632946513,0.9377169526589304,1.0664198798629627
+675,Former Remington Gun Factory Data Center,NY,NYISO,Proposed,"500,000",500000.0,reported_point,200,200.0,reported_point,3,156.91760710937143,0.7845880355468572,1.2745542306198958
+676,Lake Hawkeye Data Center,NY,NYISO,Proposed,"1,360,000",1360000.0,reported_point,150,150.0,reported_point,2,344.33035067063986,2.295535671137599,2.295535671137599
+682,St Lawrence Data and Agricultural Center,NY,NYISO,Proposed,"900,000",900000.0,reported_point,200,200.0,reported_point,4,249.6008451771623,1.2480042258858115,1.2480042258858115
+689,Niagara Digital Campus,NY,NYISO,Approved/Permitted/Under construction,"600,000",600000.0,reported_point,140,140.0,reported_point,2,180.28783906665197,1.287770279047514,1.287770279047514
+695,IBM Quantum Data Center,NY,NYISO,Approved/Permitted/Under construction,"3,600,000",3600000.0,reported_point,100,100.0,reported_point,4,704.7788925473235,7.047788925473235,7.047788925473235
+704,Meta Bowling Green Data Center/ Project Accordion,OH,PJM,Approved/Permitted/Under construction,"715,000",715000.0,reported_point,514,514.0,reported_point,4,210.09524729423967,0.4087456173039682,2.4465094123720936
+711,Slavic Village Data Center,OH,PJM,Proposed,"300,000",300000.0,reported_point,150,150.0,reported_point,0,97.41834957513082,0.6494556638342055,1.5397509879216054
+726,Logistix Data Center,OH,PJM,Proposed,"310,640",310640.0,reported_point,200,200.0,reported_point,2,107.12899989417234,0.5356449994708616,1.8669081219610988
+732,EdgeConneX New Albany Data Center,OH,PJM,Approved/Permitted/Under construction,"1,225,000",1225000.0,reported_point,120-766,443.0,reported_range_midpoint,1,313.24317364380755,0.7070952000988884,1.4142367249277727
+737,Karis Critical Data Center,OH,PJM,Approved/Permitted/Under construction,"211,000",211000.0,reported_point,36,36.0,reported_point,3,82.95831751836674,2.304397708843521,2.304397708843521
+740,COL 5 (Cologix) Data Center,OH,PJM,Proposed,135000,135000.0,reported_point,120,120.0,reported_point,1,52.28042459338022,0.4356702049448351,2.2953141818055256
+743,Bitdeer Technologies Data Center,OH,PJM,Proposed,"720,000",720000.0,reported_point,150,150.0,reported_point,2,208.24563280474183,1.388304218698279,1.388304218698279
+746,OH2 Data Center,OH,PJM,Proposed,"2,500,000",2500000.0,reported_point,800,800.0,reported_point,4,536.3832165435862,0.6704790206794827,1.491470976954016
+759,Project Mila,OH,PJM,Proposed,"1,000,000",1000000.0,reported_point,240,240.0,reported_point,0,263.98328619210724,1.09993035913378,1.09993035913378
+761,Urbana Technology Hub,OH,PJM,Proposed,"460,000",460000.0,reported_point,100,100.0,reported_point,3,147.54307848104534,1.4754307848104533,1.4754307848104533
+773,Cloverleaf Data Center/Project Open Sky,OK,SPP,Proposed,"2,116,800",2116800.0,reported_point,1400,1400.0,reported_point,0,491.172884521158,0.35083777465797,2.85032021131389
+802,J.G. Petrucci Data Center,PA,PJM,Proposed,"146,000",146000.0,reported_point,100,100.0,reported_point,1,55.712898161276215,0.5571289816127621,1.794916496903871
+803,West Emaus Avenue Data Center/ Quantum Group,PA,PJM,Proposed,"247,342",247342.0,reported_point,80,80.0,reported_point,2,89.46613879308138,1.1183267349135173,1.1183267349135173
+817,Starpointe Industrial Park Data Center,PA,PJM,Proposed,"500,000",500000.0,reported_point,450,450.0,reported_point,2,156.08348889505646,0.3468521975445699,2.883072406861432
+818,PAX-1 Data Center,PA,PJM,Approved/Permitted/Under construction,"5,000,000",5000000.0,reported_point,1350-1800,1575.0,reported_range_midpoint,3,859.9077711468937,0.5459731880297738,1.8315917739635716
+820,Project Gold Data Center,PA,PJM,Proposed,"9,400,000",9400000.0,reported_point,"1,500",1500.0,reported_point,4,1445.9752333380611,0.9639834888920408,1.037362165973771
+837,Breaker Street Associates LLC Data Center,PA,PJM,Proposed,"1,100,000",1100000.0,reported_point,600,600.0,reported_point,0,285.65968028807623,0.4760994671467937,2.100401426602887
+843,CoreWeave Lancaster 1,PA,PJM,Proposed,"450,000",450000.0,reported_point,100-300,200.0,reported_range_midpoint,0,136.2829911360836,0.6814149556804181,1.4675345641650364
+844,CoreWeave Lancaster 2,PA,PJM,Proposed,"825,000",825000.0,reported_point,100-300,200.0,reported_range_midpoint,1,227.2533570762064,1.136266785381032,1.136266785381032
+848,Fort Cherry Development District,PA,PJM,Approved/Permitted/Under construction,"6,000,000",6000000.0,reported_point,250-1000,625.0,reported_range_midpoint,2,1113.4667880975137,1.781546860956022,1.781546860956022
+882,Project Laurel,PA,PJM,Proposed,"1,400,000",1400000.0,reported_point,750,750.0,reported_point,0,348.7933739569392,0.4650578319425856,2.1502702057998166
+891,Shippingport Bruce Mansfield Data Center/ Project Phoenix,PA,PJM,Approved/Permitted/Under construction,"2,000,000",2000000.0,reported_point,"2,550-3,600",3075.0,reported_range_midpoint,4,453.849108975108,0.1475932061707668,6.775379612276936
+895,Springdale/ Dynamo Data Center,PA,PJM,Approved/Permitted/Under construction,"565,000",565000.0,reported_point,350,350.0,reported_point,3,171.74534697551942,0.4907009913586269,2.037900916464939
+918,Sequitor Edge Data Center,SD,SPP,Proposed,"30,000",30000.0,reported_point,2-15,8.5,reported_range_midpoint,4,19.553123185912483,2.3003674336367625,2.3003674336367625
+934,Project Caprock Data Center,TX,SPP,Approved/Permitted/Under construction,"1,650,000",1650000.0,reported_point,540,540.0,reported_point,2,401.1913439745641,0.7429469332862298,1.345991153872543
+935,Frontier Vantage Data Center,TX,ERCOT,Approved/Permitted/Under construction,"3,700,000",3700000.0,reported_point,1400,1400.0,reported_point,2,759.7450908398433,0.5426750648856024,1.8427233250726256
+941,Fermi America HyperGrid/ Project Matador,TX,SPP,Approved/Permitted/Under construction,"18,000,000",18000000.0,reported_point,"11,000-17,000",14000.0,reported_range_midpoint,3,2215.3234508584037,0.1582373893470288,6.319618922724452
+949,AWS Project Eagle,TX,ERCOT,Proposed,"756,000",756000.0,reported_point,75,75.0,reported_point,1,211.6981397017219,2.822641862689626,2.822641862689626
+951,Viridien Data Center,TX,ERCOT,Proposed,"40,000",40000.0,reported_point,45,45.0,reported_point,4,24.253086045785484,0.5389574676841219,1.855433981269355
+953,Project Freebird,TX,ERCOT,Approved/Permitted/Under construction,"548,950",548950.0,reported_point,1200,1200.0,reported_point,1,163.262323045622,0.1360519358713516,7.350134296843688
+956,EdgeConneX AUS01,TX,ERCOT,Approved/Permitted/Under construction,"578,000",578000.0,reported_point,96,96.0,reported_point,2,175.04044376684962,1.8233379559046836,1.8233379559046836
+957,EdgeConneX AUS02,TX,ERCOT,Proposed,"1,460,000",1460000.0,reported_point,240,240.0,reported_point,3,346.3277659942934,1.4430323583095557,1.4430323583095557
+968,CleanArc/ Crow Holdings Data Center,TX,ERCOT,Proposed,"202,000",202000.0,reported_point,245,245.0,reported_point,2,76.2286879870716,0.3111375019880473,3.21401307656708
+982,CyrusOne Fairfield,TX,ERCOT,Approved/Permitted/Under construction,"918,650",918650.0,reported_point,380,380.0,reported_point,3,245.9476541834171,0.6472306689037292,1.5450442138253229
+990,CyrusOne/Eolian Data Center,TX,ERCOT,Approved/Permitted/Under construction,"1,900,000",1900000.0,reported_point,70,70.0,reported_point,3,420.73081006017304,6.010440143716758,6.010440143716758
+996,Blueprint Project,TX,ERCOT,Approved/Permitted/Under construction,"45,000",45000.0,reported_point,35,35.0,reported_point,0,20.25148329004058,0.5786138082868737,1.7282684679799505
+1007,Nexus Data Center: Apex DFW HB1 and HB2,TX,ERCOT,Proposed,"983,000",983000.0,reported_point,600,600.0,reported_point,3,258.56239550720244,0.4309373258453374,2.320523055268826
+1013,Powerhouse Data Center,TX,ERCOT,Proposed,"946,000",946000.0,reported_point,201,201.0,reported_point,0,252.12427234573948,1.2543496136603955,1.2543496136603955
+1017,Powerhouse Data Center,TX,ERCOT,Proposed,"1,200,000",1200000.0,reported_point,300,300.0,reported_point,3,299.61545577075026,0.9987181859025008,1.001283459253664
+1022,Project Oranger,TX,ERCOT,Proposed,"1,500,000",1500000.0,reported_point,252,252.0,reported_point,1,369.2185333655478,1.4651529101807452,1.4651529101807452
+1026,BaRupOn Data Center,TX,MISO,Proposed,4500000,4500000.0,reported_point,240,240.0,reported_point,4,832.9454919284515,3.4706062163685476,3.4706062163685476
+1033,Legacy Data Center,TX,ERCOT,Proposed,"100,000",100000.0,reported_point,50,50.0,reported_point,2,43.71936131747731,0.8743872263495461,1.1436580611714458
+1045,AREP PowerHouse Grand Prairie,TX,ERCOT,Approved/Permitted/Under construction,"8,500,000",8500000.0,reported_point,1800,1800.0,reported_point,3,1272.6323927659528,0.7070179959810848,1.4143911550827817
+1054,CloudBurst Data Center,TX,ERCOT,Approved/Permitted/Under construction,3 million,3000000.0,reported_point,1200,1200.0,reported_point,0,655.5798348938047,0.5463165290781705,1.8304406818650611
+1060,Skybox Austin Data Center Campus,TX,ERCOT,Approved/Permitted/Under construction,"289,740",289740.0,reported_point,30,30.0,reported_point,0,94.65152150475728,3.155050716825243,3.155050716825243
+1072,Red Oak Data Center Campus,TX,ERCOT,Approved/Permitted/Under construction,"981,000",981000.0,reported_point,350,350.0,reported_point,0,259.8235399248642,0.7423529712138976,1.347068091294627
+1085,Skybox Round Rock Data Center,TX,ERCOT,Approved/Permitted/Under construction,"250,000",250000.0,reported_point,40,40.0,reported_point,2,90.2254974399398,2.2556374359984948,2.2556374359984948
+1094,CloudHQ SAT Campus,TX,ERCOT,Proposed,"3,023,300",3023300.0,reported_point,84-600,342.0,reported_range_midpoint,4,618.4148462022114,1.8082305444509104,1.8082305444509104
+1110,TX11: Vantage Data Center,TX,ERCOT,Proposed,"242,667",242667.0,reported_point,32,32.0,reported_point,2,88.12638539689172,2.7539495436528663,2.7539495436528663
+1111,TX12: Vantage Data Center,TX,ERCOT,Proposed,"432,800",432800.0,reported_point,96,96.0,reported_point,1,134.60816285174252,1.4021683630389845,1.4021683630389845
+1122,Flexential Data Center,TX,ERCOT,Proposed,"375,000",375000.0,reported_point,108,108.0,reported_point,4,129.58471521671223,1.1998584742288172,1.1998584742288172
+1123,Blueprint Projects,TX,ERCOT,Approved/Permitted/Under construction,"135,000",135000.0,reported_point,30,30.0,reported_point,4,60.30101882858766,2.010033960952922,2.010033960952922
+1129,Comanche Circle Data Centers,TX,ERCOT,Approved/Permitted/Under construction,"5,500,000",5500000.0,reported_point,600,600.0,reported_point,0,1082.8928800327749,1.8048214667212912,1.8048214667212912
+1143,CyrusOne: DFW10,TX,ERCOT,Approved/Permitted/Under construction,"700,000",700000.0,reported_point,400,400.0,reported_point,0,196.48072843870284,0.4912018210967571,2.0358230711913823
+1145,Black Pearl Data Center,TX,ERCOT,Approved/Permitted/Under construction,"19,579",19579.0,reported_point,300,300.0,reported_point,0,10.167282779787085,0.0338909425992902,29.506408594871633
+1165,Avaio Digital Partners,VA,PJM,Proposed,"250,000",250000.0,reported_point,300,300.0,reported_point,3,94.032217370557,0.3134407245685233,3.1903958918439255
+1170,AID1 DataBank,VA,PJM,Proposed,"355,330",355330.0,reported_point,70,70.0,reported_point,0,112.0744060633466,1.601062943762094,1.601062943762094
+1223,Sabey Data Center,VA,PJM,Approved/Permitted/Under construction,"645,000",645000.0,reported_point,85,85.0,reported_point,4,194.4963000041967,2.288191764755256,2.288191764755256
+1241,Tract Technology Campus,VA,PJM,Proposed,"11,000,000",11000000.0,reported_point,2400,2400.0,reported_point,0,1922.355766196243,0.8009815692484346,1.248468177536601
+1277,Chesterfield Google Data Center,VA,PJM,Proposed,"856,000",856000.0,reported_point,200,200.0,reported_point,0,232.0949725042352,1.160474862521176,1.160474862521176
+1287,Culpeper Data Center,VA,PJM,Proposed,"1,400,000",1400000.0,reported_point,215-432,323.5,reported_range_midpoint,2,352.31380775179076,1.0890689575016717,1.0890689575016717
+1328,Oasis Data Center,VA,PJM,Approved/Permitted/Under construction,"6,800,000",6800000.0,reported_point,1200,1200.0,reported_point,2,1229.3016376624626,1.0244180313853857,1.0244180313853857
+1343,NTT Data Center,VA,PJM,Proposed,"300,000",300000.0,reported_point,96,96.0,reported_point,3,107.59057136539928,1.1207351183895755,1.1207351183895755
+1362,EdgeCore Data Center,VA,PJM,Approved/Permitted/Under construction,"3,900,000",3900000.0,reported_point,1100,1100.0,reported_point,4,748.3105161318744,0.6802822873926131,1.4699780055023943
+1430,NVA15 LLC,VA,PJM,Proposed,"24,000",24000.0,reported_point,48,48.0,reported_point,2,14.14490785524479,0.2946855803175998,3.3934473445298607
+1431,NVA16 LLC,VA,PJM,Proposed,"24,000",24000.0,reported_point,48,48.0,reported_point,0,12.034164095837328,0.250711751996611,3.988644297828997
+1457,Province Group @Powhatan Technology Park,VA,PJM,Approved/Permitted/Under construction,"2,000,000",2000000.0,reported_point,"365-2,400",1382.5,reported_range_midpoint,1,466.3463422317444,0.3373210432056017,2.964534884918183
+1470,Gigaland Remington Data Center,VA,PJM,Proposed,"847,400",847400.0,reported_point,136,136.0,reported_point,3,231.70737351435068,1.7037306876055196,1.7037306876055196
+1472,Remington Technology Park,VA,PJM,Proposed,"1,700,000",1700000.0,reported_point,300,300.0,reported_point,1,408.7059524169331,1.3623531747231103,1.3623531747231103
+1479,Azalea,VA,PJM,Proposed,"456,108",456108.0,reported_point,10,10.0,reported_point,0,137.81283081809028,13.781283081809027,13.781283081809027
+1513,SpotsyTech Campus,VA,PJM,Proposed,"2,900,000",2900000.0,reported_point,800,800.0,reported_point,4,599.4316133856365,0.7492895167320457,1.3345976123640486
+1521,Stafford Technology Campus,VA,PJM,Proposed,"5,500,000",5500000.0,reported_point,"1,000",1000.0,reported_point,1,1060.1277601040294,1.0601277601040295,1.0601277601040295
+1652,Janesville Data Center,WI,MISO,Proposed,"4,800,000",4800000.0,reported_point,25-200,112.5,reported_range_midpoint,1,949.2126107377816,8.437445428780281,8.437445428780281
+1665,Hog Lick Aggregates,WV,PJM,Proposed,"3,220,000",3220000.0,reported_point,200,200.0,reported_point,1,686.4509581223572,3.4322547906117857,3.4322547906117857
+1670,Penzance Management,WV,PJM,Proposed,"1,900,000",1900000.0,reported_point,600,600.0,reported_point,1,447.3265036034064,0.7455441726723441,1.3413021476857356
+1674,Stokes Data Center,WV,PJM,Proposed,"60,000",60000.0,reported_point,100,100.0,reported_point,0,25.698289375567445,0.2569828937556744,3.891309594134878

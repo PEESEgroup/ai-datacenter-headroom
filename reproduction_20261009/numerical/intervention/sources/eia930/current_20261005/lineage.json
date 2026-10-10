@@ -1,0 +1,26 @@
+[
+  {
+    "file": "SWPP_2024.json",
+    "sha256": "3b6163acf92ab0493d15b6b3b13785786e079b1db2db4f030e0378a12e8bd4c0",
+    "retrieved_date": "2026-10-05",
+    "source_url": "https://api.eia.gov/v2/electricity/rto/region-data/data/",
+    "type": "D",
+    "respondent": "SWPP",
+    "year": 2024,
+    "rows": 2936,
+    "null_values": 1,
+    "used_to_fill_primary": false
+  },
+  {
+    "file": "MISO_2024.json",
+    "sha256": "4e7d2e3e26884b9c1c88f13012994f38ff9caa6bb76b5fcb7192fe3ccf8148eb",
+    "retrieved_date": "2026-10-05",
+    "source_url": "https://api.eia.gov/v2/electricity/rto/region-data/data/",
+    "type": "D",
+    "respondent": "MISO",
+    "year": 2024,
+    "rows": 2936,
+    "null_values": 24,
+    "used_to_fill_primary": false
+  }
+]

@@ -1,0 +1,22 @@
+model_region,source_shape,shape_mean_load_factor,peak_window_coincidence,gamma,provenance
+CAISO,low,0.8689166667,0.8200000000,0.9437038451,submission-vintage hourly data-center shape audit
+CAISO,avg,0.8689166667,0.8725000000,1.0041239091,submission-vintage hourly data-center shape audit
+CAISO,high,0.8689166667,0.9031666667,1.0394168984,submission-vintage hourly data-center shape audit
+ERCOT,low,0.8689166667,0.8296666667,0.9548288098,submission-vintage hourly data-center shape audit
+ERCOT,avg,0.8689166667,0.8856666667,1.0192768773,submission-vintage hourly data-center shape audit
+ERCOT,high,0.8689166667,0.9190000000,1.0576388223,submission-vintage hourly data-center shape audit
+ISO-NE,low,0.8689166667,0.8230000000,0.9471564208,submission-vintage hourly data-center shape audit
+ISO-NE,avg,0.8689166667,0.8768333333,1.0091109619,submission-vintage hourly data-center shape audit
+ISO-NE,high,0.8689166667,0.9086666667,1.0457466194,submission-vintage hourly data-center shape audit
+MISO,low,0.8689166667,0.8296666667,0.9548288098,submission-vintage hourly data-center shape audit
+MISO,avg,0.8689166667,0.8856666667,1.0192768773,submission-vintage hourly data-center shape audit
+MISO,high,0.8689166667,0.9190000000,1.0576388223,submission-vintage hourly data-center shape audit
+NYISO,low,0.8689166667,0.8230000000,0.9471564208,submission-vintage hourly data-center shape audit
+NYISO,avg,0.8689166667,0.8768333333,1.0091109619,submission-vintage hourly data-center shape audit
+NYISO,high,0.8689166667,0.9086666667,1.0457466194,submission-vintage hourly data-center shape audit
+PJM,low,0.8689166667,0.8265000000,0.9511844251,submission-vintage hourly data-center shape audit
+PJM,avg,0.8689166667,0.8816666667,1.0146734439,submission-vintage hourly data-center shape audit
+PJM,high,0.8689166667,0.9143333333,1.0522681500,submission-vintage hourly data-center shape audit
+SPP,low,0.8689166667,0.8296666667,0.9548288098,submission-vintage hourly data-center shape audit
+SPP,avg,0.8689166667,0.8856666667,1.0192768773,submission-vintage hourly data-center shape audit
+SPP,high,0.8689166667,0.9190000000,1.0576388223,submission-vintage hourly data-center shape audit

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "04_lower_endpoint_complete_paths.csv",
+    "sha256": "8523fbb726725b0424d0a367e3800fa46fe8ce62471a96c2f9e04ede183c5247"
+  },
+  {
+    "file": "05_lower_endpoint_display_2035.csv",
+    "sha256": "1c9ed1f78ea5eba2dd4a5dc756af371c18a2e3acb7af09e909168d827be9cd51"
+  },
+  {
+    "file": "08_close_coordinate_review_candidates.csv",
+    "sha256": "4ffff01558393c6d1c09746723ab5e92dc15940c31f41c283e75e317d49bbbab"
+  },
+  {
+    "file": "15_targeted_output_field_dictionary.csv",
+    "sha256": "10870fa32a542251b825fd73be704b3085a1de63ff4b7d9c5f75df97dc1b90bc"
+  },
+  {
+    "file": "02_external_endpoint_energy_paths.csv",
+    "sha256": "99ef201d74d9c4de196e1f7f477a8e8e4d5e6881475847609f77410995bd4c6c"
+  },
+  {
+    "file": "06_project_scope_classification.csv",
+    "sha256": "ff5ff777b62a7cafbab652ee69ca4afe33ac8f8523c0e8b731a9be9eed5893ba"
+  },
+  {
+    "file": "07_shared_address_review_candidates.csv",
+    "sha256": "90aae3c1da12723966f9f27f30f1bcecb649b267f40e4a24868df7ebec0f2a66"
+  },
+  {
+    "file": "13_gross_load_outlier_audit.csv",
+    "sha256": "e04c79ba015ca2b79ae4599f7f99878954ac6448b093a5b2512c39d65916305f"
+  },
+  {
+    "file": "12_scope_display_2035.csv",
+    "sha256": "e077236b35ef55bf2270c319322eec73f743e8c771642bad6df2144a4bee3f0f"
+  },
+  {
+    "file": "14_campus_representatives_combined_scope_sensitivity.csv",
+    "sha256": "4832c96115b8a9c5a8bbad1998ec09f24b4d56936d9e501c8b25522b7be766b0"
+  },
+  {
+    "file": "01_load_season_coverage.csv",
+    "sha256": "bb5573742d6673e7e9e098a40deaf2ddead0788eea22c4b0e9e9aa3c77a9ed87"
+  },
+  {
+    "file": "11_scope_complete_paths.csv",
+    "sha256": "0426a419d8e3781789d3c2d6f04e39b7c2a64ab97e4cb542030fe7116e7a327a"
+  },
+  {
+    "file": "14_campus_representatives_shared_address_single_representative.csv",
+    "sha256": "1f2f81b3e07a75399ed7f5e47b5ea9839f3e5636c65b6d2e274e5bf30a16c9c6"
+  },
+  {
+    "file": "09_scope_matched_allocation_weights.csv",
+    "sha256": "fb214a29faf932c7d45ae1e18c04bb489e861ef8dbc00f79ccf5029ac5209d9d"
+  },
+  {
+    "file": "16_crypto_evidence_review.csv",
+    "sha256": "0192254fa08401c3b6fd9b740b098f458270030df27ae3775d91fe1e9a622fc1"
+  }
+]

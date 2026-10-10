@@ -1,0 +1,114 @@
+[
+  {
+    "region": "PJM",
+    "source_filename": "panel_hourly.parquet",
+    "source_sha256": "4f41b2866f4bf37c609d5c4e7c824b72b7547f4da8efb2a4684021c0e4258465",
+    "file": "inputs/price/PJM.csv.gz",
+    "sha256": "9d5b3c998dc82b6478323e9b17981e16d834ec74bee897da3a9e16238eceeafb",
+    "rows": 269388,
+    "columns": [
+      "ts_utc",
+      "zone",
+      "load_mw",
+      "lmp"
+    ],
+    "lossless_roundtrip": true,
+    "source_role": "retained harmonized historical panel; upstream download not rebuilt"
+  },
+  {
+    "region": "MISO",
+    "source_filename": "panel_hourly.parquet",
+    "source_sha256": "16f73b6088458aa2731be29acfacf0a22c7af3679e2f95907c1e1de264e79cc9",
+    "file": "inputs/price/MISO.csv.gz",
+    "sha256": "969d04155f82da40d7c464084abe5a016dfc0517abf4b313f265d24038c12773",
+    "rows": 139405,
+    "columns": [
+      "ts_utc",
+      "zone",
+      "load_mw",
+      "lmp"
+    ],
+    "lossless_roundtrip": true,
+    "source_role": "retained harmonized historical panel; upstream download not rebuilt"
+  },
+  {
+    "region": "SPP",
+    "source_filename": "panel_hourly_zoneproxy.parquet",
+    "source_sha256": "b896b3b2377f2c4d7f58bae79f64959a7fe31f9c785eca184b7cf3bbf9498682",
+    "file": "inputs/price/SPP.csv.gz",
+    "sha256": "c2463e4bc4f93bd94bc3fe1465383bb2e3512cc88e93b7505037ec0b9828dca8",
+    "rows": 354384,
+    "columns": [
+      "ts_utc",
+      "zone",
+      "load_mw",
+      "lmp"
+    ],
+    "lossless_roundtrip": true,
+    "source_role": "retained harmonized historical panel; upstream download not rebuilt"
+  },
+  {
+    "region": "ERCOT",
+    "source_filename": "panel_hourly_4zone.parquet",
+    "source_sha256": "ec8fe3d998f92a773e259ddba995ced350fd6019e07203c25f3ea22b8b10cd77",
+    "file": "inputs/price/ERCOT.csv.gz",
+    "sha256": "efa434b63c82082e29c3259ec93f9640c299a723859991f1a1ba4c52ca3bdc4f",
+    "rows": 80132,
+    "columns": [
+      "ts_utc",
+      "zone",
+      "load_mw",
+      "lmp"
+    ],
+    "lossless_roundtrip": true,
+    "source_role": "retained harmonized historical panel; upstream download not rebuilt"
+  },
+  {
+    "region": "CAISO",
+    "source_filename": "panel_hourly.parquet",
+    "source_sha256": "d918d0af8978749a3a4be3022f1a528841747a8e5fd6f2b483a8d500a3522fa9",
+    "file": "inputs/price/CAISO.csv.gz",
+    "sha256": "27b7d5edee84cbe2c00be8652fce0ac2f865746ee3a07dbf2522e75de5716d61",
+    "rows": 79960,
+    "columns": [
+      "ts_utc",
+      "zone",
+      "load_mw",
+      "lmp"
+    ],
+    "lossless_roundtrip": true,
+    "source_role": "retained harmonized historical panel; upstream download not rebuilt"
+  },
+  {
+    "region": "NYISO",
+    "source_filename": "panel_hourly.parquet",
+    "source_sha256": "ec22f23bf08d9dae6a4ab5cb588dc3e646bc7df664a9caaaf225982cc3728169",
+    "file": "inputs/price/NYISO.csv.gz",
+    "sha256": "39c3dc0db534496cafc3117fead36c474a748231093b73bccc01b49e06c5184e",
+    "rows": 219384,
+    "columns": [
+      "ts_utc",
+      "zone",
+      "load_mw",
+      "lmp"
+    ],
+    "lossless_roundtrip": true,
+    "source_role": "retained harmonized historical panel; upstream download not rebuilt"
+  },
+  {
+    "region": "ISO-NE",
+    "source_filename": "panel_hourly.parquet",
+    "source_sha256": "4cfcb43e0e90fb2ef3943fb57cd371d9b8b796bb323201d93fba5865edaa5c7c",
+    "file": "inputs/price/ISO-NE.csv.gz",
+    "sha256": "c191dc0625e80102f4cb74464080009e6dab29e7c137a0dfb057eb628784f8cf",
+    "rows": 53248,
+    "columns": [
+      "ts_utc",
+      "zone_key_norm",
+      "load_mw",
+      "lmp"
+    ],
+    "lossless_roundtrip": true,
+    "source_role": "retained harmonized historical panel; upstream download not rebuilt"
+  }
+]

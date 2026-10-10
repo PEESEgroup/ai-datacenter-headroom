@@ -1,0 +1,19 @@
+{
+  "input_vintage": "Existing frozen scientific_strengthening_20261005 annual pairs and native balances",
+  "years": [2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035],
+  "primary_resource_conditions": ["anticipated", "prospective"],
+  "timing_stresses": ["anticipated_tier1_arrival_delayed_1y", "anticipated_tier1_arrival_delayed_2y", "anticipated_tier1_arrival_delayed_3y"],
+  "display": {
+    "data_center_scenario_id": "lbnl_reference",
+    "post2030_extension_id": "epri_quarter_rate_taper",
+    "footprint_capture_case": "core_active_reported_mw_share",
+    "peak_mapping_case": "reference_coincidence",
+    "allocation_case": "reported_MW_reference_imputation",
+    "linked_response_fraction": 0
+  },
+  "numerical_tolerance_GW": 0.0000001,
+  "growth_scaling": "Scale the complete incremental candidate path and its specified associated response by one common nonnegative factor; hold resources, no-new-growth background and association rates fixed. No retuning or realized-capacity interpretation.",
+  "unknown_or_infeasible": "A negative no-new-growth balance in any year makes all-year attainment infeasible at every nonnegative factor. A zero pressure slope with a nonnegative background has no finite algebraic upper bound, not unlimited physical capacity.",
+  "scenario_counts": "Descriptive counts in a pre-specified grid, not probabilities or independent observations.",
+  "scope": "Derived results only; frozen inputs, historical methods and scores, canonical plots and older manuscripts must remain unchanged."
+}

@@ -1,0 +1,25 @@
+{
+  "seasonal_load_source": "EIA EBA actual-demand UTC D.H series, archived 2026-06-02",
+  "years_requested": [
+    2023,
+    2024,
+    2025
+  ],
+  "summer_months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "peak_selection": "100 largest positive reported hourly demands per complete local summer",
+  "fill_missing_or_zero": false,
+  "complete_season_required": true,
+  "fallback": "common complete years only, with incomplete-year coverage disclosed",
+  "national_benchmarks": "390 and 430 TWh in 2030; separately labeled cross-source endpoint scenarios",
+  "benchmark_annual_rule": "same 2025 LBNL reference anchor, constant fractional growth through 2030; three existing post-2030 extensions",
+  "benchmark_not_claimed_as_original_agency_annual_forecast": true,
+  "spatial_scope": "retain reported records; exclude explicit pure cryptocurrency in scope-matched alternatives; mixed use and power-campus quantities separately tested",
+  "no_mechanical_ERAS_nameplate_addition": true,
+  "historical_calibration_changed": false,
+  "native_annual_paths_changed": false
+}

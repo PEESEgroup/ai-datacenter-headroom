@@ -1,0 +1,26 @@
+snapshot_year,sheet,unit_key,plant_id,BA,plant_name,unit_code,prime_mover,sector,status,technology,region,nameplate_MW,summer_MW,operating_year,operating_month,retirement_year,retirement_month,operation_year,operation_month,uprate_year,uprate_month,uprate_MW,derate_year,derate_month,derate_MW,within_sheet_duplicate,conflicting_sheets,is_active_OP,known_capacity_MW,shared_capacity_member,aggregate_capacity_carrier,shared_capacity_ambiguous,capacity_for_fit_MW
+2026,Operating,1004::CT1,1004.0,MISO,Edwardsport,0001,CT,Electric Utility,OP,coal,MISO,240.6,,2013.0,6.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Operating,1004::CT2,1004.0,MISO,Edwardsport,0001,CT,Electric Utility,OP,coal,MISO,240.6,,2013.0,6.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Operating,1004::ST,1004.0,MISO,Edwardsport,0001,CA,Electric Utility,OP,coal,MISO,331.5,555.0,2013.0,6.0,,,,,,,,,,,False,False,True,555.0,False,True,False,555.0
+2026,Operating,55463::CT01,55463.0,SWPP,Redbud Power Plant,G112,CT,Electric Utility,OP,gas,SPP,198.9,,2004.0,5.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Operating,55463::CT02,55463.0,SWPP,Redbud Power Plant,G113,CT,Electric Utility,OP,gas,SPP,198.9,,2004.0,5.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Operating,55463::CT03,55463.0,SWPP,Redbud Power Plant,G114,CT,Electric Utility,OP,gas,SPP,198.9,,2004.0,5.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Operating,55463::CT04,55463.0,SWPP,Redbud Power Plant,G115,CT,Electric Utility,OP,gas,SPP,198.9,,2004.0,5.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Operating,55463::ST01,55463.0,SWPP,Redbud Power Plant,G112,CA,Electric Utility,OP,gas,SPP,159.5,307.0,2004.0,5.0,,,,,,,,,,,False,False,True,307.0,False,True,False,307.0
+2026,Operating,55463::ST02,55463.0,SWPP,Redbud Power Plant,G113,CA,Electric Utility,OP,gas,SPP,159.5,301.0,2004.0,5.0,,,,,,,,,,,False,False,True,301.0,False,True,False,301.0
+2026,Operating,55463::ST03,55463.0,SWPP,Redbud Power Plant,G114,CA,Electric Utility,OP,gas,SPP,159.5,302.0,2004.0,5.0,,,,,,,,,,,False,False,True,302.0,False,True,False,302.0
+2026,Operating,55463::ST04,55463.0,SWPP,Redbud Power Plant,G115,CA,Electric Utility,OP,gas,SPP,159.5,304.0,2004.0,5.0,,,,,,,,,,,False,False,True,304.0,False,True,False,304.0
+2026,Operating,55620::2-CT,55620.0,MISO,Perryville Power Station,,GT,Electric Utility,OP,gas,MISO,186.2,152.7,2001.0,6.0,,,,,,,,,,,False,False,True,152.7,False,False,False,152.7
+2026,Operating,55620::CT-1,55620.0,MISO,Perryville Power Station,PB01,CT,Electric Utility,OP,gas,MISO,198.9,,2002.0,6.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Operating,55620::CT-2,55620.0,MISO,Perryville Power Station,PB01,CT,Electric Utility,OP,gas,MISO,198.9,,2002.0,7.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Operating,55620::ST-1,55620.0,MISO,Perryville Power Station,PB01,CA,Electric Utility,OP,gas,MISO,240.1,574.8,2002.0,7.0,,,,,,,,,,,False,False,True,574.8,False,True,False,574.8
+2026,Operating,60302::10,60302.0,PJM,Key,CC1,CA,IPP Non-CHP,OP,gas,PJM,359.6,766.1,2018.0,7.0,,,,,2027.0,11.0,3.0,,,,False,False,True,766.1,False,True,False,766.1
+2026,Operating,60302::11,60302.0,PJM,Key,CC1,CT,IPP Non-CHP,OP,gas,PJM,235.5,,2018.0,7.0,,,,,2027.0,11.0,20.0,,,,False,False,True,,True,False,False,0.0
+2026,Operating,60302::12,60302.0,PJM,Key,CC1,CT,IPP Non-CHP,OP,gas,PJM,235.5,,2018.0,7.0,,,,,2027.0,11.0,20.0,,,,False,False,True,,True,False,False,0.0
+2026,Operating,60903::1,60903.0,ISNE,Salem Harbor Power Development LP,0001,CA,IPP Non-CHP,OP,gas,ISO-NE,158.4,337.8,2018.0,5.0,,,,,,,,,,,False,False,True,337.8,False,True,False,337.8
+2026,Operating,60903::2,60903.0,ISNE,Salem Harbor Power Development LP,0002,CA,IPP Non-CHP,OP,gas,ISO-NE,158.4,337.2,2018.0,5.0,,,,,,,,,,,False,False,True,337.2,False,True,False,337.2
+2026,Operating,60903::3,60903.0,ISNE,Salem Harbor Power Development LP,0001,CT,IPP Non-CHP,OP,gas,ISO-NE,240.7,,2018.0,5.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Operating,60903::4,60903.0,ISNE,Salem Harbor Power Development LP,0002,CT,IPP Non-CHP,OP,gas,ISO-NE,240.7,,2018.0,5.0,,,,,,,,,,,False,False,True,,True,False,False,0.0
+2026,Retired,1004::6,1004.0,MISO,Edwardsport,,ST,Electric Utility,UNKNOWN,other,MISO,35.0,40.0,1944.0,7.0,,,,,,,,,,,False,False,False,40.0,False,False,False,40.0
+2026,Retired,1004::7,1004.0,MISO,Edwardsport,,ST,Electric Utility,UNKNOWN,coal,MISO,40.2,45.0,1949.0,1.0,,,,,,,,,,,False,False,False,45.0,False,False,False,45.0
+2026,Retired,1004::8,1004.0,MISO,Edwardsport,,ST,Electric Utility,UNKNOWN,coal,MISO,69.0,75.0,1951.0,12.0,,,,,,,,,,,False,False,False,75.0,False,False,False,75.0

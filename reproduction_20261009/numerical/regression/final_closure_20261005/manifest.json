@@ -1,0 +1,527 @@
+{
+  "version": "final-closure-20261005",
+  "absolute_tolerance": 1e-10,
+  "relative_tolerance": 0,
+  "folders": [
+    "results/intervention",
+    "results/source_quality",
+    "results/targeted",
+    "results/spatial"
+  ],
+  "tables": [
+    {
+      "output": "results/intervention/SPP_anomaly_exclusion_diagnostic.csv",
+      "fixture": "intervention/SPP_anomaly_exclusion_diagnostic.csv.gz",
+      "rows": 169,
+      "keys": [
+        "ISO",
+        "pv_ratio",
+        "storage_hours"
+      ],
+      "sha256": "d6d6069b2e66e8c9d7b9a74167cacff777318d6c6eb78f46d08d35f59a85b9c2"
+    },
+    {
+      "output": "results/intervention/complete_peak_season_coverage.csv",
+      "fixture": "intervention/complete_peak_season_coverage.csv.gz",
+      "rows": 4,
+      "keys": [
+        "ISO",
+        "year"
+      ],
+      "sha256": "aa8f594dbb2b7e3e01ecee8cd04e048d93be660d5d79c974b6b4052f5662516d"
+    },
+    {
+      "output": "results/intervention/observed_summer_peak_hours_ERCOT.csv",
+      "fixture": "intervention/observed_summer_peak_hours_ERCOT.csv.gz",
+      "rows": 100,
+      "keys": [
+        "timestamp_utc",
+        "iso"
+      ],
+      "sha256": "4d92a1e9e3b7f61c14dc490e82549f365cb4ae811199516677d70b7b51e2e0ae"
+    },
+    {
+      "output": "results/intervention/observed_summer_peak_hours_MISO.csv",
+      "fixture": "intervention/observed_summer_peak_hours_MISO.csv.gz",
+      "rows": 100,
+      "keys": [
+        "timestamp_utc",
+        "iso"
+      ],
+      "sha256": "e73779f50a18ba799f8d81a55c3124f8a60fc72a65359945496bc57a68af31be"
+    },
+    {
+      "output": "results/intervention/observed_summer_peak_hours_PJM.csv",
+      "fixture": "intervention/observed_summer_peak_hours_PJM.csv.gz",
+      "rows": 100,
+      "keys": [
+        "timestamp_utc",
+        "iso"
+      ],
+      "sha256": "4b0dc0036ddd6b63e119b0259e7ccde0f0d3a958f4fb148a70a639e627bfc194"
+    },
+    {
+      "output": "results/intervention/observed_summer_peak_hours_SPP.csv",
+      "fixture": "intervention/observed_summer_peak_hours_SPP.csv.gz",
+      "rows": 100,
+      "keys": [
+        "timestamp_utc",
+        "iso"
+      ],
+      "sha256": "0b6e3d9e2a715a6330dbab96712c7b9a2528a8c2e7d791c867a82c4250358d1a"
+    },
+    {
+      "output": "results/intervention/peak_timestamp_alignment_sensitivity.csv",
+      "fixture": "intervention/peak_timestamp_alignment_sensitivity.csv.gz",
+      "rows": 36,
+      "keys": [
+        "ISO",
+        "pv_ratio",
+        "storage_hours",
+        "weather_alignment_shift_h"
+      ],
+      "sha256": "fe1fb9708eb0be10ee8e53c5029927b6efc8a63f80a3e4cb6cf097dde668d5f8"
+    },
+    {
+      "output": "results/intervention/pv_storage_fine_grid.csv",
+      "fixture": "intervention/pv_storage_fine_grid.csv.gz",
+      "rows": 676,
+      "keys": [
+        "ISO",
+        "pv_ratio",
+        "storage_hours"
+      ],
+      "sha256": "549643128a54862b22cfc5c727f7df2f77fd81931bf06c256578bb37a2fb004b"
+    },
+    {
+      "output": "results/intervention/pv_storage_site_year_cases.csv",
+      "fixture": "intervention/pv_storage_site_year_cases.csv.gz",
+      "rows": 60,
+      "keys": [
+        "ISO",
+        "pv_ratio",
+        "storage_hours",
+        "representative_id",
+        "year"
+      ],
+      "sha256": "20935a07fae2f1a65c5a418b6aae851a0c14f7f409c238615a670a2e2e3a2088"
+    },
+    {
+      "output": "results/source_quality/01_load_season_coverage.csv",
+      "fixture": "source_quality/01_load_season_coverage.csv.gz",
+      "rows": 24,
+      "keys": [
+        "ISO",
+        "year",
+        "source"
+      ],
+      "sha256": "35e04c2222e66209ad3e438ccbf8c11a6c7dd85a01fdc5ba39dc30f0ad055dc3"
+    },
+    {
+      "output": "results/source_quality/02_external_endpoint_energy_paths.csv",
+      "fixture": "source_quality/02_external_endpoint_energy_paths.csv.gz",
+      "rows": 66,
+      "keys": [
+        "quality_case",
+        "year",
+        "post2030_extension_id"
+      ],
+      "sha256": "8fb5884d730afbd61766bb3f23be79760d56b006148c5595efd4b2ad243a1d20"
+    },
+    {
+      "output": "results/source_quality/03_lower_endpoint_annual_pairs.csv.gz",
+      "fixture": "source_quality/03_lower_endpoint_annual_pairs.csv.gz",
+      "rows": 138240,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "quality_case",
+        "source_DC_timing_rule",
+        "year"
+      ],
+      "sha256": "977fd4426f4fff3a5b8b81d1af47d38036a9bd38efb7c1a23047171bbb207334"
+    },
+    {
+      "output": "results/source_quality/04_lower_endpoint_complete_paths.csv",
+      "fixture": "source_quality/04_lower_endpoint_complete_paths.csv.gz",
+      "rows": 13824,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "quality_case",
+        "source_DC_timing_rule"
+      ],
+      "sha256": "626bf784aa276be60789874e4066236712384394ad063c7e2ce35e58a1a55c2e"
+    },
+    {
+      "output": "results/source_quality/05_lower_endpoint_display_2035.csv",
+      "fixture": "source_quality/05_lower_endpoint_display_2035.csv.gz",
+      "rows": 64,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "quality_case",
+        "source_DC_timing_rule",
+        "year"
+      ],
+      "sha256": "1411ab8187c5a9a6521b2d8946d09490aedd0212b1f0511c7bcf4bc4745c9269"
+    },
+    {
+      "output": "results/source_quality/06_project_scope_classification.csv",
+      "fixture": "source_quality/06_project_scope_classification.csv.gz",
+      "rows": 1680,
+      "keys": [
+        "source_row"
+      ],
+      "sha256": "16bbece9ed04e4c086d9712afcfde0f428e4c1b338d9654abc53842b8449a8cb"
+    },
+    {
+      "output": "results/source_quality/07_shared_address_review_candidates.csv",
+      "fixture": "source_quality/07_shared_address_review_candidates.csv.gz",
+      "rows": 18,
+      "keys": [
+        "source_row"
+      ],
+      "sha256": "019b4b5f86da0f0195136cc7846ea354be69b22dcda80077e5ebfe99acb21fb6"
+    },
+    {
+      "output": "results/source_quality/08_close_coordinate_review_candidates.csv",
+      "fixture": "source_quality/08_close_coordinate_review_candidates.csv.gz",
+      "rows": 69,
+      "keys": [
+        "source_row_a",
+        "source_row_b"
+      ],
+      "sha256": "ee888a2ee4d915a840eed19ff7306e646cb02380cc00a260fbb5e8bdf3900cef"
+    },
+    {
+      "output": "results/source_quality/09_scope_matched_allocation_weights.csv",
+      "fixture": "source_quality/09_scope_matched_allocation_weights.csv.gz",
+      "rows": 280,
+      "keys": [
+        "quality_case",
+        "allocation_case",
+        "model_region"
+      ],
+      "sha256": "9fd504a99abe4e34dfed290c152331d037c0151d6a4eb80d71014d12ece27459"
+    },
+    {
+      "output": "results/source_quality/10_scope_annual_pairs.csv.gz",
+      "fixture": "source_quality/10_scope_annual_pairs.csv.gz",
+      "rows": 259200,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "quality_case",
+        "source_DC_timing_rule",
+        "year"
+      ],
+      "sha256": "c7e605214d874bcb2c316a26d3f61b2b57ffbf4861ddb6eca2f25f74eaa000cd"
+    },
+    {
+      "output": "results/source_quality/11_scope_complete_paths.csv",
+      "fixture": "source_quality/11_scope_complete_paths.csv.gz",
+      "rows": 25920,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "quality_case",
+        "source_DC_timing_rule"
+      ],
+      "sha256": "74e03b930df979f369932948db421e76afdfa440bad446032a39643a4bbfafa1"
+    },
+    {
+      "output": "results/source_quality/12_scope_display_2035.csv",
+      "fixture": "source_quality/12_scope_display_2035.csv.gz",
+      "rows": 40,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "quality_case",
+        "source_DC_timing_rule",
+        "year"
+      ],
+      "sha256": "2d4ace86fb56178e1d630031321155cd9212519ec40b9e3aad91e191ab1d5dab"
+    },
+    {
+      "output": "results/source_quality/13_gross_load_outlier_audit.csv",
+      "fixture": "source_quality/13_gross_load_outlier_audit.csv.gz",
+      "rows": 3,
+      "keys": [
+        "ISO",
+        "year",
+        "timestamp_utc",
+        "median_multiple"
+      ],
+      "sha256": "edf10b7a10a4af745312e51a2de384d88dcbd5391dbb772d482633471784a02c"
+    },
+    {
+      "output": "results/source_quality/14_campus_representatives_combined_scope_sensitivity.csv",
+      "fixture": "source_quality/14_campus_representatives_combined_scope_sensitivity.csv.gz",
+      "rows": 3027,
+      "keys": [
+        "source_row",
+        "allocation_case",
+        "quality_case"
+      ],
+      "sha256": "9a301c94957af0c883c99966600747fb155afe31dcd259a9f4bfc4f504f29ecc"
+    },
+    {
+      "output": "results/source_quality/14_campus_representatives_shared_address_single_representative.csv",
+      "fixture": "source_quality/14_campus_representatives_shared_address_single_representative.csv.gz",
+      "rows": 3122,
+      "keys": [
+        "source_row",
+        "allocation_case",
+        "quality_case"
+      ],
+      "sha256": "605bf8bd8b9107746e3c19188579552b2f45b4242f073548acf84effaf7d786e"
+    },
+    {
+      "output": "results/source_quality/15_targeted_output_field_dictionary.csv",
+      "fixture": "source_quality/15_targeted_output_field_dictionary.csv.gz",
+      "rows": 7,
+      "keys": [
+        "field"
+      ],
+      "sha256": "c33c631cfe2960634ead63bcb89f63ed9f034cfda23a76b8d5e3c584089c4d45"
+    },
+    {
+      "output": "results/source_quality/16_crypto_evidence_review.csv",
+      "fixture": "source_quality/16_crypto_evidence_review.csv.gz",
+      "rows": 48,
+      "keys": [
+        "source_row"
+      ],
+      "sha256": "a8afe6d12d31a22056d8c7a0af3560adcecaf61c50c00e1a4a74bc85e77e5884"
+    },
+    {
+      "output": "results/source_quality/reported_hourly_demand_reconstructed.csv.gz",
+      "fixture": "source_quality/reported_hourly_demand_reconstructed.csv.gz",
+      "rows": 105215,
+      "keys": [
+        "timestamp_utc",
+        "iso"
+      ],
+      "sha256": "18bb17d732d433d7e995d22148605fb8ff068a31dec3fc4130f4988f9312c581"
+    },
+    {
+      "output": "results/targeted/01_anchor_timing_annual.csv.gz",
+      "fixture": "targeted/01_anchor_timing_annual.csv.gz",
+      "rows": 207360,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "source_DC_timing_rule",
+        "year"
+      ],
+      "sha256": "8a15a869b26568aab90db27b60786186915e907e45d532d509cedd6fcb9b1fab"
+    },
+    {
+      "output": "results/targeted/02_anchor_timing_path_summary.csv",
+      "fixture": "targeted/02_anchor_timing_path_summary.csv.gz",
+      "rows": 20736,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "source_DC_timing_rule"
+      ],
+      "sha256": "0fe1b1cab5ac47c3cea34228b40738024a36e967baa525f2cb54ab79e71d2362"
+    },
+    {
+      "output": "results/targeted/03_source_anchor_timing_rules.csv",
+      "fixture": "targeted/03_source_anchor_timing_rules.csv.gz",
+      "rows": 88,
+      "keys": [
+        "planning_region",
+        "year",
+        "source_DC_timing_rule"
+      ],
+      "sha256": "c52a2fbafe3e76d0fb2fdbe111874b5432ca26b46fda3e54ea3e9b604fa79ea4"
+    },
+    {
+      "output": "results/targeted/04_timing_core_summary.csv",
+      "fixture": "targeted/04_timing_core_summary.csv.gz",
+      "rows": 32,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "source_DC_timing_rule"
+      ],
+      "sha256": "640352a93ae68985f384d0e0eefc88d2b3179660a16d938536e92e661b2173d6"
+    },
+    {
+      "output": "results/targeted/05_displayed_timing_comparison.csv",
+      "fixture": "targeted/05_displayed_timing_comparison.csv.gz",
+      "rows": 32,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "source_DC_timing_rule"
+      ],
+      "sha256": "53428e54be7687bb12f3e40942c5a0c8108875aac1042b77f9d72fc51d5d7737"
+    },
+    {
+      "output": "results/targeted/06_resource_frontier_annual.csv.gz",
+      "fixture": "targeted/06_resource_frontier_annual.csv.gz",
+      "rows": 103680,
+      "keys": [
+        "planning_region",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "source_DC_timing_rule",
+        "year"
+      ],
+      "sha256": "90fccce0a27f6f3a1ac8e0f622e78b01541ae85eca98a51c58a5eefa04bfb91d"
+    },
+    {
+      "output": "results/targeted/07_resource_frontier_paths.csv",
+      "fixture": "targeted/07_resource_frontier_paths.csv.gz",
+      "rows": 10368,
+      "keys": [
+        "planning_region",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "source_DC_timing_rule"
+      ],
+      "sha256": "762b58160c463bff8eb2dfe0862e04e3aeeadf7d48e0b84949cfca03389944f2"
+    },
+    {
+      "output": "results/targeted/08_displayed_resource_conditions.csv",
+      "fixture": "targeted/08_displayed_resource_conditions.csv.gz",
+      "rows": 16,
+      "keys": [
+        "planning_region",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "source_DC_timing_rule"
+      ],
+      "sha256": "895e8a85a9fdb5473b28f6f10947c133d1097f53dc949fa3e5489c1fa16ba010"
+    },
+    {
+      "output": "results/targeted/09_fixed_response_budget.csv",
+      "fixture": "targeted/09_fixed_response_budget.csv.gz",
+      "rows": 15552,
+      "keys": [
+        "planning_region",
+        "resource_condition",
+        "response_condition",
+        "data_center_scenario_id",
+        "post2030_extension_id",
+        "footprint_capture_case",
+        "peak_mapping_case",
+        "allocation_case",
+        "year",
+        "linked_response_fraction"
+      ],
+      "sha256": "9cc4560fb9af6bf95b56001c4a535035a2722b6b8ff3d700e54dcc94e6c8dd49"
+    },
+    {
+      "output": "results/spatial/fixed_total_weights.csv",
+      "fixture": "spatial/fixed_total_weights.csv.gz",
+      "rows": 56,
+      "keys": [
+        "allocation_case",
+        "model_region"
+      ],
+      "sha256": "b3c9602ec0eb02866dbfd082aa1ac0be9511ea653d9aaabdf825eff730f44ef6"
+    },
+    {
+      "output": "results/spatial/leave_one_project_out.csv",
+      "fixture": "spatial/leave_one_project_out.csv.gz",
+      "rows": 1967,
+      "keys": [
+        "removed_source_row",
+        "model_region"
+      ],
+      "sha256": "aee2c64a721edaf75a18945d42780a8d43cb69bc53d327550983cae502daffb2"
+    },
+    {
+      "output": "results/spatial/possible_duplicate_keys_for_review.csv",
+      "fixture": "spatial/possible_duplicate_keys_for_review.csv.gz",
+      "rows": 0,
+      "keys": [
+        "source_row"
+      ],
+      "sha256": "4562e8f4c5ad4691c7991ba74626c2a90107b3e1167bb951fedb77f7cb6332f0"
+    },
+    {
+      "output": "results/spatial/project_records_reparsed.csv",
+      "fixture": "spatial/project_records_reparsed.csv.gz",
+      "rows": 1680,
+      "keys": [
+        "source_row"
+      ],
+      "sha256": "0c69bf6b7ab3a36f6f5c7b400401de893bdf97b6bdcac8d2cc439dc86adfe2f4"
+    }
+  ],
+  "role": "Regression fixtures, not independent scientific validation or targets for new inputs",
+  "basis": "Previously independently reviewed outputs; affected scope tables audited before freezing"
+}

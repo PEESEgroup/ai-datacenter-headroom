@@ -1,0 +1,16 @@
+{
+  "original_sha256": "e6bf54870f8ccd8944c4b56cd387ee68d77db02482d82d1ef65fb0e71a2be212",
+  "retained_helpers": [
+    "BA_TO_REGION",
+    "find_header",
+    "normalize_key",
+    "read_860m",
+    "stage_group",
+    "status_code"
+  ],
+  "function_bodies_unchanged": false,
+  "removed_scope": "unused target-season audit main and helpers",
+  "intentional_change": "read_860m preserves literal identifier NA; only blank cells are missing at import",
+  "active_parser_sha256": "1f46a49c4ff53a31aab771f4a4ff8d157a76b14bebdac238fce91ebc641d9a59",
+  "correction_verified_records_added": 21
+}

@@ -1,0 +1,26 @@
+Region/condition,Linked \%,No-new balance,With-path balance,DC pressure,Added need
+Region/condition,Linked \%,No-new balance,With-path balance,DC pressure,Added need
+ERCOT A/current,0,-30.28,-42.99,12.71,12.71
+ERCOT A/current,50,-30.28,-42.99,12.71,12.71
+ERCOT A/current,100,-30.28,-42.99,12.71,12.71
+ERCOT A/published,0,36.64,23.93,12.71,0.00
+ERCOT A/published,50,22.42,16.07,6.35,0.00
+ERCOT A/published,100,8.20,8.20,0.00,0.00
+ERCOT P/current,0,67.93,55.22,12.71,0.00
+ERCOT P/current,50,67.93,55.22,12.71,0.00
+ERCOT P/current,100,67.93,55.22,12.71,0.00
+ERCOT P/published,0,134.85,122.14,12.71,0.00
+ERCOT P/published,50,120.63,114.28,6.35,0.00
+ERCOT P/published,100,106.41,106.41,0.00,0.00
+MISO A/current,0,4.99,-3.72,8.71,3.72
+MISO A/current,50,0.48,-6.23,6.71,6.23
+MISO A/current,100,-4.03,-8.73,4.70,4.70
+MISO A/published,0,4.99,-3.72,8.71,3.72
+MISO A/published,50,0.48,-6.23,6.71,6.23
+MISO A/published,100,-4.03,-8.73,4.70,4.70
+MISO P/current,0,18.52,9.81,8.71,0.00
+MISO P/current,50,14.01,7.30,6.71,0.00
+MISO P/current,100,9.50,4.80,4.70,0.00
+MISO P/published,0,18.52,9.81,8.71,0.00
+MISO P/published,50,14.01,7.30,6.71,0.00
+MISO P/published,100,9.50,4.80,4.70,0.00

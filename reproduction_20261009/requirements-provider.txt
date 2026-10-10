@@ -1,0 +1,6 @@
+-r numerical/requirements.txt
+xarray==2025.1.2
+netCDF4==1.7.2
+cftime==1.6.6
+packaging==26.3
+certifi==2026.7.22

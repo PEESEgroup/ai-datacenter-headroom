@@ -1,0 +1,18 @@
+{
+  "annual_energy_invariant": "weighted mean of each normalized complete shape equals one",
+  "day_weights": {
+    "weekday": 0.7142857142857143,
+    "weekend": 0.2857142857142857
+  },
+  "annual_template_assumption": "repeat the selected day-type template; months are shape scenarios, not an annual seasonal reconstruction",
+  "shape_case_labels": {
+    "low": "March-template",
+    "avg": "average-template",
+    "high": "October-template"
+  },
+  "presentation_url": "https://www.energy.ca.gov/sites/default/files/2025-11/2025_IEPR_Preliminary_Data_Center_Forecast_ada.pdf",
+  "methodology_url": "https://www.energy.ca.gov/sites/default/files/2026-04/Data_Center_Methodology_Memo_ada.pdf",
+  "digitization_precision_percentage_points": 0.1,
+  "peak_window_policy": "unchanged 2025 JJA mean-diurnal diagnostic; not observed annual maximum or PV top-100 hours",
+  "choice_independent_of_balance_results": true
+}

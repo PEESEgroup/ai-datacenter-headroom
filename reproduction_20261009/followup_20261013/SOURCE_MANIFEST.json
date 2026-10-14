@@ -1,0 +1,62 @@
+{
+  "version": "targeted-followup-20261013",
+  "core_baseline_commit": "397b900911e633806ce4cef767274b11693dca62",
+  "author_original_source_checks": true,
+  "source_checks_are_not_independent_validation": true,
+  "public_runner_rereads_raw_provider_archives": false,
+  "upstream_provider_documents_included": false,
+  "sources": [
+    {
+      "id": "pjm_rrs",
+      "url": "https://www.pjm.com/-/media/DotCom/planning/res-adeq/elcc/2025-pjm-elcc-rrs.pdf",
+      "archive_sha256": "3b41abcdb9b5b3c56c945c2246fbe8791729620956c1e7cd0e8aee50fe1cb203",
+      "source_date": "2025-10-22",
+      "extraction": "Table 4, printed/PDF p. 12",
+      "standardized_input": "inputs/pjm_rrs_table4.csv"
+    },
+    {
+      "id": "miso_oms",
+      "url": "https://cdn.misoenergy.org/20250606%20OMS%20MISO%20Survey%20Results%20Workshop%20Presentation702311.pdf",
+      "archive_sha256": "65b90c912b0ed84df346dc8fd14a587f7eff0f4c0aa70eb4e4d51dfe5f7fbd27",
+      "source_date": "2025-06-06",
+      "extraction": "Slides 7 and 11; rounded chart labels",
+      "standardized_input": "inputs/miso_oms_summer_components.csv"
+    },
+    {
+      "id": "ceres",
+      "url": "https://ceres.larc.nasa.gov/documents/DQ_summaries/CERES_SYN1deg_Ed4A_DQS_V1.pdf",
+      "archive_sha256": "133a629c62727ca2ba8f848c56d917406962850e92d10530ce4c33692090b7a1",
+      "source_date": "2025-05-08",
+      "extraction": "Printed p. 13; PDF p. 18",
+      "standardized_input": "inputs/ceres_hourbox.json"
+    },
+    {
+      "id": "power",
+      "url": "https://power.larc.nasa.gov/docs/services/api/temporal/hourly/",
+      "extraction": "Headers and unit metadata for twenty author-checked archives",
+      "standardized_input": "inputs/power_header_snapshots.json"
+    }
+  ],
+  "packaged_inputs": [
+    {
+      "path": "inputs/ceres_hourbox.json",
+      "sha256": "a0669cde40d5afa26a82ce142b29241f1cb137bc3da3160b67a29ebbbedfa997"
+    },
+    {
+      "path": "inputs/miso_oms_summer_components.csv",
+      "sha256": "00e8487760b750db752b4059a35fd39fdd216af81d59bc5b2863c2e3ba860742"
+    },
+    {
+      "path": "inputs/pjm_rrs_table4.csv",
+      "sha256": "2a3bb4f1144817d7a31141a2a820afc948a49e8d9145fb356eb1b50947903067"
+    },
+    {
+      "path": "inputs/power_header_snapshots.json",
+      "sha256": "207c8640bd981de44ece515df2c0e4e018f8c26b8235dc8d245c6ff2a487e487"
+    },
+    {
+      "path": "inputs/regional_study_comparison.csv",
+      "sha256": "0548c5e0fcdd6a87e2b45e0d51204e97a818ef2cd59c3fb40e597e8c4cdda446"
+    }
+  ]
+}

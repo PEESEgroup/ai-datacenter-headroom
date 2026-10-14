@@ -1,0 +1,12 @@
+{
+  "source": "CERES SYN1deg Ed4A Data Quality Summary V1, updated 8 May 2025",
+  "printed_page": 13,
+  "pdf_page": 18,
+  "time_basis": "GMT",
+  "first_hourbox_start": "00:00",
+  "first_hourbox_end": "01:00",
+  "nominal_midpoint": "00:30",
+  "shortwave_midpoint": "integrated solar-zenith-cosine weighting",
+  "power_export_interval_mapping_certified": false,
+  "interpretation": "Upstream convention, not certification of retained POWER export labels."
+}

@@ -1,0 +1,22 @@
+\begingroup\footnotesize\setlength{\tabcolsep}{3pt}\renewcommand{\arraystretch}{1.15}
+\ifrevisionmarkup\color{revisionblue}\captionsetup{font+={color=revisionblue},labelfont+={color=revisionblue}}\fi
+\begin{longtable}{llrrrrr}
+\caption{Peak-window and label sensitivity for the displayed PV--storage configurations.}\label{tab:pv-peak-window-followup}\\
+\toprule Region & PV/storage & Top 50 & Top 100 & Top 200 & All checks min & All checks max \\\midrule\endfirsthead
+\toprule Region & PV/storage & Top 50 & Top 100 & Top 200 & All checks min & All checks max \\\midrule\endhead
+\bottomrule\endfoot
+PJM & 1x/0h & 99.6 & 100.0 & 100.0 & 95.7 & 100.0 \\
+PJM & 2x/4h & 99.1 & 100.0 & 100.0 & 90.3 & 100.0 \\
+PJM & 3x/8h & 17.3 & 18.7 & 45.8 & 10.6 & 76.1 \\
+MISO & 1x/0h & 95.1 & 99.2 & 99.3 & 87.3 & 100.0 \\
+MISO & 2x/4h & 90.1 & 98.3 & 98.6 & 59.5 & 100.0 \\
+MISO & 3x/8h & 22.7 & 29.1 & 32.7 & 13.8 & 49.8 \\
+SPP & 1x/0h & 96.4 & 98.4 & 99.4 & 88.7 & 100.0 \\
+SPP & 2x/4h & 87.8 & 92.1 & 98.6 & 45.5 & 100.0 \\
+SPP & 3x/8h & 14.3 & 17.6 & 20.1 & 1.7 & 40.0 \\
+ERCOT & 1x/0h & 93.0 & 94.1 & 99.8 & 80.3 & 100.0 \\
+ERCOT & 2x/4h & 59.4 & 77.5 & 98.6 & 15.5 & 100.0 \\
+ERCOT & 3x/8h & 6.8 & 5.0 & 16.4 & 1.0 & 20.0 \\
+\end{longtable}
+\tabnote{Entries are P95 residual demand as a percentage of the constant load, after hourly averaging of five independently dispatched sites. Top-50/100/200 columns use nominal labels; the final columns span all three windows and all three label offsets (-1, 0, +1 h). Windows are nested selections from the same qualifying 2025 summer, not independent experiments or statistical confidence intervals. The physical conversion, dispatch and annual energy outputs are unchanged. The 100-hour nominal column reproduces the existing main-figure values. No offset is selected on performance.}
+\endgroup

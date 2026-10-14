@@ -1,6 +1,7 @@
 # Data-center growth and regional planning scenarios
 
-Current reproduction package: **WECC-California-aligned revision, 9 October 2026**.
+Current reproduction package: **WECC-California-aligned core, 9 October 2026,
+with the targeted follow-up added on 13 October 2026**.
 This folder contains code, standardized inputs and figure/table data. It does not
 contain the paper, Supplementary Information, reviewer reports or response letters.
 The earlier repository files remain available separately.
@@ -38,6 +39,7 @@ run ends with `status: passed` in `package_reproduction_verification.json`.
 | Recomputed full-precision results | `numerical/results` and the corresponding support output directories, created by the runner |
 | Figure/table data | `plotting_tables`, `source_data`, `display_tables`, `SOURCE_DATA_INDEX.csv` |
 | Same-year 2025 PV comparison | `plotting_tables/pv_2025_configuration_comparison.csv` |
+| Regional input reconciliation and peak windows (Tables 69-70) | `followup_20261013/inputs`, `followup_20261013/expected` |
 
 Large fixtures are stored losslessly compressed and restored automatically.
 Retained earlier results serve as comparison fixtures, not inputs to the model.
@@ -45,6 +47,18 @@ The eight geographic weighting rules and California-aligned regional outputs
 are used in this version. California denotes the WECC-California planning area,
 not CAISO alone. The default run uses the frozen geographic crosswalk; it does
 not rebuild every upstream GIS asset or render the publication figures.
+
+## Run the added checks without rerunning the main model
+
+```sh
+python -B followup_20261013/run_followup.py
+```
+
+This separate entry rebuilds regional input reconciliation and 50/100/200-hour
+PV peak-window checks from the frozen core inputs. It does not trigger the
+annual builder or full PV grid. It also extracts retained contribution evidence.
+See `followup_20261013/README.md` for outputs, source metadata and the limits of
+the time-alignment checks. The main `run_reproduction.py` entry is unchanged.
 
 ## Interpretation
 

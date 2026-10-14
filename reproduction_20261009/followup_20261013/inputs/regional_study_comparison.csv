@@ -1,0 +1,4 @@
+region,report,report_date,report_period,source_page,source_table,external_metric_1,external_value_1_GW,external_metric_2,external_value_2_GW,study_summer_year,study_response_condition,study_anticipated_GW,study_prospective_GW,source_url
+MISO,2025 OMS-MISO Resource Adequacy Survey fact sheet,2025-06,2027/28,1-2,,summer_SAC_historical_bookend,-1.4,summer_SAC_emerging_bookend,6.4,2027,published_all,3.5223589999999967,10.194641000000004,https://cdn.misoenergy.org/2025%20OMS-MISO%20Survey%20Fact%20Sheet702641.pdf
+PJM,2025 PJM ELCC/RRS,2025-10-22,2028/29,12,4,ICAP_surplus,-5.491,UCAP_surplus,-4.189,2028,published_all,3.928118000000017,59.99541600000003,https://www.pjm.com/-/media/DotCom/planning/res-adeq/elcc/2025-pjm-elcc-rrs.pdf
+PJM,2025 PJM ELCC/RRS,2025-10-22,2035/36,12,4,ICAP_surplus,-40.043,UCAP_surplus,-26.734,2035,published_all,-70.50719400000001,-30.09339400000003,https://www.pjm.com/-/media/DotCom/planning/res-adeq/elcc/2025-pjm-elcc-rrs.pdf

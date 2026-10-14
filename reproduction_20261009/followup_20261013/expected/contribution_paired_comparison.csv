@@ -1,0 +1,5 @@
+planning_region,resource_condition,response_condition,source_path_removed_balance_GW,replacement_balance_GW,dc_path_pressure_contribution_GW,dc_added_required_contribution_GW
+ERCOT,anticipated,current_only,-30.27686875,-42.98546192775187,12.708593177751872,12.708593177751872
+ERCOT,anticipated,published_all,36.64055,23.931956822248125,12.708593177751872,0.0
+MISO,anticipated,published_all,4.989814000000001,-3.7203331234386816,8.710147123438682,3.7203331234386816
+MISO,prospective,published_all,18.518208,9.80806087656132,8.71014712343868,0.0

@@ -28,3 +28,10 @@ protocol files and `INPUTS_AND_SCOPE.md`.
 
 Processed tables and factual measurements should be reused with the study and
 source attribution. Do not assume that the code license changes upstream terms.
+
+The 13 October follow-up adds factual transcriptions from the OMS-MISO survey
+workshop and PJM ELCC/RRS study, retained NASA POWER header metadata and CERES
+hour-box facts. URLs, dates, pages and source hashes are recorded in
+`followup_20261013/SOURCE_MANIFEST.json`. Original provider PDFs and bulk archives
+are not redistributed in this addition. Author-written processing code remains
+MIT-licensed; upstream terms are unchanged.

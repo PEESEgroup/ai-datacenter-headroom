@@ -15,3 +15,4 @@ support/inventory/[0-9][0-9]_*.csv
 /support/expected/inventory/01_full_inventory_ledger.csv
 /support/expected/inventory/04_target_active_cohorts.csv
 /support/expected/inventory/10_unit_predictions.csv
+followup_20261013/results/

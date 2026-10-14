@@ -1,0 +1,13 @@
+{
+  "miso_endpoint_pct": 57.28736758731212,
+  "miso_all_year_pct": 51.0475807889052,
+  "miso_limiting_year": 2034,
+  "ercot_anticipated_all_year_response_pct": 87.64431012878727,
+  "contribution": "Data-grounded regional--annual supply--demand scenario framework and conditional planning judgments",
+  "not_claimed": [
+    "new balance identity",
+    "nodal power flow",
+    "optimized investment portfolio",
+    "validated future reliability prediction"
+  ]
+}

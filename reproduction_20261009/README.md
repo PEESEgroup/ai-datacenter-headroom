@@ -1,7 +1,8 @@
 # Data-center growth and regional planning scenarios
 
 Current reproduction package: **WECC-California-aligned core, 9 October 2026,
-with the targeted follow-up added on 13 October 2026**.
+with the targeted follow-up added on 13 October 2026 and repeat-run packaging
+fixes on 15 October 2026**.
 This folder contains code, standardized inputs and figure/table data. It does not
 contain the paper, Supplementary Information, reviewer reports or response letters.
 The earlier repository files remain available separately.
@@ -42,6 +43,10 @@ run ends with `status: passed` in `package_reproduction_verification.json`.
 | Regional input reconciliation and peak windows (Tables 69-70) | `followup_20261013/inputs`, `followup_20261013/expected` |
 
 Large fixtures are stored losslessly compressed and restored automatically.
+This includes the pre-alignment comparison cube. Generated CEC source hashes
+are written to `numerical/results/cec_source_hashes.csv`, leaving the frozen
+source files unchanged on repeat runs. Packaging regression tests can be run
+with `python -B -m unittest discover -s tests -v`.
 Retained earlier results serve as comparison fixtures, not inputs to the model.
 The eight geographic weighting rules and California-aligned regional outputs
 are used in this version. California denotes the WECC-California planning area,

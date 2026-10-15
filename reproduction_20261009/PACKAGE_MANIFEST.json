@@ -1,5 +1,5 @@
 {
-  "version": "wecc-california-reproduction-20261013-followup",
+  "version": "wecc-california-reproduction-20261015-packaging-fix",
   "requires_companion": false,
   "author_manuscript_or_SI_included": false,
   "core_baseline_commit": "397b900911e633806ce4cef767274b11693dca62",
@@ -13,13 +13,13 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 390,
-      "sha256": "91d43c69b3dffea66b20be89a3aaf997a6edd3087b5ac84d66f33217cb2be9da"
+      "bytes": 395,
+      "sha256": "5de831827eacb676a4ec0293cb0f502902f9408e9d7ebce74733b5bfc8202cc2"
     },
     {
       "path": "COMPRESSED_FILES.json",
-      "bytes": 809,
-      "sha256": "9e2f06bf1d5fd8b0011b7276f12167ae93b08564b7697280f645ef1b87efff61"
+      "bytes": 1091,
+      "sha256": "ddce17ab311a46f0eac9552b86a21b66b96de9ea6493b4e87381b066fe9e4be1"
     },
     {
       "path": "INPUTS_AND_SCOPE.md",
@@ -33,8 +33,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3882,
-      "sha256": "4f17ed4c3e585b55bb833dc718a69abd1a1ab0fc03e782e246b5bf5b7a894402"
+      "bytes": 4214,
+      "sha256": "381cc9f1970664e4a82616bcade746c818040e7fbeb580af7dfa1eba1eca7a74"
     },
     {
       "path": "SOURCE_DATA_INDEX.csv",
@@ -1558,8 +1558,8 @@
     },
     {
       "path": "numerical/scripts/build_fixed_energy_mapping.py",
-      "bytes": 4997,
-      "sha256": "1ca1e4e3831f92d1321967688b8410306335904a3103b2bc9b19f95ec4240e46"
+      "bytes": 5073,
+      "sha256": "e1135caa58c00370d18cbb1ded303a334f0b06e7dc23c4c517d159387fe7aa38"
     },
     {
       "path": "numerical/scripts/build_lbnl2025_scenario_update.py",
@@ -2732,9 +2732,16 @@
       "sha256": "ccdce453b1df6fc2f74fc3448ca5c81537c179e2b3a6251749181acf3f673a0d"
     },
     {
+      "path": "tests/test_reproduction_integrity.py",
+      "bytes": 3882,
+      "sha256": "43abbf94cd03a50e652d62909db2c62629fa7da661a3b81fd2ff68771cad90e9"
+    },
+    {
       "path": "verify_package.py",
       "bytes": 1386,
       "sha256": "2d7f336794af7cb57d8e759784f7c33856ba3059b603b81b83e8c0ff33d90e3c"
     }
-  ]
+  ],
+  "packaging_fix_parent": "3102ab249b2970e65706fdc7a59db52183685fb2",
+  "scientific_rules_and_frozen_results_unchanged": true
 }

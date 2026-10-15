@@ -57,8 +57,10 @@ def build():
     pd.DataFrame(checks).to_csv(ROOT / "results/140_fixed_energy_mapping_qa.csv", index=False)
     manifest = []
     for path in sorted(SOURCE.glob("cec*")):
+        if path.name == "cec_provenance_hashes.csv":
+            continue
         manifest.append({"file": path.name, "sha256": hashlib.sha256(path.read_bytes()).hexdigest()})
-    pd.DataFrame(manifest).to_csv(SOURCE / "cec_provenance_hashes.csv", index=False)
+    pd.DataFrame(manifest).to_csv(ROOT / "results/cec_source_hashes.csv", index=False)
     protocol = {"annual_energy_invariant": "weighted mean of each normalized complete shape equals one",
                 "day_weights": DAY_WEIGHTS, "annual_template_assumption": "repeat the selected day-type template; months are shape scenarios, not an annual seasonal reconstruction",
                 "shape_case_labels": {"low": "March-template", "avg": "average-template", "high": "October-template"},

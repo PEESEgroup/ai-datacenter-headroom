@@ -1,5 +1,10 @@
 [
   {
+    "stored": "compressed_fixtures/alignment/baseline/results/104_annual_scenario_cube_v1_2.csv.gz",
+    "target": "alignment/baseline/results/104_annual_scenario_cube_v1_2.csv",
+    "uncompressed_sha256": "305976d7a332a6c7b53439b7ce565c7d975281c7d68ff583117d0740253706d1"
+  },
+  {
     "stored": "compressed_fixtures/support/expected/inventory/01_full_inventory_ledger.csv.gz",
     "target": "support/expected/inventory/01_full_inventory_ledger.csv",
     "uncompressed_sha256": "53338c7496dbe466b637022e46684a013ec68f5ac062b5b371e014e28c10519b"

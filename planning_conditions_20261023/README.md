@@ -1,6 +1,6 @@
 # Annual planning conditions and PJM load-evidence extension
 
-This small extension uses the retained standardized inputs, official PJM forecast workbooks and PJM's operational-load accuracy report. It does not rebuild, refit or change the main annual model.
+This extension uses retained standardized inputs, official PJM forecast workbooks and PJM's operational-load accuracy report. It also provides the current paired comparisons with ERCOT load-pool consistency. It does not refit or change the official-demand regional model.
 
 ## Run
 
@@ -11,6 +11,9 @@ python -B plot_conditions.py
 python -B run_empirical.py
 python -B -m unittest -v test_analysis.py test_empirical.py
 python -B plot_empirical.py
+python -B run_pool_consistency.py
+python -B -m unittest -v test_pool_consistency.py
+python -B plot_pool_conditions.py
 ```
 
 Python, NumPy, pandas, openpyxl, PyMuPDF and Matplotlib are required. No network connection is needed to run the packaged calculations. Third-party source workbooks and reports retain provider terms; author-written analysis code follows the baseline repository's MIT license.
@@ -48,3 +51,15 @@ Original sources are in `sources/accuracy`. Full source-cell records, coverage, 
 ## Outputs
 
 Full-precision CSVs report the frontiers, exact binding-year segments, selected resource/growth conditions, all 80 PJM annual condition-vintage rows and the eight complete-path summaries. JSON reports the ERCOT magnitude comparison and calculation checks. Rounded publication tables are downstream displays; the numerical results retain full precision. No scenario counts are interpreted as probabilities, no reliability risk is calculated, and no regional native-capacity totals are added together.
+
+## Current ERCOT paired outputs
+
+`run_pool_consistency.py` is the current paired-calculation entry. It reads compact standardized inputs in `pool_inputs` and writes `pool_results`. It supersedes **ERCOT published-response paired** balances, pressure, growth limits, lower-demand and geographic sensitivities in the earlier `reproduction_20261009` outputs. Those older outputs reproduce the earlier zero/half/full-association version, not an alternative current default. MISO results, ERCOT current-only response and all official-demand regional balances remain unchanged.
+
+NERC printed p. 131 labels DC additions as end-of-year and its large-load/curtailment table as summer. The scenario maps each DC anchor to the corresponding summer planning year, within the total large-load pool, without claiming an observed monthly profile. It removes associated response whenever retaining it would exceed remaining large-load demand. Both background and candidate worlds must pass this necessary bound. Under linear source timing the minimum common association is 66.1330%, set by 2030; the 2035-only minimum, 55.6068%, is insufficient for a common ten-year setting. Other source timing rules recompute the bound.
+
+`association_grid_position` is 0, 0.5 or 1 within the permitted association interval; it is **not** the associated fraction itself. `linked_response_fraction` is the actual fraction of the available source-associated response bound. MISO's interval remains [0,1]. ERCOT published-response pairs use [chi_min,1]; current-only excludes provisional association. `official_linked_response_GW` and `candidate_linked_response_GW` contain the quantities actually used. `background_pool_slack_GW`, `candidate_pool_slack_GW` and `fixed_budget_pool_slack_GW` are nonnegative in applicable current ERCOT pairs; NaN means that provisional pool check is not applicable, not missing demand. The two 2025 inputs are comparison anchors, not annual outcome rows.
+
+`annual_pairs.csv.gz` retains 388,800 annual outcomes and 38,880 complete paths. The primary grid has 51,840 points, 648 paths per region/resource/response condition. Timing, lower-endpoint and scope outputs retain all existing cases under the revised rule. `legacy_association_check.csv` explicitly identifies the old failing backgrounds. `miso_2034_resource_perturbation.csv` reports a resource-only local break-even check: +0.5034376 native GW in 2034 removes the displayed endpoint omission. This is not a refit or an estimated uncertainty distribution.
+
+`plot_pool_conditions.py` builds the updated Fig. 4 PNG using current paired results and the unchanged joint frontiers from `run_analysis.py`. In its lower panels MISO uses a matched candidate background; ERCOT uses official demand. The upper scales report 2035 native resource GW, not nameplate capacity. Twelve additional tests cover the pool correction, alongside the nineteen retained tests.

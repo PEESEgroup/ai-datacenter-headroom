@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "annual_pairs": 388800,
+  "complete_paths": 38880,
+  "primary_annual_points": 51840,
+  "primary_complete_paths": 5184,
+  "ERCOT_linear_common_minimum_fraction": 0.6613304347826087,
+  "ERCOT_linear_binding_year": 2030,
+  "minimum_background_pool_slack_GW": 0.0,
+  "minimum_candidate_pool_slack_GW": 1.3689177952826324,
+  "miso_endpoint_omission_GW": 0.503437633434717,
+  "main_model_refitted": false,
+  "source_time_mapping": "End-of-year DC anchors used as summer planning equivalents; annual source total and provisional response retain summer basis",
+  "primary_association": "Minimum common full-horizon fraction satisfying both load-pool sides; sensitivity at feasible-interval midpoint and upper endpoint"
+}

@@ -2,6 +2,12 @@
 
 ## Current revised analysis: 23 October 2026
 
+**Current paired results:** run `planning_conditions_20261023/run_pool_consistency.py`.
+Its `pool_results` supersede the earlier ERCOT published-response paired outputs
+in the baseline package, with annual large-load/curtailment bounds on both sides.
+MISO, ERCOT current-only and official-demand balances are unchanged. See
+[the current-output map](CURRENT_RESULTS.md) before selecting results.
+
 The current code-and-data package is in **[reproduction_20261009](reproduction_20261009/README.md)**.
 It reproduces the annual regional scenarios, matched growth-path comparisons,
 reviewed project-scale weights and physical-hour PV-storage results from packaged
@@ -15,16 +21,19 @@ extension reproduces the joint annual growth-resource and resource-response
 conditions, the PJM 2025-to-2026 forecast-vintage comparison, reported operating-load
 comparisons and the same-source ERCOT large-load scale ratios. It includes original
 public source reports and workbooks, standardized inputs, full-precision outputs,
-two supplementary plots and 19 focused tests. It runs without network access and
-does not rebuild or recalibrate the baseline model. The baseline files are unchanged.
+the updated Fig. 4, supplementary plots and 31 focused tests. It runs without
+network access and does not recalibrate the baseline model. Baseline files are
+retained for provenance; corrected paired outputs are in the extension.
 
 ```sh
 cd planning_conditions_20261023
 python -B run_analysis.py
 python -B run_empirical.py
-python -B -m unittest -v test_analysis.py test_empirical.py
+python -B run_pool_consistency.py
+python -B -m unittest -v test_analysis.py test_empirical.py test_pool_consistency.py
 python -B plot_conditions.py
 python -B plot_empirical.py
+python -B plot_pool_conditions.py
 ```
 
 See the extension's pinned `requirements.txt`, input manifest and package manifest

@@ -1,0 +1,22 @@
+{
+  "candidate_paths.csv.gz": {
+    "source": "numerical/results/contribution/01_annual_paired_outcomes.csv.gz",
+    "sha256": "c7e87c4cb2425f9ac642777cc0ecdadf9c69daadc8d6e2429f82091c3ee70cf3",
+    "rows": 12960
+  },
+  "native_conditions.csv": {
+    "source": "numerical/seasonal_resource_ledger_20261004/03_corrected_condition_panel.csv",
+    "sha256": "9254339b62871d56db4d74667e57a5c449e441106187b9f2a85786d95e5fdf8a",
+    "rows": 1050
+  },
+  "lower_candidates.csv.gz": {
+    "source": "numerical/results/source_quality/03_lower_endpoint_annual_pairs.csv.gz",
+    "sha256": "ff5dab3960b749a674b70ebb7ad6f9af15c46446ffb9516b94fbfe09ab316e4d",
+    "rows": 8640
+  },
+  "scope_candidates.csv.gz": {
+    "source": "numerical/results/source_quality/10_scope_annual_pairs.csv.gz",
+    "sha256": "52e6e65fb12143d1016dd82726469e814fa3cded0a49f08c1041879ef08c92e1",
+    "rows": 64800
+  }
+}

@@ -1,3 +1,4 @@
+Scenario set,Paths,Finite,Infeasible,Unbounded,Endpoint misses \\\midrule
 "Core, zero association",5184,4536,648,0,1728
 "Core, all associations",15552,9720,4536,1296,3888
 "Core + timing, zero association",12960,7776,5184,0,6840

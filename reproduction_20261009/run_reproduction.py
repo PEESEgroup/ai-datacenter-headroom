@@ -18,11 +18,14 @@ def main():
     destination.write_text(json.dumps(record, indent=2) + '\n')
     try:
         verify()
-        commands = ['rebuild_backbone.py', 'alignment/run_aligned.py',
+        commands = ['rebuild_backbone.py', 'default_weight_update/run_scenarios.py',
                     'support/run_support.py', 'support/price/audit_zero_load.py',
                     'support/run_physical_supplements.py', 'build_figure_data.py',
-                    'alignment/audit_alignment.py', 'alignment/boundary_sensitivity.py',
-                    'alignment/sync_reader_exports.py', 'export_2025_pv_comparison.py']
+                    'alignment/boundary_sensitivity.py',
+                    'alignment/sync_reader_exports.py', 'export_2025_pv_comparison.py',
+                    'default_weight_update/refresh_exports.py', 'physical_intervals/export_current.py',
+                    'default_weight_update/run_diagnostics.py', 'default_weight_update/audit_current.py',
+                    'followup_20261013/regional_checks.py']
         for command in commands:
             start = time.perf_counter()
             run = subprocess.run([sys.executable, '-B', str(ROOT / command)], cwd=ROOT)

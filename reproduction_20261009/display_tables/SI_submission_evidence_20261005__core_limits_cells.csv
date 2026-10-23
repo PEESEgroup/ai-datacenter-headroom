@@ -1,8 +1,9 @@
+Region,Condition,$\lambda_{all}$,Finite,Infeasible,Endpoint misses \\\midrule
 ERCOT,A/cap,Infeasible,0,648,0
-ERCOT,A/pub.,1.224--7.661,648,0,0
-ERCOT,P/cap,2.269--14.203,648,0,0
-ERCOT,P/pub.,4.504--28.194,648,0,0
-MISO,A/cap,0.221--1.059,648,0,648
-MISO,A/pub.,0.221--1.059,648,0,648
-MISO,P/cap,0.854--4.537,648,0,216
-MISO,P/pub.,0.854--4.537,648,0,216
+ERCOT,A/pub.,1.029--7.969,648,0,0
+ERCOT,P/cap,1.907--14.775,648,0,0
+ERCOT,P/pub.,3.787--29.329,648,0,0
+MISO,A/cap,0.185--1.052,648,0,648
+MISO,A/pub.,0.185--1.052,648,0,648
+MISO,P/cap,0.717--4.508,648,0,216
+MISO,P/pub.,0.717--4.508,648,0,216

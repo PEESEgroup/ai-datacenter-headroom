@@ -1,10 +1,9 @@
 Allocation,PJM,MISO,SPP,ERCOT,NYISO,ISO-NE,California
-Allocation,PJM,MISO,SPP,ERCOT,NYISO,ISO-NE,California
-broad reported MW,40.6,15.8,18.4,22.0,2.0,0.2,0.9
+broad reported MW,41.0,18.0,12.5,25.0,2.3,0.2,1.0
 broad site count,54.5,15.0,7.1,16.9,1.9,1.0,3.7
 core site count,53.6,15.3,7.6,16.9,1.7,1.1,3.9
-high evidence reported MW,44.0,14.3,21.9,18.9,0.3,0.0,0.5
-reported MW high imputation,42.2,15.4,19.5,20.5,1.3,0.2,0.9
-reported MW low imputation,40.9,14.9,19.2,22.0,1.6,0.2,1.0
-reported MW reference imputation,41.6,15.2,19.4,21.2,1.4,0.2,0.9
-reported plus size proxy,42.8,16.7,17.7,20.7,1.2,0.2,0.8
+high evidence reported MW,48.4,19.9,4.3,26.2,0.4,0.0,0.7
+Reported MW upper endpoint,42.3,18.1,12.6,24.2,1.5,0.2,1.0
+Reported MW lower endpoint,42.0,16.6,13.6,24.6,1.8,0.3,1.2
+Reported MW midpoint,42.2,17.4,13.1,24.4,1.6,0.2,1.1
+reported plus size proxy,43.4,18.7,12.3,23.2,1.3,0.2,0.9

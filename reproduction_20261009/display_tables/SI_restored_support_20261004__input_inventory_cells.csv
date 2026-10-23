@@ -1,14 +1,13 @@
-Dependency,Rows,Columns,Availability
-Dependency,Rows,Columns,Availability
-batch4 region year,70,33,available
-batch4 source manifest,1,6,available
-batch4 extended manifest,13,4,available
-batch8 holdout,150,44,available
-batch8 metrics,52,7,available
-batch10 ontology,7,17,available
-batch10 condition matrix,420,17,available
-batch10 dc crosswalk,7,15,available
-batch11 vintage ledger,8,8,available
-batch11 dc identification,77,9,available
-batch12 miso dr,30,12,available
-batch12 pjm vintages,80,7,available
+Panel or record,Rows,Columns,Availability
+Regional annual planning inputs,70,33,available
+Primary-source provenance,1,6,available
+Additional-source provenance,13,4,available
+Historical forecast--outcome cases,150,44,available
+Historical comparison summaries,52,7,available
+Regional capacity definitions,7,17,available
+Resource--response conditions,420,17,available
+Embedded-load source crosswalk,7,15,available
+Planning-vintage comparisons,8,8,available
+Data-center component identification,77,9,available
+MISO response-association alternatives,30,12,available
+PJM cross-vintage comparisons,80,7,available

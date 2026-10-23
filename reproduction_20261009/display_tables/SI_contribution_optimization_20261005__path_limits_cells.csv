@@ -1,8 +1,9 @@
+Region,Condition,2035 only,All years,Limiting year,Min. $B$ at endpoint limit \\\midrule
 ERCOT,A/cap,Infeasible,Infeasible,--,--
-ERCOT,A/pub.,288.3\%,288.3\%,2035,0.00
-ERCOT,P/cap,534.5\%,534.5\%,2035,0.00
-ERCOT,P/pub.,1061.1\%,1061.1\%,2035,0.00
-MISO,A/cap,57.3\%,51.0\%,2034,-0.50
-MISO,A/pub.,57.3\%,51.0\%,2034,-0.50
-MISO,P/cap,212.6\%,212.6\%,2035,0.00
-MISO,P/pub.,212.6\%,212.6\%,2035,0.00
+ERCOT,A/pub.,261.1\%,261.1\%,2035,0.00
+ERCOT,P/cap,484.1\%,484.1\%,2035,0.00
+ERCOT,P/pub.,961.0\%,961.0\%,2035,-0.00
+MISO,A/cap,51.9\%,46.2\%,2034,-0.50
+MISO,A/pub.,51.9\%,46.2\%,2034,-0.50
+MISO,P/cap,192.5\%,192.5\%,2035,0.00
+MISO,P/pub.,192.5\%,192.5\%,2035,0.00

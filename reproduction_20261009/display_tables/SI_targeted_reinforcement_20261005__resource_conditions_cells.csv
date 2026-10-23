@@ -1,4 +1,5 @@
-ERCOT,Cap,43.8,43.8--43.8,42.99,98.21
+Region,Response,2035 share (\%),All-year share (\%),2035 need,Listed uplift\\\midrule
+ERCOT,Cap,45.1,45.1--45.1,44.31,98.21
 ERCOT,Published,0.0,0.0--0.0,0.00,98.21
-MISO,Cap,27.5,27.5--34.3,3.72,13.53
-MISO,Published,27.5,27.5--34.3,3.72,13.53
+MISO,Cap,34.2,34.2--40.6,4.63,13.53
+MISO,Published,34.2,34.2--40.6,4.63,13.53

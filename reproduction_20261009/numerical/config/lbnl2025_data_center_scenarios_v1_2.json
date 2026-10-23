@@ -79,18 +79,18 @@
   "analyzed_footprint_capture_cases": [
     {
       "id": "core_active_reported_mw_share",
-      "capture_share": 0.729171064925618,
-      "role": "share of core-active reported project MW located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy"
+      "capture_share": 0.7009520732115448,
+      "role": "share of core-active reported project MW located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy; generation-scale Fermi MW excluded from capacity numerator and denominator; reviewed generation-only scales excluded; separately identified load scales retained"
     },
     {
       "id": "broad_active_reported_mw_share",
-      "capture_share": 0.741814185003457,
-      "role": "share of broad-active reported project MW located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy"
+      "capture_share": 0.7166148145105322,
+      "role": "share of broad-active reported project MW located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy; generation-scale Fermi MW excluded from capacity numerator and denominator; reviewed generation-only scales excluded; separately identified load scales retained"
     },
     {
       "id": "core_active_site_count_share",
       "capture_share": 0.7878128400435256,
-      "role": "share of core-active project records located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy"
+      "role": "share of core-active project records located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy; generation-scale Fermi MW excluded from capacity numerator and denominator; reviewed generation-only scales excluded; separately identified load scales retained"
     },
     {
       "id": "full_national_assignment_upper_stress",
@@ -255,5 +255,16 @@
     "Robust regional labels require stability across the applicable core envelope; upper stresses are reported separately.",
     "A negative balance means resources fall below the region-native reference requirement under the stated scenario, not that outages are predicted.",
     "Region-native GW balances are not summed across planning regions."
-  ]
+  ],
+  "generation_scale_exclusion": {
+    "source_row": 941,
+    "reported_midpoint_MW": 14000,
+    "source": "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000010/frmi-20251231.htm",
+    "reason": "Issuer identifies private generation, not equivalent data-center electrical demand",
+    "raw_record_retained": true,
+    "count_alternatives_retain_site": true,
+    "size_proxy_replacement_allowed": false,
+    "legacy_inclusion_is_sensitivity_only": true
+  },
+  "capacity_attribute_review": "spatial/capacity_attribute_review.csv"
 }

@@ -1,0 +1,275 @@
+source_row,facility_name,status,ISO_ASSIGNED,reported_mw_mid,candidate_service_regions,mapping_class
+12,"Edged Data Center ""Project Gateway""",Proposed,MISO,8.0,MISO,concordant_unique
+18,Project Leo,Proposed,MISO,575.0,MISO,concordant_unique
+21,Grant County Data Center,Proposed,MISO,500.0,MISO|SPP,ambiguous_current_supported
+57,Global Stack Data Center,Proposed,WECC-California,10.0,CAISO,concordant_unique
+60,Project North Bay Solutions Data Center,Proposed,WECC-California,150.0,CAISO,concordant_unique
+61,AWS Gilroy,Approved/Permitted/Under construction,WECC-California,73.5,CAISO,concordant_unique
+64,Inyokern Data Center,Proposed,WECC-California,99.0,CAISO,concordant_unique
+65,Buena Vista Biomass Power site Data Center,Proposed,WECC-California,41.0,CAISO,concordant_unique
+70,Former Oakland Scientific Facility,Proposed,WECC-California,20.0,CAISO,concordant_unique
+72,AVAIO Perseus Data Center,Approved/Permitted/Under construction,WECC-California,99.0,CAISO,concordant_unique
+74,Equinix,Approved/Permitted/Under construction,WECC-California,40.0,CAISO,concordant_unique
+75,Global Stack Data Center,Proposed,WECC-California,10.0,CAISO,concordant_unique
+77,Microsoft Alviso Data Center,Approved/Permitted/Under construction,WECC-California,48.0,CAISO,concordant_unique
+78,Nvidia Data Center,Approved/Permitted/Under construction,WECC-California,20.0,CAISO,concordant_unique
+79,Prologis Data Center,Proposed,WECC-California,396.0,CAISO,concordant_unique
+80,Prologis Data Center,Proposed,WECC-California,99.0,CAISO,concordant_unique
+81,Global Stack Data Center,Proposed,WECC-California,10.0,CAISO,concordant_unique
+84,CoreSite SV9,Proposed,WECC-California,34.0,CAISO,concordant_unique
+85,Digital Realty SJC14,Proposed,WECC-California,9.0,CAISO,concordant_unique
+86,Digital Realty SJC37 Data Center,Approved/Permitted/Under construction,WECC-California,100.0,CAISO,concordant_unique
+92,Menlo Equities Data Centere,Proposed,WECC-California,49.0,CAISO,concordant_unique
+93,Global Stack Data Center,Proposed,WECC-California,10.0,CAISO,concordant_unique
+94,Beacon Data Center,Proposed,WECC-California,275.0,CAISO,concordant_unique
+95,Global Stack Data Center,Proposed,WECC-California,10.0,CAISO,concordant_unique
+96,Global Stack Data Center,Proposed,WECC-California,10.0,CAISO,concordant_unique
+97,Digital Data Center,Proposed,WECC-California,32.0,CAISO,concordant_unique
+105,Cielo Hudson Data Center,Proposed,SPP,750.0,,unresolved_no_analyzed_control_area
+106,Sterling Data Center,Proposed,SPP,2000.0,,unresolved_no_analyzed_control_area
+107,Global AI,Proposed,SPP,24.0,,unresolved_no_analyzed_control_area
+110,Bristol Technology Center,Proposed,ISO-NE,4.0,ISO-NE,concordant_unique
+307,Applied Digital,Proposed,MISO,200.0,MISO|PJM,ambiguous_current_supported
+308,Edged DSM01-1 Data Center,Approved/Permitted/Under construction,MISO,13.0,MISO|PJM,ambiguous_current_supported
+313,Edged Data Center,Proposed,SPP,200.0,MISO|PJM|SPP,ambiguous_current_supported
+315,Project Ruthenium,Proposed,MISO,150.0,MISO|PJM,ambiguous_current_supported
+317,Cielo Digital Infrastructure,Proposed,MISO,150.0,MISO|PJM,ambiguous_current_supported
+326,Project Ginger East (Microsoft),Proposed,MISO,200.0,MISO|PJM,ambiguous_current_supported
+327,Project Ginger West,Approved/Permitted/Under construction,MISO,200.0,MISO|PJM,ambiguous_current_supported
+333,Edged Data Center,Approved/Permitted/Under construction,PJM,72.0,PJM,concordant_unique
+338,HydraVault Data Center,Approved/Permitted/Under construction,PJM,20.0,PJM,concordant_unique
+341,Meta DeKalb Data Center,Approved/Permitted/Under construction,PJM,250.0,PJM,concordant_unique
+351,T5 Data Center,Approved/Permitted/Under construction,PJM,36.0,PJM,concordant_unique
+352,T5 Grayslake Data Center,Approved/Permitted/Under construction,PJM,480.0,PJM,concordant_unique
+354,Joliet Technology Center,Approved/Permitted/Under construction,PJM,1800.0,PJM,concordant_unique
+355,Hut8 Data Center,Proposed,MISO,500.0,MISO,concordant_unique
+356,Cloud Centers Data Center,Proposed,PJM,50.0,PJM,concordant_unique
+357,CyrusOne Data Center,Approved/Permitted/Under construction,PJM,18.0,PJM,concordant_unique
+358,Cielo Digital Infrastructure,Proposed,PJM,500.0,PJM,concordant_unique
+359,Tract Morris Data Center,Proposed,PJM,1000.0,PJM,concordant_unique
+362,Cielo Digital Infrastructure,Proposed,PJM,350.0,PJM,concordant_unique
+366,Eagle Rock Data Center,Proposed,MISO,1000.0,MISO,concordant_unique
+368,Whiterose Partners LLC Data Center,Proposed,PJM,48.0,PJM,concordant_unique
+369,Troy Cloverleaf Data Center,Proposed,MISO,500.0,MISO,concordant_unique
+370,CyrusOne,Approved/Permitted/Under construction,MISO,632.0,MISO,concordant_unique
+374,QLevr Data Center,Proposed,MISO,3.0,MISO,concordant_unique
+379,Sabey Data Center,Proposed,MISO,250.0,MISO,concordant_unique
+380,Project Zodiac,Approved/Permitted/Under construction,PJM,300.0,MISO|PJM,ambiguous_current_supported
+384,CoreWeave,Proposed,MISO,180.0,MISO,concordant_unique
+387,Sentinel Data Center: Project Shirley,Proposed,MISO,500.0,MISO,concordant_unique
+388,Hobart Data Center,Approved/Permitted/Under construction,MISO,2400.0,MISO,concordant_unique
+393,Thunderbird Commerce Center Project,Approved/Permitted/Under construction,MISO,100.0,MISO,concordant_unique
+397,Project Domino,Approved/Permitted/Under construction,MISO,1000.0,MISO,concordant_unique
+410,Sullivan County Data Center,Proposed,MISO,430.0,MISO,concordant_unique
+416,Digital Realty Data Center,Proposed,SPP,1300.0,SPP,concordant_unique
+420,Flint Hills Digital Campus,Proposed,SPP,1000.0,SPP,concordant_unique
+421,Red Wolf Properties,Proposed,SPP,600.0,SPP,concordant_unique
+422,Alcove Development Data Center,Proposed,SPP,50.0,SPP,concordant_unique
+423,HyperDataGrid Data Center,Proposed,SPP,20.0,SPP,concordant_unique
+427,Muskie Data Campus Data Center,Proposed,PJM,500.0,PJM,concordant_unique
+432,Mercer County Data Center,Proposed,PJM,645.0,,unresolved_no_analyzed_control_area
+434,TeraWulf Data Center,Proposed,MISO,480.0,MISO,concordant_unique
+437,Brookfield Data Center,Proposed,MISO,1200.0,,unresolved_no_analyzed_control_area
+441,PowerHouse Data Centers,Approved/Permitted/Under construction,PJM,130.0,,unresolved_no_analyzed_control_area
+442,Fortune 500,Proposed,PJM,400.0,PJM,concordant_unique
+446,Rubix Data Center,Proposed,PJM,2000.0,PJM,concordant_unique
+449,Applied Digital Delta Forge 1,Approved/Permitted/Under construction,MISO,430.0,MISO,concordant_unique
+457,River Bend Campus,Approved/Permitted/Under construction,MISO,300.0,MISO,concordant_unique
+458,River Bend Data Center Campus,Proposed,MISO,245.0,MISO,concordant_unique
+463,Servistar Data Center,Proposed,ISO-NE,300.0,ISO-NE,concordant_unique
+466,Dickerson Data Centers,Proposed,PJM,300.0,PJM,concordant_unique
+467,Aligned IAD-06,Approved/Permitted/Under construction,PJM,72.0,PJM,concordant_unique
+468,Quantum Frederick,Proposed,PJM,1332.0,PJM,concordant_unique
+473,Morgantown Data Center,Proposed,PJM,355.0,PJM,concordant_unique
+474,TeraWulf Data Center,Proposed,PJM,750.0,PJM,concordant_unique
+478,Security Land and Development LLC Data Center,Proposed,PJM,150.0,PJM,concordant_unique
+479,DeepGreen Western Passage SPV LLC  Data Center,Proposed,ISO-NE,51.0,,unresolved_no_analyzed_control_area
+481,Loring Commerce Center Data center,Proposed,ISO-NE,6.0,ISO-NE,concordant_unique
+488,Switch Pyramid Data Center,Approved/Permitted/Under construction,MISO,320.0,MISO,concordant_unique
+494,Southfield Data Center,Proposed,MISO,100.0,MISO,concordant_unique
+497,Harbor Farmz Data Center,Proposed,MISO,1.0,MISO|PJM,ambiguous_current_supported
+502,Lower Peninsula Data Center,Proposed,MISO,1000.0,MISO|PJM,ambiguous_current_supported
+504,Lyon Township Data Center/ Project Flex,Proposed,MISO,362.5,MISO,concordant_unique
+505,Oakland University Data Center,Proposed,MISO,13.0,MISO,concordant_unique
+506,Related Digital/The Barn,Approved/Permitted/Under construction,MISO,1400.0,MISO,concordant_unique
+507,Panattoni Project Cannoli,Proposed,MISO,1850.0,MISO,concordant_unique
+512,Cielo Digital Infrastructure,Proposed,MISO,300.0,MISO,concordant_unique
+513,MSP1 Data Center,Approved/Permitted/Under construction,MISO,12.0,MISO,concordant_unique
+518,Legacy Investments Data Center,Proposed,MISO,20.0,MISO,concordant_unique
+521,Project Skyway,Proposed,MISO,1550.0,MISO,concordant_unique
+525,Nebius Data Center,Approved/Permitted/Under construction,SPP,880.0,SPP,concordant_unique
+527,Wildwood Ranch Data Center,Approved/Permitted/Under construction,SPP,200.0,SPP,concordant_unique
+528,Cielo Digital Infrastructure,Proposed,SPP,500.0,SPP,concordant_unique
+531,Project Micah,Approved/Permitted/Under construction,SPP,700.0,MISO|SPP,ambiguous_current_supported
+535,Metrobloks/ Lincoln Data Center,Proposed,SPP,150.0,SPP,concordant_unique
+537,Swarm Systems Data Center,Proposed,SPP,20.0,SPP,concordant_unique
+541,Project Spade,Proposed,MISO,1200.0,MISO,concordant_unique
+557,AVAIO Digital,Approved/Permitted/Under construction,MISO,116.0,MISO,concordant_unique
+561,Project Atlas,Proposed,MISO,1000.0,MISO,concordant_unique
+562,Amazon Ridgeland,Approved/Permitted/Under construction,MISO,1000.0,MISO,concordant_unique
+584,Enovum Data Center,Proposed,PJM,149.5,,unresolved_no_analyzed_control_area
+594,American Tower Edge Data Center,Proposed,PJM,4.0,,unresolved_no_analyzed_control_area
+606,Nixxy-Tachyon 9 Data Center,Proposed,MISO,1000.0,MISO|SPP,ambiguous_current_supported
+607,Applied Digital: Polaris Forge 2,Approved/Permitted/Under construction,MISO,280.0,MISO,concordant_unique
+634,DataOne/ Nebius Data Center,Approved/Permitted/Under construction,PJM,1150.0,PJM,concordant_unique
+641,New Era Energy & Digital Data Center,Proposed,SPP,7000.0,SPP,concordant_unique
+643,Zenith Volts Data Center,Proposed,SPP,1240.0,SPP,concordant_unique
+664,"STAMP Data Center ""Project Double Reed""",Proposed,NYISO,500.0,NYISO,concordant_unique
+665,Kenwood Commons,Proposed,NYISO,100.0,NYISO,concordant_unique
+669,Holtec Decommissioning International Data Center,Proposed,NYISO,200.0,NYISO,concordant_unique
+675,Former Remington Gun Factory Data Center,Proposed,NYISO,200.0,NYISO,concordant_unique
+676,Lake Hawkeye Data Center,Proposed,NYISO,150.0,NYISO,concordant_unique
+678,"Ranalli Super DC, LLC Data Center",Proposed,NYISO,300.0,NYISO,concordant_unique
+682,St Lawrence Data and Agricultural Center,Proposed,NYISO,200.0,,unresolved_no_analyzed_control_area
+687,9Lives Data Center,Proposed,NYISO,600.0,NYISO,concordant_unique
+689,Niagara Digital Campus,Approved/Permitted/Under construction,NYISO,140.0,NYISO,concordant_unique
+695,IBM Quantum Data Center,Approved/Permitted/Under construction,NYISO,100.0,NYISO,concordant_unique
+699,Aberdeen Data Center,Proposed,PJM,1300.0,PJM,concordant_unique
+702,EdgeConneX Ashville Data Center,Approved/Permitted/Under construction,PJM,200.0,PJM,concordant_unique
+704,Meta Bowling Green Data Center/ Project Accordion,Approved/Permitted/Under construction,PJM,514.0,PJM,concordant_unique
+711,Slavic Village Data Center,Proposed,PJM,150.0,PJM,concordant_unique
+726,Logistix Data Center,Proposed,PJM,200.0,PJM,concordant_unique
+727,Mara Holdings,Proposed,PJM,200.0,PJM,concordant_unique
+732,EdgeConneX New Albany Data Center,Approved/Permitted/Under construction,PJM,443.0,PJM,concordant_unique
+737,Karis Critical Data Center,Approved/Permitted/Under construction,PJM,36.0,PJM,concordant_unique
+740,COL 5 (Cologix) Data Center,Proposed,PJM,120.0,PJM,concordant_unique
+743,Bitdeer Technologies Data Center,Proposed,PJM,150.0,PJM,concordant_unique
+746,OH2 Data Center,Proposed,PJM,800.0,PJM,concordant_unique
+749,Google New Albany Data Center,Approved/Permitted/Under construction,PJM,611.0,PJM,concordant_unique
+751,Oregon Data Center,Proposed,PJM,500.0,PJM,concordant_unique
+754,SoftBank Data Center/PORTS Technology Campus,Approved/Permitted/Under construction,PJM,9200.0,PJM,concordant_unique
+759,Project Mila,Proposed,PJM,240.0,PJM,concordant_unique
+761,Urbana Technology Hub,Proposed,PJM,100.0,PJM,concordant_unique
+762,Stargate Data Center,Proposed,PJM,1500.0,PJM,concordant_unique
+773,Cloverleaf Data Center/Project Open Sky,Proposed,SPP,1400.0,SPP,concordant_unique
+802,J.G. Petrucci Data Center,Proposed,PJM,100.0,PJM,concordant_unique
+803,West Emaus Avenue Data Center/ Quantum Group,Proposed,PJM,80.0,PJM,concordant_unique
+817,Starpointe Industrial Park Data Center,Proposed,PJM,450.0,PJM,concordant_unique
+818,PAX-1 Data Center,Approved/Permitted/Under construction,PJM,1575.0,PJM,concordant_unique
+820,Project Gold Data Center,Proposed,PJM,1500.0,PJM,concordant_unique
+823,Energy Capital Partners,Proposed,PJM,828.0,PJM,concordant_unique
+831,Project Hummingbird,Approved/Permitted/Under construction,PJM,950.0,PJM,concordant_unique
+835,Homer City Energy Campus,Approved/Permitted/Under construction,PJM,4500.0,PJM,concordant_unique
+837,Breaker Street Associates LLC Data Center,Proposed,PJM,600.0,PJM,concordant_unique
+843,CoreWeave Lancaster 1,Proposed,PJM,200.0,PJM,concordant_unique
+844,CoreWeave Lancaster 2,Proposed,PJM,200.0,PJM,concordant_unique
+848,Fort Cherry Development District,Approved/Permitted/Under construction,PJM,625.0,PJM,concordant_unique
+856,Keel Infrastructure Panther Creek,Approved/Permitted/Under construction,PJM,350.0,PJM,concordant_unique
+882,Project Laurel,Proposed,PJM,750.0,PJM,concordant_unique
+883,Mudiita Infra Data Center,Proposed,PJM,750.0,PJM,concordant_unique
+890,Sharon Data Center,Approved/Permitted/Under construction,PJM,30.0,PJM,concordant_unique
+891,Shippingport Bruce Mansfield Data Center/ Project Phoenix,Approved/Permitted/Under construction,PJM,3075.0,PJM,concordant_unique
+895,Springdale/ Dynamo Data Center,Approved/Permitted/Under construction,PJM,350.0,PJM,concordant_unique
+902,Salem Township Amazon Data Center,Proposed,PJM,960.0,PJM,concordant_unique
+905,Wyalusing Data Center,Proposed,PJM,248.0,PJM,concordant_unique
+918,Sequitor Edge Data Center,Proposed,SPP,8.5,SPP,concordant_unique
+919,Gemini Data Center SD LLC,Proposed,SPP,500.0,MISO|SPP,ambiguous_current_supported
+933,Google Abernathy Data Center,Proposed,SPP,204.0,ERCOT|SPP,ambiguous_current_supported
+934,Project Caprock Data Center,Approved/Permitted/Under construction,SPP,540.0,ERCOT|SPP,ambiguous_current_supported
+935,Frontier Vantage Data Center,Approved/Permitted/Under construction,ERCOT,1400.0,ERCOT|SPP,ambiguous_current_supported
+941,Fermi America HyperGrid/ Project Matador,Approved/Permitted/Under construction,SPP,14000.0,SPP,concordant_unique
+946,CleanSpark Sealy Data Center,Proposed,ERCOT,285.0,ERCOT,concordant_unique
+947,PowerBridge/LandBridge,Proposed,ERCOT,2000.0,ERCOT,concordant_unique
+948,Project Gladys (Soluna),Proposed,ERCOT,150.0,ERCOT,concordant_unique
+949,AWS Project Eagle,Proposed,ERCOT,75.0,ERCOT,concordant_unique
+950,CleanSpark Data Center,Proposed,ERCOT,450.0,ERCOT,concordant_unique
+951,Viridien Data Center,Proposed,ERCOT,45.0,ERCOT|MISO,ambiguous_current_supported
+953,Project Freebird,Approved/Permitted/Under construction,ERCOT,1200.0,ERCOT|MISO,ambiguous_current_supported
+956,EdgeConneX AUS01,Approved/Permitted/Under construction,ERCOT,96.0,ERCOT,concordant_unique
+957,EdgeConneX AUS02,Proposed,ERCOT,240.0,ERCOT,concordant_unique
+968,CleanArc/ Crow Holdings Data Center,Proposed,ERCOT,245.0,ERCOT,concordant_unique
+974,Stemmons Corridor data campus,Proposed,ERCOT,157.5,ERCOT,concordant_unique
+977,Qumulus AI,Proposed,ERCOT,20.0,ERCOT,concordant_unique
+978,Texas Critical Data Centers,Proposed,ERCOT,625.0,ERCOT|SPP,ambiguous_current_supported
+982,CyrusOne Fairfield,Approved/Permitted/Under construction,ERCOT,380.0,ERCOT|SPP,ambiguous_current_supported
+987,Project Horizon,Proposed,ERCOT,2000.0,ERCOT,concordant_unique
+990,CyrusOne/Eolian Data Center,Approved/Permitted/Under construction,ERCOT,70.0,ERCOT,concordant_unique
+996,Blueprint Project,Approved/Permitted/Under construction,ERCOT,35.0,ERCOT,concordant_unique
+998,Lone Star Project,Proposed,ERCOT,100.0,ERCOT,concordant_unique
+1001,Eneus Energy,Proposed,ERCOT,2000.0,ERCOT,concordant_unique
+1003,Project Aquilla: Abbott Holding Data Center,Proposed,ERCOT,1235.0,ERCOT,concordant_unique
+1007,Nexus Data Center: Apex DFW HB1 and HB2,Proposed,ERCOT,600.0,ERCOT,concordant_unique
+1013,Powerhouse Data Center,Proposed,ERCOT,201.0,ERCOT,concordant_unique
+1015,Jarrell Data Center,Proposed,ERCOT,200.0,ERCOT,concordant_unique
+1017,Powerhouse Data Center,Proposed,ERCOT,300.0,ERCOT,concordant_unique
+1019,Lacy Lakeview Data Center,Approved/Permitted/Under construction,ERCOT,1000.0,ERCOT,concordant_unique
+1020,Digital Bridge Data Center,Proposed,ERCOT,550.0,ERCOT,concordant_unique
+1022,Project Oranger,Proposed,ERCOT,252.0,ERCOT,concordant_unique
+1026,BaRupOn Data Center,Proposed,MISO,240.0,ERCOT|MISO,ambiguous_current_supported
+1027,Tract Data Centers,Proposed,ERCOT,980.0,ERCOT,concordant_unique
+1030,HyperDataGrid Data Center,Proposed,ERCOT,20.0,ERCOT|MISO|SPP,ambiguous_current_supported
+1031,Project LufKin: Amp Z Data Center,Proposed,ERCOT,1137.5,ERCOT|MISO|SPP,ambiguous_current_supported
+1032,North East Data Center LLC,Proposed,ERCOT,300.0,ERCOT,concordant_unique
+1033,Legacy Data Center,Proposed,ERCOT,50.0,ERCOT,concordant_unique
+1034,Kahla Project,Proposed,ERCOT,1500.0,ERCOT|MISO|SPP,ambiguous_current_supported
+1035,Matagorda County Data Centers,Proposed,ERCOT,20.0,ERCOT,concordant_unique
+1039,Galaxy Digital Data Center,Proposed,ERCOT,75.0,ERCOT,concordant_unique
+1045,AREP PowerHouse Grand Prairie,Approved/Permitted/Under construction,ERCOT,1800.0,ERCOT,concordant_unique
+1048,Project Mockingbird,Proposed,ERCOT,500.0,ERCOT,concordant_unique
+1049,Project Fei,Approved/Permitted/Under construction,ERCOT,100.0,ERCOT|SPP,ambiguous_current_supported
+1050,Project Hedy,Approved/Permitted/Under construction,ERCOT,120.0,ERCOT,concordant_unique
+1051,Project Ellen,Approved/Permitted/Under construction,ERCOT,100.0,ERCOT,concordant_unique
+1052,Project Rosa,Approved/Permitted/Under construction,ERCOT,187.0,ERCOT,concordant_unique
+1053,Project Big Pine,Proposed,SPP,300.0,MISO|SPP,ambiguous_current_supported
+1054,CloudBurst Data Center,Approved/Permitted/Under construction,ERCOT,1200.0,ERCOT,concordant_unique
+1056,APR Energy Data Center,Approved/Permitted/Under construction,ERCOT,400.0,ERCOT|SPP,ambiguous_current_supported
+1057,Project Annie,Approved/Permitted/Under construction,ERCOT,75.0,ERCOT,concordant_unique
+1059,GW Ranch Project,Approved/Permitted/Under construction,ERCOT,1000.0,ERCOT,concordant_unique
+1060,Skybox Austin Data Center Campus,Approved/Permitted/Under construction,ERCOT,30.0,ERCOT,concordant_unique
+1069,Core Scientific Hunt County Data Center,Approved/Permitted/Under construction,ERCOT,285.0,ERCOT,concordant_unique
+1072,Red Oak Data Center Campus,Approved/Permitted/Under construction,ERCOT,350.0,ERCOT,concordant_unique
+1076,Digital Realty Dallas DFW18,Proposed,ERCOT,100.0,ERCOT,concordant_unique
+1079,Cipher Data Center,Proposed,ERCOT,500.0,ERCOT,concordant_unique
+1081,Beacon Point Data Center,Proposed,ERCOT,352.0,ERCOT,concordant_unique
+1082,Bitdeer AI,Proposed,ERCOT,563.0,ERCOT|MISO,ambiguous_current_supported
+1085,Skybox Round Rock Data Center,Approved/Permitted/Under construction,ERCOT,40.0,ERCOT,concordant_unique
+1094,CloudHQ SAT Campus,Proposed,ERCOT,342.0,ERCOT,concordant_unique
+1110,TX11: Vantage Data Center,Proposed,ERCOT,32.0,ERCOT,concordant_unique
+1111,TX12: Vantage Data Center,Proposed,ERCOT,96.0,ERCOT,concordant_unique
+1115,Project Kati 1 and 2,Approved/Permitted/Under construction,ERCOT,166.0,ERCOT,concordant_unique
+1117,Project Dorothy 2,Approved/Permitted/Under construction,ERCOT,48.0,ERCOT|SPP,ambiguous_current_supported
+1120,MSB Global Services Matrix Data Center,Proposed,ERCOT,3000.0,ERCOT|SPP,ambiguous_current_supported
+1121,IREN Sweetwater Hub,Approved/Permitted/Under construction,ERCOT,2000.0,ERCOT|SPP,ambiguous_current_supported
+1122,Flexential Data Center,Proposed,ERCOT,108.0,ERCOT,concordant_unique
+1123,Blueprint Projects,Approved/Permitted/Under construction,ERCOT,30.0,ERCOT,concordant_unique
+1124,Project Comal,Approved/Permitted/Under construction,ERCOT,360.0,ERCOT,concordant_unique
+1125,Rowan AUS01,Approved/Permitted/Under construction,ERCOT,300.0,ERCOT,concordant_unique
+1129,Comanche Circle Data Centers,Approved/Permitted/Under construction,ERCOT,600.0,ERCOT,concordant_unique
+1142,Crusoe/ Blue Energy Data Center,Proposed,ERCOT,1500.0,ERCOT,concordant_unique
+1143,CyrusOne: DFW10,Approved/Permitted/Under construction,ERCOT,400.0,ERCOT,concordant_unique
+1145,Black Pearl Data Center,Approved/Permitted/Under construction,ERCOT,300.0,ERCOT,concordant_unique
+1165,Avaio Digital Partners,Proposed,PJM,300.0,PJM,concordant_unique
+1170,AID1 DataBank,Proposed,PJM,70.0,PJM,concordant_unique
+1222,Regency HOA area,Proposed,PJM,432.0,PJM,concordant_unique
+1223,Sabey Data Center,Approved/Permitted/Under construction,PJM,85.0,PJM,concordant_unique
+1241,Tract Technology Campus,Proposed,PJM,2400.0,PJM,concordant_unique
+1277,Chesterfield Google Data Center,Proposed,PJM,200.0,PJM,concordant_unique
+1287,Culpeper Data Center,Proposed,PJM,323.5,PJM,concordant_unique
+1295,Stack Data Center,Proposed,PJM,299.0,PJM,concordant_unique
+1328,Oasis Data Center,Approved/Permitted/Under construction,PJM,1200.0,PJM,concordant_unique
+1343,NTT Data Center,Proposed,PJM,96.0,PJM,concordant_unique
+1357,Tuckahoe Technology Park Data Centers,Proposed,PJM,900.0,PJM,concordant_unique
+1362,EdgeCore Data Center,Approved/Permitted/Under construction,PJM,1100.0,PJM,concordant_unique
+1430,NVA15 LLC,Proposed,PJM,48.0,PJM,concordant_unique
+1431,NVA16 LLC,Proposed,PJM,48.0,PJM,concordant_unique
+1457,Province Group @Powhatan Technology Park,Approved/Permitted/Under construction,PJM,1382.5,PJM,concordant_unique
+1465,Menlo Equities MD-VA3 Data Center,Approved/Permitted/Under construction,PJM,104.0,PJM,concordant_unique
+1470,Gigaland Remington Data Center,Proposed,PJM,136.0,PJM,concordant_unique
+1472,Remington Technology Park,Proposed,PJM,300.0,PJM,concordant_unique
+1479,Azalea,Proposed,PJM,10.0,PJM,concordant_unique
+1485,"Google Data Center: Summit View Business Park ""Project Flash""",Proposed,PJM,75.0,PJM,concordant_unique
+1493,CleanArc VA1 Data Center Campus,Approved/Permitted/Under construction,PJM,450.0,PJM,concordant_unique
+1513,SpotsyTech Campus,Proposed,PJM,800.0,PJM,concordant_unique
+1520,Stack Data Center,Proposed,PJM,1100.0,PJM,concordant_unique
+1521,Stafford Technology Campus,Proposed,PJM,1000.0,PJM,concordant_unique
+1608,Project Tallmadge,Proposed,PJM,180.0,PJM,concordant_unique
+1652,Janesville Data Center,Proposed,MISO,112.5,MISO,concordant_unique
+1657,Vantage Data Centers Lighthouse Campus,Approved/Permitted/Under construction,MISO,2449.5,MISO,concordant_unique
+1664,Ridgeline Microgrid,Approved/Permitted/Under construction,PJM,1656.0,PJM,concordant_unique
+1665,Hog Lick Aggregates,Proposed,PJM,200.0,PJM,concordant_unique
+1667,Adams Fork Harless Data Center,Proposed,PJM,2398.5,PJM,concordant_unique
+1670,Penzance Management,Proposed,PJM,600.0,PJM,concordant_unique
+1672,Mountaineer Gigasystem/ Monarch Cloud Campus,Proposed,PJM,5000.0,PJM,concordant_unique
+1673,Adams Fork Wharncliffe Data Center,Proposed,PJM,2398.5,PJM,concordant_unique
+1674,Stokes Data Center,Proposed,PJM,100.0,PJM,concordant_unique
+1679,Related Digital Cheyenne Data Center,Proposed,SPP,250.0,,unresolved_no_analyzed_control_area

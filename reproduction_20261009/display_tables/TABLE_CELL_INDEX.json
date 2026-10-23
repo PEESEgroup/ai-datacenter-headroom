@@ -1,374 +1,642 @@
 [
   {
+    "rounded_export": "display_tables/embedded_growth_summary_cells.csv",
+    "rows": 1,
+    "publication_labels": [
+      "tab:embedded-growth-summary"
+    ],
+    "source_sha256": "7c6c70b46d6b4ab520971a5b47ae59abd4b5f62e96b077b34e73d1dabfa67103",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
+  },
+  {
+    "rounded_export": "display_tables/capacity_review_20261022_cells.csv",
+    "rows": 6,
+    "publication_labels": [
+      "tab:capacity-attribute-review"
+    ],
+    "source_sha256": "4b1ced33570f32cf2bddee2f28c2f43f03ca3277ba9db9dec71dce19e8b144ec",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
+  },
+  {
+    "rounded_export": "display_tables/geographic_assignment_20261019_cells.csv",
+    "rows": 10,
+    "publication_labels": [
+      "tab:targeted-geographic-assignment",
+      "tab:targeted-connection-evidence"
+    ],
+    "source_sha256": "8a4a317bc62b1f1d0318b83e8119314e2e06a6bd7aa2ca8ca3ba35f98ef7c35f",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
+  },
+  {
     "rounded_export": "display_tables/SI_contribution_optimization_20261005__annual_outcomes_cells.csv",
-    "rows": 8,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/annual_outcomes.tex"
+    "rows": 9,
+    "publication_labels": [
+      "tab:annual-growth-outcomes"
+    ],
+    "source_sha256": "ae93bf56c2956381c98451f1eb307ec29c88fa7d27a0c40e20ea3ef4738904cc",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_contribution_optimization_20261005__coverage_cells.csv",
-    "rows": 4,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/coverage.tex"
+    "rows": 5,
+    "publication_labels": [
+      "tab:annual-limit-coverage"
+    ],
+    "source_sha256": "9a585403cbf0851077d127068f73b0702539814f65aa985be16ec1051c6a7ec6",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_contribution_optimization_20261005__main_outcomes_cells.csv",
-    "rows": 3,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/main_outcomes.tex"
+    "rows": 5,
+    "publication_labels": [
+      "tab:same-input-comparison"
+    ],
+    "source_sha256": "df5fef513da7f07b256a46c9d24fbff9b8ae2e619c34832d2fe7f1deba900af0",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_contribution_optimization_20261005__path_limits_cells.csv",
-    "rows": 8,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/path_limits.tex"
+    "rows": 9,
+    "publication_labels": [
+      "tab:annual-path-limits"
+    ],
+    "source_sha256": "e85e729401716c4ea04a476c4b1d3cfca055d8d2641c152b753227c0b0861739",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_contribution_optimization_20261005__response_association_cells.csv",
-    "rows": 10,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/contribution_optimization_20261005/response_association.tex"
+    "rows": 9,
+    "publication_labels": [
+      "tab:response-association-comparison"
+    ],
+    "source_sha256": "d5d089227964bef98b69267a33d8fa48263df81a080f13a09d4ce7f00fa49f4a",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_display_trim_20261008__annual_conditions_cells.csv",
-    "rows": 6,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/display_trim_20261008/annual_conditions.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:decision-thresholds"
+    ],
+    "source_sha256": "29ae302ed06db57f1139d5265c86b2e242e67d7bd60fa06faf841cbce95f7fa6",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_display_trim_20261008__threshold_note_cells.csv",
     "rows": 39,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/display_trim_20261008/threshold_note.tex"
+    "publication_labels": [
+      "tab:response-thresholds",
+      "tab:ercot-realization-thresholds",
+      "tab:dc-load-thresholds",
+      "tab:threshold-evidence"
+    ],
+    "source_sha256": "cbb1fc8651194f633017d2f0b93bbc1892b7b01d1162aab98c2ccd602bfe457e",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_framework_comparison_20261004__framework_comparison_note_cells.csv",
     "rows": 22,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/framework_comparison_20261004/framework_comparison_note.tex"
+    "publication_labels": [
+      "tab:framework-timing-comparison",
+      "tab:framework-paired-comparison"
+    ],
+    "source_sha256": "efbf515a47bca950c421c3e1983ef1e72d8cbb71df0258793301214a953a14ca",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_framework_comparison_20261004__regional_inputs_cells.csv",
-    "rows": 24,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/framework_comparison_20261004/regional_inputs.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:regional-interpretation"
+    ],
+    "source_sha256": "702be6626c502e9ab905f44442be15cfe2d7e4e3fed26f76f094f3334de0f641",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__annual_paired_chain_cells.csv",
-    "rows": 62,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/annual_paired_chain.tex"
+    "rows": 61,
+    "publication_labels": [
+      "tab:annual-paired-chain"
+    ],
+    "source_sha256": "af68bf519aa6242112b220b515322f306d7a49af227c48062fb336023c2a79af",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__area_mw_diagnostic_cells.csv",
-    "rows": 6,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/area_mw_diagnostic.tex"
+    "rows": 5,
+    "publication_labels": [
+      "tab:area-mw-diagnostic"
+    ],
+    "source_sha256": "2511e3d205c6d0a4e5dedb619f15eeaf98e0a12f32e65c264e50de51f7572d51",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__county_context_cells.csv",
-    "rows": 6,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/county_context.tex"
+    "rows": 5,
+    "publication_labels": [
+      "tab:county-context"
+    ],
+    "source_sha256": "414f95e609c635a9f2b4ab3ec9500a981d04f053ddb7b3110b230491d4d0d2fe",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__gas_capacity_credit_cells.csv",
-    "rows": 14,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/gas_capacity_credit.tex"
+    "rows": 13,
+    "publication_labels": [
+      "tab:gas-capacity-credit"
+    ],
+    "source_sha256": "342f43289bcfd10d47a992acfd9a454cb6521d3b481e9e14a0e0da48c9b44b26",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__input_inventory_cells.csv",
-    "rows": 14,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/input_inventory.tex"
+    "rows": 13,
+    "publication_labels": [
+      "tab:input-inventory"
+    ],
+    "source_sha256": "e08d94004638a11a268f75db249cbb6901388e0b238e7af349f5a59ef42a412f",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__inventory_mapping_cells.csv",
-    "rows": 11,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/inventory_mapping.tex"
+    "rows": 10,
+    "publication_labels": [
+      "tab:inventory-mapping"
+    ],
+    "source_sha256": "d16ea03292ce59f6378d4e0539526092d167c43534d0afc2fe82b4252774c39b",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__inventory_status_cells.csv",
-    "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/inventory_status.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:inventory-status"
+    ],
+    "source_sha256": "dd6b005eea823ad4c1a4f789e84418301b4f8e902c17c828b7bfd8fe585e88a3",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__inventory_timing_cells.csv",
-    "rows": 13,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/inventory_timing.tex"
+    "rows": 12,
+    "publication_labels": [
+      "tab:inventory-timing"
+    ],
+    "source_sha256": "55d01bb34f6672ead9dc1b71eacbd5f74a6aee8e868244a37d094d27fa74a040",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__price_coverage_cells.csv",
-    "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/price_coverage.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:price-coverage"
+    ],
+    "source_sha256": "9a07d4765fac332797493492b39804a3ee03c0fae5691c257ab13cb3f89cf30c",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__price_robustness_cells.csv",
-    "rows": 16,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/price_robustness.tex"
+    "rows": 15,
+    "publication_labels": [
+      "tab:price-robustness"
+    ],
+    "source_sha256": "e72577e348c7f9c5f47fc1a2fd4030edf4ab4cb77cc5a58e18c834b4f43fa21c",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__price_slopes_cells.csv",
-    "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/price_slopes.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:price-slopes"
+    ],
+    "source_sha256": "fe06c8d961dbe596d3e702be84de7903b4fc77b60e3a832595f96393d6eb299e",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__project_omission_cells.csv",
-    "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/project_omission.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:project-omission"
+    ],
+    "source_sha256": "fdec6160035f54e8b4275df59363987c205d1078e37073ff99097aa7a0974d7d",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__pv_architectures_cells.csv",
-    "rows": 10,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/pv_architectures.tex"
+    "rows": 9,
+    "publication_labels": [
+      "tab:pv-architectures"
+    ],
+    "source_sha256": "8b4159721edfc8ef3516668814dc6323aed4c7eeb88b838f24670b87f27bc3a1",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__pv_efficiency_cells.csv",
-    "rows": 14,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/pv_efficiency.tex"
+    "rows": 13,
+    "publication_labels": [
+      "tab:pv-efficiency"
+    ],
+    "source_sha256": "bdf6e789d5a5133f2f4864ef1c9d3ed8ee051b08b712fec4480745fc29e54b34",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__pv_site_sensitivity_cells.csv",
-    "rows": 6,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/pv_site_sensitivity.tex"
+    "rows": 5,
+    "publication_labels": [
+      "tab:pv-site-sensitivity"
+    ],
+    "source_sha256": "221800183d2db54945dabe4a2ab0fb90716b221efb91b8f6fa4cc9c736b7405c",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_restored_support_20261004__weather_coordinates_cells.csv",
-    "rows": 22,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/restored_support_20261004/weather_coordinates.tex"
+    "rows": 21,
+    "publication_labels": [
+      "tab:weather-coordinates"
+    ],
+    "source_sha256": "30679cd924246ae45be18a741ac66c1522ffd1e483b438bf78a7900321de164a",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__allocation_cells.csv",
-    "rows": 10,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/allocation.tex"
+    "rows": 9,
+    "publication_labels": [
+      "tab:allocation"
+    ],
+    "source_sha256": "82bd2aa6657f4d0cbbc9cff0d2773b6b37419fe013978a7c29c767fe041a2f18",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__allocation_envelope_cells.csv",
-    "rows": 74,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/allocation_envelope.tex"
+    "rows": 73,
+    "publication_labels": [
+      "tab:allocation-envelope"
+    ],
+    "source_sha256": "46536a8cd68bbc6dcd0ce8eeefdd6f0a29c10996bd87334be1eb33c8a827c30c",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__annual_balances_cells.csv",
-    "rows": 72,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/annual_balances.tex"
+    "rows": 71,
+    "publication_labels": [
+      "tab:annual-balances"
+    ],
+    "source_sha256": "3f3dcb5c8a326707126cc26071157da8aaa8a3ae3865b3516a8e17b912713550",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__core_labels_cells.csv",
-    "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/core_labels.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:core-labels"
+    ],
+    "source_sha256": "d23c890db2850a465648e1aa6be56df231e97caccd609b79114b0726cc17eec3",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__delivery_evaluation_cells.csv",
-    "rows": 5,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/delivery_evaluation.tex"
+    "rows": 4,
+    "publication_labels": [
+      "tab:delivery-evaluation"
+    ],
+    "source_sha256": "d1af2bf941ded39c83017413f632c6c415b867b7ebdc035ccd8f9769096fb7a3",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__driver_decomposition_cells.csv",
-    "rows": 42,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/driver_decomposition.tex"
+    "rows": 41,
+    "publication_labels": [
+      "tab:driver-decomposition"
+    ],
+    "source_sha256": "9b135e8759c61f6fbda76d9ce1409ae944247415e9f22e762c0b95234c3874a9",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__extension_paths_cells.csv",
-    "rows": 11,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/extension_paths.tex"
+    "rows": 10,
+    "publication_labels": [
+      "tab:extension-paths"
+    ],
+    "source_sha256": "372548981c6236813f3d3497f60ebf3836f46a0b2f380f6567d020b6e0c40f28",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__gas_consequences_cells.csv",
-    "rows": 12,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/gas_consequences.tex"
+    "rows": 11,
+    "publication_labels": [
+      "tab:gas-consequences"
+    ],
+    "source_sha256": "bd2159dcce2c6f98ab917d808ac32fb26163c71683b013cb94aa233387cc6625",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__intervention_requirements_cells.csv",
-    "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/intervention_requirements.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:intervention-requirements"
+    ],
+    "source_sha256": "c38e2ad41cf4452d250513edbac93fc5f724de89b96eddcde7fe185d73864add",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__national_paths_cells.csv",
-    "rows": 14,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/national_paths.tex"
+    "rows": 13,
+    "publication_labels": [
+      "tab:national-paths"
+    ],
+    "source_sha256": "13eeb9835daa14923c0a515288abb6370258030eefb877ae2c74f2928ef08c4c",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__native_basis_cells.csv",
-    "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/native_basis.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:native-basis"
+    ],
+    "source_sha256": "171c5bc4c1aa75fa1abcf4ae1be0125f68fe3badf342ec7284833318d4300e11",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__nuclear_ledger_cells.csv",
-    "rows": 7,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/nuclear_ledger.tex"
+    "rows": 6,
+    "publication_labels": [
+      "tab:nuclear-ledger"
+    ],
+    "source_sha256": "c36e5b54b2599557e40227069e85059458102986d4568f02724e174f9b697574",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__official_dc_paths_cells.csv",
-    "rows": 22,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/official_dc_paths.tex"
+    "rows": 21,
+    "publication_labels": [
+      "tab:official-dc-paths"
+    ],
+    "source_sha256": "2d41e0af9201d282ec0cb58f1b2b308470e0b902cc8315424e5a8d73a3064f35",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__paired_display_cells.csv",
-    "rows": 26,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/paired_display.tex"
+    "rows": 25,
+    "publication_labels": [
+      "tab:paired-display"
+    ],
+    "source_sha256": "218a426fecf1dbe7cb487563d64b89bc90010237254493d317deb49cf87d607c",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__peak_mapping_cells.csv",
-    "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/peak_mapping.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:peak-mapping"
+    ],
+    "source_sha256": "6afd0bb8e47ba3225325e6a128f2a545b52465071cf985c7e4f14dd9b993bef3",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__pjm_floor_cells.csv",
-    "rows": 6,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/pjm_floor.tex"
+    "rows": 5,
+    "publication_labels": [
+      "tab:pjm-floor"
+    ],
+    "source_sha256": "3271e94aed87fc1371e6bfdbbfaf0bf172b9f73af416a5a81881c8335c531b7b",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__pv_results_cells.csv",
-    "rows": 14,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/pv_results.tex"
+    "rows": 12,
+    "publication_labels": [
+      "tab:pv-results"
+    ],
+    "source_sha256": "22eb906f03dff309b4d0ae973e8b3c154e7dc9e205bbfae75b33fd9131cf885e",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__replacement_envelope_cells.csv",
-    "rows": 10,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/replacement_envelope.tex"
+    "rows": 9,
+    "publication_labels": [
+      "tab:replacement-envelope"
+    ],
+    "source_sha256": "940624dc3ad2a8c9edfd087841e1d0f234bf57cf469ba4c62e7315b217e001d4",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__source_checks_cells.csv",
-    "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/source_checks.tex"
+    "rows": 8,
+    "publication_labels": [
+      "tab:source-checks"
+    ],
+    "source_sha256": "502c8dfc4230ab9089ff40ab86cca1277f3f97df436963b1e76e35244d022556",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__timing_stress_cells.csv",
-    "rows": 30,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/timing_stress.tex"
+    "rows": 29,
+    "publication_labels": [
+      "tab:timing-stress"
+    ],
+    "source_sha256": "7e3085ba1ae517095400fd4b8e96d7a73bad1da6cd910396be77a4365660dfc9",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__trajectory_summary_cells.csv",
-    "rows": 30,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/trajectory_summary.tex"
+    "rows": 29,
+    "publication_labels": [
+      "tab:trajectory-summary"
+    ],
+    "source_sha256": "e08cb6dc5dc2338966e83645701e07e069e64b8ad1b2f0a5aebad754b9086560",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__unknown_outcomes_cells.csv",
-    "rows": 7,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/unknown_outcomes.tex"
+    "rows": 6,
+    "publication_labels": [
+      "tab:unknown-outcomes"
+    ],
+    "source_sha256": "420948c69d41be6fe52b63f5265f5433853039807dcb0afc2d3ec7a1115e437d",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__validation_cells.csv",
-    "rows": 22,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/revision_20261003/validation.tex"
+    "rows": 21,
+    "publication_labels": [
+      "tab:validation"
+    ],
+    "source_sha256": "de0f9c8ea6aaee03b21a39b7d46bec6f00d3d7c62ab8aee6fbbae4bc188edcdd",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_source_quality_20261005__footprint_scope_cells.csv",
-    "rows": 7,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/source_quality_20261005/footprint_scope.tex"
+    "rows": 6,
+    "publication_labels": [
+      "tab:footprint-scope-checks"
+    ],
+    "source_sha256": "25f508fa7afce18b6bddec1d02f304bf52540c30ad0b62a65d2c0db19bb17645",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_source_quality_20261005__lower_endpoints_cells.csv",
-    "rows": 18,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/source_quality_20261005/lower_endpoints.tex"
+    "rows": 17,
+    "publication_labels": [
+      "tab:lower-external-endpoints"
+    ],
+    "source_sha256": "ed3b96653e2605d3f76341061c7b54dca2f00e9d219a448554ffaa0c95d2dd88",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_source_quality_20261005__peak_alignment_cells.csv",
-    "rows": 6,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/source_quality_20261005/peak_alignment.tex"
+    "rows": 12,
+    "publication_labels": [
+      "tab:peak-alignment-check"
+    ],
+    "source_sha256": "c86322e2dc1d3596787d1dc0067aa351f736d8cc5fdcba986b6204712b185b20",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_source_quality_20261005__peak_coverage_cells.csv",
-    "rows": 26,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/source_quality_20261005/peak_coverage.tex"
+    "rows": 25,
+    "publication_labels": [
+      "tab:complete-season-coverage"
+    ],
+    "source_sha256": "841f5e57ca0b42ce219c82197b5630faa297f3397be039b0539cbf9e7183cb0f",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_submission_evidence_20261005__core_limits_cells.csv",
-    "rows": 8,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/submission_evidence_20261005/core_limits.tex"
+    "rows": 9,
+    "publication_labels": [
+      "tab:core-growth-limits"
+    ],
+    "source_sha256": "3877b7f966824d06e03b22d3d652d59a2659e98de8d59b5cde0ccf94509323fd",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_submission_evidence_20261005__core_ranges_cells.csv",
-    "rows": 8,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/submission_evidence_20261005/core_ranges.tex"
+    "rows": 9,
+    "publication_labels": [
+      "tab:core-contribution-ranges"
+    ],
+    "source_sha256": "edaa54b98eded2e0cedebfa62fe5e28c34abda50caaa7108396c267ef1d4474b",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
+  },
+  {
+    "rounded_export": "display_tables/SI_targeted_followup_20261012__pv_windows_cells.csv",
+    "rows": 12,
+    "publication_labels": [
+      "tab:pv-peak-window-followup"
+    ],
+    "source_sha256": "78769993ad3cfce0480dfae87205a6234010db2c7bd550c710aa21d54e5215b0",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
+  },
+  {
+    "rounded_export": "display_tables/SI_targeted_followup_20261012__regional_inputs_cells.csv",
+    "rows": 12,
+    "publication_labels": [
+      "tab:regional-input-reconciliation"
+    ],
+    "source_sha256": "8d65b7e038ac5a63176c2b9d37bc78e962a3d07dffcedf644615840610001e9b",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_targeted_reinforcement_20261005__resource_conditions_cells.csv",
-    "rows": 4,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/targeted_reinforcement_20261005/resource_conditions.tex"
+    "rows": 5,
+    "publication_labels": [
+      "tab:resource-condition-frontier"
+    ],
+    "source_sha256": "e1c9b84fc9288ca75df71132aa432ed95e7c050902e56462dd43cd29f51f5daa",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_targeted_reinforcement_20261005__response_budget_cells.csv",
-    "rows": 4,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/targeted_reinforcement_20261005/response_budget.tex"
+    "rows": 5,
+    "publication_labels": [
+      "tab:fixed-response-budget"
+    ],
+    "source_sha256": "46a37366045e81ddfc17694b6ddb277123b31204e51b791308de7fff59fbe079",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_targeted_reinforcement_20261005__timing_coverage_cells.csv",
-    "rows": 16,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/targeted_reinforcement_20261005/timing_coverage.tex"
+    "rows": 17,
+    "publication_labels": [
+      "tab:source-timing-coverage"
+    ],
+    "source_sha256": "7fa344d9aa29533c7a06d749ea04486940cb2a9615a4a54d2731fff74fe168a3",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_targeted_reinforcement_20261005__timing_display_cells.csv",
-    "rows": 8,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/targeted_reinforcement_20261005/timing_display.tex"
+    "rows": 9,
+    "publication_labels": [
+      "tab:source-anchor-timing"
+    ],
+    "source_sha256": "8cb0de995c9a99d5cb999ba4dc29f1d63dd7bf24d32cb1eb7bc42b34da6a1a3a",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_validation_latest_20261005__historical_diagnostics_cells.csv",
     "rows": 6,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/validation_latest_20261005/historical_diagnostics.tex"
+    "publication_labels": [
+      "tab:historical-diagnostics"
+    ],
+    "source_sha256": "c82dea9f9e6acc54fb499aa03209645cf23149c0b741f1a4ea15a7e9f1900c45",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_validation_latest_20261005__historical_models_cells.csv",
     "rows": 9,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/validation_latest_20261005/historical_models.tex"
+    "publication_labels": [
+      "tab:historical-models"
+    ],
+    "source_sha256": "365feb7ea5844bcdc87899fae3c8c0d6c31d8e4c6cd3766f8b234569cba8c66c",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_validation_latest_20261005__inventory_data_rules_cells.csv",
     "rows": 6,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/validation_latest_20261005/inventory_data_rules.tex"
+    "publication_labels": [
+      "tab:inventory-data-rules"
+    ],
+    "source_sha256": "a812f48656956c16087c67da90bffc2350d7a3caa24fbb2a390d0665e5ff8561",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_validation_latest_20261005__inventory_estimation_cells.csv",
     "rows": 6,
-    "role": "presentation cells, not model input or full-precision result",
-    "publication_source_label": "manuscript/tables/validation_latest_20261005/inventory_estimation.tex"
+    "publication_labels": [
+      "tab:inventory-estimation"
+    ],
+    "source_sha256": "36f5c6fee29ff397aa9e8febd14efe52c1430ec2c86cc7329bde7ab5a2cea49f",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
+  },
+  {
+    "rounded_export": "display_tables/supplementary_information_refined_figures_20261010_cells.csv",
+    "rows": 37,
+    "publication_labels": [
+      "tab:notation",
+      "tab:scenario-rules",
+      "fig:load-mapping",
+      "fig:balance-context",
+      "fig:timing",
+      "fig:price-context",
+      "tab:pv-assumptions",
+      "fig:pv-tail",
+      "fig:nuclear-gas-context",
+      "fig:core-envelope",
+      "fig:storage-efficiency",
+      "fig:miso-resource-conditions",
+      "fig:resource-response-timing",
+      "tab:regional-study-comparison"
+    ],
+    "source_sha256": "9ca807d88bbc1cf66eccfda74e3fe3e205945437299b263ae90634dd362bf4a3",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
+  },
+  {
+    "rounded_export": "display_tables/table1_compact_support_20261019_cells.csv",
+    "rows": 17,
+    "publication_labels": [
+      "tab:regional-start-inputs",
+      "tab:regional-condition-endpoints"
+    ],
+    "source_sha256": "e6ef493be70a084a09f959561760b72e8be72ccf77cb01382160d434eb644e75",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   }
 ]

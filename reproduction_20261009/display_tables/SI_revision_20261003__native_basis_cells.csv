@@ -1,5 +1,4 @@
 Region,Resource contribution,Variable resources and storage,Reference requirement
-Region,Resource contribution,Variable resources and storage,Reference requirement
 ERCOT,"existing-certain, firm transfers and Tier 1 using ERCOT/NERC seasonal contributions","average ELCC for inverter-based resources instead of historical on-peak factors; duration-specific average ELCC; e.g., <=1 h 36\%, >1 to <2 h 69\% in source narrative",fixed 13.75\% LTRA RML
 ISO-NE,capacity available against ISO-NE installed capacity requirement plus firm imports,ISO-NE capacity qualification/accreditation reflected in submitted quantities; qualified storage reflected in area submission; duration detail is not harmonized here,annual installed capacity requirement translated to LTRA RML
 MISO,confirmed seasonal accredited capacity plus Tier 1 GIA integration ramp and firm transfers,seasonal accreditation; new solar 50\% in summer; wind summer ELCC 20.8\%; first-year battery class accreditation reported at 95\% with four-hour offer requirement,seasonal UCAP requirement from LOLE study

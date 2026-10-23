@@ -1,0 +1,3 @@
+summer_year,own_RRS_pool_AUCAP_factor,own_RRS_IRM,own_RRS_FPR,RRS_ICAP_balance_GW,mapped_RRS_UCAP_balance_GW,reported_RRS_UCAP_balance_GW,mapping_residual_MW,applied_to_NERC,interpretation
+2028,0.7616,0.207,0.9193,-5.491,-4.1819456,-4.189,-7.054400000000349,False,RRS's own portfolio only; rounding/model reporting residual retained
+2035,0.6677,0.327,0.886,-40.043,-26.736711099999997,-26.734,2.7110999999955254,False,RRS's own portfolio only; rounding/model reporting residual retained

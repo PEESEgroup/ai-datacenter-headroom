@@ -1,0 +1,82 @@
+[
+  {
+    "id": "power_faq",
+    "url": "https://power.larc.nasa.gov/docs/faqs/other/",
+    "access_date": "2026-10-19",
+    "locator_and_use": "Time Information / Time Range: hourly timestamp is the interval start",
+    "sha256": "a6aff292bb5dda6a1a8c2719ce58ea78e85c413511bc55f88723e4e4836b5a9f",
+    "included_file": "power_faq.html"
+  },
+  {
+    "id": "eia930_instructions",
+    "url": "https://www.eia.gov/survey/form/eia_930/instructions.pdf",
+    "access_date": "2026-10-19",
+    "locator_and_use": "General Instructions, PDF p. 3: hourly integrated demand is hour-ending in UTC",
+    "sha256": "321ee0a8d93b15ca2fe206720615bb721c1b6eaf9d9fb06e9c11837ca5004d58",
+    "included_file": "eia930_instructions.pdf"
+  },
+  {
+    "id": "fermi_2025_10k",
+    "url": "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000010/frmi-20251231.htm",
+    "access_date": "2026-10-19",
+    "locator_and_use": "Project Matador ESA and private generation; SPS agreement up to 200 MW, separate from campus generation capacity",
+    "sha256": null,
+    "included_file": null
+  },
+  {
+    "id": "iren_2025_10k",
+    "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884825000063/iren-20250630.htm",
+    "access_date": "2026-10-19",
+    "locator_and_use": "Sweetwater 1 and 2: connection agreements and deposits for ERCOT access; not proof of full load delivery",
+    "sha256": null,
+    "included_file": null
+  },
+  {
+    "id": "iren_20260908",
+    "url": "https://iren.gcs-web.com/news-releases/news-release-details/irens-2gw-sweetwater-hub-included-base-load-ercot-batch-zero",
+    "access_date": "2026-10-19",
+    "locator_and_use": "Dated company disclosure: substation energized at Sweetwater 1; Batch Zero inclusion remains conditional",
+    "sha256": null,
+    "included_file": null
+  },
+  {
+    "id": "consumers_20250731",
+    "url": "https://www.sec.gov/Archives/edgar/data/811156/000110465925072445/tm2522139d1_ex99-1.htm",
+    "access_date": "2026-10-19",
+    "locator_and_use": "Utility release: agreement for up to 1 GW of new data-center load in its territory; no exact site or energized MW",
+    "sha256": null,
+    "included_file": null
+  },
+  {
+    "id": "matrix_developer",
+    "url": "https://msbglobalservices.com/sulphur-springs/",
+    "access_date": "2026-10-19",
+    "locator_and_use": "Developer markets 3 GW, microgrid and later grid support; no executed named-utility agreement verified",
+    "sha256": null,
+    "included_file": null
+  },
+  {
+    "id": "frontier_developer",
+    "url": "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
+    "access_date": "2026-10-19",
+    "locator_and_use": "Developer announcement, 19 August 2025: 1.4 GW campus; no named utility or commissioned-load certification",
+    "sha256": "fbaa57e398369bc0a6738b6d729fe358823b20450d00e81bc83b468df4094980",
+    "included_file": null
+  },
+  {
+    "id": "ercot_202604_board",
+    "url": "https://www.ercot.com/files/docs/2026/04/13/11.1-Strategic-Discussion-on-Resource-Adequacy-and-the-Role-of-Demand-Response.pdf",
+    "access_date": "2026-10-19",
+    "locator_and_use": "Hosted board paper p. 36, footnote 104: December 2025 CDR treats large-load curtailment provisionally; not 2035 performance data",
+    "sha256": "90518894575e7bdb905372be086a5f2cbecc2b32d332d90da6d49c1c98795469",
+    "included_file": null
+  },
+  {
+    "id": "nerc_2025_retained",
+    "url": "https://www.nerc.com/globalassets/our-work/assessments/nerc_ltra_2025.pdf",
+    "access_date": "2026-10-19",
+    "sha256": "a3217a96b26f6d3e0dffa08c1151abedadc31a9a3d9a8be325afc0fc518369ca",
+    "locator_and_use": "Printed pp. 129 and 131; provisional forecast, summer large-load curtailment 8,853.5 MW in 2026 and 58,365.6 MW in 2035",
+    "included_file": null
+  }
+]

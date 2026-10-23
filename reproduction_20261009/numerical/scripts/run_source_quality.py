@@ -113,7 +113,7 @@ def spatial(core):
     cases = {"exclude_pure_crypto": ~rows.scope_class.eq("explicit_pure_crypto"),
         "exclude_pure_and_mixed_crypto": rows.scope_class.eq("no_explicit_crypto_tag"),
         "shared_address_single_representative": ~rows.scope_class.eq("explicit_pure_crypto"),
-        "exclude_private_power_campus_MW": ~rows.power_scale_not_certified_load & ~rows.scope_class.eq("explicit_pure_crypto"),
+        "legacy_generation_scale_retained": ~rows.scope_class.eq("explicit_pure_crypto"),
         "combined_scope_sensitivity": rows.scope_class.eq("no_explicit_crypto_tag") & ~rows.power_scale_not_certified_load}
     baseline, _ = rules.allocation_cases(rows)
     weights, annual = [], []
@@ -123,7 +123,7 @@ def spatial(core):
             selections["quality_case"] = case
             selections.to_csv(OUT / ("14_campus_representatives_" + case + ".csv"),index=False)
         else:
-            weight, _ = rules.allocation_cases(rows[eligible].copy())
+            weight, _ = rules.allocation_cases(rows[eligible].copy(), include_generation_scale=case == "legacy_generation_scale_retained")
         weight["quality_case"] = case
         weights.append(weight)
         joined = core.merge(weight[["allocation_case", "model_region", "allocation_share"]],

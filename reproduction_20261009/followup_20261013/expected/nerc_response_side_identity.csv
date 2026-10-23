@@ -1,0 +1,7 @@
+region,summer_year,case,native_resource_GW,gross_peak_GW,separate_response_GW,native_requirement_factor,gross_requirement_GW,response_accounting_credit_GW,equivalent_gross_side_contribution_GW,preserved_balance_GW,interpretation
+MISO,2027,NERC-anticipated,136.544,131.107,8.28,1.0830000000000002,141.98888100000002,8.96724,145.51124000000002,3.5223589999999945,Algebraic restatement only; multiplied response credit is not newly accredited physical capacity
+MISO,2027,NERC-prospective,143.21628199999998,131.107,8.28,1.0830000000000002,141.98888100000002,8.96724,152.18352199999998,10.194640999999962,Algebraic restatement only; multiplied response credit is not newly accredited physical capacity
+PJM,2028,NERC-anticipated,200.526,169.981,8.703,1.2189999999999999,207.20683899999997,10.608956999999998,211.134957,3.9281180000000404,Algebraic restatement only; multiplied response credit is not newly accredited physical capacity
+PJM,2028,NERC-prospective,256.593298,169.981,8.703,1.2189999999999999,207.20683899999997,10.608956999999998,267.202255,59.995416000000006,Algebraic restatement only; multiplied response credit is not newly accredited physical capacity
+PJM,2035,NERC-anticipated,198.739,209.923,10.629,1.351,283.605973,14.359779,213.098779,-70.507194,Algebraic restatement only; multiplied response credit is not newly accredited physical capacity
+PJM,2035,NERC-prospective,239.1528,209.923,10.629,1.351,283.605973,14.359779,253.51257900000002,-30.09339399999999,Algebraic restatement only; multiplied response credit is not newly accredited physical capacity

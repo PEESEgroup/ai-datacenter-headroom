@@ -1,5 +1,4 @@
 Region,Checked PDF pages,Matched items,Source interpretation
-Region,Checked PDF pages,Matched items,Source interpretation
 ERCOT,"128,130,131",11,Table p.128 reports anticipated ARM above 13.75\% through 2035 after credited DR; narrative p.130 says ARM is above RML only in 2026-2027. Preserve both as a source-internal divergence and use explicit linked-response conditions.
 ISO-NE,"68,70,71,72",15,none identified in checked text
 MISO,"42,44,46,47",14,none identified in checked text

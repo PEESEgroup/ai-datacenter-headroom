@@ -1,5 +1,35 @@
 # Inputs, derivations and reproduction boundary
 
+## Framework rules
+
+FRAMEWORK_RULES.json records the existing analysis rules and their interpretation.
+The national paths describe total non-mining facility electricity use, with
+overhead already included. The project inventory supplies conditional location
+weights, not a measured electricity inventory. Its reported MW can denote IT
+capacity, facility electrical demand or announced buildout; unspecified scales
+remain proxies rather than being silently converted or deleted. Confirmed
+generation attributes retain the documented corrections.
+
+The paired candidate increment assumes grid supply in the assigned region.
+This is a demand scenario, not a forecast of each campus's net imports. On-site
+generation is not automatically credited to the official resource path. The
+same regional weights define the candidate's 2025 anchor and later growth;
+neither is presented as an observed 2025 regional distribution.
+
+The county display is separate: its 2025 within-region shape retains the archived
+effective-area distribution, normalized to scenario regional totals. Later county
+growth follows reviewed project weights. Both the downscaling update and the
+capacity review affect county concentration. County values do not determine
+regional candidate increments or official-demand balances.
+
+The default geographic proxy uses a broader inventory than the non-mining energy
+category. Existing mining-scope, campus and raw-attribute alternatives test
+regional redistribution at fixed national energy and capture. They are not a
+national non-mining denominator reconstruction. The raw-attribute row at fixed
+capture is also distinct from the complete old-default comparison, which retains
+its own capture. These separate questions are not combined into a claim of
+observed grid geography.
+
 ## Planning components
 
 `numerical/inputs/native_summer_components.csv` contains the NERC 2025 LTRA

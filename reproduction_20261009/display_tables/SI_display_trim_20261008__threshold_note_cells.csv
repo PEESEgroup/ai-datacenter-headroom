@@ -22,12 +22,12 @@ WECC-Calif.,Prospective,0.00,0.08,0.0\%
 2033,56.89,46.92,82.5\%,0.0\%
 2034,57.69,49.31,85.5\%,0.0\%
 2035,58.37,51.15,87.6\%,0.0\%
-Anticipated,0\%,+4.99,-3.72,8.71,3.72
-Anticipated,50\%,+0.48,-6.23,6.71,6.23
-Anticipated,100\%,-4.03,-8.73,4.70,4.70
-Prospective,0\%,+18.52,+9.81,8.71,0.00
-Prospective,50\%,+14.01,+7.30,6.71,0.00
-Prospective,100\%,+9.50,+4.80,4.70,0.00
+Anticipated,0\%,4.99,-4.63,9.62,4.63
+Anticipated,50\%,0.48,-6.92,7.41,6.92
+Anticipated,100\%,-4.03,-9.22,5.19,5.19
+Prospective,0\%,18.52,8.90,9.62,0.00
+Prospective,50\%,14.01,6.60,7.41,0.00
+Prospective,100\%,9.50,4.31,5.19,0.00
 ERCOT DC path,"NERC LTRA 2025, p. 131; 6.7/23/25 GW at 2027/2030/2035",Source already applies a 49.8\% observed peak/request adjustment. No second adjustment; not raw requested MW.
 ERCOT provisional response,"NERC LTRA 2025, pp. 128-131; 58.37 GW in 2035","Reported provisional large-load credit, not demonstrated DC-only delivery. Realization fraction is a scenario."
 MISO response association,"Bound min(official DC increment, total credited response); LTRA p. 42","Feasibility bound, not an observed DC-only increment. Full association may remove existing ordinary response in the counterfactual."

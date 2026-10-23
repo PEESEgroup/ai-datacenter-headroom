@@ -1,5 +1,4 @@
 Region,Round-trip (\%),Energy displaced (\%),Conversion loss (\%),Max residual (\%)
-Region,Round-trip (\%),Energy displaced (\%),Conversion loss (\%),Max residual (\%)
 ERCOT,75,35.1,1.30,100.0
 ERCOT,85,35.6,0.78,100.0
 ERCOT,92,36.0,0.41,100.0

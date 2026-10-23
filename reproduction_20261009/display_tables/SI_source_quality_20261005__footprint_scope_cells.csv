@@ -1,7 +1,6 @@
 Alternative,SPP share (\%),MISO share (\%),ERCOT share (\%),MISO balance (GW),ERCOT balance (GW)
-Alternative,SPP share (\%),MISO share (\%),ERCOT share (\%),MISO balance (GW),ERCOT balance (GW)
-Pure crypto excluded,19.40,15.18,21.20,-3.72,23.93
-exclude pure and mixed crypto,19.88,15.38,20.29,-3.84,24.48
-One record per shared address,19.40,15.18,21.20,-3.72,23.93
-exclude private power campus MW,12.37,16.50,23.05,-4.48,22.82
-Combined scope alternative,12.70,16.76,22.11,-4.63,23.39
+Pure crypto excluded,13.06,17.43,24.35,-4.63,22.61
+Pure and mixed crypto excluded,13.44,17.73,23.39,-4.79,23.16
+One record per shared address,13.06,17.43,24.35,-4.63,22.61
+"Legacy weights, fixed capture",19.40,15.18,21.20,-3.38,24.42
+Combined scope alternative,13.44,17.73,23.39,-4.79,23.16

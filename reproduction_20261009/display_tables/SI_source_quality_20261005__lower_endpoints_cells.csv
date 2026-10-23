@@ -1,18 +1,17 @@
 Region,2030 TWh,Resource,Response,$B^S$,$P^{DC}$,$\Delta A^{DC}$
-Region,2030 TWh,Resource,Response,$B^S$,$P^{DC}$,$\Delta A^{DC}$
-ERCOT,390,A,Capped,-34.60,4.32,4.32
-ERCOT,390,A,Published,32.32,4.32,0.00
-MISO,390,A,Capped,2.03,2.96,0.00
-MISO,390,A,Published,2.03,2.96,0.00
-ERCOT,390,P,Capped,63.61,4.32,0.00
-ERCOT,390,P,Published,130.53,4.32,0.00
-MISO,390,P,Capped,15.55,2.96,0.00
-MISO,390,P,Published,15.55,2.96,0.00
-ERCOT,430,A,Capped,-35.81,5.53,5.53
-ERCOT,430,A,Published,31.11,5.53,0.00
-MISO,430,A,Capped,1.20,3.79,0.00
-MISO,430,A,Published,1.20,3.79,0.00
-ERCOT,430,P,Capped,62.40,5.53,0.00
-ERCOT,430,P,Published,129.32,5.53,0.00
-MISO,430,P,Capped,14.73,3.79,0.00
-MISO,430,P,Published,14.73,3.79,0.00
+ERCOT,390,A,Capped,-35.05,4.77,4.77
+ERCOT,390,A,Published,31.87,4.77,0.00
+MISO,390,A,Capped,1.72,3.27,0.00
+MISO,390,A,Published,1.72,3.27,0.00
+ERCOT,390,P,Capped,63.16,4.77,0.00
+ERCOT,390,P,Published,130.07,4.77,0.00
+MISO,390,P,Capped,15.25,3.27,0.00
+MISO,390,P,Published,15.25,3.27,0.00
+ERCOT,430,A,Capped,-36.38,6.11,6.11
+ERCOT,430,A,Published,30.53,6.11,0.00
+MISO,430,A,Capped,0.80,4.18,0.00
+MISO,430,A,Published,0.80,4.18,0.00
+ERCOT,430,P,Capped,61.83,6.11,0.00
+ERCOT,430,P,Published,128.74,6.11,0.00
+MISO,430,P,Capped,14.33,4.18,0.00
+MISO,430,P,Published,14.33,4.18,0.00

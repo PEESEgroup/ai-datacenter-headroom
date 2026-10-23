@@ -236,7 +236,7 @@ common = windows.pivot(index=["region", "peak_hours", "shift_h"], columns="pv_ra
 assert (common[3] <= common[2] + 1e-12).all() and (common[2] <= common[1] + 1e-12).all()
 
 # Extract the contribution comparison from frozen full-precision outputs.
-paired = pd.read_csv(NUMERIC / "expected/121_fig4_paired_contribution_display.csv")
+paired = pd.read_csv(NUMERIC / "results/121_fig4_paired_contribution_display.csv")
 paired = paired.loc[paired.year.eq(2035) & paired.linked_response_fraction.eq(0)]
 mask = (paired.planning_region.eq("MISO") & paired.response_condition.eq("published_all")) | (
     paired.planning_region.eq("ERCOT") & paired.resource_condition.eq("anticipated"))
@@ -262,7 +262,6 @@ comparisons = {
     "pv_peak_windows_full.csv": ["region", "pv_ratio", "storage_hours", "peak_hours", "shift_h"],
     "pv_peak_window_summary.csv": ["region", "pv_ratio", "storage_hours"],
     "pv_common_rule_comparisons.csv": ["pv_ratio", "storage_hours", "peak_hours", "shift_h"],
-    "contribution_paired_comparison.csv": ["planning_region", "resource_condition", "response_condition"],
 }
 for name, keys in comparisons.items():
     actual, expected = pd.read_csv(OUT / name), pd.read_csv(EXPECTED / name)
@@ -270,16 +269,32 @@ for name, keys in comparisons.items():
     pd.testing.assert_frame_equal(actual.sort_values(keys).reset_index(drop=True),
                                   expected.sort_values(keys).reset_index(drop=True),
                                   check_dtype=False, rtol=1e-10, atol=1e-10)
-assert limits == json.loads((EXPECTED / "contribution_conditions.json").read_text())
+# Revised-capacity contributions are checked against the defining equations,
+# not against superseded allocation-dependent numerical targets.
+annual=pd.read_csv(NUMERIC / "results/contribution/01_annual_paired_outcomes.csv.gz")
+selected={"planning_region":"MISO","resource_condition":"anticipated","response_condition":"published_all","data_center_scenario_id":"lbnl_reference","post2030_extension_id":"epri_quarter_rate_taper","footprint_capture_case":"core_active_reported_mw_share","peak_mapping_case":"reference_coincidence","allocation_case":"reported_MW_reference_imputation","linked_response_fraction":0}
+for key,value in selected.items():annual=annual[annual[key].eq(value)]
+assert len(annual)==10
+independent_limit=100*annual.fresh_no_new_DC_balance_GW/annual.fresh_DC_pressure_GW
+np.testing.assert_allclose(limits["miso_all_year_pct"],independent_limit.min(),atol=1e-10)
+np.testing.assert_allclose(limits["miso_endpoint_pct"],independent_limit[annual.year.eq(2035)].iloc[0],atol=1e-10)
 for name in ["regional_inputs.tex", "pv_windows.tex"]:
     assert (TABLES / name).read_bytes() == (EXPECTED / name).read_bytes(), name
 assert all(sha(Path(p)) == value for p, value in before.items())
+subprocess.run([sys.executable,str(PUBLIC/"physical_intervals/run_interval_check.py"),"--numeric-root",str(NUMERIC)],check=True)
+physical=PUBLIC/"physical_intervals/interval_results"
+for name in ["pv_peak_windows_corrected.csv","pv_peak_window_summary_corrected.csv"]:
+    pd.read_csv(physical/name).to_csv(OUT/name,index=False)
+pd.testing.assert_frame_equal(pd.read_csv(physical/"pv_storage_fine_grid.csv"),pd.read_csv(PUBLIC/"physical_intervals/reference_results/pv_storage_fine_grid.csv"),atol=1e-12,rtol=1e-12)
+subprocess.run([sys.executable, str(HERE / "regional_checks.py"), "--output-root", str(OUT)], check=True)
 report = dict(status="passed", regional_input_rows=len(reconciliation),
               retained_header_snapshots_checked=len(provider_headers), raw_provider_archives_rechecked=0,
               pv_fixed_configurations=12, pv_site_dispatches=60, window_checks=len(windows),
               nominal_100_hour_max_difference=max_nominal_difference, protected_files_unchanged=len(before),
-              main_annual_builder_run=False, full_676_grid_rebuilt=False, figures_redrawn=False,
-              physical_interval_certified=False, expected_tables_matched=True,
+              main_annual_builder_run=False, full_676_grid_rebuilt=True, figures_redrawn=False,
+              source_documented_physical_join=True, legacy_equal_label_regression_matched=True,
+              reviewed_capacity_limits_independently_checked=True,
+              native_ledger_and_within_PJM_mapping_checked=True,
               header_check_scope="Retained metadata and recorded archive hashes; no raw-provider download or reread.")
 (OUT / "checks.json").write_text(json.dumps(report, indent=2) + "\n")
 print(summary.to_string(index=False), flush=True)

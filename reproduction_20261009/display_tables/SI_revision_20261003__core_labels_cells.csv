@@ -1,9 +1,8 @@
 Region,Source 2035 range,DC-comparison range,Accepted interpretation
-Region,Source 2035 range,DC-comparison range,Accepted interpretation
-ERCOT,-58.71 to 106.41,-60.22 to 130.07,resource- and response-sensitive planning balance; no unique deficit classification
+ERCOT,-58.71 to 106.41,-65.89 to 130.25,resource- and response-sensitive planning balance; no unique deficit classification
 ISO-NE,1.03 to 8.92,0.30 to 8.92,buffered across source conditions and the pre-specified partial-additional core diagnostic
-MISO,-14.61 to -1.08,-16.70 to 14.63,"2035 total-system pressure across source conditions; data-center replacement is load, resource and linked-response sensitive"
-NYISO,0.12 to 4.42,-1.25 to 4.38,"positive source balance, but the 2035 sign is sensitive to additional-load magnitude and geography"
+MISO,-14.61 to -1.08,-20.82 to 14.60,"2035 total-system pressure across source conditions; data-center replacement is load, resource and linked-response sensitive"
+NYISO,0.12 to 4.42,-1.44 to 4.36,"positive source balance, but the 2035 sign is sensitive to additional-load magnitude and geography"
 PJM,-73.81 to -30.09,-69.37 to -14.60,"2035 source-path pressure; classified-subset removal remains below reference as a cross-vintage diagnostic, conditional on inclusion"
-SPP,-2.67 to 20.83,-18.24 to 19.78,resource-path-sensitive planning pressure; additional data-center load deepens anticipated-path exposure
-California,10.97 to 20.28,8.30 to 20.21,"positive source balance; additional-load stress uses a NERC-listed-component geographic proxy, not identified DC attribution"
+SPP,-2.67 to 20.83,-12.32 to 20.21,resource-path-sensitive planning pressure; additional data-center load deepens anticipated-path exposure
+California,10.97 to 20.28,8.30 to 20.19,"positive source balance; additional-load stress uses a NERC-listed-component geographic proxy, not identified DC attribution"

@@ -1,5 +1,4 @@
 Region,Sample,Slope,Date-cluster SE,Zone-hours
-Region,Sample,Slope,Date-cluster SE,Zone-hours
 PJM,"Full, winsorized",2.47,0.25,"269,388"
 PJM,Exclude highest 1\% raw price,2.00,0.17,"266,693"
 MISO,"Full, winsorized",0.95,0.09,"119,490"

@@ -1,6 +1,5 @@
 Region,Omitted-site cases,2x/4 h energy range (\%),30 vs 60 day max difference
-Region,Omitted-site cases,2x/4 h energy range (\%),30 vs 60 day max difference
-ERCOT,5.0,34.6--36.2,0.000000
-MISO,5.0,30.3--31.5,0.000000
-PJM,5.0,28.4--29.5,0.000000
-SPP,5.0,34.8--36.9,0.000000
+ERCOT,5,34.6--36.2,0.000000
+MISO,5,30.3--31.5,0.000000
+PJM,5,28.4--29.5,0.000000
+SPP,5,34.8--36.9,0.000000

@@ -1,6 +1,12 @@
-Region,Weather label -1 h,Nominal label,Weather label +1 h
-Region,Weather label -1 h,Nominal label,Weather label +1 h
-PJM,95.9,100.0,100.0
-MISO,79.1,98.3,100.0
-SPP,60.5,92.1,100.0
-ERCOT,20.9,77.5,99.8
+PJM,"1x PV, 0 h",91.7,98.1,100.0
+PJM,"2x PV, 4 h",64.1,95.9,100.0
+PJM,"3x PV, 8 h",4.8,10.6,18.7
+MISO,"1x PV, 0 h",85.8,94.8,99.2
+MISO,"2x PV, 4 h",44.3,79.1,98.3
+MISO,"3x PV, 8 h",14.5,16.4,29.1
+SPP,"1x PV, 0 h",80.0,91.9,98.4
+SPP,"2x PV, 4 h",39.0,60.5,92.1
+SPP,"3x PV, 8 h",7.4,13.9,17.6
+ERCOT,"1x PV, 0 h",66.8,82.2,94.1
+ERCOT,"2x PV, 4 h",12.0,20.9,77.5
+ERCOT,"3x PV, 8 h",0.0,1.0,5.0

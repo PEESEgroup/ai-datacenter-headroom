@@ -1,10 +1,9 @@
-\toprule,&,\multicolumn{2}{c}{DC-added requirement (GW)},Paired
 Region,Resources,Response,Retained,Associated,difference
-ERCOT,A,Current cap,12.71,12.71,0.00
+ERCOT,A,Current cap,14.03,14.03,0.00
 ERCOT,A,Published,0.00,0.00,0.00
 ERCOT,P,Current cap,0.00,0.00,0.00
 ERCOT,P,Published,0.00,0.00,0.00
-MISO,A,Current cap,3.72--8.71,3.72--6.23,4.01
-MISO,A,Published,3.72--8.71,3.72--6.23,4.01
+MISO,A,Current cap,4.63--9.22,4.63--6.92,4.03
+MISO,A,Published,4.63--9.22,4.63--6.92,4.03
 MISO,P,Current cap,0.00,0.00,0.00
 MISO,P,Published,0.00,0.00,0.00

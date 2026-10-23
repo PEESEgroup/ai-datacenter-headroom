@@ -273,24 +273,42 @@ def map_to_regions(rows: pd.DataFrame, apply_california_alignment: bool = True) 
     )
     return mapped
 
-def allocation_cases(rows: pd.DataFrame) -> tuple[pd.DataFrame, dict[str, pd.DataFrame]]:
+def generation_scale_mask(rows: pd.DataFrame) -> pd.Series:
+    review = pd.read_csv(ROOT / "capacity_attribute_review.csv")
+    names = set(review.loc[review.decision.eq("exclude"), "source_row"])
+    return rows["source_row"].isin(names) & rows["vintage"].eq("latest_20260917")
+
+
+def load_capacity_values(rows: pd.DataFrame, field: str) -> pd.Series:
+    review = pd.read_csv(ROOT / "capacity_attribute_review.csv")
+    values = rows["reported_mw_" + field].copy()
+    replacements = review[review.decision.eq("replace")].set_index("source_row")["load_mw_" + field]
+    mask = rows.source_row.isin(replacements.index) & rows.vintage.eq("latest_20260917")
+    values.loc[mask] = rows.loc[mask, "source_row"].map(replacements)
+    return values.mask(generation_scale_mask(rows))
+
+
+def allocation_cases(rows: pd.DataFrame, include_generation_scale: bool = False) -> tuple[pd.DataFrame, dict[str, pd.DataFrame]]:
     eligible = ~rows["explicit_non_data_center"]
     core = eligible & rows["status"].isin(CORE_ACTIVE)
     broad = eligible & rows["status"].isin(BROAD_ACTIVE)
     high = eligible & rows["status"].isin(HIGH_EVIDENCE)
-    reported = rows["reported_mw_mid"].notna()
+    valid_capacity = ~generation_scale_mask(rows) if not include_generation_scale else pd.Series(True, index=rows.index)
+    capacity = {field: rows["reported_mw_"+field] if include_generation_scale else load_capacity_values(rows, field)
+                for field in ["low", "mid", "high"]}
+    reported = capacity["mid"].notna() & valid_capacity
     mapped = rows["in_seven_region_footprint"]
-    proxy_filled = rows["reported_mw_mid"].fillna(rows["size_rank_proxy_mw"])
+    proxy_filled = capacity["mid"].fillna(rows["size_rank_proxy_mw"])
     definitions = {
-        "central_reported_mid": (core & reported & mapped, rows["reported_mw_mid"]),
-        "central_reported_low": (core & reported & mapped, rows["reported_mw_low"]),
-        "central_reported_high": (core & reported & mapped, rows["reported_mw_high"]),
-        "high_evidence_reported_mid": (high & reported & mapped, rows["reported_mw_mid"]),
-        "broad_reported_mid": (broad & reported & mapped, rows["reported_mw_mid"]),
+        "central_reported_mid": (core & reported & mapped, capacity["mid"]),
+        "central_reported_low": (core & reported & mapped, capacity["low"]),
+        "central_reported_high": (core & reported & mapped, capacity["high"]),
+        "high_evidence_reported_mid": (high & reported & mapped, capacity["mid"]),
+        "broad_reported_mid": (broad & reported & mapped, capacity["mid"]),
         "central_site_count": (core & mapped, pd.Series(1.0, index=rows.index)),
         "broad_site_count": (broad & mapped, pd.Series(1.0, index=rows.index)),
         "central_reported_plus_size_proxy_sensitivity": (
-            core & proxy_filled.notna() & mapped,
+            core & proxy_filled.notna() & mapped & valid_capacity,
             proxy_filled,
         ),
     }

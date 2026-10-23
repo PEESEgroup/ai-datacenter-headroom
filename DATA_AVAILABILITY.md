@@ -2,7 +2,7 @@
 
 ## Current revised analysis
 
-The 9 October 2026 package is [reproduction_20261009](reproduction_20261009/README.md).
+The 22 October 2026 package is [reproduction_20261009](reproduction_20261009/README.md).
 It provides the standardized inputs, scenario rules, model code, full-precision
 result generation and numerical data underlying the revised figures and tables.
 The supported runner does not require a separate private companion archive.

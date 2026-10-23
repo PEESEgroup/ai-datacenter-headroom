@@ -1,3 +1,5 @@
-MISO P/pub.,+18.52,+9.81,8.71,8.71,0.00,Absorbed
-MISO A/pub.,+4.99,-3.72,8.71,4.99,3.72,Triggers
-ERCOT A/cap,-30.28,-42.99,12.71,0.00,12.71,Amplifies
+Region / condition,$B^0$,$B^S$,$P^{DC}$,\shortstack{Cushion\\used},$\Delta A^{DC}$,Outcome \\\midrule
+MISO P/pub.,18.52,8.90,9.62,9.62,0.00,Absorbed
+MISO A/pub.,4.99,-4.63,9.62,4.99,4.63,Triggers
+ERCOT A/cap,-30.28,-44.31,14.03,0.00,14.03,Amplifies
+ERCOT A/pub.,36.64,22.61,14.03,14.03,0.00,Absorbed

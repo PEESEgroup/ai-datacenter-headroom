@@ -1,0 +1,5 @@
+ISO,year,expected_hours,recorded_hours,missing_timestamps,duplicate_timestamps,nonfinite_recorded,nonpositive_recorded,valid_hours,finite_positive_hours,gross_outlier_hours,gross_outlier_threshold_MW,complete,season_boundary_basis,selected_hours
+PJM,2025,2928,2928,0,0,0,0,2928,2928,0,1005540.0,True,EIA_hour_ending,100
+MISO,2025,2928,2928,0,0,0,0,2928,2928,0,817000.0,True,EIA_hour_ending,100
+SPP,2025,2928,2928,0,0,0,0,2928,2928,0,368850.0,True,EIA_hour_ending,100
+ERCOT,2025,2928,2928,0,0,0,0,2928,2928,0,630475.0,True,EIA_hour_ending,100

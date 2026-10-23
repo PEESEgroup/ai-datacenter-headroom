@@ -1,49 +1,9 @@
 {
-  "version": "contribution-polish-20261005",
-  "accessed_date": "2026-10-05",
-  "purpose": "Targeted documentation check, not provider certification or score-selected alignment",
-  "sources": [
-    {
-      "provider": "EIA",
-      "url": "https://www.eia.gov/survey/form/eia_930/instructions.pdf",
-      "locator": "General instructions, physical PDF page 3",
-      "confirmed": "Demand is an hourly integrated MW value labeled by hour-ending UTC time.",
-      "implication": "Demand labeled t represents the preceding hourly interval, not an instantaneous observation."
-    },
-    {
-      "provider": "NASA POWER",
-      "url": "https://power.larc.nasa.gov/docs/services/api/temporal/hourly/",
-      "locator": "Time Standards",
-      "confirmed": "A UTC request preserves archived UTC labels rather than applying the local-solar-time offset.",
-      "not_confirmed": "This description does not specify irradiance integration bounds for each hourly label."
-    },
-    {
-      "provider": "NASA POWER",
-      "url": "https://power.larc.nasa.gov/docs/methodology/energy-fluxes/syn1deg/",
-      "locator": "Hourly GHI, DHI and DNI",
-      "confirmed": "The irradiance source uses hourly CERES SYN1deg fluxes.",
-      "not_confirmed": "The checked page does not establish the API label's preceding, following or centered integration interval."
-    },
-    {
-      "provider": "NASA CERES",
-      "url": "https://ceres.larc.nasa.gov/documents/DPC/DPC_current/pdfs/DPC_SYN1deg-1Hour_R6V1.pdf",
-      "locator": "Table 3(a), physical PDF page 5",
-      "confirmed": "Hourly indices correspond to hours 0 through 23 GMT.",
-      "not_confirmed": "An indexed hour alone does not certify the integration bounds of the POWER API export."
-    },
-    {
-      "provider": "ECMWF",
-      "url": "https://confluence.ecmwf.int/pages/viewpage.action?pageId=111150014",
-      "locator": "Instantaneous parameters and time in analyses",
-      "confirmed": "Instantaneous parameters refer to validity instants at UTC full hours.",
-      "implication": "ERA5 temperature and wind are not hourly integrated demand observations."
-    }
-  ],
-  "archived_transform": "Join POWER irradiance labels and ERA5 validity instants by identical UTC labels; no certified interval correction applied.",
-  "certified_same_physical_interval": false,
-  "alignment_selected_from_PV_performance": false,
-  "numerical_results_changed_by_source_check": false,
-  "allowed_claim": "Conditional nominal-label energy and summer-residual screens with adjacent-hour sensitivity",
-  "excluded_claims": ["Certified coincident capacity", "ELCC", "Stable regional peak-capacity ranking", "Multi-year peak validation from one qualifying summer"],
-  "next_evidence_if_capacity_is_claimed": "Provider-supported interval mapping for the archived POWER export, then re-conversion and re-dispatch"
+  "version": "reviewed-load-capacity-and-physical-hours-20261022",
+  "physical_join": "EIA hour ending t -> POWER hour starting t-1h",
+  "capacity_review": "numerical/spatial/capacity_attribute_review.csv",
+  "peak_sample": "summer 2025, top 100 quality-screened load hours",
+  "energy_sample": "2016-2025",
+  "historical_metadata": "default_weight_update/legacy_reader_metadata",
+  "native_capacity_conventions_preserved": true
 }

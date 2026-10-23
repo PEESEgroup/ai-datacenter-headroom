@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the exact code version used."
 type: software
 title: "Data-center growth and regional planning scenarios"
-version: "wecc-california-reproduction-20261015-packaging-fix"
+version: "reviewed-load-capacity-and-physical-hours-20261022"
 repository-code: "https://github.com/PEESEgroup/ai-datacenter-headroom"
 authors:
   - family-names: Lu

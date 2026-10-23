@@ -1,8 +1,7 @@
 # Data-center growth and regional planning scenarios
 
-Current reproduction package: **WECC-California-aligned core, 9 October 2026,
-with the targeted follow-up added on 13 October 2026 and repeat-run packaging
-fixes on 15 October 2026**.
+Current reproduction package: **reviewed load-capacity weights and physical-hour
+PV matching, 22 October 2026**, building on the WECC-California-aligned core.
 This folder contains code, standardized inputs and figure/table data. It does not
 contain the paper, Supplementary Information, reviewer reports or response letters.
 The earlier repository files remain available separately.
@@ -41,6 +40,8 @@ run ends with `status: passed` in `package_reproduction_verification.json`.
 | Figure/table data | `plotting_tables`, `source_data`, `display_tables`, `SOURCE_DATA_INDEX.csv` |
 | Same-year 2025 PV comparison | `plotting_tables/pv_2025_configuration_comparison.csv` |
 | Regional input reconciliation and peak windows (Tables 69-70) | `followup_20261013/inputs`, `followup_20261013/expected` |
+| Native-ledger and within-PJM comparisons | `followup_20261013/regional_checks.py`, with three small tables in `followup_20261013/expected` |
+| Project-attribute decisions and source locators | `numerical/spatial/capacity_attribute_review.csv`, `default_weight_update/primary_source_register.csv` |
 
 Large fixtures are stored losslessly compressed and restored automatically.
 This includes the pre-alignment comparison cube. Generated CEC source hashes
@@ -53,19 +54,43 @@ are used in this version. California denotes the WECC-California planning area,
 not CAISO alone. The default run uses the frozen geographic crosswalk; it does
 not rebuild every upstream GIS asset or render the publication figures.
 
+The default capacity ledger excludes five generation-only quantities and uses
+separately stated load scales for PORTS and Monarch. These values feed both
+the national capture fraction and regional shares. Raw records, source decisions
+and the complete old-input comparison are retained in
+`numerical/spatial/capacity_attribute_review.csv` and `default_weight_update`.
+Count-based alternatives retain the sites. Existing-load county shares are
+archived inputs; subsequent county growth follows reviewed project-load weights.
+
+Current PV peak results use the documented interval join: EIA demand ending at
+time t is paired with POWER weather starting at t minus one hour.
+`physical_intervals` rebuilds 676 configurations and 50/100/200-hour windows.
+Annual energy uses 2016-2025 weather; peak-hour summaries use summer 2025.
+Older equal-label outputs are regression fixtures, not current peak results.
+
 ## Run the added checks without rerunning the main model
 
 ```sh
 python -B followup_20261013/run_followup.py
 ```
 
-This separate entry rebuilds regional input reconciliation and 50/100/200-hour
-PV peak-window checks from the frozen core inputs. It does not trigger the
-annual builder or full PV grid. It also extracts retained contribution evidence.
+This entry rebuilds regional input reconciliation, checks legacy PV fixtures,
+then recomputes the corrected physical-hour grid and peak windows. It does not
+run the regional annual builder. It extracts current paired contributions and
+independently checks the MISO annual limits.
 See `followup_20261013/README.md` for outputs, source metadata and the limits of
-the time-alignment checks. The main `run_reproduction.py` entry is unchanged.
+the time-alignment checks. `default_weight_update/audit_current.py` separately
+checks the reviewed inputs, 388,800 annual pairs and current PV reader exports.
 
 ## Interpretation
+
+The input, accounting, sensitivity and claim rules are recorded together in
+FRAMEWORK_RULES.json. National energy, project-scale location weights,
+grid-supplied candidate increments and official planning demand have distinct
+roles. Unknown project delivery or an unclear reported capacity basis is not,
+by itself, a reason to delete a record. The existing generation-attribute
+corrections remain in place; this documentation alignment excludes no further
+projects and changes no numerical results.
 
 These are conditional summer-peak planning comparisons, not forecasts of outages
 or calibrated scenario probabilities. Regions retain native capacity conventions;

@@ -16,3 +16,11 @@ support/inventory/[0-9][0-9]_*.csv
 /support/expected/inventory/04_target_active_cohorts.csv
 /support/expected/inventory/10_unit_predictions.csv
 followup_20261013/results/
+*.dylib
+*.so
+physical_intervals/interval_results/
+physical_intervals/export_verification.json
+default_weight_update/*verification*.json
+default_weight_update/*audit*.json
+default_weight_update/input_checks.json
+default_weight_update/geographic_records_used.csv

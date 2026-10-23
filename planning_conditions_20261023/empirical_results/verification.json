@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "workbook_rows": 1124,
+  "July_primary_pairs": 4,
+  "DC_monthly_pairs": 100,
+  "monthly_evidence": "DC-only top charts, approximate vector recovery; one PDF point per ordinate",
+  "July_evidence": "Exact workbook July large-load adjustments; matched parent-zone coverage only",
+  "missing_as_zero": false,
+  "subzones_added_to_parents": false,
+  "historical_error_extrapolated_to_2035": false,
+  "main_model_rerun": false
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "inputs/miso_display_timing_paths.csv": "11a78c4acb974335b0d2467cf0d3fdfc55cfc2a0dff6b1b419001ae1328d2b86",
+    "inputs/native_inputs.csv": "9f34d3bcbb0d6dcfdb051fde444b87e11ad09a4c625b49df6fa900d147133165",
+    "inputs/source_growth_and_response_anchors.csv": "9b0e307b9d75bf6311d61467619a455460b2b9a8be62cda2e117a179ac8a7e64",
+    "sources/2025-load-report-tables.xlsx": "a9a797f2d3cf34154db466b74e045d1334dfebede87ec6dc3739805093474ef5",
+    "sources/2025-load-report.pdf": "e60bf971b6bedd7d6d711c195343d5b101e353653850dbff981e64427b05d401",
+    "sources/2026-load-report-tables.xlsx": "59a62facf819962e430101c96dd1335229d8173fb6886dd8045ced325443f607",
+    "sources/2026-load-report.pdf": "9f2826cfc39357c54d6e6203e60946b6ce9ea627cfceeeaf4d4cd343066c6bc8",
+    "sources/accuracy/NERC_SOURCE.json": "555f9848dbc5ae3ec64268e39c04132cefc049437dea1cb50ef3cd1c8399f7b3",
+    "sources/accuracy/2026-accuracy-report.xlsx": "e0f24fe03a79af016826089c653b2c2e15e55edcb04a7bd4be5fa643136425fc",
+    "sources/accuracy/NERC_2025_ERCOT_p131.pdf": "7a2507abc115ed580d4c04d5e586986d80079061a1a5470b9a379a90cb6f8218",
+    "sources/accuracy/2026-load-forecast-accuracy-report.pdf": "1d5aa778f9c0527d6ad9585f91c144bac4525c36f42420f59e27872b63a15e61"
+  },
+  "calculation_protocol": "EXPERIMENT_PROTOCOL.json",
+  "source_scope": "unchanged native panel and saved MISO paths; new official PJM workbooks"
+}

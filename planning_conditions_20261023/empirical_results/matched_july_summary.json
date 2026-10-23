@@ -1,0 +1,16 @@
+{
+  "zones": [
+    "AEP",
+    "COMED",
+    "DOM",
+    "PS"
+  ],
+  "forecast_total_MW": 7566.0,
+  "actual_total_MW": 8167.1738136,
+  "actual_minus_forecast_MW": 601.1738136000001,
+  "sum_absolute_zonal_difference_MW": 738.4938136000003,
+  "difference_pct_of_matched_forecast": 7.945728437747821,
+  "covered_forecast_share_of_RTO_pct": 97.81512605042016,
+  "coincident_system_peak_interpretation": false,
+  "DC_only_annual_interpretation": false
+}

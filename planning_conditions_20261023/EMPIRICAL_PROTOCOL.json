@@ -1,0 +1,34 @@
+{
+  "version": "operational-load-evidence-20261023",
+  "scope": "Source-matched operational load comparisons; no regional model rebuild or recalibration",
+  "July_primary": {
+    "forecast_vintage": 2025,
+    "target_year": 2025,
+    "coverage_rule": "All parent zones with both exact historical and forecast July workbook rows",
+    "metric": "Historical July Peak minus 2025 Load Forecast July Peak",
+    "denominator_for_percent": "Matched forecast MW",
+    "scope": "Annual summer large-load adjustments, not automatically DC-only demand",
+    "missing_or_confidential_as_zero": false,
+    "zonal_peak_sum_is_system_coincident_peak": false
+  },
+  "DC_monthly": {
+    "source": "DC-only top charts in the PJM May 2026 accuracy report",
+    "primary_vintage": 2025,
+    "alternate_vintage": 2024,
+    "common_window": ["2025-01", "2025-08"],
+    "recovery": "PDF vector marker centers and forecast polylines; nonzero grid-line and calendar-date calibration",
+    "allowance_per_ordinate_PDF_points": 1.0,
+    "signed_difference_requires": "Absolute difference larger than two ordinate allowances",
+    "display_means_round_to_MW": 10,
+    "parent_subzone_and_RTO_aggregation": false,
+    "interpretation": "Descriptive repeated monthly comparisons; no independent-trial probabilities"
+  },
+  "ERCOT_scale": {
+    "source": "NERC 2025 LTRA original summer table, printed page 131",
+    "year": 2035,
+    "primary_denominator": "Total large loads in the same source table",
+    "interpretation": "Scale of required effective response under the stated condition, not measured capability"
+  },
+  "historical_errors_extrapolated_to_2035": false,
+  "conclusions_preselected_for_direction": false
+}

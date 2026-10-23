@@ -1,0 +1,27 @@
+{
+  "retrieved": "2026-10-23",
+  "sources": [
+    {
+      "file": "sources/2025-load-report-tables.xlsx",
+      "url": "https://www.pjm.com/-/media/DotCom/planning/res-adeq/load-forecast/2025-load-report-tables.xlsx",
+      "sha256": "a9a797f2d3cf34154db466b74e045d1334dfebede87ec6dc3739805093474ef5"
+    },
+    {
+      "file": "sources/2026-load-report-tables.xlsx",
+      "url": "https://www.pjm.com/-/media/DotCom/planning/res-adeq/load-forecast/2026-load-report-tables.xlsx",
+      "sha256": "59a62facf819962e430101c96dd1335229d8173fb6886dd8045ced325443f607"
+    },
+    {
+      "file": "sources/2025-load-report.pdf",
+      "url": "https://www.pjm.com/-/media/DotCom/library/reports-notices/load-forecast/2025-load-report.pdf",
+      "sha256": "e60bf971b6bedd7d6d711c195343d5b101e353653850dbff981e64427b05d401"
+    },
+    {
+      "file": "sources/2026-load-report.pdf",
+      "url": "https://www.pjm.com/-/media/DotCom/library/reports-notices/load-forecast/2026-load-report.pdf",
+      "sha256": "9f2826cfc39357c54d6e6203e60946b6ce9ea627cfceeeaf4d4cd343066c6bc8"
+    }
+  ],
+  "workbook_selection": "Table B1, year columns, unique PJM RTO row; not digitized from charts",
+  "native_input_origin": "Unchanged NERC 2025 source-audit panel in public baseline commit 3c0e7c6de99d11c3127ce4c4e6d9da993184de58"
+}

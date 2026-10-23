@@ -1,0 +1,7 @@
+source_timing_rule,resource_share_start,resource_share_end,binding_year
+linear,0.0,0.5049129455732352,2034
+linear,0.5049129455732352,1.0,2035
+earlier_arrival,0.0,0.09238272380105249,2034
+earlier_arrival,0.09238272380105249,1.0,2035
+later_arrival,0.0,1.0,2034
+last_interval_early_plateau,0.0,1.0,2035

@@ -1,0 +1,21 @@
+{
+  "retrieved": "2026-10-23",
+  "sources": [
+    {
+      "file": "sources/accuracy/2026-accuracy-report.xlsx",
+      "url": "https://www.pjm.com/-/media/DotCom/planning/res-adeq/load-forecast/2026-accuracy-report.xlsx",
+      "sha256": "e0f24fe03a79af016826089c653b2c2e15e55edcb04a7bd4be5fa643136425fc"
+    },
+    {
+      "file": "sources/accuracy/2026-load-forecast-accuracy-report.pdf",
+      "url": "https://www.pjm.com/-/media/DotCom/planning/res-adeq/load-forecast/2026-load-forecast-accuracy-report.pdf",
+      "sha256": "1d5aa778f9c0527d6ad9585f91c144bac4525c36f42420f59e27872b63a15e61"
+    },
+    {
+      "file": "sources/accuracy/NERC_2025_ERCOT_p131.pdf",
+      "url": "https://www.nerc.com/globalassets/our-work/assessments/nerc_ltra_2025.pdf",
+      "sha256": "7a2507abc115ed580d4c04d5e586986d80079061a1a5470b9a379a90cb6f8218"
+    }
+  ],
+  "NERC_excerpt": "Unmodified original page 131; original report hash in sources/accuracy/NERC_SOURCE.json"
+}

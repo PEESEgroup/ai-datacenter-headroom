@@ -1,0 +1,15 @@
+zone,forecast_present,actual_present,matched,forecast_MW,actual_MW,treatment
+AEP,True,True,True,1761.0,1726.1,matched
+APS,True,False,False,8.0,,not paired; missing is not zero
+ATSI,True,False,False,56.0,,not paired; missing is not zero
+BGE,True,False,False,12.0,,not paired; missing is not zero
+COMED,True,True,True,546.0,622.665,matched
+DAYTON,False,False,False,,,not paired; missing is not zero
+DOM,True,True,True,4970.0,5563.1688136,matched
+DQE,False,False,False,,,not paired; missing is not zero
+JCPL,False,False,False,,,not paired; missing is not zero
+METED,False,False,False,,,not paired; missing is not zero
+PECO,False,False,False,,,not paired; missing is not zero
+PEPCO,False,False,False,,,not paired; missing is not zero
+PL,True,False,False,93.0,,not paired; missing is not zero
+PS,True,True,True,289.0,255.24,matched

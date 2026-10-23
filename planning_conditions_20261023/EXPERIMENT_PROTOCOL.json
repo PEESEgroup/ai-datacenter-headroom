@@ -1,0 +1,33 @@
+{
+  "version": "planning-conditions-and-PJM-vintages-20261023",
+  "scope": "Derived conditions and a one-factor forecast-vintage stress; no fitting, parameter changes or annual-model rebuild",
+  "years": [2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035],
+  "resource_share_domain": [0.0, 1.0],
+  "resource_share_plot_points": 1001,
+  "reported_resource_shares": [0.0, 0.25, 0.5, 0.75, 1.0],
+  "reported_MISO_growth_scales": [0.5, 1.0, 1.5],
+  "MISO": {
+    "background": "Matched no-new-growth background with anticipated resources and published response",
+    "candidate": "Current displayed national reference, quarter-rate taper, core reported-MW capture, reference peak mapping and midpoint allocation",
+    "response_association": 0.0,
+    "source_timing_rules": ["linear", "earlier_arrival", "later_arrival", "last_interval_early_plateau"],
+    "balance": "B_t(lambda,u)=B0_A,t-lambda*P_DC,t+u*(R_P,t-R_A,t)",
+    "reported_condition": "Largest one-factor growth scale meeting every annual constraint; also report endpoint-only limit and binding year"
+  },
+  "ERCOT": {
+    "background": "Official gross demand, anticipated native resources and published ordinary response, with provisional response excluded initially",
+    "balance": "B_t(u,zeta)=R_A,t+u*(R_P,t-R_A,t)-(1+mu_t)*(G_t-F_ordinary,t-zeta*F_provisional,t)",
+    "reported_condition": "Smallest common effective provisional-response fraction meeting every annual constraint",
+    "scale_comparison": "At 2035 compare required effective reduction to the source's 25-GW new-DC increment only as an explicitly conditional upper-bound comparison"
+  },
+  "PJM": {
+    "sources": "2025 and 2026 official load-report workbooks, Table B1, PJM RTO row",
+    "required_reconciliation": "All ten 2025-vintage gross peaks must equal the retained native inputs before applying differences",
+    "stress": "Replace only gross demand by the 2026-vintage values; hold native resource contributions, response and each year-specific reference margin fixed",
+    "report": "All four resource-response conditions, first year below requirement, duration, endpoint balance and annual changes",
+    "interpretation": "Forecast-vintage stress, not a complete 2026 adequacy forecast, observed validation or DC-only attribution"
+  },
+  "constant_controls": "Each resource fraction, growth scale and response fraction is common to all ten years; no year-by-year selection of favorable settings",
+  "probabilities_assigned": false,
+  "tolerance_GW": 1e-8
+}

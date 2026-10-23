@@ -1,0 +1,96 @@
+{
+  "passed": true,
+  "baseline_2025_PJM_matches_all_ten_native_gross_peaks": true,
+  "MISO_anticipated_endpoint_growth_scale": 0.5188157270811542,
+  "MISO_anticipated_all_year_growth_scale": 0.4623058949665457,
+  "MISO_reference_required_resource_share_min": 0.34208687037308716,
+  "MISO_reference_required_resource_share_max": 0.4056058890705552,
+  "ERCOT": {
+    "required_effective_provisional_GW_2035": 51.15412747252748,
+    "provisional_credit_GW_2035": 58.3656,
+    "required_provisional_fraction": 0.876443101287873,
+    "resource_share_without_provisional": 0.5924935514654762,
+    "no_provisional_resource_binding_year": 2035,
+    "gross_peak_GW_2035": 154.077,
+    "effective_reduction_share_of_gross_peak": 0.3320036570839741,
+    "identified_new_DC_increment_GW_2035": 25.0,
+    "conditional_minimum_relief_outside_that_increment_GW": 26.154127472527477,
+    "comparison_assumption": "Same 2035 peak-demand basis; full 25-GW new-DC increment assumed reducible; not a claim about all existing data-center load or actual delivery"
+  },
+  "PJM_summary": [
+    {
+      "resource_condition": "anticipated",
+      "response_condition": "current_only",
+      "demand_vintage": 2025,
+      "first_below_year": 2029,
+      "years_below": 7,
+      "balance_2035_GW": -73.81038900000001,
+      "maximum_requirement_GW": 73.81038900000001
+    },
+    {
+      "resource_condition": "anticipated",
+      "response_condition": "current_only",
+      "demand_vintage": 2026,
+      "first_below_year": 2029,
+      "years_below": 7,
+      "balance_2035_GW": -83.19848800000003,
+      "maximum_requirement_GW": 83.19848800000003
+    },
+    {
+      "resource_condition": "anticipated",
+      "response_condition": "published",
+      "demand_vintage": 2025,
+      "first_below_year": 2029,
+      "years_below": 7,
+      "balance_2035_GW": -70.507194,
+      "maximum_requirement_GW": 70.507194
+    },
+    {
+      "resource_condition": "anticipated",
+      "response_condition": "published",
+      "demand_vintage": 2026,
+      "first_below_year": 2029,
+      "years_below": 7,
+      "balance_2035_GW": -79.89529300000001,
+      "maximum_requirement_GW": 79.89529300000001
+    },
+    {
+      "resource_condition": "prospective",
+      "response_condition": "current_only",
+      "demand_vintage": 2025,
+      "first_below_year": 2032,
+      "years_below": 4,
+      "balance_2035_GW": -33.396589000000034,
+      "maximum_requirement_GW": 33.396589000000034
+    },
+    {
+      "resource_condition": "prospective",
+      "response_condition": "current_only",
+      "demand_vintage": 2026,
+      "first_below_year": 2032,
+      "years_below": 4,
+      "balance_2035_GW": -42.784688000000045,
+      "maximum_requirement_GW": 42.784688000000045
+    },
+    {
+      "resource_condition": "prospective",
+      "response_condition": "published",
+      "demand_vintage": 2025,
+      "first_below_year": 2032,
+      "years_below": 4,
+      "balance_2035_GW": -30.093394000000018,
+      "maximum_requirement_GW": 30.093394000000018
+    },
+    {
+      "resource_condition": "prospective",
+      "response_condition": "published",
+      "demand_vintage": 2026,
+      "first_below_year": 2032,
+      "years_below": 4,
+      "balance_2035_GW": -39.48149300000003,
+      "maximum_requirement_GW": 39.48149300000003
+    }
+  ],
+  "probabilistic_validation": false,
+  "main_model_rerun": false
+}

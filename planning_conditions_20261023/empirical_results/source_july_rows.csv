@@ -1,0 +1,1125 @@
+sheet,source_zone,year,metric,vintage,MW,row,value_cell,level
+RTO,RTO,2014,Historical July Peak,0,750.82645915,2,D2,RTO
+RTO,RTO,2015,Historical July Peak,0,852.42255215,3,D3,RTO
+RTO,RTO,2016,Historical July Peak,0,1021.84494445,4,D4,RTO
+RTO,RTO,2017,Historical July Peak,0,1242.2287998,5,D5,RTO
+RTO,RTO,2018,Historical July Peak,0,1458.3378292,6,D6,RTO
+RTO,RTO,2019,Historical July Peak,0,1988.9635876,7,D7,RTO
+RTO,RTO,2020,Historical July Peak,0,2479.8642842,8,D8,RTO
+RTO,RTO,2021,Historical July Peak,0,3202.0967247,9,D9,RTO
+RTO,RTO,2022,Historical July Peak,0,4022.4413571,10,D10,RTO
+RTO,RTO,2023,2023 Load Forecast July Peak,2023,3894.0098242229,11,D11,RTO
+RTO,RTO,2023,Historical July Peak,0,5036.9076625,12,D12,RTO
+RTO,RTO,2024,2023 Load Forecast July Peak,2023,5015.929774708,13,D13,RTO
+RTO,RTO,2024,2024 Load Forecast July Peak,2024,5968.295093455999,14,D14,RTO
+RTO,RTO,2024,Historical July Peak,0,6135.6272438,15,D15,RTO
+RTO,RTO,2025,2023 Load Forecast July Peak,2023,6230.83410168,16,D16,RTO
+RTO,RTO,2025,2024 Load Forecast July Peak,2024,7939.180212517,17,D17,RTO
+RTO,RTO,2025,2025 Load Forecast July Peak,2025,7735.0,18,D18,RTO
+RTO,RTO,2025,Historical July Peak,0,8167.1738136,19,D19,RTO
+RTO,RTO,2026,2023 Load Forecast July Peak,2023,8149.77807016,20,D20,RTO
+RTO,RTO,2026,2024 Load Forecast July Peak,2024,10822.28115422,21,D21,RTO
+RTO,RTO,2026,2025 Load Forecast July Peak,2025,12560.0,22,D22,RTO
+RTO,RTO,2026,2026 Load Forecast July Peak,2026,11479.0,23,D23,RTO
+RTO,RTO,2027,2023 Load Forecast July Peak,2023,9871.2872984,24,D24,RTO
+RTO,RTO,2027,2024 Load Forecast July Peak,2024,13349.13982393,25,D25,RTO
+RTO,RTO,2027,2025 Load Forecast July Peak,2025,17726.0,26,D26,RTO
+RTO,RTO,2027,2026 Load Forecast July Peak,2026,15866.0,27,D27,RTO
+RTO,RTO,2028,2023 Load Forecast July Peak,2023,11456.69632069,28,D28,RTO
+RTO,RTO,2028,2024 Load Forecast July Peak,2024,16002.41106924,29,D29,RTO
+RTO,RTO,2028,2025 Load Forecast July Peak,2025,23382.0,30,D30,RTO
+RTO,RTO,2028,2026 Load Forecast July Peak,2026,21290.0,31,D31,RTO
+RTO,RTO,2029,2023 Load Forecast July Peak,2023,12937.81056469,32,D32,RTO
+RTO,RTO,2029,2024 Load Forecast July Peak,2024,18150.57821985,33,D33,RTO
+RTO,RTO,2029,2025 Load Forecast July Peak,2025,29291.0,34,D34,RTO
+RTO,RTO,2029,2026 Load Forecast July Peak,2026,27371.0,35,D35,RTO
+RTO,RTO,2030,2023 Load Forecast July Peak,2023,14351.15315669,36,D36,RTO
+RTO,RTO,2030,2024 Load Forecast July Peak,2024,19915.11089265,37,D37,RTO
+RTO,RTO,2030,2025 Load Forecast July Peak,2025,36815.0,38,D38,RTO
+RTO,RTO,2030,2026 Load Forecast July Peak,2026,38815.0,39,D39,RTO
+RTO,RTO,2031,2023 Load Forecast July Peak,2023,15853.15712169,40,D40,RTO
+RTO,RTO,2031,2024 Load Forecast July Peak,2024,21320.41111135,41,D41,RTO
+RTO,RTO,2031,2025 Load Forecast July Peak,2025,45125.0,42,D42,RTO
+RTO,RTO,2031,2026 Load Forecast July Peak,2026,46648.0,43,D43,RTO
+RTO,RTO,2032,2023 Load Forecast July Peak,2023,17215.58041669,44,D44,RTO
+RTO,RTO,2032,2024 Load Forecast July Peak,2024,22589.97387446,45,D45,RTO
+RTO,RTO,2032,2025 Load Forecast July Peak,2025,52531.0,46,D46,RTO
+RTO,RTO,2032,2026 Load Forecast July Peak,2026,53958.0,47,D47,RTO
+RTO,RTO,2033,2023 Load Forecast July Peak,2023,18520.88742669,48,D48,RTO
+RTO,RTO,2033,2024 Load Forecast July Peak,2024,23791.26960237,49,D49,RTO
+RTO,RTO,2033,2025 Load Forecast July Peak,2025,55448.0,50,D50,RTO
+RTO,RTO,2033,2026 Load Forecast July Peak,2026,60267.0,51,D51,RTO
+RTO,RTO,2034,2023 Load Forecast July Peak,2023,19723.32215569,52,D52,RTO
+RTO,RTO,2034,2024 Load Forecast July Peak,2024,24935.28880157,53,D53,RTO
+RTO,RTO,2034,2025 Load Forecast July Peak,2025,57586.0,54,D54,RTO
+RTO,RTO,2034,2026 Load Forecast July Peak,2026,65050.0,55,D55,RTO
+RTO,RTO,2035,2023 Load Forecast July Peak,2023,20831.98199769,56,D56,RTO
+RTO,RTO,2035,2024 Load Forecast July Peak,2024,25976.23178048,57,D57,RTO
+RTO,RTO,2035,2025 Load Forecast July Peak,2025,59176.0,58,D58,RTO
+RTO,RTO,2035,2026 Load Forecast July Peak,2026,68977.0,59,D59,RTO
+RTO,RTO,2036,2023 Load Forecast July Peak,2023,21903.91022869,60,D60,RTO
+RTO,RTO,2036,2024 Load Forecast July Peak,2024,26933.47368748,61,D61,RTO
+RTO,RTO,2036,2025 Load Forecast July Peak,2025,60433.0,62,D62,RTO
+RTO,RTO,2036,2026 Load Forecast July Peak,2026,72608.0,63,D63,RTO
+RTO,RTO,2037,2023 Load Forecast July Peak,2023,23003.99489769,64,D64,RTO
+RTO,RTO,2037,2024 Load Forecast July Peak,2024,27940.12936589,65,D65,RTO
+RTO,RTO,2037,2025 Load Forecast July Peak,2025,61443.0,66,D66,RTO
+RTO,RTO,2037,2026 Load Forecast July Peak,2026,77029.0,67,D67,RTO
+RTO,RTO,2038,2023 Load Forecast July Peak,2023,24211.24487169,68,D68,RTO
+RTO,RTO,2038,2024 Load Forecast July Peak,2024,29001.1079615,69,D69,RTO
+RTO,RTO,2038,2025 Load Forecast July Peak,2025,62313.0,70,D70,RTO
+RTO,RTO,2038,2026 Load Forecast July Peak,2026,79982.0,71,D71,RTO
+RTO,RTO,2039,2024 Load Forecast July Peak,2024,30083.3106362,72,D72,RTO
+RTO,RTO,2039,2025 Load Forecast July Peak,2025,63002.0,73,D73,RTO
+RTO,RTO,2039,2026 Load Forecast July Peak,2026,81527.0,74,D74,RTO
+RTO,RTO,2040,2025 Load Forecast July Peak,2025,63686.0,75,D75,RTO
+RTO,RTO,2040,2026 Load Forecast July Peak,2026,82656.0,76,D76,RTO
+RTO,RTO,2041,2025 Load Forecast July Peak,2025,64310.0,77,D77,RTO
+RTO,RTO,2041,2026 Load Forecast July Peak,2026,83609.0,78,D78,RTO
+RTO,RTO,2042,2025 Load Forecast July Peak,2025,64857.0,79,D79,RTO
+RTO,RTO,2042,2026 Load Forecast July Peak,2026,84416.0,80,D80,RTO
+RTO,RTO,2043,2025 Load Forecast July Peak,2025,65414.0,81,D81,RTO
+RTO,RTO,2043,2026 Load Forecast July Peak,2026,85128.0,82,D82,RTO
+RTO,RTO,2044,2025 Load Forecast July Peak,2025,65997.0,83,D83,RTO
+RTO,RTO,2044,2026 Load Forecast July Peak,2026,85818.0,84,D84,RTO
+RTO,RTO,2045,2025 Load Forecast July Peak,2025,66574.0,85,D85,RTO
+RTO,RTO,2045,2026 Load Forecast July Peak,2026,86511.0,86,D86,RTO
+RTO,RTO,2046,2026 Load Forecast July Peak,2026,87194.0,87,D87,RTO
+AEP,AEP,2023,2023 Load Forecast July Peak,2023,89.923,2,D2,parent_zone
+AEP,AEP,2024,2023 Load Forecast July Peak,2023,247.923,3,D3,parent_zone
+AEP,AEP,2025,2023 Load Forecast July Peak,2023,247.923,4,D4,parent_zone
+AEP,AEP,2026,2023 Load Forecast July Peak,2023,247.923,5,D5,parent_zone
+AEP,AEP,2027,2023 Load Forecast July Peak,2023,247.923,6,D6,parent_zone
+AEP,AEP,2028,2023 Load Forecast July Peak,2023,247.923,7,D7,parent_zone
+AEP,AEP,2029,2023 Load Forecast July Peak,2023,247.923,8,D8,parent_zone
+AEP,AEP,2030,2023 Load Forecast July Peak,2023,247.923,9,D9,parent_zone
+AEP,AEP,2031,2023 Load Forecast July Peak,2023,247.923,10,D10,parent_zone
+AEP,AEP,2032,2023 Load Forecast July Peak,2023,247.923,11,D11,parent_zone
+AEP,AEP,2033,2023 Load Forecast July Peak,2023,247.923,12,D12,parent_zone
+AEP,AEP,2034,2023 Load Forecast July Peak,2023,247.923,13,D13,parent_zone
+AEP,AEP,2035,2023 Load Forecast July Peak,2023,247.923,14,D14,parent_zone
+AEP,AEP,2036,2023 Load Forecast July Peak,2023,247.923,15,D15,parent_zone
+AEP,AEP,2037,2023 Load Forecast July Peak,2023,247.923,16,D16,parent_zone
+AEP,AEP,2038,2023 Load Forecast July Peak,2023,247.923,17,D17,parent_zone
+AEP,AEP,2024,2024 Load Forecast July Peak,2024,889.16218836,18,D18,parent_zone
+AEP,AEP,2025,2024 Load Forecast July Peak,2024,1849.4844073,19,D19,parent_zone
+AEP,AEP,2026,2024 Load Forecast July Peak,2024,2523.2862039,20,D20,parent_zone
+AEP,AEP,2027,2024 Load Forecast July Peak,2024,2995.6668375,21,D21,parent_zone
+AEP,AEP,2028,2024 Load Forecast July Peak,2024,3349.5561932,22,D22,parent_zone
+AEP,AEP,2029,2024 Load Forecast July Peak,2024,3535.8954758,23,D23,parent_zone
+AEP,AEP,2030,2024 Load Forecast July Peak,2024,3658.3429416,24,D24,parent_zone
+AEP,AEP,2031,2024 Load Forecast July Peak,2024,3743.8406643,25,D25,parent_zone
+AEP,AEP,2032,2024 Load Forecast July Peak,2024,3749.6172014,26,D26,parent_zone
+AEP,AEP,2033,2024 Load Forecast July Peak,2024,3749.3170943,27,D27,parent_zone
+AEP,AEP,2034,2024 Load Forecast July Peak,2024,3749.0712885,28,D28,parent_zone
+AEP,AEP,2035,2024 Load Forecast July Peak,2024,3748.5448814,29,D29,parent_zone
+AEP,AEP,2036,2024 Load Forecast July Peak,2024,3747.9710124,30,D30,parent_zone
+AEP,AEP,2037,2024 Load Forecast July Peak,2024,3748.3496518,31,D31,parent_zone
+AEP,AEP,2038,2024 Load Forecast July Peak,2024,3749.1596394,32,D32,parent_zone
+AEP,AEP,2039,2024 Load Forecast July Peak,2024,3749.7513491,33,D33,parent_zone
+AEP,AEP,2025,2025 Load Forecast July Peak,2025,1761.0,34,D34,parent_zone
+AEP,AEP,2026,2025 Load Forecast July Peak,2025,3936.0,35,D35,parent_zone
+AEP,AEP,2027,2025 Load Forecast July Peak,2025,5093.0,36,D36,parent_zone
+AEP,AEP,2028,2025 Load Forecast July Peak,2025,6134.0,37,D37,parent_zone
+AEP,AEP,2029,2025 Load Forecast July Peak,2025,7280.0,38,D38,parent_zone
+AEP,AEP,2030,2025 Load Forecast July Peak,2025,10346.0,39,D39,parent_zone
+AEP,AEP,2031,2025 Load Forecast July Peak,2025,14252.0,40,D40,parent_zone
+AEP,AEP,2032,2025 Load Forecast July Peak,2025,18002.0,41,D41,parent_zone
+AEP,AEP,2033,2025 Load Forecast July Peak,2025,18028.0,42,D42,parent_zone
+AEP,AEP,2034,2025 Load Forecast July Peak,2025,18021.0,43,D43,parent_zone
+AEP,AEP,2035,2025 Load Forecast July Peak,2025,18017.0,44,D44,parent_zone
+AEP,AEP,2036,2025 Load Forecast July Peak,2025,18011.0,45,D45,parent_zone
+AEP,AEP,2037,2025 Load Forecast July Peak,2025,18010.0,46,D46,parent_zone
+AEP,AEP,2038,2025 Load Forecast July Peak,2025,18008.0,47,D47,parent_zone
+AEP,AEP,2039,2025 Load Forecast July Peak,2025,18009.0,48,D48,parent_zone
+AEP,AEP,2040,2025 Load Forecast July Peak,2025,18009.0,49,D49,parent_zone
+AEP,AEP,2041,2025 Load Forecast July Peak,2025,18011.0,50,D50,parent_zone
+AEP,AEP,2042,2025 Load Forecast July Peak,2025,18012.0,51,D51,parent_zone
+AEP,AEP,2043,2025 Load Forecast July Peak,2025,18020.0,52,D52,parent_zone
+AEP,AEP,2044,2025 Load Forecast July Peak,2025,18024.0,53,D53,parent_zone
+AEP,AEP,2045,2025 Load Forecast July Peak,2025,18026.0,54,D54,parent_zone
+AEP,AEP,2026,2026 Load Forecast July Peak,2026,2699.0,55,D55,parent_zone
+AEP,AEP,2027,2026 Load Forecast July Peak,2026,4191.0,56,D56,parent_zone
+AEP,AEP,2028,2026 Load Forecast July Peak,2026,5496.0,57,D57,parent_zone
+AEP,AEP,2029,2026 Load Forecast July Peak,2026,7051.0,58,D58,parent_zone
+AEP,AEP,2030,2026 Load Forecast July Peak,2026,8665.0,59,D59,parent_zone
+AEP,AEP,2031,2026 Load Forecast July Peak,2026,10031.0,60,D60,parent_zone
+AEP,AEP,2032,2026 Load Forecast July Peak,2026,11393.0,61,D61,parent_zone
+AEP,AEP,2033,2026 Load Forecast July Peak,2026,13023.0,62,D62,parent_zone
+AEP,AEP,2034,2026 Load Forecast July Peak,2026,14649.0,63,D63,parent_zone
+AEP,AEP,2035,2026 Load Forecast July Peak,2026,16276.0,64,D64,parent_zone
+AEP,AEP,2036,2026 Load Forecast July Peak,2026,17894.0,65,D65,parent_zone
+AEP,AEP,2037,2026 Load Forecast July Peak,2026,19896.0,66,D66,parent_zone
+AEP,AEP,2038,2026 Load Forecast July Peak,2026,20729.0,67,D67,parent_zone
+AEP,AEP,2039,2026 Load Forecast July Peak,2026,20727.0,68,D68,parent_zone
+AEP,AEP,2040,2026 Load Forecast July Peak,2026,20725.0,69,D69,parent_zone
+AEP,AEP,2041,2026 Load Forecast July Peak,2026,20722.0,70,D70,parent_zone
+AEP,AEP,2042,2026 Load Forecast July Peak,2026,20724.0,71,D71,parent_zone
+AEP,AEP,2043,2026 Load Forecast July Peak,2026,20723.0,72,D72,parent_zone
+AEP,AEP,2044,2026 Load Forecast July Peak,2026,20724.0,73,D73,parent_zone
+AEP,AEP,2045,2026 Load Forecast July Peak,2026,20725.0,74,D74,parent_zone
+AEP,AEP,2046,2026 Load Forecast July Peak,2026,20726.0,75,D75,parent_zone
+AEP,AEP,2019,Historical July Peak,0,16.5,76,D76,parent_zone
+AEP,AEP,2020,Historical July Peak,0,97.9,77,D77,parent_zone
+AEP,AEP,2021,Historical July Peak,0,187.6,78,D78,parent_zone
+AEP,AEP,2022,Historical July Peak,0,277.7,79,D79,parent_zone
+AEP,AEP,2023,Historical July Peak,0,485.5,80,D80,parent_zone
+AEP,AEP,2024,Historical July Peak,0,839.4,81,D81,parent_zone
+AEP,AEP,2025,Historical July Peak,0,1726.1,82,D82,parent_zone
+APS,APS,2023,2023 Load Forecast July Peak,2023,1.1528756229,2,D2,parent_zone
+APS,APS,2024,2023 Load Forecast July Peak,2023,85.261009708,3,D3,parent_zone
+APS,APS,2025,2023 Load Forecast July Peak,2023,408.53327518,4,D4,parent_zone
+APS,APS,2026,2023 Load Forecast July Peak,2023,596.61304176,5,D5,parent_zone
+APS,APS,2027,2023 Load Forecast July Peak,2023,785.1618356,6,D6,parent_zone
+APS,APS,2028,2023 Load Forecast July Peak,2023,856.47078169,7,D7,parent_zone
+APS,APS,2029,2023 Load Forecast July Peak,2023,856.47078169,8,D8,parent_zone
+APS,APS,2030,2023 Load Forecast July Peak,2023,856.47078169,9,D9,parent_zone
+APS,APS,2031,2023 Load Forecast July Peak,2023,856.47078169,10,D10,parent_zone
+APS,APS,2032,2023 Load Forecast July Peak,2023,856.47078169,11,D11,parent_zone
+APS,APS,2033,2023 Load Forecast July Peak,2023,856.47078169,12,D12,parent_zone
+APS,APS,2034,2023 Load Forecast July Peak,2023,856.47078169,13,D13,parent_zone
+APS,APS,2035,2023 Load Forecast July Peak,2023,856.47078169,14,D14,parent_zone
+APS,APS,2036,2023 Load Forecast July Peak,2023,856.47078169,15,D15,parent_zone
+APS,APS,2037,2023 Load Forecast July Peak,2023,856.47078169,16,D16,parent_zone
+APS,APS,2038,2023 Load Forecast July Peak,2023,856.47078169,17,D17,parent_zone
+APS,APS,2024,2024 Load Forecast July Peak,2024,73.378514589,18,D18,parent_zone
+APS,APS,2025,2024 Load Forecast July Peak,2024,213.1,19,D19,parent_zone
+APS,APS,2026,2024 Load Forecast July Peak,2024,565.85862069,20,D20,parent_zone
+APS,APS,2027,2024 Load Forecast July Peak,2024,803.1,21,D21,parent_zone
+APS,APS,2028,2024 Load Forecast July Peak,2024,803.1,22,D22,parent_zone
+APS,APS,2029,2024 Load Forecast July Peak,2024,803.1,23,D23,parent_zone
+APS,APS,2030,2024 Load Forecast July Peak,2024,803.1,24,D24,parent_zone
+APS,APS,2031,2024 Load Forecast July Peak,2024,803.1,25,D25,parent_zone
+APS,APS,2032,2024 Load Forecast July Peak,2024,803.1,26,D26,parent_zone
+APS,APS,2033,2024 Load Forecast July Peak,2024,803.1,27,D27,parent_zone
+APS,APS,2034,2024 Load Forecast July Peak,2024,803.1,28,D28,parent_zone
+APS,APS,2035,2024 Load Forecast July Peak,2024,803.1,29,D29,parent_zone
+APS,APS,2036,2024 Load Forecast July Peak,2024,803.1,30,D30,parent_zone
+APS,APS,2037,2024 Load Forecast July Peak,2024,803.1,31,D31,parent_zone
+APS,APS,2038,2024 Load Forecast July Peak,2024,803.1,32,D32,parent_zone
+APS,APS,2039,2024 Load Forecast July Peak,2024,803.1,33,D33,parent_zone
+APS,APS,2025,2025 Load Forecast July Peak,2025,8.0,34,D34,parent_zone
+APS,APS,2026,2025 Load Forecast July Peak,2025,170.0,35,D35,parent_zone
+APS,APS,2027,2025 Load Forecast July Peak,2025,412.0,36,D36,parent_zone
+APS,APS,2028,2025 Load Forecast July Peak,2025,649.0,37,D37,parent_zone
+APS,APS,2029,2025 Load Forecast July Peak,2025,998.0,38,D38,parent_zone
+APS,APS,2030,2025 Load Forecast July Peak,2025,1214.0,39,D39,parent_zone
+APS,APS,2031,2025 Load Forecast July Peak,2025,1490.0,40,D40,parent_zone
+APS,APS,2032,2025 Load Forecast July Peak,2025,1810.0,41,D41,parent_zone
+APS,APS,2033,2025 Load Forecast July Peak,2025,2027.0,42,D42,parent_zone
+APS,APS,2034,2025 Load Forecast July Peak,2025,2196.0,43,D43,parent_zone
+APS,APS,2035,2025 Load Forecast July Peak,2025,2239.0,44,D44,parent_zone
+APS,APS,2036,2025 Load Forecast July Peak,2025,2240.0,45,D45,parent_zone
+APS,APS,2037,2025 Load Forecast July Peak,2025,2240.0,46,D46,parent_zone
+APS,APS,2038,2025 Load Forecast July Peak,2025,2240.0,47,D47,parent_zone
+APS,APS,2039,2025 Load Forecast July Peak,2025,2240.0,48,D48,parent_zone
+APS,APS,2040,2025 Load Forecast July Peak,2025,2240.0,49,D49,parent_zone
+APS,APS,2041,2025 Load Forecast July Peak,2025,2240.0,50,D50,parent_zone
+APS,APS,2042,2025 Load Forecast July Peak,2025,2239.0,51,D51,parent_zone
+APS,APS,2043,2025 Load Forecast July Peak,2025,2240.0,52,D52,parent_zone
+APS,APS,2044,2025 Load Forecast July Peak,2025,2240.0,53,D53,parent_zone
+APS,APS,2045,2025 Load Forecast July Peak,2025,2240.0,54,D54,parent_zone
+APS,APS,2026,2026 Load Forecast July Peak,2026,165.0,55,D55,parent_zone
+APS,APS,2027,2026 Load Forecast July Peak,2026,276.0,56,D56,parent_zone
+APS,APS,2028,2026 Load Forecast July Peak,2026,319.0,57,D57,parent_zone
+APS,APS,2029,2026 Load Forecast July Peak,2026,590.0,58,D58,parent_zone
+APS,APS,2030,2026 Load Forecast July Peak,2026,1213.0,59,D59,parent_zone
+APS,APS,2031,2026 Load Forecast July Peak,2026,1557.0,60,D60,parent_zone
+APS,APS,2032,2026 Load Forecast July Peak,2026,1929.0,61,D61,parent_zone
+APS,APS,2033,2026 Load Forecast July Peak,2026,2197.0,62,D62,parent_zone
+APS,APS,2034,2026 Load Forecast July Peak,2026,2610.0,63,D63,parent_zone
+APS,APS,2035,2026 Load Forecast July Peak,2026,2626.0,64,D64,parent_zone
+APS,APS,2036,2026 Load Forecast July Peak,2026,2624.0,65,D65,parent_zone
+APS,APS,2037,2026 Load Forecast July Peak,2026,2625.0,66,D66,parent_zone
+APS,APS,2038,2026 Load Forecast July Peak,2026,2624.0,67,D67,parent_zone
+APS,APS,2039,2026 Load Forecast July Peak,2026,2624.0,68,D68,parent_zone
+APS,APS,2040,2026 Load Forecast July Peak,2026,2624.0,69,D69,parent_zone
+APS,APS,2041,2026 Load Forecast July Peak,2026,2775.0,70,D70,parent_zone
+APS,APS,2042,2026 Load Forecast July Peak,2026,2775.0,71,D71,parent_zone
+APS,APS,2043,2026 Load Forecast July Peak,2026,2775.0,72,D72,parent_zone
+APS,APS,2044,2026 Load Forecast July Peak,2026,2776.0,73,D73,parent_zone
+APS,APS,2045,2026 Load Forecast July Peak,2026,2776.0,74,D74,parent_zone
+APS,APS,2046,2026 Load Forecast July Peak,2026,2776.0,75,D75,parent_zone
+APS - FirstEnergy,APS - FirstEnergy,2023,2023 Load Forecast July Peak,2023,1.1528756229,2,D2,subzone
+APS - FirstEnergy,APS - FirstEnergy,2024,2023 Load Forecast July Peak,2023,85.261009708,3,D3,subzone
+APS - FirstEnergy,APS - FirstEnergy,2025,2023 Load Forecast July Peak,2023,408.53327518,4,D4,subzone
+APS - FirstEnergy,APS - FirstEnergy,2026,2023 Load Forecast July Peak,2023,596.61304176,5,D5,subzone
+APS - FirstEnergy,APS - FirstEnergy,2027,2023 Load Forecast July Peak,2023,785.1618356,6,D6,subzone
+APS - FirstEnergy,APS - FirstEnergy,2028,2023 Load Forecast July Peak,2023,856.47078169,7,D7,subzone
+APS - FirstEnergy,APS - FirstEnergy,2029,2023 Load Forecast July Peak,2023,856.47078169,8,D8,subzone
+APS - FirstEnergy,APS - FirstEnergy,2030,2023 Load Forecast July Peak,2023,856.47078169,9,D9,subzone
+APS - FirstEnergy,APS - FirstEnergy,2031,2023 Load Forecast July Peak,2023,856.47078169,10,D10,subzone
+APS - FirstEnergy,APS - FirstEnergy,2032,2023 Load Forecast July Peak,2023,856.47078169,11,D11,subzone
+APS - FirstEnergy,APS - FirstEnergy,2033,2023 Load Forecast July Peak,2023,856.47078169,12,D12,subzone
+APS - FirstEnergy,APS - FirstEnergy,2034,2023 Load Forecast July Peak,2023,856.47078169,13,D13,subzone
+APS - FirstEnergy,APS - FirstEnergy,2035,2023 Load Forecast July Peak,2023,856.47078169,14,D14,subzone
+APS - FirstEnergy,APS - FirstEnergy,2036,2023 Load Forecast July Peak,2023,856.47078169,15,D15,subzone
+APS - FirstEnergy,APS - FirstEnergy,2037,2023 Load Forecast July Peak,2023,856.47078169,16,D16,subzone
+APS - FirstEnergy,APS - FirstEnergy,2038,2023 Load Forecast July Peak,2023,856.47078169,17,D17,subzone
+APS - FirstEnergy,APS - FirstEnergy,2024,2024 Load Forecast July Peak,2024,73.378514589,18,D18,subzone
+APS - FirstEnergy,APS - FirstEnergy,2025,2024 Load Forecast July Peak,2024,213.1,19,D19,subzone
+APS - FirstEnergy,APS - FirstEnergy,2026,2024 Load Forecast July Peak,2024,565.85862069,20,D20,subzone
+APS - FirstEnergy,APS - FirstEnergy,2027,2024 Load Forecast July Peak,2024,803.1,21,D21,subzone
+APS - FirstEnergy,APS - FirstEnergy,2028,2024 Load Forecast July Peak,2024,803.1,22,D22,subzone
+APS - FirstEnergy,APS - FirstEnergy,2029,2024 Load Forecast July Peak,2024,803.1,23,D23,subzone
+APS - FirstEnergy,APS - FirstEnergy,2030,2024 Load Forecast July Peak,2024,803.1,24,D24,subzone
+APS - FirstEnergy,APS - FirstEnergy,2031,2024 Load Forecast July Peak,2024,803.1,25,D25,subzone
+APS - FirstEnergy,APS - FirstEnergy,2032,2024 Load Forecast July Peak,2024,803.1,26,D26,subzone
+APS - FirstEnergy,APS - FirstEnergy,2033,2024 Load Forecast July Peak,2024,803.1,27,D27,subzone
+APS - FirstEnergy,APS - FirstEnergy,2034,2024 Load Forecast July Peak,2024,803.1,28,D28,subzone
+APS - FirstEnergy,APS - FirstEnergy,2035,2024 Load Forecast July Peak,2024,803.1,29,D29,subzone
+APS - FirstEnergy,APS - FirstEnergy,2036,2024 Load Forecast July Peak,2024,803.1,30,D30,subzone
+APS - FirstEnergy,APS - FirstEnergy,2037,2024 Load Forecast July Peak,2024,803.1,31,D31,subzone
+APS - FirstEnergy,APS - FirstEnergy,2038,2024 Load Forecast July Peak,2024,803.1,32,D32,subzone
+APS - FirstEnergy,APS - FirstEnergy,2039,2024 Load Forecast July Peak,2024,803.1,33,D33,subzone
+APS - FirstEnergy,APS - FirstEnergy,2026,2025 Load Forecast July Peak,2025,149.6,34,D34,subzone
+APS - FirstEnergy,APS - FirstEnergy,2027,2025 Load Forecast July Peak,2025,365.0,35,D35,subzone
+APS - FirstEnergy,APS - FirstEnergy,2028,2025 Load Forecast July Peak,2025,581.2,36,D36,subzone
+APS - FirstEnergy,APS - FirstEnergy,2029,2025 Load Forecast July Peak,2025,900.6,37,D37,subzone
+APS - FirstEnergy,APS - FirstEnergy,2030,2025 Load Forecast July Peak,2025,1116.7,38,D38,subzone
+APS - FirstEnergy,APS - FirstEnergy,2031,2025 Load Forecast July Peak,2025,1393.0,39,D39,subzone
+APS - FirstEnergy,APS - FirstEnergy,2032,2025 Load Forecast July Peak,2025,1713.1,40,D40,subzone
+APS - FirstEnergy,APS - FirstEnergy,2033,2025 Load Forecast July Peak,2025,1930.2,41,D41,subzone
+APS - FirstEnergy,APS - FirstEnergy,2034,2025 Load Forecast July Peak,2025,2099.4,42,D42,subzone
+APS - FirstEnergy,APS - FirstEnergy,2035,2025 Load Forecast July Peak,2025,2142.4,43,D43,subzone
+APS - FirstEnergy,APS - FirstEnergy,2036,2025 Load Forecast July Peak,2025,2143.4,44,D44,subzone
+APS - FirstEnergy,APS - FirstEnergy,2037,2025 Load Forecast July Peak,2025,2143.4,45,D45,subzone
+APS - FirstEnergy,APS - FirstEnergy,2038,2025 Load Forecast July Peak,2025,2143.4,46,D46,subzone
+APS - FirstEnergy,APS - FirstEnergy,2039,2025 Load Forecast July Peak,2025,2143.4,47,D47,subzone
+APS - FirstEnergy,APS - FirstEnergy,2040,2025 Load Forecast July Peak,2025,2143.4,48,D48,subzone
+APS - FirstEnergy,APS - FirstEnergy,2041,2025 Load Forecast July Peak,2025,2143.4,49,D49,subzone
+APS - FirstEnergy,APS - FirstEnergy,2042,2025 Load Forecast July Peak,2025,2142.4,50,D50,subzone
+APS - FirstEnergy,APS - FirstEnergy,2043,2025 Load Forecast July Peak,2025,2143.4,51,D51,subzone
+APS - FirstEnergy,APS - FirstEnergy,2044,2025 Load Forecast July Peak,2025,2143.4,52,D52,subzone
+APS - FirstEnergy,APS - FirstEnergy,2045,2025 Load Forecast July Peak,2025,2143.4,53,D53,subzone
+APS - FirstEnergy,APS - FirstEnergy,2026,2026 Load Forecast July Peak,2026,165.0,54,D54,subzone
+APS - FirstEnergy,APS - FirstEnergy,2027,2026 Load Forecast July Peak,2026,276.0,55,D55,subzone
+APS - FirstEnergy,APS - FirstEnergy,2028,2026 Load Forecast July Peak,2026,319.0,56,D56,subzone
+APS - FirstEnergy,APS - FirstEnergy,2029,2026 Load Forecast July Peak,2026,590.0,57,D57,subzone
+APS - FirstEnergy,APS - FirstEnergy,2030,2026 Load Forecast July Peak,2026,1176.7,58,D58,subzone
+APS - FirstEnergy,APS - FirstEnergy,2031,2026 Load Forecast July Peak,2026,1516.5,59,D59,subzone
+APS - FirstEnergy,APS - FirstEnergy,2032,2026 Load Forecast July Peak,2026,1829.1,60,D60,subzone
+APS - FirstEnergy,APS - FirstEnergy,2033,2026 Load Forecast July Peak,2026,2055.9,61,D61,subzone
+APS - FirstEnergy,APS - FirstEnergy,2034,2026 Load Forecast July Peak,2026,2425.5,62,D62,subzone
+APS - FirstEnergy,APS - FirstEnergy,2035,2026 Load Forecast July Peak,2026,2424.3,63,D63,subzone
+APS - FirstEnergy,APS - FirstEnergy,2036,2026 Load Forecast July Peak,2026,2422.3,64,D64,subzone
+APS - FirstEnergy,APS - FirstEnergy,2037,2026 Load Forecast July Peak,2026,2423.3,65,D65,subzone
+APS - FirstEnergy,APS - FirstEnergy,2038,2026 Load Forecast July Peak,2026,2422.3,66,D66,subzone
+APS - FirstEnergy,APS - FirstEnergy,2039,2026 Load Forecast July Peak,2026,2422.3,67,D67,subzone
+APS - FirstEnergy,APS - FirstEnergy,2040,2026 Load Forecast July Peak,2026,2422.3,68,D68,subzone
+APS - FirstEnergy,APS - FirstEnergy,2041,2026 Load Forecast July Peak,2026,2573.3,69,D69,subzone
+APS - FirstEnergy,APS - FirstEnergy,2042,2026 Load Forecast July Peak,2026,2573.3,70,D70,subzone
+APS - FirstEnergy,APS - FirstEnergy,2043,2026 Load Forecast July Peak,2026,2573.3,71,D71,subzone
+APS - FirstEnergy,APS - FirstEnergy,2044,2026 Load Forecast July Peak,2026,2574.3,72,D72,subzone
+APS - FirstEnergy,APS - FirstEnergy,2045,2026 Load Forecast July Peak,2026,2574.3,73,D73,subzone
+APS - FirstEnergy,APS - FirstEnergy,2046,2026 Load Forecast July Peak,2026,2574.3,74,D74,subzone
+APS - REC,APS - REC,2025,2025 Load Forecast July Peak,2025,8.0,2,D2,subzone
+APS - REC,APS - REC,2026,2025 Load Forecast July Peak,2025,20.4,3,D3,subzone
+APS - REC,APS - REC,2027,2025 Load Forecast July Peak,2025,47.0,4,D4,subzone
+APS - REC,APS - REC,2028,2025 Load Forecast July Peak,2025,67.8,5,D5,subzone
+APS - REC,APS - REC,2029,2025 Load Forecast July Peak,2025,97.4,6,D6,subzone
+APS - REC,APS - REC,2030,2025 Load Forecast July Peak,2025,97.3,7,D7,subzone
+APS - REC,APS - REC,2031,2025 Load Forecast July Peak,2025,97.0,8,D8,subzone
+APS - REC,APS - REC,2032,2025 Load Forecast July Peak,2025,96.9,9,D9,subzone
+APS - REC,APS - REC,2033,2025 Load Forecast July Peak,2025,96.8,10,D10,subzone
+APS - REC,APS - REC,2034,2025 Load Forecast July Peak,2025,96.6,11,D11,subzone
+APS - REC,APS - REC,2035,2025 Load Forecast July Peak,2025,96.6,12,D12,subzone
+APS - REC,APS - REC,2036,2025 Load Forecast July Peak,2025,96.6,13,D13,subzone
+APS - REC,APS - REC,2037,2025 Load Forecast July Peak,2025,96.6,14,D14,subzone
+APS - REC,APS - REC,2038,2025 Load Forecast July Peak,2025,96.6,15,D15,subzone
+APS - REC,APS - REC,2039,2025 Load Forecast July Peak,2025,96.6,16,D16,subzone
+APS - REC,APS - REC,2040,2025 Load Forecast July Peak,2025,96.6,17,D17,subzone
+APS - REC,APS - REC,2041,2025 Load Forecast July Peak,2025,96.6,18,D18,subzone
+APS - REC,APS - REC,2042,2025 Load Forecast July Peak,2025,96.6,19,D19,subzone
+APS - REC,APS - REC,2043,2025 Load Forecast July Peak,2025,96.6,20,D20,subzone
+APS - REC,APS - REC,2044,2025 Load Forecast July Peak,2025,96.6,21,D21,subzone
+APS - REC,APS - REC,2045,2025 Load Forecast July Peak,2025,96.6,22,D22,subzone
+APS - REC,APS - REC,2030,2026 Load Forecast July Peak,2026,36.3,23,D23,subzone
+APS - REC,APS - REC,2031,2026 Load Forecast July Peak,2026,40.5,24,D24,subzone
+APS - REC,APS - REC,2032,2026 Load Forecast July Peak,2026,99.9,25,D25,subzone
+APS - REC,APS - REC,2033,2026 Load Forecast July Peak,2026,141.1,26,D26,subzone
+APS - REC,APS - REC,2034,2026 Load Forecast July Peak,2026,184.5,27,D27,subzone
+APS - REC,APS - REC,2035,2026 Load Forecast July Peak,2026,201.7,28,D28,subzone
+APS - REC,APS - REC,2036,2026 Load Forecast July Peak,2026,201.7,29,D29,subzone
+APS - REC,APS - REC,2037,2026 Load Forecast July Peak,2026,201.7,30,D30,subzone
+APS - REC,APS - REC,2038,2026 Load Forecast July Peak,2026,201.7,31,D31,subzone
+APS - REC,APS - REC,2039,2026 Load Forecast July Peak,2026,201.7,32,D32,subzone
+APS - REC,APS - REC,2040,2026 Load Forecast July Peak,2026,201.7,33,D33,subzone
+APS - REC,APS - REC,2041,2026 Load Forecast July Peak,2026,201.7,34,D34,subzone
+APS - REC,APS - REC,2042,2026 Load Forecast July Peak,2026,201.7,35,D35,subzone
+APS - REC,APS - REC,2043,2026 Load Forecast July Peak,2026,201.7,36,D36,subzone
+APS - REC,APS - REC,2044,2026 Load Forecast July Peak,2026,201.7,37,D37,subzone
+APS - REC,APS - REC,2045,2026 Load Forecast July Peak,2026,201.7,38,D38,subzone
+APS - REC,APS - REC,2046,2026 Load Forecast July Peak,2026,201.7,39,D39,subzone
+ATSI,ATSI,2025,2025 Load Forecast July Peak,2025,56.0,2,D2,parent_zone
+ATSI,ATSI,2026,2025 Load Forecast July Peak,2025,161.0,3,D3,parent_zone
+ATSI,ATSI,2027,2025 Load Forecast July Peak,2025,307.0,4,D4,parent_zone
+ATSI,ATSI,2028,2025 Load Forecast July Peak,2025,506.0,5,D5,parent_zone
+ATSI,ATSI,2029,2025 Load Forecast July Peak,2025,859.0,6,D6,parent_zone
+ATSI,ATSI,2030,2025 Load Forecast July Peak,2025,1477.0,7,D7,parent_zone
+ATSI,ATSI,2031,2025 Load Forecast July Peak,2025,2060.0,8,D8,parent_zone
+ATSI,ATSI,2032,2025 Load Forecast July Peak,2025,2499.0,9,D9,parent_zone
+ATSI,ATSI,2033,2025 Load Forecast July Peak,2025,2722.0,10,D10,parent_zone
+ATSI,ATSI,2034,2025 Load Forecast July Peak,2025,2791.0,11,D11,parent_zone
+ATSI,ATSI,2035,2025 Load Forecast July Peak,2025,2792.0,12,D12,parent_zone
+ATSI,ATSI,2036,2025 Load Forecast July Peak,2025,2790.0,13,D13,parent_zone
+ATSI,ATSI,2037,2025 Load Forecast July Peak,2025,2790.0,14,D14,parent_zone
+ATSI,ATSI,2038,2025 Load Forecast July Peak,2025,2790.0,15,D15,parent_zone
+ATSI,ATSI,2039,2025 Load Forecast July Peak,2025,2790.0,16,D16,parent_zone
+ATSI,ATSI,2040,2025 Load Forecast July Peak,2025,2791.0,17,D17,parent_zone
+ATSI,ATSI,2041,2025 Load Forecast July Peak,2025,2791.0,18,D18,parent_zone
+ATSI,ATSI,2042,2025 Load Forecast July Peak,2025,2790.0,19,D19,parent_zone
+ATSI,ATSI,2043,2025 Load Forecast July Peak,2025,2791.0,20,D20,parent_zone
+ATSI,ATSI,2044,2025 Load Forecast July Peak,2025,2792.0,21,D21,parent_zone
+ATSI,ATSI,2045,2025 Load Forecast July Peak,2025,2793.0,22,D22,parent_zone
+ATSI,ATSI,2026,2026 Load Forecast July Peak,2026,132.0,23,D23,parent_zone
+ATSI,ATSI,2027,2026 Load Forecast July Peak,2026,165.0,24,D24,parent_zone
+ATSI,ATSI,2028,2026 Load Forecast July Peak,2026,299.0,25,D25,parent_zone
+ATSI,ATSI,2029,2026 Load Forecast July Peak,2026,431.0,26,D26,parent_zone
+ATSI,ATSI,2030,2026 Load Forecast July Peak,2026,1129.0,27,D27,parent_zone
+ATSI,ATSI,2031,2026 Load Forecast July Peak,2026,1302.0,28,D28,parent_zone
+ATSI,ATSI,2032,2026 Load Forecast July Peak,2026,1538.0,29,D29,parent_zone
+ATSI,ATSI,2033,2026 Load Forecast July Peak,2026,1823.0,30,D30,parent_zone
+ATSI,ATSI,2034,2026 Load Forecast July Peak,2026,2020.0,31,D31,parent_zone
+ATSI,ATSI,2035,2026 Load Forecast July Peak,2026,2169.0,32,D32,parent_zone
+ATSI,ATSI,2036,2026 Load Forecast July Peak,2026,2211.0,33,D33,parent_zone
+ATSI,ATSI,2037,2026 Load Forecast July Peak,2026,2210.0,34,D34,parent_zone
+ATSI,ATSI,2038,2026 Load Forecast July Peak,2026,2210.0,35,D35,parent_zone
+ATSI,ATSI,2039,2026 Load Forecast July Peak,2026,2209.0,36,D36,parent_zone
+ATSI,ATSI,2040,2026 Load Forecast July Peak,2026,2210.0,37,D37,parent_zone
+ATSI,ATSI,2041,2026 Load Forecast July Peak,2026,2209.0,38,D38,parent_zone
+ATSI,ATSI,2042,2026 Load Forecast July Peak,2026,2209.0,39,D39,parent_zone
+ATSI,ATSI,2043,2026 Load Forecast July Peak,2026,2209.0,40,D40,parent_zone
+ATSI,ATSI,2044,2026 Load Forecast July Peak,2026,2209.0,41,D41,parent_zone
+ATSI,ATSI,2045,2026 Load Forecast July Peak,2026,2210.0,42,D42,parent_zone
+ATSI,ATSI,2046,2026 Load Forecast July Peak,2026,2211.0,43,D43,parent_zone
+BGE,BGE,2025,2025 Load Forecast July Peak,2025,12.0,2,D2,parent_zone
+BGE,BGE,2026,2025 Load Forecast July Peak,2025,20.0,3,D3,parent_zone
+BGE,BGE,2027,2025 Load Forecast July Peak,2025,27.0,4,D4,parent_zone
+BGE,BGE,2028,2025 Load Forecast July Peak,2025,36.0,5,D5,parent_zone
+BGE,BGE,2029,2025 Load Forecast July Peak,2025,80.0,6,D6,parent_zone
+BGE,BGE,2030,2025 Load Forecast July Peak,2025,124.0,7,D7,parent_zone
+BGE,BGE,2031,2025 Load Forecast July Peak,2025,168.0,8,D8,parent_zone
+BGE,BGE,2032,2025 Load Forecast July Peak,2025,208.0,9,D9,parent_zone
+BGE,BGE,2033,2025 Load Forecast July Peak,2025,245.0,10,D10,parent_zone
+BGE,BGE,2034,2025 Load Forecast July Peak,2025,282.0,11,D11,parent_zone
+BGE,BGE,2035,2025 Load Forecast July Peak,2025,318.0,12,D12,parent_zone
+BGE,BGE,2036,2025 Load Forecast July Peak,2025,354.0,13,D13,parent_zone
+BGE,BGE,2037,2025 Load Forecast July Peak,2025,355.0,14,D14,parent_zone
+BGE,BGE,2038,2025 Load Forecast July Peak,2025,354.0,15,D15,parent_zone
+BGE,BGE,2039,2025 Load Forecast July Peak,2025,354.0,16,D16,parent_zone
+BGE,BGE,2040,2025 Load Forecast July Peak,2025,354.0,17,D17,parent_zone
+BGE,BGE,2041,2025 Load Forecast July Peak,2025,354.0,18,D18,parent_zone
+BGE,BGE,2042,2025 Load Forecast July Peak,2025,354.0,19,D19,parent_zone
+BGE,BGE,2043,2025 Load Forecast July Peak,2025,354.0,20,D20,parent_zone
+BGE,BGE,2044,2025 Load Forecast July Peak,2025,354.0,21,D21,parent_zone
+BGE,BGE,2045,2025 Load Forecast July Peak,2025,354.0,22,D22,parent_zone
+BGE,BGE,2026,2026 Load Forecast July Peak,2026,18.0,23,D23,parent_zone
+BGE,BGE,2027,2026 Load Forecast July Peak,2026,25.0,24,D24,parent_zone
+BGE,BGE,2028,2026 Load Forecast July Peak,2026,43.0,25,D25,parent_zone
+BGE,BGE,2029,2026 Load Forecast July Peak,2026,110.0,26,D26,parent_zone
+BGE,BGE,2030,2026 Load Forecast July Peak,2026,176.0,27,D27,parent_zone
+BGE,BGE,2031,2026 Load Forecast July Peak,2026,243.0,28,D28,parent_zone
+BGE,BGE,2032,2026 Load Forecast July Peak,2026,307.0,29,D29,parent_zone
+BGE,BGE,2033,2026 Load Forecast July Peak,2026,355.0,30,D30,parent_zone
+BGE,BGE,2034,2026 Load Forecast July Peak,2026,355.0,31,D31,parent_zone
+BGE,BGE,2035,2026 Load Forecast July Peak,2026,355.0,32,D32,parent_zone
+BGE,BGE,2036,2026 Load Forecast July Peak,2026,355.0,33,D33,parent_zone
+BGE,BGE,2037,2026 Load Forecast July Peak,2026,354.0,34,D34,parent_zone
+BGE,BGE,2038,2026 Load Forecast July Peak,2026,354.0,35,D35,parent_zone
+BGE,BGE,2039,2026 Load Forecast July Peak,2026,354.0,36,D36,parent_zone
+BGE,BGE,2040,2026 Load Forecast July Peak,2026,354.0,37,D37,parent_zone
+BGE,BGE,2041,2026 Load Forecast July Peak,2026,354.0,38,D38,parent_zone
+BGE,BGE,2042,2026 Load Forecast July Peak,2026,354.0,39,D39,parent_zone
+BGE,BGE,2043,2026 Load Forecast July Peak,2026,354.0,40,D40,parent_zone
+BGE,BGE,2044,2026 Load Forecast July Peak,2026,354.0,41,D41,parent_zone
+BGE,BGE,2045,2026 Load Forecast July Peak,2026,354.0,42,D42,parent_zone
+BGE,BGE,2046,2026 Load Forecast July Peak,2026,355.0,43,D43,parent_zone
+COMED,COMED,2025,2025 Load Forecast July Peak,2025,546.0,2,D2,parent_zone
+COMED,COMED,2026,2025 Load Forecast July Peak,2025,906.0,3,D3,parent_zone
+COMED,COMED,2027,2025 Load Forecast July Peak,2025,1226.0,4,D4,parent_zone
+COMED,COMED,2028,2025 Load Forecast July Peak,2025,1651.0,5,D5,parent_zone
+COMED,COMED,2029,2025 Load Forecast July Peak,2025,2135.0,6,D6,parent_zone
+COMED,COMED,2030,2025 Load Forecast July Peak,2025,2664.0,7,D7,parent_zone
+COMED,COMED,2031,2025 Load Forecast July Peak,2025,3194.0,8,D8,parent_zone
+COMED,COMED,2032,2025 Load Forecast July Peak,2025,3708.0,9,D9,parent_zone
+COMED,COMED,2033,2025 Load Forecast July Peak,2025,4182.0,10,D10,parent_zone
+COMED,COMED,2034,2025 Load Forecast July Peak,2025,4568.0,11,D11,parent_zone
+COMED,COMED,2035,2025 Load Forecast July Peak,2025,4822.0,12,D12,parent_zone
+COMED,COMED,2036,2025 Load Forecast July Peak,2025,4940.0,13,D13,parent_zone
+COMED,COMED,2037,2025 Load Forecast July Peak,2025,4989.0,14,D14,parent_zone
+COMED,COMED,2038,2025 Load Forecast July Peak,2025,4991.0,15,D15,parent_zone
+COMED,COMED,2039,2025 Load Forecast July Peak,2025,4991.0,16,D16,parent_zone
+COMED,COMED,2040,2025 Load Forecast July Peak,2025,4992.0,17,D17,parent_zone
+COMED,COMED,2041,2025 Load Forecast July Peak,2025,4993.0,18,D18,parent_zone
+COMED,COMED,2042,2025 Load Forecast July Peak,2025,4992.0,19,D19,parent_zone
+COMED,COMED,2043,2025 Load Forecast July Peak,2025,4991.0,20,D20,parent_zone
+COMED,COMED,2044,2025 Load Forecast July Peak,2025,4990.0,21,D21,parent_zone
+COMED,COMED,2045,2025 Load Forecast July Peak,2025,4991.0,22,D22,parent_zone
+COMED,COMED,2026,2026 Load Forecast July Peak,2026,885.0,23,D23,parent_zone
+COMED,COMED,2027,2026 Load Forecast July Peak,2026,1275.0,24,D24,parent_zone
+COMED,COMED,2028,2026 Load Forecast July Peak,2026,2058.0,25,D25,parent_zone
+COMED,COMED,2029,2026 Load Forecast July Peak,2026,3504.0,26,D26,parent_zone
+COMED,COMED,2030,2026 Load Forecast July Peak,2026,5176.0,27,D27,parent_zone
+COMED,COMED,2031,2026 Load Forecast July Peak,2026,6850.0,28,D28,parent_zone
+COMED,COMED,2032,2026 Load Forecast July Peak,2026,8496.0,29,D29,parent_zone
+COMED,COMED,2033,2026 Load Forecast July Peak,2026,9892.0,30,D30,parent_zone
+COMED,COMED,2034,2026 Load Forecast July Peak,2026,10537.0,31,D31,parent_zone
+COMED,COMED,2035,2026 Load Forecast July Peak,2026,10789.0,32,D32,parent_zone
+COMED,COMED,2036,2026 Load Forecast July Peak,2026,10846.0,33,D33,parent_zone
+COMED,COMED,2037,2026 Load Forecast July Peak,2026,10854.0,34,D34,parent_zone
+COMED,COMED,2038,2026 Load Forecast July Peak,2026,10860.0,35,D35,parent_zone
+COMED,COMED,2039,2026 Load Forecast July Peak,2026,10866.0,36,D36,parent_zone
+COMED,COMED,2040,2026 Load Forecast July Peak,2026,10866.0,37,D37,parent_zone
+COMED,COMED,2041,2026 Load Forecast July Peak,2026,10865.0,38,D38,parent_zone
+COMED,COMED,2042,2026 Load Forecast July Peak,2026,10866.0,39,D39,parent_zone
+COMED,COMED,2043,2026 Load Forecast July Peak,2026,10865.0,40,D40,parent_zone
+COMED,COMED,2044,2026 Load Forecast July Peak,2026,10868.0,41,D41,parent_zone
+COMED,COMED,2045,2026 Load Forecast July Peak,2026,10870.0,42,D42,parent_zone
+COMED,COMED,2046,2026 Load Forecast July Peak,2026,10870.0,43,D43,parent_zone
+COMED,COMED,2014,Historical July Peak,0,178.701,44,D44,parent_zone
+COMED,COMED,2015,Historical July Peak,0,190.401,45,D45,parent_zone
+COMED,COMED,2016,Historical July Peak,0,215.62,46,D46,parent_zone
+COMED,COMED,2017,Historical July Peak,0,231.237,47,D47,parent_zone
+COMED,COMED,2018,Historical July Peak,0,239.555,48,D48,parent_zone
+COMED,COMED,2019,Historical July Peak,0,264.153,49,D49,parent_zone
+COMED,COMED,2020,Historical July Peak,0,269.755,50,D50,parent_zone
+COMED,COMED,2021,Historical July Peak,0,299.143,51,D51,parent_zone
+COMED,COMED,2022,Historical July Peak,0,315.219,52,D52,parent_zone
+COMED,COMED,2023,Historical July Peak,0,396.883,53,D53,parent_zone
+COMED,COMED,2024,Historical July Peak,0,496.952,54,D54,parent_zone
+COMED,COMED,2025,Historical July Peak,0,622.665,55,D55,parent_zone
+DAYTON,DAYTON,2027,2025 Load Forecast July Peak,2025,297.0,2,D2,parent_zone
+DAYTON,DAYTON,2028,2025 Load Forecast July Peak,2025,335.0,3,D3,parent_zone
+DAYTON,DAYTON,2029,2025 Load Forecast July Peak,2025,335.0,4,D4,parent_zone
+DAYTON,DAYTON,2030,2025 Load Forecast July Peak,2025,335.0,5,D5,parent_zone
+DAYTON,DAYTON,2031,2025 Load Forecast July Peak,2025,334.0,6,D6,parent_zone
+DAYTON,DAYTON,2032,2025 Load Forecast July Peak,2025,334.0,7,D7,parent_zone
+DAYTON,DAYTON,2033,2025 Load Forecast July Peak,2025,334.0,8,D8,parent_zone
+DAYTON,DAYTON,2034,2025 Load Forecast July Peak,2025,334.0,9,D9,parent_zone
+DAYTON,DAYTON,2035,2025 Load Forecast July Peak,2025,334.0,10,D10,parent_zone
+DAYTON,DAYTON,2036,2025 Load Forecast July Peak,2025,334.0,11,D11,parent_zone
+DAYTON,DAYTON,2037,2025 Load Forecast July Peak,2025,334.0,12,D12,parent_zone
+DAYTON,DAYTON,2038,2025 Load Forecast July Peak,2025,334.0,13,D13,parent_zone
+DAYTON,DAYTON,2039,2025 Load Forecast July Peak,2025,334.0,14,D14,parent_zone
+DAYTON,DAYTON,2040,2025 Load Forecast July Peak,2025,334.0,15,D15,parent_zone
+DAYTON,DAYTON,2041,2025 Load Forecast July Peak,2025,334.0,16,D16,parent_zone
+DAYTON,DAYTON,2042,2025 Load Forecast July Peak,2025,334.0,17,D17,parent_zone
+DAYTON,DAYTON,2043,2025 Load Forecast July Peak,2025,334.0,18,D18,parent_zone
+DAYTON,DAYTON,2044,2025 Load Forecast July Peak,2025,334.0,19,D19,parent_zone
+DAYTON,DAYTON,2045,2025 Load Forecast July Peak,2025,334.0,20,D20,parent_zone
+DAYTON,DAYTON,2027,2026 Load Forecast July Peak,2026,144.0,21,D21,parent_zone
+DAYTON,DAYTON,2028,2026 Load Forecast July Peak,2026,277.0,22,D22,parent_zone
+DAYTON,DAYTON,2029,2026 Load Forecast July Peak,2026,411.0,23,D23,parent_zone
+DAYTON,DAYTON,2030,2026 Load Forecast July Peak,2026,954.0,24,D24,parent_zone
+DAYTON,DAYTON,2031,2026 Load Forecast July Peak,2026,1392.0,25,D25,parent_zone
+DAYTON,DAYTON,2032,2026 Load Forecast July Peak,2026,1821.0,26,D26,parent_zone
+DAYTON,DAYTON,2033,2026 Load Forecast July Peak,2026,2144.0,27,D27,parent_zone
+DAYTON,DAYTON,2034,2026 Load Forecast July Peak,2026,2242.0,28,D28,parent_zone
+DAYTON,DAYTON,2035,2026 Load Forecast July Peak,2026,2242.0,29,D29,parent_zone
+DAYTON,DAYTON,2036,2026 Load Forecast July Peak,2026,2241.0,30,D30,parent_zone
+DAYTON,DAYTON,2037,2026 Load Forecast July Peak,2026,2241.0,31,D31,parent_zone
+DAYTON,DAYTON,2038,2026 Load Forecast July Peak,2026,2241.0,32,D32,parent_zone
+DAYTON,DAYTON,2039,2026 Load Forecast July Peak,2026,2241.0,33,D33,parent_zone
+DAYTON,DAYTON,2040,2026 Load Forecast July Peak,2026,2241.0,34,D34,parent_zone
+DAYTON,DAYTON,2041,2026 Load Forecast July Peak,2026,2241.0,35,D35,parent_zone
+DAYTON,DAYTON,2042,2026 Load Forecast July Peak,2026,2241.0,36,D36,parent_zone
+DAYTON,DAYTON,2043,2026 Load Forecast July Peak,2026,2241.0,37,D37,parent_zone
+DAYTON,DAYTON,2044,2026 Load Forecast July Peak,2026,2242.0,38,D38,parent_zone
+DAYTON,DAYTON,2045,2026 Load Forecast July Peak,2026,2243.0,39,D39,parent_zone
+DAYTON,DAYTON,2046,2026 Load Forecast July Peak,2026,2244.0,40,D40,parent_zone
+DOM,VEPCO,2023,2023 Load Forecast July Peak,2023,3802.9339486,2,D2,parent_zone
+DOM,VEPCO,2024,2023 Load Forecast July Peak,2023,4682.745765,3,D3,parent_zone
+DOM,VEPCO,2025,2023 Load Forecast July Peak,2023,5574.3778265,4,D4,parent_zone
+DOM,VEPCO,2026,2023 Load Forecast July Peak,2023,7305.2420284,5,D5,parent_zone
+DOM,VEPCO,2027,2023 Load Forecast July Peak,2023,8838.2024628,6,D6,parent_zone
+DOM,VEPCO,2028,2023 Load Forecast July Peak,2023,10352.302539,7,D7,parent_zone
+DOM,VEPCO,2029,2023 Load Forecast July Peak,2023,11833.416783,8,D8,parent_zone
+DOM,VEPCO,2030,2023 Load Forecast July Peak,2023,13246.759375,9,D9,parent_zone
+DOM,VEPCO,2031,2023 Load Forecast July Peak,2023,14748.76334,10,D10,parent_zone
+DOM,VEPCO,2032,2023 Load Forecast July Peak,2023,16111.186635,11,D11,parent_zone
+DOM,VEPCO,2033,2023 Load Forecast July Peak,2023,17416.493645,12,D12,parent_zone
+DOM,VEPCO,2034,2023 Load Forecast July Peak,2023,18618.928374,13,D13,parent_zone
+DOM,VEPCO,2035,2023 Load Forecast July Peak,2023,19727.588216,14,D14,parent_zone
+DOM,VEPCO,2036,2023 Load Forecast July Peak,2023,20799.516447,15,D15,parent_zone
+DOM,VEPCO,2037,2023 Load Forecast July Peak,2023,21899.601116,16,D16,parent_zone
+DOM,VEPCO,2038,2023 Load Forecast July Peak,2023,23106.85109,17,D17,parent_zone
+DOM,VEPCO,2024,2024 Load Forecast July Peak,2024,4712.3021905,18,D18,parent_zone
+DOM,VEPCO,2025,2024 Load Forecast July Peak,2024,5538.1436052,19,D19,parent_zone
+DOM,VEPCO,2026,2024 Load Forecast July Peak,2024,7350.6841296,20,D20,parent_zone
+DOM,VEPCO,2027,2024 Load Forecast July Peak,2024,9096.9207864,21,D21,parent_zone
+DOM,VEPCO,2028,2024 Load Forecast July Peak,2024,11330.302676,22,D22,parent_zone
+DOM,VEPCO,2029,2024 Load Forecast July Peak,2024,13226.130544,23,D23,parent_zone
+DOM,VEPCO,2030,2024 Load Forecast July Peak,2024,14816.215751,24,D24,parent_zone
+DOM,VEPCO,2031,2024 Load Forecast July Peak,2024,16121.018247,25,D25,parent_zone
+DOM,VEPCO,2032,2024 Load Forecast July Peak,2024,17356.804473,26,D26,parent_zone
+DOM,VEPCO,2033,2024 Load Forecast July Peak,2024,18529.400308,27,D27,parent_zone
+DOM,VEPCO,2034,2024 Load Forecast July Peak,2024,19644.665313,28,D28,parent_zone
+DOM,VEPCO,2035,2024 Load Forecast July Peak,2024,20657.134699,29,D29,parent_zone
+DOM,VEPCO,2036,2024 Load Forecast July Peak,2024,21586.950475,30,D30,parent_zone
+DOM,VEPCO,2037,2024 Load Forecast July Peak,2024,22564.227514,31,D31,parent_zone
+DOM,VEPCO,2038,2024 Load Forecast July Peak,2024,23595.396122,32,D32,parent_zone
+DOM,VEPCO,2039,2024 Load Forecast July Peak,2024,24649.007087,33,D33,parent_zone
+DOM,VEPCO,2025,2025 Load Forecast July Peak,2025,4970.0,34,D34,parent_zone
+DOM,VEPCO,2026,2025 Load Forecast July Peak,2025,6415.0,35,D35,parent_zone
+DOM,VEPCO,2027,2025 Load Forecast July Peak,2025,8185.0,36,D36,parent_zone
+DOM,VEPCO,2028,2025 Load Forecast July Peak,2025,10351.0,37,D37,parent_zone
+DOM,VEPCO,2029,2025 Load Forecast July Peak,2025,12524.0,38,D38,parent_zone
+DOM,VEPCO,2030,2025 Load Forecast July Peak,2025,14646.0,39,D39,parent_zone
+DOM,VEPCO,2031,2025 Load Forecast July Peak,2025,17051.0,40,D40,parent_zone
+DOM,VEPCO,2032,2025 Load Forecast July Peak,2025,19096.0,41,D41,parent_zone
+DOM,VEPCO,2033,2025 Load Forecast July Peak,2025,20766.0,42,D42,parent_zone
+DOM,VEPCO,2034,2025 Load Forecast July Peak,2025,22213.0,43,D43,parent_zone
+DOM,VEPCO,2035,2025 Load Forecast July Peak,2025,23464.0,44,D44,parent_zone
+DOM,VEPCO,2036,2025 Load Forecast July Peak,2025,24574.0,45,D45,parent_zone
+DOM,VEPCO,2037,2025 Load Forecast July Peak,2025,25535.0,46,D46,parent_zone
+DOM,VEPCO,2038,2025 Load Forecast July Peak,2025,26406.0,47,D47,parent_zone
+DOM,VEPCO,2039,2025 Load Forecast July Peak,2025,27094.0,48,D48,parent_zone
+DOM,VEPCO,2040,2025 Load Forecast July Peak,2025,27754.0,49,D49,parent_zone
+DOM,VEPCO,2041,2025 Load Forecast July Peak,2025,28371.0,50,D50,parent_zone
+DOM,VEPCO,2042,2025 Load Forecast July Peak,2025,28920.0,51,D51,parent_zone
+DOM,VEPCO,2043,2025 Load Forecast July Peak,2025,29466.0,52,D52,parent_zone
+DOM,VEPCO,2044,2025 Load Forecast July Peak,2025,30044.0,53,D53,parent_zone
+DOM,VEPCO,2045,2025 Load Forecast July Peak,2025,30616.0,54,D54,parent_zone
+DOM,VEPCO,2026,2026 Load Forecast July Peak,2026,7066.0,55,D55,parent_zone
+DOM,VEPCO,2027,2026 Load Forecast July Peak,2026,8925.0,56,D56,parent_zone
+DOM,VEPCO,2028,2026 Load Forecast July Peak,2026,10615.0,57,D57,parent_zone
+DOM,VEPCO,2029,2026 Load Forecast July Peak,2026,11932.0,58,D58,parent_zone
+DOM,VEPCO,2030,2026 Load Forecast July Peak,2026,13896.0,59,D59,parent_zone
+DOM,VEPCO,2031,2026 Load Forecast July Peak,2026,15829.0,60,D60,parent_zone
+DOM,VEPCO,2032,2026 Load Forecast July Peak,2026,17735.0,61,D61,parent_zone
+DOM,VEPCO,2033,2026 Load Forecast July Peak,2026,19311.0,62,D62,parent_zone
+DOM,VEPCO,2034,2026 Load Forecast July Peak,2026,20734.0,63,D63,parent_zone
+DOM,VEPCO,2035,2026 Load Forecast July Peak,2026,22426.0,64,D64,parent_zone
+DOM,VEPCO,2036,2026 Load Forecast July Peak,2026,24224.0,65,D65,parent_zone
+DOM,VEPCO,2037,2026 Load Forecast July Peak,2026,26618.0,66,D66,parent_zone
+DOM,VEPCO,2038,2026 Load Forecast July Peak,2026,28724.0,67,D67,parent_zone
+DOM,VEPCO,2039,2026 Load Forecast July Peak,2026,30258.0,68,D68,parent_zone
+DOM,VEPCO,2040,2026 Load Forecast July Peak,2026,31350.0,69,D69,parent_zone
+DOM,VEPCO,2041,2026 Load Forecast July Peak,2026,32157.0,70,D70,parent_zone
+DOM,VEPCO,2042,2026 Load Forecast July Peak,2026,32957.0,71,D71,parent_zone
+DOM,VEPCO,2043,2026 Load Forecast July Peak,2026,33669.0,72,D72,parent_zone
+DOM,VEPCO,2044,2026 Load Forecast July Peak,2026,34348.0,73,D73,parent_zone
+DOM,VEPCO,2045,2026 Load Forecast July Peak,2026,35010.0,74,D74,parent_zone
+DOM,VEPCO,2046,2026 Load Forecast July Peak,2026,35686.0,75,D75,parent_zone
+DOM,VEPCO,2014,Historical July Peak,0,572.12545915,76,D76,parent_zone
+DOM,VEPCO,2015,Historical July Peak,0,662.02155215,77,D77,parent_zone
+DOM,VEPCO,2016,Historical July Peak,0,806.22494445,78,D78,parent_zone
+DOM,VEPCO,2017,Historical July Peak,0,1010.9917998,79,D79,parent_zone
+DOM,VEPCO,2018,Historical July Peak,0,1218.7828292,80,D80,parent_zone
+DOM,VEPCO,2019,Historical July Peak,0,1503.3605876,81,D81,parent_zone
+DOM,VEPCO,2020,Historical July Peak,0,1901.3692842,82,D82,parent_zone
+DOM,VEPCO,2021,Historical July Peak,0,2493.0937247,83,D83,parent_zone
+DOM,VEPCO,2022,Historical July Peak,0,3193.7223571,84,D84,parent_zone
+DOM,VEPCO,2023,Historical July Peak,0,3908.1446625,85,D85,parent_zone
+DOM,VEPCO,2024,Historical July Peak,0,4534.0152438,86,D86,parent_zone
+DOM,VEPCO,2025,Historical July Peak,0,5563.1688136,87,D87,parent_zone
+DOM - Dominion Energy,DOM Energy,2024,2024 Load Forecast July Peak,2024,3562.123495017454,2,D2,subzone
+DOM - Dominion Energy,DOM Energy,2025,2024 Load Forecast July Peak,2024,3764.349693761136,3,D3,subzone
+DOM - Dominion Energy,DOM Energy,2026,2024 Load Forecast July Peak,2024,4481.777926252006,4,D4,subzone
+DOM - Dominion Energy,DOM Energy,2027,2024 Load Forecast July Peak,2024,4847.344596610776,5,D5,subzone
+DOM - Dominion Energy,DOM Energy,2028,2024 Load Forecast July Peak,2024,5269.851713204782,6,D6,subzone
+DOM - Dominion Energy,DOM Energy,2029,2024 Load Forecast July Peak,2024,5715.502546209384,7,D7,subzone
+DOM - Dominion Energy,DOM Energy,2030,2024 Load Forecast July Peak,2024,6164.902167171419,8,D8,subzone
+DOM - Dominion Energy,DOM Energy,2031,2024 Load Forecast July Peak,2024,6608.782843648625,9,D9,subzone
+DOM - Dominion Energy,DOM Energy,2032,2024 Load Forecast July Peak,2024,7146.506353006498,10,D10,subzone
+DOM - Dominion Energy,DOM Energy,2033,2024 Load Forecast July Peak,2024,7701.206261655951,11,D11,subzone
+DOM - Dominion Energy,DOM Energy,2034,2024 Load Forecast July Peak,2024,8328.652917055031,12,D12,subzone
+DOM - Dominion Energy,DOM Energy,2035,2024 Load Forecast July Peak,2024,9005.285622878744,13,D13,subzone
+DOM - Dominion Energy,DOM Energy,2036,2024 Load Forecast July Peak,2024,9711.017805450689,14,D14,subzone
+DOM - Dominion Energy,DOM Energy,2037,2024 Load Forecast July Peak,2024,10494.74207764146,15,D15,subzone
+DOM - Dominion Energy,DOM Energy,2038,2024 Load Forecast July Peak,2024,11332.30857980198,16,D16,subzone
+DOM - Dominion Energy,DOM Energy,2039,2024 Load Forecast July Peak,2024,12178.70597952083,17,D17,subzone
+DOM - Dominion Energy,DOM Energy,2025,2025 Load Forecast July Peak,2025,3382.8,18,D18,subzone
+DOM - Dominion Energy,DOM Energy,2026,2025 Load Forecast July Peak,2025,3823.9,19,D19,subzone
+DOM - Dominion Energy,DOM Energy,2027,2025 Load Forecast July Peak,2025,4286.7,20,D20,subzone
+DOM - Dominion Energy,DOM Energy,2028,2025 Load Forecast July Peak,2025,4772.6,21,D21,subzone
+DOM - Dominion Energy,DOM Energy,2029,2025 Load Forecast July Peak,2025,5279.1,22,D22,subzone
+DOM - Dominion Energy,DOM Energy,2030,2025 Load Forecast July Peak,2025,5807.2,23,D23,subzone
+DOM - Dominion Energy,DOM Energy,2031,2025 Load Forecast July Peak,2025,6366.3,24,D24,subzone
+DOM - Dominion Energy,DOM Energy,2032,2025 Load Forecast July Peak,2025,6950.8,25,D25,subzone
+DOM - Dominion Energy,DOM Energy,2033,2025 Load Forecast July Peak,2025,7564.0,26,D26,subzone
+DOM - Dominion Energy,DOM Energy,2034,2025 Load Forecast July Peak,2025,8178.5,27,D27,subzone
+DOM - Dominion Energy,DOM Energy,2035,2025 Load Forecast July Peak,2025,8819.8,28,D28,subzone
+DOM - Dominion Energy,DOM Energy,2036,2025 Load Forecast July Peak,2025,9479.9,29,D29,subzone
+DOM - Dominion Energy,DOM Energy,2037,2025 Load Forecast July Peak,2025,10129.4,30,D30,subzone
+DOM - Dominion Energy,DOM Energy,2038,2025 Load Forecast July Peak,2025,10750.3,31,D31,subzone
+DOM - Dominion Energy,DOM Energy,2039,2025 Load Forecast July Peak,2025,11238.8,32,D32,subzone
+DOM - Dominion Energy,DOM Energy,2040,2025 Load Forecast July Peak,2025,11743.2,33,D33,subzone
+DOM - Dominion Energy,DOM Energy,2041,2025 Load Forecast July Peak,2025,12256.4,34,D34,subzone
+DOM - Dominion Energy,DOM Energy,2042,2025 Load Forecast July Peak,2025,12790.2,35,D35,subzone
+DOM - Dominion Energy,DOM Energy,2043,2025 Load Forecast July Peak,2025,13329.9,36,D36,subzone
+DOM - Dominion Energy,DOM Energy,2044,2025 Load Forecast July Peak,2025,13905.5,37,D37,subzone
+DOM - Dominion Energy,DOM Energy,2045,2025 Load Forecast July Peak,2025,14481.2,38,D38,subzone
+DOM - Dominion Energy,DOM Energy,2026,2026 Load Forecast July Peak,2026,4386.2,39,D39,subzone
+DOM - Dominion Energy,DOM Energy,2027,2026 Load Forecast July Peak,2026,4869.2,40,D40,subzone
+DOM - Dominion Energy,DOM Energy,2028,2026 Load Forecast July Peak,2026,5368.8,41,D41,subzone
+DOM - Dominion Energy,DOM Energy,2029,2026 Load Forecast July Peak,2026,5882.2,42,D42,subzone
+DOM - Dominion Energy,DOM Energy,2030,2026 Load Forecast July Peak,2026,6412.6,43,D43,subzone
+DOM - Dominion Energy,DOM Energy,2031,2026 Load Forecast July Peak,2026,6965.2,44,D44,subzone
+DOM - Dominion Energy,DOM Energy,2032,2026 Load Forecast July Peak,2026,7528.7,45,D45,subzone
+DOM - Dominion Energy,DOM Energy,2033,2026 Load Forecast July Peak,2026,8104.7,46,D46,subzone
+DOM - Dominion Energy,DOM Energy,2034,2026 Load Forecast July Peak,2026,8689.6,47,D47,subzone
+DOM - Dominion Energy,DOM Energy,2035,2026 Load Forecast July Peak,2026,9292.2,48,D48,subzone
+DOM - Dominion Energy,DOM Energy,2036,2026 Load Forecast July Peak,2026,9903.2,49,D49,subzone
+DOM - Dominion Energy,DOM Energy,2037,2026 Load Forecast July Peak,2026,10525.9,50,D50,subzone
+DOM - Dominion Energy,DOM Energy,2038,2026 Load Forecast July Peak,2026,11153.4,51,D51,subzone
+DOM - Dominion Energy,DOM Energy,2039,2026 Load Forecast July Peak,2026,11783.0,52,D52,subzone
+DOM - Dominion Energy,DOM Energy,2040,2026 Load Forecast July Peak,2026,12418.0,53,D53,subzone
+DOM - Dominion Energy,DOM Energy,2041,2026 Load Forecast July Peak,2026,13058.3,54,D54,subzone
+DOM - Dominion Energy,DOM Energy,2042,2026 Load Forecast July Peak,2026,13714.3,55,D55,subzone
+DOM - Dominion Energy,DOM Energy,2043,2026 Load Forecast July Peak,2026,14376.2,56,D56,subzone
+DOM - Dominion Energy,DOM Energy,2044,2026 Load Forecast July Peak,2026,15044.1,57,D57,subzone
+DOM - Dominion Energy,DOM Energy,2045,2026 Load Forecast July Peak,2026,15706.8,58,D58,subzone
+DOM - Dominion Energy,DOM Energy,2046,2026 Load Forecast July Peak,2026,16380.0,59,D59,subzone
+DOM - Dominion Energy,DOM Energy,2017,Historical July Peak,0,872.13796705,60,D60,subzone
+DOM - Dominion Energy,DOM Energy,2018,Historical July Peak,0,1030.9533127,61,D61,subzone
+DOM - Dominion Energy,DOM Energy,2019,Historical July Peak,0,1258.8615876,62,D62,subzone
+DOM - Dominion Energy,DOM Energy,2020,Historical July Peak,0,1603.3032842,63,D63,subzone
+DOM - Dominion Energy,DOM Energy,2021,Historical July Peak,0,2058.0527247,64,D64,subzone
+DOM - Dominion Energy,DOM Energy,2022,Historical July Peak,0,2586.337357116,65,D65,subzone
+DOM - Dominion Energy,DOM Energy,2023,Historical July Peak,0,3018.156662488,66,D66,subzone
+DOM - Dominion Energy,DOM Energy,2024,Historical July Peak,0,3349.266950471,67,D67,subzone
+DOM - Dominion Energy,DOM Energy,2025,Historical July Peak,0,3944.52632052,68,D68,subzone
+DOM - NOVEC,NOVEC,2024,2024 Load Forecast July Peak,2024,978.4882400019693,2,D2,subzone
+DOM - NOVEC,NOVEC,2025,2024 Load Forecast July Peak,2024,1416.75192359042,3,D3,subzone
+DOM - NOVEC,NOVEC,2026,2024 Load Forecast July Peak,2024,2203.587668031116,4,D4,subzone
+DOM - NOVEC,NOVEC,2027,2024 Load Forecast July Peak,2024,3176.73962407076,5,D5,subzone
+DOM - NOVEC,NOVEC,2028,2024 Load Forecast July Peak,2024,4601.788975211179,6,D6,subzone
+DOM - NOVEC,NOVEC,2029,2024 Load Forecast July Peak,2024,5842.425708385333,7,D7,subzone
+DOM - NOVEC,NOVEC,2030,2024 Load Forecast July Peak,2024,6759.662232312858,8,D8,subzone
+DOM - NOVEC,NOVEC,2031,2024 Load Forecast July Peak,2024,7354.386531726569,9,D9,subzone
+DOM - NOVEC,NOVEC,2032,2024 Load Forecast July Peak,2024,7847.350500672526,10,D10,subzone
+DOM - NOVEC,NOVEC,2033,2024 Load Forecast July Peak,2024,8244.27034735027,11,D11,subzone
+DOM - NOVEC,NOVEC,2034,2024 Load Forecast July Peak,2024,8563.932725908584,12,D12,subzone
+DOM - NOVEC,NOVEC,2035,2024 Load Forecast July Peak,2024,8755.99807739954,13,D13,subzone
+DOM - NOVEC,NOVEC,2036,2024 Load Forecast July Peak,2024,8842.848799892226,14,D14,subzone
+DOM - NOVEC,NOVEC,2037,2024 Load Forecast July Peak,2024,8919.869643880336,15,D15,subzone
+DOM - NOVEC,NOVEC,2038,2024 Load Forecast July Peak,2024,9008.563268223415,16,D16,subzone
+DOM - NOVEC,NOVEC,2039,2024 Load Forecast July Peak,2024,9096.86399322604,17,D17,subzone
+DOM - NOVEC,NOVEC,2025,2025 Load Forecast July Peak,2025,1290.5,18,D18,subzone
+DOM - NOVEC,NOVEC,2026,2025 Load Forecast July Peak,2025,2057.3,19,D19,subzone
+DOM - NOVEC,NOVEC,2027,2025 Load Forecast July Peak,2025,2985.9,20,D20,subzone
+DOM - NOVEC,NOVEC,2028,2025 Load Forecast July Peak,2025,4245.7,21,D21,subzone
+DOM - NOVEC,NOVEC,2029,2025 Load Forecast July Peak,2025,5567.8,22,D22,subzone
+DOM - NOVEC,NOVEC,2030,2025 Load Forecast July Peak,2025,6887.6,23,D23,subzone
+DOM - NOVEC,NOVEC,2031,2025 Load Forecast July Peak,2025,8457.4,24,D24,subzone
+DOM - NOVEC,NOVEC,2032,2025 Load Forecast July Peak,2025,9690.5,25,D25,subzone
+DOM - NOVEC,NOVEC,2033,2025 Load Forecast July Peak,2025,10523.5,26,D26,subzone
+DOM - NOVEC,NOVEC,2034,2025 Load Forecast July Peak,2025,11114.9,27,D27,subzone
+DOM - NOVEC,NOVEC,2035,2025 Load Forecast July Peak,2025,11462.5,28,D28,subzone
+DOM - NOVEC,NOVEC,2036,2025 Load Forecast July Peak,2025,11633.3,29,D29,subzone
+DOM - NOVEC,NOVEC,2037,2025 Load Forecast July Peak,2025,11728.8,30,D30,subzone
+DOM - NOVEC,NOVEC,2038,2025 Load Forecast July Peak,2025,11809.4,31,D31,subzone
+DOM - NOVEC,NOVEC,2039,2025 Load Forecast July Peak,2025,11878.3,32,D32,subzone
+DOM - NOVEC,NOVEC,2040,2025 Load Forecast July Peak,2025,11932.4,33,D33,subzone
+DOM - NOVEC,NOVEC,2041,2025 Load Forecast July Peak,2025,11958.8,34,D34,subzone
+DOM - NOVEC,NOVEC,2042,2025 Load Forecast July Peak,2025,11974.0,35,D35,subzone
+DOM - NOVEC,NOVEC,2043,2025 Load Forecast July Peak,2025,11980.3,36,D36,subzone
+DOM - NOVEC,NOVEC,2044,2025 Load Forecast July Peak,2025,11982.7,37,D37,subzone
+DOM - NOVEC,NOVEC,2045,2025 Load Forecast July Peak,2025,11979.0,38,D38,subzone
+DOM - NOVEC,NOVEC,2026,2026 Load Forecast July Peak,2026,1995.4,39,D39,subzone
+DOM - NOVEC,NOVEC,2027,2026 Load Forecast July Peak,2026,2987.5,40,D40,subzone
+DOM - NOVEC,NOVEC,2028,2026 Load Forecast July Peak,2026,3717.8,41,D41,subzone
+DOM - NOVEC,NOVEC,2029,2026 Load Forecast July Peak,2026,4269.3,42,D42,subzone
+DOM - NOVEC,NOVEC,2030,2026 Load Forecast July Peak,2026,4887.5,43,D43,subzone
+DOM - NOVEC,NOVEC,2031,2026 Load Forecast July Peak,2026,5681.5,44,D44,subzone
+DOM - NOVEC,NOVEC,2032,2026 Load Forecast July Peak,2026,6552.8,45,D45,subzone
+DOM - NOVEC,NOVEC,2033,2026 Load Forecast July Peak,2026,7291.1,46,D46,subzone
+DOM - NOVEC,NOVEC,2034,2026 Load Forecast July Peak,2026,7998.7,47,D47,subzone
+DOM - NOVEC,NOVEC,2035,2026 Load Forecast July Peak,2026,8729.1,48,D48,subzone
+DOM - NOVEC,NOVEC,2036,2026 Load Forecast July Peak,2026,9467.7,49,D49,subzone
+DOM - NOVEC,NOVEC,2037,2026 Load Forecast July Peak,2026,10625.0,50,D50,subzone
+DOM - NOVEC,NOVEC,2038,2026 Load Forecast July Peak,2026,11711.8,51,D51,subzone
+DOM - NOVEC,NOVEC,2039,2026 Load Forecast July Peak,2026,12514.2,52,D52,subzone
+DOM - NOVEC,NOVEC,2040,2026 Load Forecast July Peak,2026,12880.0,53,D53,subzone
+DOM - NOVEC,NOVEC,2041,2026 Load Forecast July Peak,2026,13017.5,54,D54,subzone
+DOM - NOVEC,NOVEC,2042,2026 Load Forecast July Peak,2026,13077.5,55,D55,subzone
+DOM - NOVEC,NOVEC,2043,2026 Load Forecast July Peak,2026,13102.9,56,D56,subzone
+DOM - NOVEC,NOVEC,2044,2026 Load Forecast July Peak,2026,13114.0,57,D57,subzone
+DOM - NOVEC,NOVEC,2045,2026 Load Forecast July Peak,2026,13113.3,58,D58,subzone
+DOM - NOVEC,NOVEC,2046,2026 Load Forecast July Peak,2026,13116.1,59,D59,subzone
+DOM - NOVEC,NOVEC,2014,Historical July Peak,0,90.394,60,D60,subzone
+DOM - NOVEC,NOVEC,2015,Historical July Peak,0,103.669,61,D61,subzone
+DOM - NOVEC,NOVEC,2016,Historical July Peak,0,112.284,62,D62,subzone
+DOM - NOVEC,NOVEC,2017,Historical July Peak,0,147.742,63,D63,subzone
+DOM - NOVEC,NOVEC,2018,Historical July Peak,0,191.472,64,D64,subzone
+DOM - NOVEC,NOVEC,2019,Historical July Peak,0,245.041,65,D65,subzone
+DOM - NOVEC,NOVEC,2020,Historical July Peak,0,301.617,66,D66,subzone
+DOM - NOVEC,NOVEC,2021,Historical July Peak,0,435.65,67,D67,subzone
+DOM - NOVEC,NOVEC,2022,Historical July Peak,0,570.013,68,D68,subzone
+DOM - NOVEC,NOVEC,2023,Historical July Peak,0,808.824,69,D69,subzone
+DOM - NOVEC,NOVEC,2024,Historical July Peak,0,1059.455,70,D70,subzone
+DOM - NOVEC,NOVEC,2025,Historical July Peak,0,1392.726,71,D71,subzone
+DOM - ODEC,ODEC,2024,2024 Load Forecast July Peak,2024,161.515053530618,2,D2,subzone
+DOM - ODEC,ODEC,2025,2024 Load Forecast July Peak,2024,274.3208873277023,3,D3,subzone
+DOM - ODEC,ODEC,2026,2024 Load Forecast July Peak,2024,436.2429180040474,4,D4,subzone
+DOM - ODEC,ODEC,2027,2024 Load Forecast July Peak,2024,616.227417507604,5,D5,subzone
+DOM - ODEC,ODEC,2028,2024 Load Forecast July Peak,2024,780.9388421041007,6,D6,subzone
+DOM - ODEC,ODEC,2029,2024 Load Forecast July Peak,2024,778.1740092785543,7,D7,subzone
+DOM - ODEC,ODEC,2030,2024 Load Forecast July Peak,2024,778.1740092785542,8,D8,subzone
+DOM - ODEC,ODEC,2031,2024 Load Forecast July Peak,2024,778.1740092785543,9,D9,subzone
+DOM - ODEC,ODEC,2032,2024 Load Forecast July Peak,2024,778.1740092785543,10,D10,subzone
+DOM - ODEC,ODEC,2033,2024 Load Forecast July Peak,2024,778.1740092785543,11,D11,subzone
+DOM - ODEC,ODEC,2034,2024 Load Forecast July Peak,2024,778.1740092785544,12,D12,subzone
+DOM - ODEC,ODEC,2035,2024 Load Forecast July Peak,2024,778.1740092785543,13,D13,subzone
+DOM - ODEC,ODEC,2036,2024 Load Forecast July Peak,2024,778.1740092785543,14,D14,subzone
+DOM - ODEC,ODEC,2037,2024 Load Forecast July Peak,2024,778.1740092785544,15,D15,subzone
+DOM - ODEC,ODEC,2038,2024 Load Forecast July Peak,2024,778.1740092785543,16,D16,subzone
+DOM - ODEC,ODEC,2039,2024 Load Forecast July Peak,2024,778.1740092785543,17,D17,subzone
+DOM - ODEC,ODEC,2025,2025 Load Forecast July Peak,2025,252.4,18,D18,subzone
+DOM - ODEC,ODEC,2026,2025 Load Forecast July Peak,2025,398.0,19,D19,subzone
+DOM - ODEC,ODEC,2027,2025 Load Forecast July Peak,2025,665.9,20,D20,subzone
+DOM - ODEC,ODEC,2028,2025 Load Forecast July Peak,2025,956.3,21,D21,subzone
+DOM - ODEC,ODEC,2029,2025 Load Forecast July Peak,2025,1154.5,22,D22,subzone
+DOM - ODEC,ODEC,2030,2025 Load Forecast July Peak,2025,1264.3,23,D23,subzone
+DOM - ODEC,ODEC,2031,2025 Load Forecast July Peak,2025,1355.7,24,D24,subzone
+DOM - ODEC,ODEC,2032,2025 Load Forecast July Peak,2025,1380.8,25,D25,subzone
+DOM - ODEC,ODEC,2033,2025 Load Forecast July Peak,2025,1382.0,26,D26,subzone
+DOM - ODEC,ODEC,2034,2025 Load Forecast July Peak,2025,1384.1,27,D27,subzone
+DOM - ODEC,ODEC,2035,2025 Load Forecast July Peak,2025,1389.6,28,D28,subzone
+DOM - ODEC,ODEC,2036,2025 Load Forecast July Peak,2025,1390.6,29,D29,subzone
+DOM - ODEC,ODEC,2037,2025 Load Forecast July Peak,2025,1395.3,30,D30,subzone
+DOM - ODEC,ODEC,2038,2025 Load Forecast July Peak,2025,1397.1,31,D31,subzone
+DOM - ODEC,ODEC,2039,2025 Load Forecast July Peak,2025,1394.8,32,D32,subzone
+DOM - ODEC,ODEC,2040,2025 Load Forecast July Peak,2025,1397.3,33,D33,subzone
+DOM - ODEC,ODEC,2041,2025 Load Forecast July Peak,2025,1402.7,34,D34,subzone
+DOM - ODEC,ODEC,2042,2025 Load Forecast July Peak,2025,1402.7,35,D35,subzone
+DOM - ODEC,ODEC,2043,2025 Load Forecast July Peak,2025,1402.7,36,D36,subzone
+DOM - ODEC,ODEC,2044,2025 Load Forecast July Peak,2025,1402.7,37,D37,subzone
+DOM - ODEC,ODEC,2045,2025 Load Forecast July Peak,2025,1402.7,38,D38,subzone
+DOM - ODEC,ODEC,2026,2026 Load Forecast July Peak,2026,384.9,39,D39,subzone
+DOM - ODEC,ODEC,2027,2026 Load Forecast July Peak,2026,488.5,40,D40,subzone
+DOM - ODEC,ODEC,2028,2026 Load Forecast July Peak,2026,555.1,41,D41,subzone
+DOM - ODEC,ODEC,2029,2026 Load Forecast July Peak,2026,617.1,42,D42,subzone
+DOM - ODEC,ODEC,2030,2026 Load Forecast July Peak,2026,682.6,43,D43,subzone
+DOM - ODEC,ODEC,2031,2026 Load Forecast July Peak,2026,803.9,44,D44,subzone
+DOM - ODEC,ODEC,2032,2026 Load Forecast July Peak,2026,948.8,45,D45,subzone
+DOM - ODEC,ODEC,2033,2026 Load Forecast July Peak,2026,1051.4,46,D46,subzone
+DOM - ODEC,ODEC,2034,2026 Load Forecast July Peak,2026,1075.5,47,D47,subzone
+DOM - ODEC,ODEC,2035,2026 Load Forecast July Peak,2026,1075.5,48,D48,subzone
+DOM - ODEC,ODEC,2036,2026 Load Forecast July Peak,2026,1075.5,49,D49,subzone
+DOM - ODEC,ODEC,2037,2026 Load Forecast July Peak,2026,1075.5,50,D50,subzone
+DOM - ODEC,ODEC,2038,2026 Load Forecast July Peak,2026,1075.5,51,D51,subzone
+DOM - ODEC,ODEC,2039,2026 Load Forecast July Peak,2026,1075.5,52,D52,subzone
+DOM - ODEC,ODEC,2040,2026 Load Forecast July Peak,2026,1075.5,53,D53,subzone
+DOM - ODEC,ODEC,2041,2026 Load Forecast July Peak,2026,1075.5,54,D54,subzone
+DOM - ODEC,ODEC,2042,2026 Load Forecast July Peak,2026,1075.5,55,D55,subzone
+DOM - ODEC,ODEC,2043,2026 Load Forecast July Peak,2026,1075.5,56,D56,subzone
+DOM - ODEC,ODEC,2044,2026 Load Forecast July Peak,2026,1075.5,57,D57,subzone
+DOM - ODEC,ODEC,2045,2026 Load Forecast July Peak,2026,1075.5,58,D58,subzone
+DOM - ODEC,ODEC,2046,2026 Load Forecast July Peak,2026,1075.5,59,D59,subzone
+DOM - ODEC,ODEC,2021,Historical July Peak,0,14.021,60,D60,subzone
+DOM - ODEC,ODEC,2022,Historical July Peak,0,43.102,61,D61,subzone
+DOM - ODEC,ODEC,2023,Historical July Peak,0,82.281,62,D62,subzone
+DOM - ODEC,ODEC,2024,Historical July Peak,0,137.214,63,D63,subzone
+DOM - ODEC,ODEC,2025,Historical July Peak,0,243.705,64,D64,subzone
+DOM - REC,REC,2024,2024 Load Forecast July Peak,2024,9.56089787184805,2,D2,subzone
+DOM - REC,REC,2025,2024 Load Forecast July Peak,2024,81.70221817761059,3,D3,subzone
+DOM - REC,REC,2026,2024 Load Forecast July Peak,2024,225.1156862553314,4,D4,subzone
+DOM - REC,REC,2027,2024 Load Forecast July Peak,2024,450.2313725106627,5,D5,subzone
+DOM - REC,REC,2028,2024 Load Forecast July Peak,2024,670.1320235631679,6,D6,subzone
+DOM - REC,REC,2029,2024 Load Forecast July Peak,2024,880.4717767438251,7,D7,subzone
+DOM - REC,REC,2030,2024 Load Forecast July Peak,2024,1105.587462999156,8,D8,subzone
+DOM - REC,REC,2031,2024 Load Forecast July Peak,2024,1372.423430877098,9,D9,subzone
+DOM - REC,REC,2032,2024 Load Forecast July Peak,2024,1577.548148854928,10,D10,subzone
+DOM - REC,REC,2033,2024 Load Forecast July Peak,2024,1797.448799907433,11,D11,subzone
+DOM - REC,REC,2034,2024 Load Forecast July Peak,2024,1965.199098931676,12,D12,subzone
+DOM - REC,REC,2035,2024 Load Forecast July Peak,2024,2108.612567009397,13,D13,subzone
+DOM - REC,REC,2036,2024 Load Forecast July Peak,2024,2246.810999884292,14,D14,subzone
+DOM - REC,REC,2037,2024 Load Forecast July Peak,2024,2361.541774346469,15,D15,subzone
+DOM - REC,REC,2038,2024 Load Forecast July Peak,2024,2462.365788267775,16,D16,subzone
+DOM - REC,REC,2039,2024 Load Forecast July Peak,2024,2577.096562729952,17,D17,subzone
+DOM - REC,REC,2025,2025 Load Forecast July Peak,2025,40.4,18,D18,subzone
+DOM - REC,REC,2026,2025 Load Forecast July Peak,2025,131.9,19,D19,subzone
+DOM - REC,REC,2027,2025 Load Forecast July Peak,2025,242.6,20,D20,subzone
+DOM - REC,REC,2028,2025 Load Forecast July Peak,2025,372.5,21,D21,subzone
+DOM - REC,REC,2029,2025 Load Forecast July Peak,2025,518.7,22,D22,subzone
+DOM - REC,REC,2030,2025 Load Forecast July Peak,2025,683.0,23,D23,subzone
+DOM - REC,REC,2031,2025 Load Forecast July Peak,2025,867.7,24,D24,subzone
+DOM - REC,REC,2032,2025 Load Forecast July Peak,2025,1070.0,25,D25,subzone
+DOM - REC,REC,2033,2025 Load Forecast July Peak,2025,1292.6,26,D26,subzone
+DOM - REC,REC,2034,2025 Load Forecast July Peak,2025,1531.6,27,D27,subzone
+DOM - REC,REC,2035,2025 Load Forecast July Peak,2025,1788.2,28,D28,subzone
+DOM - REC,REC,2036,2025 Load Forecast July Peak,2025,2066.3,29,D29,subzone
+DOM - REC,REC,2037,2025 Load Forecast July Peak,2025,2277.6,30,D30,subzone
+DOM - REC,REC,2038,2025 Load Forecast July Peak,2025,2445.3,31,D31,subzone
+DOM - REC,REC,2039,2025 Load Forecast July Peak,2025,2578.2,32,D32,subzone
+DOM - REC,REC,2040,2025 Load Forecast July Peak,2025,2677.2,33,D33,subzone
+DOM - REC,REC,2041,2025 Load Forecast July Peak,2025,2749.2,34,D34,subzone
+DOM - REC,REC,2042,2025 Load Forecast July Peak,2025,2749.2,35,D35,subzone
+DOM - REC,REC,2043,2025 Load Forecast July Peak,2025,2749.2,36,D36,subzone
+DOM - REC,REC,2044,2025 Load Forecast July Peak,2025,2749.2,37,D37,subzone
+DOM - REC,REC,2045,2025 Load Forecast July Peak,2025,2749.2,38,D38,subzone
+DOM - REC,REC,2026,2026 Load Forecast July Peak,2026,299.5,39,D39,subzone
+DOM - REC,REC,2027,2026 Load Forecast July Peak,2026,579.8,40,D40,subzone
+DOM - REC,REC,2028,2026 Load Forecast July Peak,2026,973.3,41,D41,subzone
+DOM - REC,REC,2029,2026 Load Forecast July Peak,2026,1163.4,42,D42,subzone
+DOM - REC,REC,2030,2026 Load Forecast July Peak,2026,1913.3,43,D43,subzone
+DOM - REC,REC,2031,2026 Load Forecast July Peak,2026,2378.4,44,D44,subzone
+DOM - REC,REC,2032,2026 Load Forecast July Peak,2026,2704.7,45,D45,subzone
+DOM - REC,REC,2033,2026 Load Forecast July Peak,2026,2863.8,46,D46,subzone
+DOM - REC,REC,2034,2026 Load Forecast July Peak,2026,2970.2,47,D47,subzone
+DOM - REC,REC,2035,2026 Load Forecast July Peak,2026,3329.2,48,D48,subzone
+DOM - REC,REC,2036,2026 Load Forecast July Peak,2026,3777.6,49,D49,subzone
+DOM - REC,REC,2037,2026 Load Forecast July Peak,2026,4391.6,50,D50,subzone
+DOM - REC,REC,2038,2026 Load Forecast July Peak,2026,4783.3,51,D51,subzone
+DOM - REC,REC,2039,2026 Load Forecast July Peak,2026,4885.3,52,D52,subzone
+DOM - REC,REC,2040,2026 Load Forecast July Peak,2026,4976.5,53,D53,subzone
+DOM - REC,REC,2041,2026 Load Forecast July Peak,2026,5005.7,54,D54,subzone
+DOM - REC,REC,2042,2026 Load Forecast July Peak,2026,5089.7,55,D55,subzone
+DOM - REC,REC,2043,2026 Load Forecast July Peak,2026,5114.4,56,D56,subzone
+DOM - REC,REC,2044,2026 Load Forecast July Peak,2026,5114.4,57,D57,subzone
+DOM - REC,REC,2045,2026 Load Forecast July Peak,2026,5114.4,58,D58,subzone
+DOM - REC,REC,2046,2026 Load Forecast July Peak,2026,5114.4,59,D59,subzone
+DQE,DQE,2030,2026 Load Forecast July Peak,2026,46.0,2,D2,parent_zone
+DQE,DQE,2031,2026 Load Forecast July Peak,2026,75.0,3,D3,parent_zone
+DQE,DQE,2032,2026 Load Forecast July Peak,2026,87.0,4,D4,parent_zone
+DQE,DQE,2033,2026 Load Forecast July Peak,2026,87.0,5,D5,parent_zone
+DQE,DQE,2034,2026 Load Forecast July Peak,2026,87.0,6,D6,parent_zone
+DQE,DQE,2035,2026 Load Forecast July Peak,2026,87.0,7,D7,parent_zone
+DQE,DQE,2036,2026 Load Forecast July Peak,2026,87.0,8,D8,parent_zone
+DQE,DQE,2037,2026 Load Forecast July Peak,2026,87.0,9,D9,parent_zone
+DQE,DQE,2038,2026 Load Forecast July Peak,2026,87.0,10,D10,parent_zone
+DQE,DQE,2039,2026 Load Forecast July Peak,2026,87.0,11,D11,parent_zone
+DQE,DQE,2040,2026 Load Forecast July Peak,2026,87.0,12,D12,parent_zone
+DQE,DQE,2041,2026 Load Forecast July Peak,2026,87.0,13,D13,parent_zone
+DQE,DQE,2042,2026 Load Forecast July Peak,2026,87.0,14,D14,parent_zone
+DQE,DQE,2043,2026 Load Forecast July Peak,2026,87.0,15,D15,parent_zone
+DQE,DQE,2044,2026 Load Forecast July Peak,2026,87.0,16,D16,parent_zone
+DQE,DQE,2045,2026 Load Forecast July Peak,2026,87.0,17,D17,parent_zone
+DQE,DQE,2046,2026 Load Forecast July Peak,2026,87.0,18,D18,parent_zone
+JCPL,JCPL,2029,2026 Load Forecast July Peak,2026,1.0,2,D2,parent_zone
+JCPL,JCPL,2030,2026 Load Forecast July Peak,2026,77.0,3,D3,parent_zone
+JCPL,JCPL,2031,2026 Load Forecast July Peak,2026,80.0,4,D4,parent_zone
+JCPL,JCPL,2032,2026 Load Forecast July Peak,2026,112.0,5,D5,parent_zone
+JCPL,JCPL,2033,2026 Load Forecast July Peak,2026,193.0,6,D6,parent_zone
+JCPL,JCPL,2034,2026 Load Forecast July Peak,2026,245.0,7,D7,parent_zone
+JCPL,JCPL,2035,2026 Load Forecast July Peak,2026,245.0,8,D8,parent_zone
+JCPL,JCPL,2036,2026 Load Forecast July Peak,2026,245.0,9,D9,parent_zone
+JCPL,JCPL,2037,2026 Load Forecast July Peak,2026,245.0,10,D10,parent_zone
+JCPL,JCPL,2038,2026 Load Forecast July Peak,2026,245.0,11,D11,parent_zone
+JCPL,JCPL,2039,2026 Load Forecast July Peak,2026,245.0,12,D12,parent_zone
+JCPL,JCPL,2040,2026 Load Forecast July Peak,2026,245.0,13,D13,parent_zone
+JCPL,JCPL,2041,2026 Load Forecast July Peak,2026,245.0,14,D14,parent_zone
+JCPL,JCPL,2042,2026 Load Forecast July Peak,2026,245.0,15,D15,parent_zone
+JCPL,JCPL,2043,2026 Load Forecast July Peak,2026,245.0,16,D16,parent_zone
+JCPL,JCPL,2044,2026 Load Forecast July Peak,2026,245.0,17,D17,parent_zone
+JCPL,JCPL,2045,2026 Load Forecast July Peak,2026,245.0,18,D18,parent_zone
+JCPL,JCPL,2046,2026 Load Forecast July Peak,2026,245.0,19,D19,parent_zone
+METED,METED,2029,2026 Load Forecast July Peak,2026,10.0,2,D2,parent_zone
+METED,METED,2030,2026 Load Forecast July Peak,2026,75.0,3,D3,parent_zone
+METED,METED,2031,2026 Load Forecast July Peak,2026,75.0,4,D4,parent_zone
+METED,METED,2032,2026 Load Forecast July Peak,2026,126.0,5,D5,parent_zone
+METED,METED,2033,2026 Load Forecast July Peak,2026,187.0,6,D6,parent_zone
+METED,METED,2034,2026 Load Forecast July Peak,2026,234.0,7,D7,parent_zone
+METED,METED,2035,2026 Load Forecast July Peak,2026,234.0,8,D8,parent_zone
+METED,METED,2036,2026 Load Forecast July Peak,2026,233.0,9,D9,parent_zone
+METED,METED,2037,2026 Load Forecast July Peak,2026,233.0,10,D10,parent_zone
+METED,METED,2038,2026 Load Forecast July Peak,2026,233.0,11,D11,parent_zone
+METED,METED,2039,2026 Load Forecast July Peak,2026,233.0,12,D12,parent_zone
+METED,METED,2040,2026 Load Forecast July Peak,2026,234.0,13,D13,parent_zone
+METED,METED,2041,2026 Load Forecast July Peak,2026,233.0,14,D14,parent_zone
+METED,METED,2042,2026 Load Forecast July Peak,2026,233.0,15,D15,parent_zone
+METED,METED,2043,2026 Load Forecast July Peak,2026,234.0,16,D16,parent_zone
+METED,METED,2044,2026 Load Forecast July Peak,2026,234.0,17,D17,parent_zone
+METED,METED,2045,2026 Load Forecast July Peak,2026,234.0,18,D18,parent_zone
+METED,METED,2046,2026 Load Forecast July Peak,2026,234.0,19,D19,parent_zone
+PECO,PECO,2026,2025 Load Forecast July Peak,2025,18.0,2,D2,parent_zone
+PECO,PECO,2027,2025 Load Forecast July Peak,2025,71.0,3,D3,parent_zone
+PECO,PECO,2028,2025 Load Forecast July Peak,2025,125.0,4,D4,parent_zone
+PECO,PECO,2029,2025 Load Forecast July Peak,2025,178.0,5,D5,parent_zone
+PECO,PECO,2030,2025 Load Forecast July Peak,2025,232.0,6,D6,parent_zone
+PECO,PECO,2031,2025 Load Forecast July Peak,2025,285.0,7,D7,parent_zone
+PECO,PECO,2032,2025 Load Forecast July Peak,2025,338.0,8,D8,parent_zone
+PECO,PECO,2033,2025 Load Forecast July Peak,2025,391.0,9,D9,parent_zone
+PECO,PECO,2034,2025 Load Forecast July Peak,2025,427.0,10,D10,parent_zone
+PECO,PECO,2035,2025 Load Forecast July Peak,2025,427.0,11,D11,parent_zone
+PECO,PECO,2036,2025 Load Forecast July Peak,2025,427.0,12,D12,parent_zone
+PECO,PECO,2037,2025 Load Forecast July Peak,2025,427.0,13,D13,parent_zone
+PECO,PECO,2038,2025 Load Forecast July Peak,2025,427.0,14,D14,parent_zone
+PECO,PECO,2039,2025 Load Forecast July Peak,2025,427.0,15,D15,parent_zone
+PECO,PECO,2040,2025 Load Forecast July Peak,2025,427.0,16,D16,parent_zone
+PECO,PECO,2041,2025 Load Forecast July Peak,2025,427.0,17,D17,parent_zone
+PECO,PECO,2042,2025 Load Forecast July Peak,2025,427.0,18,D18,parent_zone
+PECO,PECO,2043,2025 Load Forecast July Peak,2025,427.0,19,D19,parent_zone
+PECO,PECO,2044,2025 Load Forecast July Peak,2025,428.0,20,D20,parent_zone
+PECO,PECO,2045,2025 Load Forecast July Peak,2025,428.0,21,D21,parent_zone
+PECO,PECO,2026,2026 Load Forecast July Peak,2026,17.0,22,D22,parent_zone
+PECO,PECO,2027,2026 Load Forecast July Peak,2026,88.0,23,D23,parent_zone
+PECO,PECO,2028,2026 Load Forecast July Peak,2026,281.0,24,D24,parent_zone
+PECO,PECO,2029,2026 Load Forecast July Peak,2026,517.0,25,D25,parent_zone
+PECO,PECO,2030,2026 Load Forecast July Peak,2026,824.0,26,D26,parent_zone
+PECO,PECO,2031,2026 Load Forecast July Peak,2026,1146.0,27,D27,parent_zone
+PECO,PECO,2032,2026 Load Forecast July Peak,2026,1414.0,28,D28,parent_zone
+PECO,PECO,2033,2026 Load Forecast July Peak,2026,1560.0,29,D29,parent_zone
+PECO,PECO,2034,2026 Load Forecast July Peak,2026,1664.0,30,D30,parent_zone
+PECO,PECO,2035,2026 Load Forecast July Peak,2026,1698.0,31,D31,parent_zone
+PECO,PECO,2036,2026 Load Forecast July Peak,2026,1697.0,32,D32,parent_zone
+PECO,PECO,2037,2026 Load Forecast July Peak,2026,1698.0,33,D33,parent_zone
+PECO,PECO,2038,2026 Load Forecast July Peak,2026,1698.0,34,D34,parent_zone
+PECO,PECO,2039,2026 Load Forecast July Peak,2026,1698.0,35,D35,parent_zone
+PECO,PECO,2040,2026 Load Forecast July Peak,2026,1698.0,36,D36,parent_zone
+PECO,PECO,2041,2026 Load Forecast July Peak,2026,1698.0,37,D37,parent_zone
+PECO,PECO,2042,2026 Load Forecast July Peak,2026,1699.0,38,D38,parent_zone
+PECO,PECO,2043,2026 Load Forecast July Peak,2026,1699.0,39,D39,parent_zone
+PECO,PECO,2044,2026 Load Forecast July Peak,2026,1700.0,40,D40,parent_zone
+PECO,PECO,2045,2026 Load Forecast July Peak,2026,1701.0,41,D41,parent_zone
+PECO,PECO,2046,2026 Load Forecast July Peak,2026,1702.0,42,D42,parent_zone
+PEPCO,PEPCO,2030,2026 Load Forecast July Peak,2026,142.0,2,D2,parent_zone
+PEPCO,PEPCO,2031,2026 Load Forecast July Peak,2026,229.0,3,D3,parent_zone
+PEPCO,PEPCO,2032,2026 Load Forecast July Peak,2026,437.0,4,D4,parent_zone
+PEPCO,PEPCO,2033,2026 Load Forecast July Peak,2026,642.0,5,D5,parent_zone
+PEPCO,PEPCO,2034,2026 Load Forecast July Peak,2026,799.0,6,D6,parent_zone
+PEPCO,PEPCO,2035,2026 Load Forecast July Peak,2026,946.0,7,D7,parent_zone
+PEPCO,PEPCO,2036,2026 Load Forecast July Peak,2026,1064.0,8,D8,parent_zone
+PEPCO,PEPCO,2037,2026 Load Forecast July Peak,2026,1064.0,9,D9,parent_zone
+PEPCO,PEPCO,2038,2026 Load Forecast July Peak,2026,1064.0,10,D10,parent_zone
+PEPCO,PEPCO,2039,2026 Load Forecast July Peak,2026,1064.0,11,D11,parent_zone
+PEPCO,PEPCO,2040,2026 Load Forecast July Peak,2026,1064.0,12,D12,parent_zone
+PEPCO,PEPCO,2041,2026 Load Forecast July Peak,2026,1064.0,13,D13,parent_zone
+PEPCO,PEPCO,2042,2026 Load Forecast July Peak,2026,1064.0,14,D14,parent_zone
+PEPCO,PEPCO,2043,2026 Load Forecast July Peak,2026,1064.0,15,D15,parent_zone
+PEPCO,PEPCO,2044,2026 Load Forecast July Peak,2026,1064.0,16,D16,parent_zone
+PEPCO,PEPCO,2045,2026 Load Forecast July Peak,2026,1064.0,17,D17,parent_zone
+PEPCO,PEPCO,2046,2026 Load Forecast July Peak,2026,1064.0,18,D18,parent_zone
+PEPCO - Exelon,PEPCO - Exelon,2031,2026 Load Forecast July Peak,2026,24.8,2,D2,subzone
+PEPCO - Exelon,PEPCO - Exelon,2032,2026 Load Forecast July Peak,2026,172.3,3,D3,subzone
+PEPCO - Exelon,PEPCO - Exelon,2033,2026 Load Forecast July Peak,2026,317.7,4,D4,subzone
+PEPCO - Exelon,PEPCO - Exelon,2034,2026 Load Forecast July Peak,2026,463.6,5,D5,subzone
+PEPCO - Exelon,PEPCO - Exelon,2035,2026 Load Forecast July Peak,2026,610.3,6,D6,subzone
+PEPCO - Exelon,PEPCO - Exelon,2036,2026 Load Forecast July Peak,2026,729.6,7,D7,subzone
+PEPCO - Exelon,PEPCO - Exelon,2037,2026 Load Forecast July Peak,2026,729.6,8,D8,subzone
+PEPCO - Exelon,PEPCO - Exelon,2038,2026 Load Forecast July Peak,2026,729.6,9,D9,subzone
+PEPCO - Exelon,PEPCO - Exelon,2039,2026 Load Forecast July Peak,2026,729.6,10,D10,subzone
+PEPCO - Exelon,PEPCO - Exelon,2040,2026 Load Forecast July Peak,2026,729.6,11,D11,subzone
+PEPCO - Exelon,PEPCO - Exelon,2041,2026 Load Forecast July Peak,2026,729.6,12,D12,subzone
+PEPCO - Exelon,PEPCO - Exelon,2042,2026 Load Forecast July Peak,2026,729.6,13,D13,subzone
+PEPCO - Exelon,PEPCO - Exelon,2043,2026 Load Forecast July Peak,2026,729.6,14,D14,subzone
+PEPCO - Exelon,PEPCO - Exelon,2044,2026 Load Forecast July Peak,2026,729.6,15,D15,subzone
+PEPCO - Exelon,PEPCO - Exelon,2045,2026 Load Forecast July Peak,2026,729.6,16,D16,subzone
+PEPCO - Exelon,PEPCO - Exelon,2046,2026 Load Forecast July Peak,2026,729.6,17,D17,subzone
+PEPCO - SMECO,SMECO,2030,2026 Load Forecast July Peak,2026,142.0,2,D2,subzone
+PEPCO - SMECO,SMECO,2031,2026 Load Forecast July Peak,2026,204.2,3,D3,subzone
+PEPCO - SMECO,SMECO,2032,2026 Load Forecast July Peak,2026,264.7,4,D4,subzone
+PEPCO - SMECO,SMECO,2033,2026 Load Forecast July Peak,2026,324.3,5,D5,subzone
+PEPCO - SMECO,SMECO,2034,2026 Load Forecast July Peak,2026,335.4,6,D6,subzone
+PEPCO - SMECO,SMECO,2035,2026 Load Forecast July Peak,2026,335.7,7,D7,subzone
+PEPCO - SMECO,SMECO,2036,2026 Load Forecast July Peak,2026,334.4,8,D8,subzone
+PEPCO - SMECO,SMECO,2037,2026 Load Forecast July Peak,2026,334.4,9,D9,subzone
+PEPCO - SMECO,SMECO,2038,2026 Load Forecast July Peak,2026,334.4,10,D10,subzone
+PEPCO - SMECO,SMECO,2039,2026 Load Forecast July Peak,2026,334.4,11,D11,subzone
+PEPCO - SMECO,SMECO,2040,2026 Load Forecast July Peak,2026,334.4,12,D12,subzone
+PEPCO - SMECO,SMECO,2041,2026 Load Forecast July Peak,2026,334.4,13,D13,subzone
+PEPCO - SMECO,SMECO,2042,2026 Load Forecast July Peak,2026,334.4,14,D14,subzone
+PEPCO - SMECO,SMECO,2043,2026 Load Forecast July Peak,2026,334.4,15,D15,subzone
+PEPCO - SMECO,SMECO,2044,2026 Load Forecast July Peak,2026,334.4,16,D16,subzone
+PEPCO - SMECO,SMECO,2045,2026 Load Forecast July Peak,2026,334.4,17,D17,subzone
+PEPCO - SMECO,SMECO,2046,2026 Load Forecast July Peak,2026,334.4,18,D18,subzone
+PL,PL,2025,2025 Load Forecast July Peak,2025,93.0,2,D2,parent_zone
+PL,PL,2026,2025 Load Forecast July Peak,2025,484.0,3,D3,parent_zone
+PL,PL,2027,2025 Load Forecast July Peak,2025,1528.0,4,D4,parent_zone
+PL,PL,2028,2025 Load Forecast July Peak,2025,2753.0,5,D5,parent_zone
+PL,PL,2029,2025 Load Forecast July Peak,2025,3955.0,6,D6,parent_zone
+PL,PL,2030,2025 Load Forecast July Peak,2025,4650.0,7,D7,parent_zone
+PL,PL,2031,2025 Load Forecast July Peak,2025,5104.0,8,D8,parent_zone
+PL,PL,2032,2025 Load Forecast July Peak,2025,5328.0,9,D9,parent_zone
+PL,PL,2033,2025 Load Forecast July Peak,2025,5529.0,10,D10,parent_zone
+PL,PL,2034,2025 Load Forecast July Peak,2025,5529.0,11,D11,parent_zone
+PL,PL,2035,2025 Load Forecast July Peak,2025,5528.0,12,D12,parent_zone
+PL,PL,2036,2025 Load Forecast July Peak,2025,5526.0,13,D13,parent_zone
+PL,PL,2037,2025 Load Forecast July Peak,2025,5525.0,14,D14,parent_zone
+PL,PL,2038,2025 Load Forecast July Peak,2025,5525.0,15,D15,parent_zone
+PL,PL,2039,2025 Load Forecast July Peak,2025,5525.0,16,D16,parent_zone
+PL,PL,2040,2025 Load Forecast July Peak,2025,5526.0,17,D17,parent_zone
+PL,PL,2041,2025 Load Forecast July Peak,2025,5525.0,18,D18,parent_zone
+PL,PL,2042,2025 Load Forecast July Peak,2025,5525.0,19,D19,parent_zone
+PL,PL,2043,2025 Load Forecast July Peak,2025,5526.0,20,D20,parent_zone
+PL,PL,2044,2025 Load Forecast July Peak,2025,5527.0,21,D21,parent_zone
+PL,PL,2045,2025 Load Forecast July Peak,2025,5528.0,22,D22,parent_zone
+PL,PL,2026,2026 Load Forecast July Peak,2026,189.0,23,D23,parent_zone
+PL,PL,2027,2026 Load Forecast July Peak,2026,394.0,24,D24,parent_zone
+PL,PL,2028,2026 Load Forecast July Peak,2026,1274.0,25,D25,parent_zone
+PL,PL,2029,2026 Load Forecast July Peak,2026,1876.0,26,D26,parent_zone
+PL,PL,2030,2026 Load Forecast July Peak,2026,4996.0,27,D27,parent_zone
+PL,PL,2031,2026 Load Forecast July Peak,2026,5906.0,28,D28,parent_zone
+PL,PL,2032,2026 Load Forecast July Peak,2026,6241.0,29,D29,parent_zone
+PL,PL,2033,2026 Load Forecast July Peak,2026,6285.0,30,D30,parent_zone
+PL,PL,2034,2026 Load Forecast July Peak,2026,6284.0,31,D31,parent_zone
+PL,PL,2035,2026 Load Forecast July Peak,2026,6282.0,32,D32,parent_zone
+PL,PL,2036,2026 Load Forecast July Peak,2026,6279.0,33,D33,parent_zone
+PL,PL,2037,2026 Load Forecast July Peak,2026,6278.0,34,D34,parent_zone
+PL,PL,2038,2026 Load Forecast July Peak,2026,6279.0,35,D35,parent_zone
+PL,PL,2039,2026 Load Forecast July Peak,2026,6280.0,36,D36,parent_zone
+PL,PL,2040,2026 Load Forecast July Peak,2026,6281.0,37,D37,parent_zone
+PL,PL,2041,2026 Load Forecast July Peak,2026,6279.0,38,D38,parent_zone
+PL,PL,2042,2026 Load Forecast July Peak,2026,6279.0,39,D39,parent_zone
+PL,PL,2043,2026 Load Forecast July Peak,2026,6278.0,40,D40,parent_zone
+PL,PL,2044,2026 Load Forecast July Peak,2026,6281.0,41,D41,parent_zone
+PL,PL,2045,2026 Load Forecast July Peak,2026,6283.0,42,D42,parent_zone
+PL,PL,2046,2026 Load Forecast July Peak,2026,6284.0,43,D43,parent_zone
+PS,PS,2024,2024 Load Forecast July Peak,2024,293.452200007,2,D2,parent_zone
+PS,PS,2025,2024 Load Forecast July Peak,2024,338.4522000170001,3,D3,parent_zone
+PS,PS,2026,2024 Load Forecast July Peak,2024,382.4522000300001,4,D4,parent_zone
+PS,PS,2027,2024 Load Forecast July Peak,2024,453.4522000300001,5,D5,parent_zone
+PS,PS,2028,2024 Load Forecast July Peak,2024,519.4522000400001,6,D6,parent_zone
+PS,PS,2029,2024 Load Forecast July Peak,2024,585.4522000500001,7,D7,parent_zone
+PS,PS,2030,2024 Load Forecast July Peak,2024,637.4522000500001,8,D8,parent_zone
+PS,PS,2031,2024 Load Forecast July Peak,2024,652.4522000500001,9,D9,parent_zone
+PS,PS,2032,2024 Load Forecast July Peak,2024,680.45220006,10,D10,parent_zone
+PS,PS,2033,2024 Load Forecast July Peak,2024,709.4522000700001,11,D11,parent_zone
+PS,PS,2034,2024 Load Forecast July Peak,2024,738.4522000700001,12,D12,parent_zone
+PS,PS,2035,2024 Load Forecast July Peak,2024,767.45220008,13,D13,parent_zone
+PS,PS,2036,2024 Load Forecast July Peak,2024,795.45220008,14,D14,parent_zone
+PS,PS,2037,2024 Load Forecast July Peak,2024,824.4522000900001,15,D15,parent_zone
+PS,PS,2038,2024 Load Forecast July Peak,2024,853.4522001,16,D16,parent_zone
+PS,PS,2039,2024 Load Forecast July Peak,2024,881.4522001,17,D17,parent_zone
+PS,PS,2025,2025 Load Forecast July Peak,2025,289.0,18,D18,parent_zone
+PS,PS,2026,2025 Load Forecast July Peak,2025,450.0,19,D19,parent_zone
+PS,PS,2027,2025 Load Forecast July Peak,2025,580.0,20,D20,parent_zone
+PS,PS,2028,2025 Load Forecast July Peak,2025,842.0,21,D21,parent_zone
+PS,PS,2029,2025 Load Forecast July Peak,2025,947.0,22,D22,parent_zone
+PS,PS,2030,2025 Load Forecast July Peak,2025,1127.0,23,D23,parent_zone
+PS,PS,2031,2025 Load Forecast July Peak,2025,1187.0,24,D24,parent_zone
+PS,PS,2032,2025 Load Forecast July Peak,2025,1208.0,25,D25,parent_zone
+PS,PS,2033,2025 Load Forecast July Peak,2025,1224.0,26,D26,parent_zone
+PS,PS,2034,2025 Load Forecast July Peak,2025,1225.0,27,D27,parent_zone
+PS,PS,2035,2025 Load Forecast July Peak,2025,1235.0,28,D28,parent_zone
+PS,PS,2036,2025 Load Forecast July Peak,2025,1237.0,29,D29,parent_zone
+PS,PS,2037,2025 Load Forecast July Peak,2025,1238.0,30,D30,parent_zone
+PS,PS,2038,2025 Load Forecast July Peak,2025,1238.0,31,D31,parent_zone
+PS,PS,2039,2025 Load Forecast July Peak,2025,1238.0,32,D32,parent_zone
+PS,PS,2040,2025 Load Forecast July Peak,2025,1259.0,33,D33,parent_zone
+PS,PS,2041,2025 Load Forecast July Peak,2025,1264.0,34,D34,parent_zone
+PS,PS,2042,2025 Load Forecast July Peak,2025,1264.0,35,D35,parent_zone
+PS,PS,2043,2025 Load Forecast July Peak,2025,1265.0,36,D36,parent_zone
+PS,PS,2044,2025 Load Forecast July Peak,2025,1264.0,37,D37,parent_zone
+PS,PS,2045,2025 Load Forecast July Peak,2025,1264.0,38,D38,parent_zone
+PS,PS,2026,2026 Load Forecast July Peak,2026,308.0,39,D39,parent_zone
+PS,PS,2027,2026 Load Forecast July Peak,2026,383.0,40,D40,parent_zone
+PS,PS,2028,2026 Load Forecast July Peak,2026,628.0,41,D41,parent_zone
+PS,PS,2029,2026 Load Forecast July Peak,2026,938.0,42,D42,parent_zone
+PS,PS,2030,2026 Load Forecast July Peak,2026,1446.0,43,D43,parent_zone
+PS,PS,2031,2026 Load Forecast July Peak,2026,1933.0,44,D44,parent_zone
+PS,PS,2032,2026 Load Forecast July Peak,2026,2322.0,45,D45,parent_zone
+PS,PS,2033,2026 Load Forecast July Peak,2026,2568.0,46,D46,parent_zone
+PS,PS,2034,2026 Load Forecast July Peak,2026,2590.0,47,D47,parent_zone
+PS,PS,2035,2026 Load Forecast July Peak,2026,2602.0,48,D48,parent_zone
+PS,PS,2036,2026 Load Forecast July Peak,2026,2608.0,49,D49,parent_zone
+PS,PS,2037,2026 Load Forecast July Peak,2026,2626.0,50,D50,parent_zone
+PS,PS,2038,2026 Load Forecast July Peak,2026,2634.0,51,D51,parent_zone
+PS,PS,2039,2026 Load Forecast July Peak,2026,2641.0,52,D52,parent_zone
+PS,PS,2040,2026 Load Forecast July Peak,2026,2677.0,53,D53,parent_zone
+PS,PS,2041,2026 Load Forecast July Peak,2026,2680.0,54,D54,parent_zone
+PS,PS,2042,2026 Load Forecast July Peak,2026,2683.0,55,D55,parent_zone
+PS,PS,2043,2026 Load Forecast July Peak,2026,2685.0,56,D56,parent_zone
+PS,PS,2044,2026 Load Forecast July Peak,2026,2686.0,57,D57,parent_zone
+PS,PS,2045,2026 Load Forecast July Peak,2026,2709.0,58,D58,parent_zone
+PS,PS,2046,2026 Load Forecast July Peak,2026,2710.0,59,D59,parent_zone
+PS,PS,2019,Historical July Peak,0,204.95,60,D60,parent_zone
+PS,PS,2020,Historical July Peak,0,210.84,61,D61,parent_zone
+PS,PS,2021,Historical July Peak,0,222.26,62,D62,parent_zone
+PS,PS,2022,Historical July Peak,0,235.8,63,D63,parent_zone
+PS,PS,2023,Historical July Peak,0,246.38,64,D64,parent_zone
+PS,PS,2024,Historical July Peak,0,265.26,65,D65,parent_zone
+PS,PS,2025,Historical July Peak,0,255.24,66,D66,parent_zone

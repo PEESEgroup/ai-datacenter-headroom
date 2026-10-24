@@ -314,7 +314,7 @@
     {
       "path": "display_tables/SI_framework_comparison_20261004__framework_comparison_note_cells.csv",
       "bytes": 803,
-      "sha256": "e8cf51244db98ba5481eca79f4d0e79fb1948f37fe3c5251929972c72082dfda"
+      "sha256": "34580a67df4440f00cdec4a31924af06fefb9f446eef4da6b0374fa428782436"
     },
     {
       "path": "display_tables/SI_framework_comparison_20261004__regional_inputs_cells.csv",
@@ -588,8 +588,8 @@
     },
     {
       "path": "display_tables/TABLE_CELL_INDEX.json",
-      "bytes": 25082,
-      "sha256": "20de989d97c1e1cbe9e37b67d8ae9ed116ef6d6609d22d943389d6af0369e688"
+      "bytes": 25236,
+      "sha256": "8176ba2b8ec352c94de85639893e9301426ed5f48fa91272fbc3a521ed828e5c"
     },
     {
       "path": "export_2025_pv_comparison.py",

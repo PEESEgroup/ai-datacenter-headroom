@@ -100,8 +100,8 @@
       "tab:framework-timing-comparison",
       "tab:framework-paired-comparison"
     ],
-    "source_sha256": "efbf515a47bca950c421c3e1983ef1e72d8cbb71df0258793301214a953a14ca",
-    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
+    "source_sha256": "53fe2117c34894d78da72bfcfe45d37334c5be3199ef3ba1244207ed21a484b7",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs; MISO structural rows corrected from current displayed pairs on 24 October 2026; ERCOT structural rows remain archived as described in CURRENT_RESULTS.md"
   },
   {
     "rounded_export": "display_tables/SI_framework_comparison_20261004__regional_inputs_cells.csv",

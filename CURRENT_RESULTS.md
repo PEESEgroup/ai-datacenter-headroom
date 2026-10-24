@@ -14,7 +14,8 @@ running or modifying the large baseline first.
 | Local MISO binding-year check | `pool_results/miso_2034_resource_perturbation.csv` |
 | Joint annual boundaries and PJM vintages | `planning_conditions_20261023/run_analysis.py`, `results/`; unchanged |
 | PJM operating loads and ERCOT same-table scale ratios | `planning_conditions_20261023/run_empirical.py`, `empirical_results/`; unchanged |
-| Current Fig. 4 PNG | `planning_conditions_20261023/plot_pool_conditions.py`, `figures/Fig4_pool_consistent.png` |
+| Paired-result and joint-condition diagnostic (not the main Fig. 4c,d heatmaps) | `planning_conditions_20261023/plot_pool_conditions.py`, `figures/Fig4_pool_consistent.png` |
+| Supplementary Fig. 12 joint boundaries | `planning_conditions_20261023/plot_conditions.py`, `figures/` |
 | Physical-hour PV, history and other supporting results | Retained baseline and its follow-up; unchanged |
 
 ERCOT published-response paired quantities in the earlier baseline's `results`,

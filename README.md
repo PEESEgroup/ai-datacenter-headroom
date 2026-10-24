@@ -21,7 +21,7 @@ extension reproduces the joint annual growth-resource and resource-response
 conditions, the PJM 2025-to-2026 forecast-vintage comparison, reported operating-load
 comparisons and the same-source ERCOT large-load scale ratios. It includes original
 public source reports and workbooks, standardized inputs, full-precision outputs,
-the updated Fig. 4, supplementary plots and 31 focused tests. It runs without
+paired-result and joint-condition diagnostics, supplementary plots and 31 focused tests. It runs without
 network access and does not recalibrate the baseline model. Baseline files are
 retained for provenance; corrected paired outputs are in the extension.
 

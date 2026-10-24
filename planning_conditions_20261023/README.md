@@ -16,6 +16,8 @@ python -B -m unittest -v test_pool_consistency.py
 python -B plot_pool_conditions.py
 python -B run_paired_realization.py
 python -B -m unittest -v test_paired_realization.py
+python -B run_campus_retention.py
+python -B -m unittest -v test_campus_retention.py
 ```
 
 Python, NumPy, pandas, openpyxl, PyMuPDF and Matplotlib are required. No network connection is needed to run the packaged calculations. Third-party source workbooks and reports retain provider terms; author-written analysis code follows the baseline repository's MIT license.
@@ -70,4 +72,26 @@ NERC printed p. 131 labels DC additions as end-of-year and its large-load/curtai
 
 `run_paired_realization.py` connects the retained reference-growth pairs to provisional-response realization without changing the regional model. For each timing rule and nominal association setting, it holds the association fixed, retains published ordinary response, and applies one common realization fraction to the provisional credit remaining in each world and every year. One resource fraction selects the annual anticipated-to-prospective native contribution difference. Zero provisional realization therefore differs from current-only response.
 
-`PAIRED_REALIZATION_PROTOCOL.json` specifies the controls; its input manifest verifies retained inputs. `paired_realization_results` supplies full-precision annual balances, complete-path summaries and response thresholds. With anticipated resources and the minimum linear-timing association, the background requires 62.5% realization and reference growth 77.0%. At 70%, only the candidate path falls below requirement, adding 2.10 GW in 2034 and 3.98 GW in 2035. A 25% share of resource uplift lowers the thresholds to 10.9% and 33.8%. The three association settings give candidate thresholds of 77.0%, 80.4% and 84.2% at anticipated resources; these are conditional sensitivity results, not uncertainty probabilities. Ten new tests cover direct reconstruction, both worlds, nominal pool bounds, threshold necessity and the distinction from current-only response. There are 41 focused tests in total. This entry adds no main figure or model refit.
+`PAIRED_REALIZATION_PROTOCOL.json` specifies the controls; its input manifest verifies retained inputs. `paired_realization_results` supplies full-precision annual balances, complete-path summaries and response thresholds. With anticipated resources and the minimum linear-timing association, the background requires 62.5% realization and reference growth 77.0%. At 70%, only the candidate path falls below requirement, adding 2.10 GW in 2034 and 3.98 GW in 2035. A 25% share of resource uplift lowers the thresholds to 10.9% and 33.8%. The three association settings give candidate thresholds of 77.0%, 80.4% and 84.2% at anticipated resources; these are conditional sensitivity results, not uncertainty probabilities. Ten new tests cover direct reconstruction, both worlds, nominal pool bounds, threshold necessity and the distinction from current-only response. The four preceding test suites contain 41 focused tests. This entry adds no main figure or model refit.
+
+## Current campus-retention sensitivity
+
+`run_campus_retention.py` applies the current paired accounting to the four
+Matrix/Frontier keep/remove combinations. It uses the existing reviewed MW
+weights, removes the selected campus weights and renormalizes shares within the
+seven regions. National growth, footprint capture, peak mapping, regional
+resources and the source-growth path stay fixed. One weight multiplier applies
+to the whole candidate path. The associated-response fraction is selected from
+the full-horizon feasible interval, not the earlier zero-association ERCOT default.
+
+`pool_inputs/campus_retention_weights.csv` gives the regional and seven-region
+weight totals; `CAMPUS_RETENTION_INPUT_MANIFEST.json` identifies the 269-record
+source and hashes all calculation inputs. `pool_results/remaining_campus_retention_cases.csv`
+reports the 32 primary endpoint cases. The companion annual and complete-path
+files retain 960 annual rows and 96 paths across all three association settings.
+Both-retained cases reproduce the current displayed pairs. The anticipated,
+published-response ERCOT endpoint balances span +13.08 to +13.52 GW and all have
+zero added requirement. The baseline table remains archived; it is not used for
+the current ERCOT sensitivity. Eight regression tests cover these results,
+unaffected MISO/current-only values, annual pool bounds and identical reruns,
+bringing the extension total to 49 tests. No main model is refitted or rerun.

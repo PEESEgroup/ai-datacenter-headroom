@@ -1,6 +1,6 @@
 {
-  "version": "ercot_paired_realization_20261023",
-  "previous_commit": "e63e7ad9be4bafff2e592b7a76b400fca1364895",
+  "version": "campus_retention_pool_consistent_20261024",
+  "previous_commit": "4556c4ae9b4112d5bbf4760916210e148b140d68",
   "files": {
     "POOL_INPUT_MANIFEST.json": "d7caf783687500db887e6a04fabc59fd11220aa6ca2a6c867d7bd31ad516a8f9",
     "INPUT_MANIFEST.json": "98d26d86b36f3b0b07f519efc6c8b85e5b557df56ab7f25915ae044a05b29d0a",
@@ -13,7 +13,7 @@
     "test_pool_consistency.py": "32b56f918971e402c6c6856ddb9e596e677e9bab429b45f82c66fc9262689cdc",
     "test_analysis.py": "d0961e7f4d6f6fc0bfba317d0c39d0f73c05947ca9469ad89a3afa1677d8ccb3",
     "test_empirical.py": "5f955c15812a2622296e6f19cac9cbf30d43bd0b34e76fec81b480828c50cea5",
-    "README.md": "a841e2b4925f08043b349ec5d31c4c4547ccbc731a92870cbbed3a5163f0a471",
+    "README.md": "69c0e00dee1ced00ec529bf458d4927e875bc43dd299c0f2836b11fe34a7afe1",
     "EMPIRICAL_PROTOCOL.json": "2ff21450eb955133a0b02146a7ddd6d17ccb998bac8bed62e3feec832c9f94c0",
     "PAIRED_REALIZATION_PROTOCOL.json": "d84658c1fa40667149e961f03b7f89d31d3c6a4c3f1ab364c65ff20863010c59",
     "plot_empirical.py": "594b5e369c7c085462abf03838057c0876102c3cd3d776c93f26dccdd01eb032",
@@ -90,7 +90,15 @@
     "sources/accuracy/NERC_SOURCE.json": "555f9848dbc5ae3ec64268e39c04132cefc049437dea1cb50ef3cd1c8399f7b3",
     "sources/accuracy/2026-accuracy-report.xlsx": "e0f24fe03a79af016826089c653b2c2e15e55edcb04a7bd4be5fa643136425fc",
     "sources/accuracy/NERC_2025_ERCOT_p131.pdf": "7a2507abc115ed580d4c04d5e586986d80079061a1a5470b9a379a90cb6f8218",
-    "sources/accuracy/2026-load-forecast-accuracy-report.pdf": "1d5aa778f9c0527d6ad9585f91c144bac4525c36f42420f59e27872b63a15e61"
+    "sources/accuracy/2026-load-forecast-accuracy-report.pdf": "1d5aa778f9c0527d6ad9585f91c144bac4525c36f42420f59e27872b63a15e61",
+    "run_campus_retention.py": "a3f8020285c9438306e71968a6cf1e3c915829fb7c94a29c7d0a23ac893e2c03",
+    "test_campus_retention.py": "f2849697c9445ae9ddf9737bb8dabbb8216aa55e325dd100588bd2a505c52709",
+    "CAMPUS_RETENTION_INPUT_MANIFEST.json": "9a4f9f51e3676fe380262e277f5fb6aa060a3f08e6b50728cac6338fd7e2397e",
+    "pool_inputs/campus_retention_weights.csv": "4c41a9bbf0d4519d20a3b66714cae37efaa12297d2118560705b77ffea8d9b0b",
+    "pool_results/remaining_campus_retention_cases.csv": "0eb5da81c05e756d22925db4b00578a20613631b30f889ca8874775d9581895b",
+    "pool_results/campus_retention_annual.csv": "2cd07315c23ae9792fcf571b01de08f691031f71d7d395cd0546c0c417a50a9c",
+    "pool_results/campus_retention_complete_paths.csv": "43f2424ff15899e7b5dc67d3420c141adc034937c62d72c82c84ba7a0ef309b8",
+    "pool_results/campus_retention_verification.json": "b194d781134ccbb672253524269f0a63c1c58c92ea55bc6cc94d87562cb3651a"
   },
   "official_regional_model_changed": false,
   "main_figures_changed": false,

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "pool_inputs/campus_retention_weights.csv": "4c41a9bbf0d4519d20a3b66714cae37efaa12297d2118560705b77ffea8d9b0b",
+    "pool_inputs/candidate_paths.csv.gz": "650875d67e4eef21934f0dbbfc7bc74d6823e029a8c53898d28e5b956c3cd9aa",
+    "pool_inputs/native_conditions.csv": "01d96dd4546a30d4f4b705325d6de597bca86353baa640e80b2085435aaf5d53",
+    "pool_inputs/ercot_large_load_source.csv": "e6c9e482882e1062ba279c22b7a73be36d17bffcd2a9d59939ac5b969c0808aa"
+  },
+  "weight_source": "reproduction_20261009/default_weight_update/geographic_records_used.csv",
+  "weight_source_sha256": "c979dd5684506013d7b1af8eb5eca5b9a863332d06f0550f463bb7ba9f6a04d1",
+  "records": 269,
+  "matrix_source_row": 1120,
+  "frontier_source_row": 935,
+  "weight_rule": "Remove the selected campus MW and renormalize seven-region shares; captured demand and annual growth rules stay fixed.",
+  "response_rule": "Current full-horizon pool-consistent association bounds; minimum, feasible-interval midpoint and full association."
+}

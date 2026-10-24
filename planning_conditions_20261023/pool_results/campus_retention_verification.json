@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "annual_rows": 960,
+  "complete_paths": 96,
+  "primary_endpoint_rows": 32,
+  "both_retained_reproduce_current_pairs": true,
+  "ERCOT_anticipated_published_balance_min_GW": 13.081495788316587,
+  "ERCOT_anticipated_published_balance_max_GW": 13.522047821828634,
+  "minimum_background_pool_slack_GW": 0.0,
+  "minimum_candidate_pool_slack_GW": 2.5354487366076643,
+  "official_regional_model_changed": false,
+  "parameters_refitted": false
+}

@@ -11,6 +11,7 @@ running or modifying the large baseline first.
 | Matched ERCOT growth and response realization | `planning_conditions_20261023/run_paired_realization.py`, `paired_realization_results/annual_balances.csv`, `response_thresholds.csv` and `complete_paths.csv` |
 | Current primary ranges and complete-path limits | `pool_results/primary_annual.csv.gz`, `primary_complete_paths.csv`, `annual_core_ranges.csv` |
 | Current timing, lower-endpoint, spatial-scope and assignment sensitivities | `pool_results/timing_*`, `lower_*`, `scope_*`, `geographic_assignment_results.csv` |
+| Current Matrix/Frontier retention sensitivity | `planning_conditions_20261023/run_campus_retention.py`; `pool_results/remaining_campus_retention_cases.csv`, `campus_retention_annual.csv` and `campus_retention_complete_paths.csv` |
 | ERCOT association bounds and legacy failing cases | `pool_results/annual_pool_bounds.csv`, `legacy_association_check.csv` |
 | Local MISO binding-year check | `pool_results/miso_2034_resource_perturbation.csv` |
 | Joint annual boundaries and PJM vintages | `planning_conditions_20261023/run_analysis.py`, `results/`; unchanged |
@@ -23,6 +24,9 @@ ERCOT published-response paired quantities in the earlier baseline's `results`,
 `source_data`, `plotting_tables`, `display_tables`, follow-up paired extracts and
 diagnostic summaries reproduce the preceding zero/half/full-association version.
 They are archived numerical history, **not the current manuscript's defaults**.
+This also applies to the ERCOT published-response rows of the baseline's
+`default_weight_update/remaining_campus_retention_cases.csv`. Use the extension's
+same-named table above for the current retention sensitivity.
 The pool-corrected extension supersedes all of those affected ERCOT quantities;
 it does not supersede the baseline's official-demand balances or PV calculations.
 

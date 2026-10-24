@@ -1,6 +1,6 @@
 # Public reproducibility package
 
-## Current revised analysis: 23 October 2026
+## Current revised analysis: 24 October 2026
 
 **Current paired results:** run `planning_conditions_20261023/run_pool_consistency.py`.
 Its `pool_results` supersede the earlier ERCOT published-response paired outputs
@@ -21,7 +21,7 @@ extension reproduces the joint annual growth-resource and resource-response
 conditions, the PJM 2025-to-2026 forecast-vintage comparison, reported operating-load
 comparisons and the same-source ERCOT large-load scale ratios. It includes original
 public source reports and workbooks, standardized inputs, full-precision outputs,
-paired-result and joint-condition diagnostics, supplementary plots and 41 focused tests. It runs without
+paired-result and joint-condition diagnostics, supplementary plots and 49 focused tests. It runs without
 network access and does not recalibrate the baseline model. Baseline files are
 retained for provenance; corrected paired outputs are in the extension.
 
@@ -36,6 +36,8 @@ python -B plot_empirical.py
 python -B plot_pool_conditions.py
 python -B run_paired_realization.py
 python -B -m unittest -v test_paired_realization.py
+python -B run_campus_retention.py
+python -B -m unittest -v test_campus_retention.py
 ```
 
 See the extension's pinned `requirements.txt`, input manifest and package manifest
@@ -48,6 +50,12 @@ response in the same matched ERCOT worlds. It retains published ordinary respons
 and fixes nominal association before varying realization. Its numerical outputs
 are in `planning_conditions_20261023/paired_realization_results`; it does not
 change the regional model or redraw the main figures.
+
+The campus-retention entry updates the Matrix/Frontier keep/remove comparison
+with the same current annual response-pool rules. Its anticipated-resource,
+published-response ERCOT endpoint balances range from +13.08 to +13.52 GW, with
+zero added requirement in all four retention cases. The earlier baseline table
+is retained as numerical history, not as the current ERCOT comparison.
 
 No author manuscript, Supplementary Information, review report or response letter
 is included. Author-written code is MIT-licensed; third-party data retain their

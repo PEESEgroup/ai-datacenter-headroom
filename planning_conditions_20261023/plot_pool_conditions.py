@@ -1,4 +1,4 @@
-"""Plot current Fig. 4 from paired outputs and unchanged joint frontiers."""
+"""Plot current paired results and joint frontiers, not main Fig. 4c,d heatmaps."""
 from pathlib import Path
 import argparse
 import os

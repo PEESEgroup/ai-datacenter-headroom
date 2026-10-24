@@ -17,7 +17,8 @@ def main():
     core=current[current.status.isin(["Proposed","Approved/Permitted/Under construction"])&~current.explicit_non_data_center&current.in_seven_region_footprint&current.reviewed_load_weight_MW.gt(0)].copy()
     cols=["source_row","candidate_service_regions","mapping_class"]
     core=core.merge(previous[cols],on="source_row",how="left",validate="one_to_one")
-    assert core.mapping_class.notna().all() and len(core)==269
+    assert core.mapping_class.notna().all() and not core.source_row.duplicated().any()
+    assert not core.source_row.isin([1059, 1152, 1664]).any()
     core.to_csv(OUT/"geographic_records_used.csv",index=False)
     candidates=core.candidate_service_regions.fillna("").map(lambda x:set(x.split("|"))-{ "" })
     ambiguous=core.mapping_class.eq("ambiguous_current_supported")

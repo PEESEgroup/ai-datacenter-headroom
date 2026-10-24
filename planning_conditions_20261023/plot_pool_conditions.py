@@ -87,7 +87,8 @@ def main(output):
             ax.plot(lin.resource_share*100,lin.endpoint_growth_scale*100,c=GRAY,ls="--",lw=1,label="2035 only")
             ax.axhline(100,c="#c8c8c8",lw=.6)
             ax.scatter(0,lin.all_year_growth_scale.iloc[0]*100,c=color,s=15,zorder=4)
-            ax.annotate("46.2%",(0,46.2306),xytext=(6,-9),textcoords="offset points",color=color,fontsize=7)
+            limit = lin.all_year_growth_scale.iloc[0] * 100
+            ax.annotate(f"{limit:.1f}%",(0,limit),xytext=(6,-9),textcoords="offset points",color=color,fontsize=7)
             ax.set(ylabel="Candidate growth scale (%)",ylim=(0,210),yticks=[0,50,100,150,200])
             ax.legend(handles=[Line2D([],[],c=color,lw=1.5,label="All years, linear timing"),Line2D([],[],c=GRAY,ls="--",lw=1,label="2035 only"),Patch(facecolor=color,alpha=.18,label="Four timing rules")],frameon=False,loc="upper left",fontsize=6.5,handlelength=1.5)
         else:

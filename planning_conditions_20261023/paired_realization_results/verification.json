@@ -7,12 +7,12 @@
   "source_timing_rules": 4,
   "association_settings": 3,
   "anticipated_no_new_growth_fraction": 0.6252131249696062,
-  "anticipated_reference_fraction": 0.7699535297399912,
+  "anticipated_reference_fraction": 0.7717129889334469,
   "quarter_uplift_no_new_growth_fraction": 0.1092425769743235,
-  "quarter_uplift_reference_fraction": 0.33818932376512584,
+  "quarter_uplift_reference_fraction": 0.34097239224618936,
   "official_demand_fraction": 0.8764431012878727,
-  "realization_70_added_2034_GW": 2.1048107284383732,
-  "realization_70_added_2035_GW": 3.9778780506273037,
+  "realization_70_added_2034_GW": 2.2064641518888948,
+  "realization_70_added_2035_GW": 4.087619722877815,
   "realization_70_background_below_years": 0,
   "positive_threshold_binding_years": [
     2035

@@ -102,3 +102,7 @@ capacity credit. See `INPUTS_AND_SCOPE.md` for input definitions and scope.
 Author-written code is MIT-licensed. Third-party data are not relicensed under
 MIT; provider attribution and use conditions apply as explained in
 `THIRD_PARTY_NOTICES.md`. Cite the repository version or commit used.
+
+## Capacity attribute correction
+
+The current capacity registry excludes identified generation and thermal-input attributes at Joule, GW Ranch and Ridgeline. Their raw records and count alternatives remain. New Era's separately announced campus scale is retained. `CAPACITY_CORRECTION.md` records source definitions, corrected capture and downstream results.

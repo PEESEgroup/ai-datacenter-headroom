@@ -1,14 +1,17 @@
 {
-  "rules_version": "framework-rule-alignment-20261022",
-  "calculation_version": "reviewed-load-capacity-and-physical-hours-20261022",
-  "purpose": "Describe the existing calculations consistently; this alignment changes no numerical inputs, outputs or scenario parameters.",
+  "rules_version": "capacity-attribute-correction-20261024",
+  "calculation_version": "reviewed-load-capacity-and-physical-hours-20261024",
+  "purpose": "Apply the existing capacity-definition rule consistently; update allocation-dependent results without changing national demand, regional planning inputs or scenario parameters.",
   "input_decisions": {
     "confirmed_wrong_quantity": "Correct an identified generation attribute; retain the raw record and raw-attribute sensitivity.",
     "unclear_capacity_basis": "Retain the announced scale as a project-scale location proxy with its uncertainty; missing primary confirmation is not an exclusion criterion.",
     "future_delivery": "Represent buildout, timing and effective response through stated scenarios; do not require future realization to define a scenario.",
     "unsupported_inference": "Narrow the interpretation rather than present a proxy as a measured load or a scenario outcome as an observed effect.",
-    "additional_project_exclusions_in_this_alignment": [],
-    "joule_source_row_1152": "Retained at the reported midpoint of 6227.5 MW as a project-scale proxy; capacity basis is not asserted to be identified DC electrical load."
+    "additional_project_exclusions_in_this_alignment": [1152, 1059, 1664],
+    "joule_source_row_1152": "Exclude the generation attribute: 455 MW and 12000 MW are different dated supply stages, not DC-load bounds. Retain the raw record and count alternatives.",
+    "gw_ranch_source_row_1059": "Exclude the 1000 MW generation-delivery stage; retain project count and raw attributes.",
+    "ridgeline_source_row_1664": "Exclude the turbine-capacity attribute; 5650 MMBtu/hr is about 1656 MW thermal, not DC electrical load.",
+    "new_era_source_row_641": "Retain the separately advertised 7+ GW planned campus scale as a conditional location proxy; do not derive load from gas-plus-nuclear supply totals."
   },
   "quantities": {
     "national_energy": {

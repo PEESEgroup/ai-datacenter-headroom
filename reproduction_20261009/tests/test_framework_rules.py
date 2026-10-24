@@ -22,20 +22,20 @@ class FrameworkRules(unittest.TestCase):
             ROOT / "numerical/spatial/project_records.csv", "latest_20260917"))
 
     def test_uncertain_record_not_automatically_excluded(self):
-        joule = self.rows[self.rows.source_row.eq(1152)]
-        self.assertEqual(len(joule), 1)
-        self.assertFalse(rules.generation_scale_mask(joule).any())
-        self.assertAlmostEqual(rules.load_capacity_values(joule, "mid").iloc[0], 6227.5)
-        self.assertEqual(self.policy["input_decisions"]["additional_project_exclusions_in_this_alignment"], [])
+        new_era = self.rows[self.rows.source_row.eq(641)]
+        self.assertEqual(len(new_era), 1)
+        self.assertFalse(rules.generation_scale_mask(new_era).any())
+        self.assertAlmostEqual(rules.load_capacity_values(new_era, "mid").iloc[0], 7000)
 
     def test_existing_generation_corrections_and_count_retention(self):
         excluded = set(self.rows.loc[rules.generation_scale_mask(self.rows), "source_row"])
-        self.assertEqual(excluded, {941, 835, 891, 1667, 1673})
+        self.assertEqual(excluded, {941, 835, 891, 1667, 1673, 1152, 1059, 1664})
         _, subsets = rules.allocation_cases(self.rows)
         for case, chosen in subsets.items():
             selected = set(chosen.source_row)
             if "site_count" in case:
-                self.assertTrue(excluded <= selected)
+                mapped = set(self.rows.loc[self.rows.in_seven_region_footprint, "source_row"])
+                self.assertTrue((excluded & mapped) <= selected)
             else:
                 self.assertFalse(excluded & selected)
 

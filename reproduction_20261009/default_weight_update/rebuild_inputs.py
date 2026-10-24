@@ -42,7 +42,10 @@ def main():
     rules = rules_module()
     rows = rules.map_to_regions(rules.harmonize_inventory(NUM / "spatial/project_records.csv", "latest_20260917"))
     rejected = rules.generation_scale_mask(rows)
-    assert rejected.sum() == 5 and rows.loc[rows.source_row.eq(941), "reported_mw_mid"].iloc[0] == 14000
+    reviewed_exclusions = set(pd.read_csv(NUM / "spatial/capacity_attribute_review.csv")
+                              .query("decision == 'exclude'").source_row)
+    assert set(rows.loc[rejected, "source_row"]) == reviewed_exclusions
+    assert rows.loc[rows.source_row.eq(941), "reported_mw_mid"].iloc[0] == 14000
     rows["generation_scale_excluded_from_capacity_weights"] = rejected
     rows["capacity_weight_basis"] = np.where(rejected, "generation scale; excluded", "reported project MW; conditional location evidence")
     rows["reviewed_load_weight_MW"] = rules.load_capacity_values(rows, "mid")

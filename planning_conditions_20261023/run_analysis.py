@@ -243,7 +243,10 @@ def main(output):
         "workbook_selection":"Table B1, year columns, unique PJM RTO row; not digitized from charts",
         "native_input_origin":"Unchanged NERC 2025 source-audit panel in public baseline commit 3c0e7c6de99d11c3127ce4c4e6d9da993184de58"})
     linear=ma[ma.source_timing_rule.eq("linear")&ma.resource_share.eq(0)].iloc[0]
-    np.testing.assert_allclose([linear.endpoint_growth_scale,linear.all_year_growth_scale],[0.5188157270811542,0.4623058949665457],atol=1e-12,rtol=0)
+    check = paths[paths.source_DC_timing_rule.eq("linear")].sort_values("year")
+    ratios = check.background_balance_GW / check.pressure_GW
+    np.testing.assert_allclose([linear.endpoint_growth_scale, linear.all_year_growth_scale],
+                              [ratios.iloc[-1], ratios.min()], atol=1e-12, rtol=0)
     reference=mn[mn.growth_scale.eq(1)]
     facts=dict(passed=True,baseline_2025_PJM_matches_all_ten_native_gross_peaks=True,
         MISO_anticipated_endpoint_growth_scale=float(linear.endpoint_growth_scale),

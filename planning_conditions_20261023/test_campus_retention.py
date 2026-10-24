@@ -58,7 +58,7 @@ class CampusRetentionTests(unittest.TestCase):
         a = a[a.region.eq("ERCOT") & a.resources.eq("anticipated") & a.response.eq("published_all")]
         a = a.sort_values(c.CASE)
         np.testing.assert_allclose(a.balance_GW,
-            [13.522047821828634, 13.379046983224839, 13.218876289206719, 13.081495788316587],
+            [13.47336693078341, 13.323651369837853, 13.156021043514723, 13.012293906456431],
             atol=p.TOL, rtol=0)
         np.testing.assert_allclose(a.linked_response_fraction, .6613304347826087, atol=p.TOL, rtol=0)
         self.assertTrue(a.added_GW.eq(0).all())

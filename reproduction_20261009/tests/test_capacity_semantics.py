@@ -34,5 +34,22 @@ class CapacitySemanticTests(unittest.TestCase):
         for row in self.registry[self.registry.decision.eq("replace")].itertuples():
             self.assertAlmostEqual(reviewed[self.rows.source_row.eq(row.source_row)].iloc[0],row.load_mw_mid)
 
+    def test_new_generation_attributes_are_not_load_ranges(self):
+        values = self.rules.load_capacity_values(self.rows, "mid")
+        for source_row in [1152, 1059, 1664]:
+            self.assertTrue(np.isnan(values[self.rows.source_row.eq(source_row)].iloc[0]))
+        self.assertEqual(self.rows.loc[self.rows.source_row.eq(1152), "reported_mw_mid"].iloc[0], 6227.5)
+
+    def test_national_denominator_is_rebuilt_not_held_fixed(self):
+        values = self.rules.load_capacity_values(self.rows, "mid")
+        active = self.rows.status.isin(self.rules.CORE_ACTIVE) & ~self.rows.explicit_non_data_center
+        self.assertAlmostEqual(values[active].sum(), 207749.0)
+        self.assertAlmostEqual(values[active & self.rows.in_seven_region_footprint].sum(), 149193.0)
+
+    def test_new_era_separately_announced_campus_scale_retained(self):
+        row = self.rows[self.rows.source_row.eq(641)]
+        self.assertFalse(self.rules.generation_scale_mask(row).any())
+        self.assertAlmostEqual(self.rules.load_capacity_values(row, "mid").iloc[0], 7000)
+
 
 if __name__=="__main__":unittest.main()

@@ -66,8 +66,8 @@ class PairedRealizationTests(unittest.TestCase):
     def test_selected_full_path_values(self):
         frame = dict(self.groups)[("linear",0.0)]
         v = p.vectors(frame,self.native)
-        for u, expected0, expected_s in [(0,.6252131249696062,.7699535297399912),
-                                        (.25,.1092425769743235,.33818932376512584)]:
+        for u, expected0, expected_s in [(0,.6252131249696062,.7717129889334469),
+                                        (.25,.1092425769743235,.34097239224618936)]:
             for full, credit, expected in [(v["full0"],v["c0"],expected0),(v["full_s"],v["cs"],expected_s)]:
                 result = p.response_limit(full,credit,v["k"],v["uplift"],v["years"],u)
                 self.assertAlmostEqual(result["all_year_fraction"],expected)
@@ -75,7 +75,7 @@ class PairedRealizationTests(unittest.TestCase):
         b0,bs,_,added = p.paired_balances(v,0,.7)
         self.assertTrue((b0 >= 0).all())
         self.assertEqual(v["years"][bs < -p.TOL].tolist(),[2034,2035])
-        np.testing.assert_allclose(added[-2:],[2.1048107284383732,3.9778780506273037],atol=p.TOL,rtol=0)
+        np.testing.assert_allclose(added[-2:],[2.2064641518888948,4.087619722877815],atol=p.TOL,rtol=0)
 
     def test_zero_realization_is_not_current_only(self):
         frame = dict(self.groups)[("linear",0.0)]

@@ -79,12 +79,12 @@
   "analyzed_footprint_capture_cases": [
     {
       "id": "core_active_reported_mw_share",
-      "capture_share": 0.7009520732115448,
+      "capture_share": 0.7181406408695108,
       "role": "share of core-active reported project MW located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy; generation-scale Fermi MW excluded from capacity numerator and denominator; reviewed generation-only scales excluded; separately identified load scales retained"
     },
     {
       "id": "broad_active_reported_mw_share",
-      "capture_share": 0.7166148145105322,
+      "capture_share": 0.7332979589267166,
       "role": "share of broad-active reported project MW located in the seven-region siting footprint; California replaced with the NERC-listed-component geographic proxy; generation-scale Fermi MW excluded from capacity numerator and denominator; reviewed generation-only scales excluded; separately identified load scales retained"
     },
     {

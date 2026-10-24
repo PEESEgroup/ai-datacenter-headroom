@@ -1,10 +1,10 @@
 {
   "passed": true,
   "baseline_2025_PJM_matches_all_ten_native_gross_peaks": true,
-  "MISO_anticipated_endpoint_growth_scale": 0.5188157270811542,
-  "MISO_anticipated_all_year_growth_scale": 0.4623058949665457,
-  "MISO_reference_required_resource_share_min": 0.34208687037308716,
-  "MISO_reference_required_resource_share_max": 0.4056058890705552,
+  "MISO_anticipated_endpoint_growth_scale": 0.49754052824660516,
+  "MISO_anticipated_all_year_growth_scale": 0.44334800814007547,
+  "MISO_reference_required_resource_share_min": 0.372486629759349,
+  "MISO_reference_required_resource_share_max": 0.4337651065338302,
   "ERCOT": {
     "required_effective_provisional_GW_2035": 51.15412747252748,
     "provisional_credit_GW_2035": 58.3656,

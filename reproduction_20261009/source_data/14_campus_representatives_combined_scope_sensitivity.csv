@@ -14,7 +14,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 507,Panattoni Project Cannoli,Proposed,row|507,1850.0,central_reported_mid,combined_scope_sensitivity
 354,Joliet Technology Center,Approved/Permitted/Under construction,row|354,1800.0,central_reported_mid,combined_scope_sensitivity
 1045,AREP PowerHouse Grand Prairie,Approved/Permitted/Under construction,TX|ellis|881 miller rd,1800.0,central_reported_mid,combined_scope_sensitivity
-1664,Ridgeline Microgrid,Approved/Permitted/Under construction,row|1664,1656.0,central_reported_mid,combined_scope_sensitivity
 818,PAX-1 Data Center,Approved/Permitted/Under construction,row|818,1575.0,central_reported_mid,combined_scope_sensitivity
 521,Project Skyway,Proposed,MN|goodhue|49199 49821 195th ave,1550.0,central_reported_mid,combined_scope_sensitivity
 762,Stargate Data Center,Proposed,OH|trumbull|2369 ellsworth bailey rd,1500.0,central_reported_mid,combined_scope_sensitivity
@@ -48,7 +47,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 562,Amazon Ridgeland,Approved/Permitted/Under construction,row|562,1000.0,central_reported_mid,combined_scope_sensitivity
 606,Nixxy-Tachyon 9 Data Center,Proposed,row|606,1000.0,central_reported_mid,combined_scope_sensitivity
 1019,Lacy Lakeview Data Center,Approved/Permitted/Under construction,row|1019,1000.0,central_reported_mid,combined_scope_sensitivity
-1059,GW Ranch Project,Approved/Permitted/Under construction,TX|pecos|6000 texas state highway 18,1000.0,central_reported_mid,combined_scope_sensitivity
 1521,Stafford Technology Campus,Proposed,row|1521,1000.0,central_reported_mid,combined_scope_sensitivity
 1027,Tract Data Centers,Proposed,row|1027,980.0,central_reported_mid,combined_scope_sensitivity
 902,Salem Township Amazon Data Center,Proposed,row|902,960.0,central_reported_mid,combined_scope_sensitivity
@@ -274,7 +272,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 507,Panattoni Project Cannoli,Proposed,row|507,1000.0,central_reported_low,combined_scope_sensitivity
 354,Joliet Technology Center,Approved/Permitted/Under construction,row|354,1800.0,central_reported_low,combined_scope_sensitivity
 1045,AREP PowerHouse Grand Prairie,Approved/Permitted/Under construction,TX|ellis|881 miller rd,1800.0,central_reported_low,combined_scope_sensitivity
-1664,Ridgeline Microgrid,Approved/Permitted/Under construction,row|1664,1656.0,central_reported_low,combined_scope_sensitivity
 818,PAX-1 Data Center,Approved/Permitted/Under construction,row|818,1350.0,central_reported_low,combined_scope_sensitivity
 521,Project Skyway,Proposed,MN|goodhue|49199 49821 195th ave,1200.0,central_reported_low,combined_scope_sensitivity
 762,Stargate Data Center,Proposed,OH|trumbull|2369 ellsworth bailey rd,1500.0,central_reported_low,combined_scope_sensitivity
@@ -308,7 +305,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 562,Amazon Ridgeland,Approved/Permitted/Under construction,row|562,1000.0,central_reported_low,combined_scope_sensitivity
 606,Nixxy-Tachyon 9 Data Center,Proposed,row|606,1000.0,central_reported_low,combined_scope_sensitivity
 1019,Lacy Lakeview Data Center,Approved/Permitted/Under construction,row|1019,1000.0,central_reported_low,combined_scope_sensitivity
-1059,GW Ranch Project,Approved/Permitted/Under construction,TX|pecos|6000 texas state highway 18,1000.0,central_reported_low,combined_scope_sensitivity
 1521,Stafford Technology Campus,Proposed,row|1521,1000.0,central_reported_low,combined_scope_sensitivity
 1027,Tract Data Centers,Proposed,row|1027,360.0,central_reported_low,combined_scope_sensitivity
 902,Salem Township Amazon Data Center,Proposed,row|902,960.0,central_reported_low,combined_scope_sensitivity
@@ -534,7 +530,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 507,Panattoni Project Cannoli,Proposed,row|507,2700.0,central_reported_high,combined_scope_sensitivity
 354,Joliet Technology Center,Approved/Permitted/Under construction,row|354,1800.0,central_reported_high,combined_scope_sensitivity
 1045,AREP PowerHouse Grand Prairie,Approved/Permitted/Under construction,TX|ellis|881 miller rd,1800.0,central_reported_high,combined_scope_sensitivity
-1664,Ridgeline Microgrid,Approved/Permitted/Under construction,row|1664,1656.0,central_reported_high,combined_scope_sensitivity
 818,PAX-1 Data Center,Approved/Permitted/Under construction,row|818,1800.0,central_reported_high,combined_scope_sensitivity
 521,Project Skyway,Proposed,MN|goodhue|49199 49821 195th ave,1900.0,central_reported_high,combined_scope_sensitivity
 762,Stargate Data Center,Proposed,OH|trumbull|2369 ellsworth bailey rd,1500.0,central_reported_high,combined_scope_sensitivity
@@ -568,7 +563,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 562,Amazon Ridgeland,Approved/Permitted/Under construction,row|562,1000.0,central_reported_high,combined_scope_sensitivity
 606,Nixxy-Tachyon 9 Data Center,Proposed,row|606,1000.0,central_reported_high,combined_scope_sensitivity
 1019,Lacy Lakeview Data Center,Approved/Permitted/Under construction,row|1019,1000.0,central_reported_high,combined_scope_sensitivity
-1059,GW Ranch Project,Approved/Permitted/Under construction,TX|pecos|6000 texas state highway 18,1000.0,central_reported_high,combined_scope_sensitivity
 1521,Stafford Technology Campus,Proposed,row|1521,1000.0,central_reported_high,combined_scope_sensitivity
 1027,Tract Data Centers,Proposed,row|1027,1600.0,central_reported_high,combined_scope_sensitivity
 902,Salem Township Amazon Data Center,Proposed,row|902,960.0,central_reported_high,combined_scope_sensitivity
@@ -784,7 +778,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 388,Hobart Data Center,Approved/Permitted/Under construction,row|388,2400.0,high_evidence_reported_mid,combined_scope_sensitivity
 354,Joliet Technology Center,Approved/Permitted/Under construction,row|354,1800.0,high_evidence_reported_mid,combined_scope_sensitivity
 1045,AREP PowerHouse Grand Prairie,Approved/Permitted/Under construction,TX|ellis|881 miller rd,1800.0,high_evidence_reported_mid,combined_scope_sensitivity
-1664,Ridgeline Microgrid,Approved/Permitted/Under construction,row|1664,1656.0,high_evidence_reported_mid,combined_scope_sensitivity
 818,PAX-1 Data Center,Approved/Permitted/Under construction,row|818,1575.0,high_evidence_reported_mid,combined_scope_sensitivity
 506,Related Digital/The Barn,Approved/Permitted/Under construction,row|506,1400.0,high_evidence_reported_mid,combined_scope_sensitivity
 935,Frontier Vantage Data Center,Approved/Permitted/Under construction,row|935,1400.0,high_evidence_reported_mid,combined_scope_sensitivity
@@ -797,7 +790,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 397,Project Domino,Approved/Permitted/Under construction,row|397,1000.0,high_evidence_reported_mid,combined_scope_sensitivity
 562,Amazon Ridgeland,Approved/Permitted/Under construction,row|562,1000.0,high_evidence_reported_mid,combined_scope_sensitivity
 1019,Lacy Lakeview Data Center,Approved/Permitted/Under construction,row|1019,1000.0,high_evidence_reported_mid,combined_scope_sensitivity
-1059,GW Ranch Project,Approved/Permitted/Under construction,TX|pecos|6000 texas state highway 18,1000.0,high_evidence_reported_mid,combined_scope_sensitivity
 831,Project Hummingbird,Approved/Permitted/Under construction,row|831,950.0,high_evidence_reported_mid,combined_scope_sensitivity
 525,Nebius Data Center,Approved/Permitted/Under construction,MO|jackson|2501 e necessary rd,880.0,high_evidence_reported_mid,combined_scope_sensitivity
 531,Project Micah,Approved/Permitted/Under construction,row|531,700.0,high_evidence_reported_mid,combined_scope_sensitivity
@@ -876,7 +868,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 507,Panattoni Project Cannoli,Proposed,row|507,1850.0,broad_reported_mid,combined_scope_sensitivity
 354,Joliet Technology Center,Approved/Permitted/Under construction,row|354,1800.0,broad_reported_mid,combined_scope_sensitivity
 1045,AREP PowerHouse Grand Prairie,Approved/Permitted/Under construction,TX|ellis|881 miller rd,1800.0,broad_reported_mid,combined_scope_sensitivity
-1664,Ridgeline Microgrid,Approved/Permitted/Under construction,row|1664,1656.0,broad_reported_mid,combined_scope_sensitivity
 818,PAX-1 Data Center,Approved/Permitted/Under construction,row|818,1575.0,broad_reported_mid,combined_scope_sensitivity
 521,Project Skyway,Proposed,MN|goodhue|49199 49821 195th ave,1550.0,broad_reported_mid,combined_scope_sensitivity
 859,Upper Burrell Data Center/TECfusions Keystone Connect,Expanding,PA|westmoreland|100 technical ln,1506.0,broad_reported_mid,combined_scope_sensitivity
@@ -913,7 +904,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 562,Amazon Ridgeland,Approved/Permitted/Under construction,row|562,1000.0,broad_reported_mid,combined_scope_sensitivity
 606,Nixxy-Tachyon 9 Data Center,Proposed,row|606,1000.0,broad_reported_mid,combined_scope_sensitivity
 1019,Lacy Lakeview Data Center,Approved/Permitted/Under construction,row|1019,1000.0,broad_reported_mid,combined_scope_sensitivity
-1059,GW Ranch Project,Approved/Permitted/Under construction,TX|pecos|6000 texas state highway 18,1000.0,broad_reported_mid,combined_scope_sensitivity
 1521,Stafford Technology Campus,Proposed,row|1521,1000.0,broad_reported_mid,combined_scope_sensitivity
 1027,Tract Data Centers,Proposed,row|1027,980.0,broad_reported_mid,combined_scope_sensitivity
 902,Salem Township Amazon Data Center,Proposed,row|902,960.0,broad_reported_mid,combined_scope_sensitivity
@@ -2634,7 +2624,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 507,Panattoni Project Cannoli,Proposed,row|507,1850.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 354,Joliet Technology Center,Approved/Permitted/Under construction,row|354,1800.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 1045,AREP PowerHouse Grand Prairie,Approved/Permitted/Under construction,TX|ellis|881 miller rd,1800.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
-1664,Ridgeline Microgrid,Approved/Permitted/Under construction,row|1664,1656.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 818,PAX-1 Data Center,Approved/Permitted/Under construction,row|818,1575.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 521,Project Skyway,Proposed,MN|goodhue|49199 49821 195th ave,1550.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 762,Stargate Data Center,Proposed,OH|trumbull|2369 ellsworth bailey rd,1500.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
@@ -2668,7 +2657,6 @@ source_row,facility_name,status,campus_key,allocation_weight,allocation_case,qua
 562,Amazon Ridgeland,Approved/Permitted/Under construction,row|562,1000.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 606,Nixxy-Tachyon 9 Data Center,Proposed,row|606,1000.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 1019,Lacy Lakeview Data Center,Approved/Permitted/Under construction,row|1019,1000.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
-1059,GW Ranch Project,Approved/Permitted/Under construction,TX|pecos|6000 texas state highway 18,1000.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 1521,Stafford Technology Campus,Proposed,row|1521,1000.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 1027,Tract Data Centers,Proposed,row|1027,980.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity
 902,Salem Township Amazon Data Center,Proposed,row|902,960.0,central_reported_plus_size_proxy_sensitivity,combined_scope_sensitivity

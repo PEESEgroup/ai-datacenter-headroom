@@ -53,9 +53,18 @@ change the regional model or redraw the main figures.
 
 The campus-retention entry updates the Matrix/Frontier keep/remove comparison
 with the same current annual response-pool rules. Its anticipated-resource,
-published-response ERCOT endpoint balances range from +13.08 to +13.52 GW, with
+published-response ERCOT endpoint balances range from +13.01 to +13.47 GW, with
 zero added requirement in all four retention cases. The earlier baseline table
 is retained as numerical history, not as the current ERCOT comparison.
+
+The 24 October capacity-attribute correction updates national capture, regional
+weights and their dependent results. Generation or thermal-input attributes at
+Joule, GW Ranch and Ridgeline are excluded from default MW weights; their project
+records remain in count scenarios. New Era's separately advertised campus scale
+is retained. Details and sources are in
+`reproduction_20261009/CAPACITY_CORRECTION.md`. Official regional forecasts,
+national energy paths, historical comparisons and physical-hour PV results are
+unchanged. Use the current output map for the baseline/extension distinction.
 
 No author manuscript, Supplementary Information, review report or response letter
 is included. Author-written code is MIT-licensed; third-party data retain their

@@ -1,0 +1,15 @@
+{
+  "question": "How does a common provisional-response realization fraction change the added requirement of the retained ERCOT reference growth path?",
+  "candidate": "Retained reference national path, default geographic allocation and reference peak mapping",
+  "ordinary_response": "Published ordinary response, fixed in both matched worlds",
+  "source_timing_rules": ["linear", "earlier_arrival", "later_arrival", "last_interval_early_plateau"],
+  "association_grid_positions": [0.0, 0.5, 1.0],
+  "association_rule": "Choose the nominal common association once per timing rule and grid position; hold it fixed across resource and realization settings",
+  "resource_share_points": 101,
+  "reported_resource_shares": [0.0, 0.25, 0.5, 1.0],
+  "reported_realization_fractions": [0.0, 0.5, 0.7, 0.8, 1.0],
+  "realization_rule": "One effective fraction applies to the provisional credit retained in each world and every year",
+  "resource_rule": "One fraction of the annual anticipated-to-prospective native resource difference applies throughout 2026-2035",
+  "scope": "Conditional annual summer planning requirements, not probabilities, operational reliability or a DC-only curtailment program",
+  "current_only_distinction": "Zero provisional realization retains published ordinary response and is not the current-only response scenario"
+}

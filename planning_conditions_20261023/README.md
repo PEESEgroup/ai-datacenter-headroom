@@ -14,6 +14,8 @@ python -B plot_empirical.py
 python -B run_pool_consistency.py
 python -B -m unittest -v test_pool_consistency.py
 python -B plot_pool_conditions.py
+python -B run_paired_realization.py
+python -B -m unittest -v test_paired_realization.py
 ```
 
 Python, NumPy, pandas, openpyxl, PyMuPDF and Matplotlib are required. No network connection is needed to run the packaged calculations. Third-party source workbooks and reports retain provider terms; author-written analysis code follows the baseline repository's MIT license.
@@ -63,3 +65,9 @@ NERC printed p. 131 labels DC additions as end-of-year and its large-load/curtai
 `annual_pairs.csv.gz` retains 388,800 annual outcomes and 38,880 complete paths. The primary grid has 51,840 points, 648 paths per region/resource/response condition. Timing, lower-endpoint and scope outputs retain all existing cases under the revised rule. `legacy_association_check.csv` explicitly identifies the old failing backgrounds. `miso_2034_resource_perturbation.csv` reports a resource-only local break-even check: +0.5034376 native GW in 2034 removes the displayed endpoint omission. This is not a refit or an estimated uncertainty distribution.
 
 `plot_pool_conditions.py` plots current paired results together with the unchanged joint frontiers from `run_analysis.py`. Its lower panels show joint resource conditions, not the annual growth/response heatmaps retained in main Fig. 4c,d. `plot_conditions.py` reproduces the joint boundaries shown in Supplementary Fig. 12. MISO uses a matched candidate background; ERCOT uses official demand. The upper scales of the joint-condition panels report 2035 native resource GW, not nameplate capacity. Twelve additional tests cover the pool correction, alongside the nineteen retained tests.
+
+## Matched ERCOT growth and effective response
+
+`run_paired_realization.py` connects the retained reference-growth pairs to provisional-response realization without changing the regional model. For each timing rule and nominal association setting, it holds the association fixed, retains published ordinary response, and applies one common realization fraction to the provisional credit remaining in each world and every year. One resource fraction selects the annual anticipated-to-prospective native contribution difference. Zero provisional realization therefore differs from current-only response.
+
+`PAIRED_REALIZATION_PROTOCOL.json` specifies the controls; its input manifest verifies retained inputs. `paired_realization_results` supplies full-precision annual balances, complete-path summaries and response thresholds. With anticipated resources and the minimum linear-timing association, the background requires 62.5% realization and reference growth 77.0%. At 70%, only the candidate path falls below requirement, adding 2.10 GW in 2034 and 3.98 GW in 2035. A 25% share of resource uplift lowers the thresholds to 10.9% and 33.8%. The three association settings give candidate thresholds of 77.0%, 80.4% and 84.2% at anticipated resources; these are conditional sensitivity results, not uncertainty probabilities. Ten new tests cover direct reconstruction, both worlds, nominal pool bounds, threshold necessity and the distinction from current-only response. There are 41 focused tests in total. This entry adds no main figure or model refit.

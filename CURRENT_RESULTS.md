@@ -8,6 +8,7 @@ running or modifying the large baseline first.
 | --- | --- |
 | Seven-region official-demand annual balances | `reproduction_20261009/run_reproduction.py`; unchanged |
 | Current MISO/ERCOT paired results | `planning_conditions_20261023/run_pool_consistency.py`, `pool_results/annual_pairs.csv.gz` and `complete_paths.csv.gz` |
+| Matched ERCOT growth and response realization | `planning_conditions_20261023/run_paired_realization.py`, `paired_realization_results/annual_balances.csv`, `response_thresholds.csv` and `complete_paths.csv` |
 | Current primary ranges and complete-path limits | `pool_results/primary_annual.csv.gz`, `primary_complete_paths.csv`, `annual_core_ranges.csv` |
 | Current timing, lower-endpoint, spatial-scope and assignment sensitivities | `pool_results/timing_*`, `lower_*`, `scope_*`, `geographic_assignment_results.csv` |
 | ERCOT association bounds and legacy failing cases | `pool_results/annual_pool_bounds.csv`, `legacy_association_check.csv` |

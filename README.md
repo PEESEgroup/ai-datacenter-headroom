@@ -21,7 +21,7 @@ extension reproduces the joint annual growth-resource and resource-response
 conditions, the PJM 2025-to-2026 forecast-vintage comparison, reported operating-load
 comparisons and the same-source ERCOT large-load scale ratios. It includes original
 public source reports and workbooks, standardized inputs, full-precision outputs,
-paired-result and joint-condition diagnostics, supplementary plots and 31 focused tests. It runs without
+paired-result and joint-condition diagnostics, supplementary plots and 41 focused tests. It runs without
 network access and does not recalibrate the baseline model. Baseline files are
 retained for provenance; corrected paired outputs are in the extension.
 
@@ -34,12 +34,20 @@ python -B -m unittest -v test_analysis.py test_empirical.py test_pool_consistenc
 python -B plot_conditions.py
 python -B plot_empirical.py
 python -B plot_pool_conditions.py
+python -B run_paired_realization.py
+python -B -m unittest -v test_paired_realization.py
 ```
 
 See the extension's pinned `requirements.txt`, input manifest and package manifest
 for dependencies and file checksums. Provider reports retain their original load
 definitions and coverage; monthly graph values are approximate and are kept
 separate from exact annual workbook values.
+
+The paired-realization entry connects reference growth to effective provisional
+response in the same matched ERCOT worlds. It retains published ordinary response
+and fixes nominal association before varying realization. Its numerical outputs
+are in `planning_conditions_20261023/paired_realization_results`; it does not
+change the regional model or redraw the main figures.
 
 No author manuscript, Supplementary Information, review report or response letter
 is included. Author-written code is MIT-licensed; third-party data retain their

@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "annual_points": 2400,
+  "complete_settings": 240,
+  "threshold_rows": 3636,
+  "input_years": 10,
+  "source_timing_rules": 4,
+  "association_settings": 3,
+  "anticipated_no_new_growth_fraction": 0.6252131249696062,
+  "anticipated_reference_fraction": 0.7699535297399912,
+  "quarter_uplift_no_new_growth_fraction": 0.1092425769743235,
+  "quarter_uplift_reference_fraction": 0.33818932376512584,
+  "official_demand_fraction": 0.8764431012878727,
+  "realization_70_added_2034_GW": 2.1048107284383732,
+  "realization_70_added_2035_GW": 3.9778780506273037,
+  "realization_70_background_below_years": 0,
+  "positive_threshold_binding_years": [
+    2035
+  ],
+  "nominal_association_fixed_when_realization_changes": true,
+  "published_ordinary_response_retained": true,
+  "official_model_refitted": false,
+  "main_figures_changed": false
+}

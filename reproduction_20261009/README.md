@@ -54,7 +54,7 @@ are used in this version. California denotes the WECC-California planning area,
 not CAISO alone. The default run uses the frozen geographic crosswalk; it does
 not rebuild every upstream GIS asset or render the publication figures.
 
-The default capacity ledger excludes five generation-only quantities and uses
+The default capacity ledger excludes eight identified generation or thermal-input quantities and uses
 separately stated load scales for PORTS and Monarch. These values feed both
 the national capture fraction and regional shares. Raw records, source decisions
 and the complete old-input comparison are retained in

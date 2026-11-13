@@ -1,9 +1,9 @@
-Region,Condition,$\sum P^{DC}$,$\sum C^{DC}$,$\sum\Delta A^{DC}$,Absorbs,Triggers,Amplifies \\\midrule
-ERCOT,A/cap,87.06,2.86,84.21,1,1,8
-ERCOT,A/pub.,87.06,87.06,0.00,10,0,0
-ERCOT,P/cap,87.06,87.06,0.00,10,0,0
-ERCOT,P/pub.,87.06,87.06,0.00,10,0,0
-MISO,A/cap,59.55,43.16,16.39,6,4,0
-MISO,A/pub.,59.55,43.16,16.39,6,4,0
-MISO,P/cap,59.55,59.55,0.00,10,0,0
-MISO,P/pub.,59.55,59.55,0.00,10,0,0
+Region,Condition,$\sum P^{DC}$,$\sum C^{DC}$,$\sum\Delta A^{DC}$,Absorbs,Triggers,Amplifies
+ERCOT,A/cap,88.33,2.88,85.45,1,1,8
+ERCOT,A/pub.,29.91,29.91,0.00,10,0,0
+ERCOT,P/cap,88.33,88.33,0.00,10,0,0
+ERCOT,P/pub.,29.91,29.91,0.00,10,0,0
+MISO,A/cap,62.10,43.95,18.15,5,5,0
+MISO,A/pub.,62.10,43.95,18.15,5,5,0
+MISO,P/cap,62.10,62.10,0.00,10,0,0
+MISO,P/pub.,62.10,62.10,0.00,10,0,0

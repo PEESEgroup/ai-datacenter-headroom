@@ -1,8 +1,8 @@
-ERCOT resources,Period,Needed relief (GW),Provisional share \\\midrule
+ERCOT resources,Period,Needed relief (GW),Provisional share
 Anticipated,2035,51.15,87.6\%
 ,All ten years,--,87.6\%
 Prospective,2035,0.00,0.0\%
 ,All ten years,--,0.0\%
-MISO resources,\shortstack{2035 break-even\\incremental load\\$L^*_{2035}$ (GW)},\shortstack{2035-only\\path scale},\shortstack{All-year\\path scale},\shortstack{Limiting\\year} \\\midrule
-Anticipated,4.58,51.9\%,46.2\%,2034
-Prospective,17.00,212.6\%,212.6\%,2035
+MISO resources,\shortstack{2035 break-even\\incremental load\\$L^*_{2035}$ (GW)},\shortstack{2035-only\\path scale},\shortstack{All-year\\path scale},\shortstack{Limiting\\year}
+Anticipated,4.58,49.8\%,44.3\%,2034
+Prospective,17.00,184.6\%,184.6\%,2035

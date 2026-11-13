@@ -1,0 +1,11 @@
+Region and condition,Candidate peak increment,With-growth balance,Added requirement
+"MISO, anticipated/published",7.94--11.46,-7.49 to -3.65,3.65--7.49
+"MISO, prospective/published",7.94--11.46,+6.04 to +9.87,0.00--0.00
+"ERCOT, anticipated/current-only",8.20--12.86,-44.90 to -39.60,9.32--14.63
+"ERCOT, anticipated/published",8.20--12.86,+12.88 to +14.68,0.00--0.00
+Project and source row,"Weight, GW",Source evidence,Supported interpretation and remaining limit
+"Fermi Matador, 941",Excluded,The issuer identifies private generation separately from SPS service\citep{fermi2026_service}.,"The raw 14-GW midpoint is retained for the legacy sensitivity, not default load weighting."
+"IREN Sweetwater, 1121",2.0,"SEC filing identifies ERCOT connection agreements; September 2026 update reports an energized Sweetwater 1 substation and conditional Batch Zero inclusion\citep{iren2025_connections,iren2026_sweetwater}.",Supports retained ERCOT assignment. Substation energization and a 2-GW development hub do not establish 2 GW of operating demand.
+"Lower Peninsula, 502",1.0,Consumers Energy's July 2025 release confirms a service-territory agreement for up to 1 GW\citep{consumers2025_dc_agreement}.,"Utility evidence supports retained MISO treatment, not the inventory's exact coordinates, substation or realized load."
+"MSB Matrix, 1120",3.0,"A city agreement defines phased facility electrical load; the developer identifies Oncor 345-kV service and an initial microgrid\citep{matrix_city_agreement,matrix_capacity_report}.",Supports the announced load scale and a named service plan. The 3-GW buildout is not an executed full-load utility commitment; the geographic sensitivity retains the archived ambiguity.
+"Vantage Frontier, 935",1.4,"The developer reports 1.4 GW of critical IT capacity. Oracle's fact sheet identifies on-site VoltaGrid power; the TCEQ filing quantifies generator capacity\citep{vantage2025_frontier,frontier_oracle_fact_sheet,frontier_tceq}.",Retained as a project-scale weight. Generator MW and critical IT MW describe different quantities and are not subtracted to infer imports.

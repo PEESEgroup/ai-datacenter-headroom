@@ -1,73 +1,73 @@
 Region,Comparison,Allocation,Minimum,Maximum
-ERCOT,Replacement,broad\_reported\_MW,-64.25,128.02
-ERCOT,Replacement,broad\_site\_count,-53.19,130.24
-ERCOT,Replacement,core\_site\_count,-53.16,130.25
-ERCOT,Replacement,high\_evidence\_reported\_MW,-65.89,127.69
-ERCOT,Replacement,reported\_MW\_high\_imputation,-63.09,128.25
-ERCOT,Replacement,reported\_MW\_low\_imputation,-63.64,128.15
-ERCOT,Replacement,reported\_MW\_reference\_imputation,-63.34,128.20
-ERCOT,Replacement,reported\_plus\_size\_proxy,-61.79,128.52
-MISO,Replacement,broad\_reported\_MW,-18.37,13.82
-MISO,Replacement,broad\_site\_count,-14.49,14.60
-MISO,Replacement,core\_site\_count,-14.94,14.51
-MISO,Replacement,high\_evidence\_reported\_MW,-20.82,13.33
-MISO,Replacement,reported\_MW\_high\_imputation,-18.56,13.79
-MISO,Replacement,reported\_MW\_low\_imputation,-16.64,14.17
-MISO,Replacement,reported\_MW\_reference\_imputation,-17.67,13.96
-MISO,Replacement,reported\_plus\_size\_proxy,-19.31,13.64
-ERCOT,Partial additional,broad\_reported\_MW,-75.70,103.00
-ERCOT,Partial additional,broad\_site\_count,-70.17,104.11
-ERCOT,Partial additional,core\_site\_count,-70.16,104.11
-ERCOT,Partial additional,high\_evidence\_reported\_MW,-76.52,102.83
-ERCOT,Partial additional,reported\_MW\_high\_imputation,-75.12,103.11
-ERCOT,Partial additional,reported\_MW\_low\_imputation,-75.39,103.06
-ERCOT,Partial additional,reported\_MW\_reference\_imputation,-75.25,103.09
-ERCOT,Partial additional,reported\_plus\_size\_proxy,-74.47,103.25
+ERCOT,Replacement,broad\_reported\_MW,-63.97,113.69
+ERCOT,Replacement,broad\_site\_count,-53.19,114.44
+ERCOT,Replacement,core\_site\_count,-53.16,114.45
+ERCOT,Replacement,high\_evidence\_reported\_MW,-65.08,113.62
+ERCOT,Replacement,reported\_MW\_high\_imputation,-62.79,113.78
+ERCOT,Replacement,reported\_MW\_low\_imputation,-63.29,113.74
+ERCOT,Replacement,reported\_MW\_reference\_imputation,-63.02,113.76
+ERCOT,Replacement,reported\_plus\_size\_proxy,-61.51,113.86
+MISO,Replacement,broad\_reported\_MW,-18.76,13.63
+MISO,Replacement,broad\_site\_count,-14.49,14.51
+MISO,Replacement,core\_site\_count,-14.94,14.42
+MISO,Replacement,high\_evidence\_reported\_MW,-22.16,12.93
+MISO,Replacement,reported\_MW\_high\_imputation,-18.95,13.59
+MISO,Replacement,reported\_MW\_low\_imputation,-17.06,13.98
+MISO,Replacement,reported\_MW\_reference\_imputation,-18.08,13.77
+MISO,Replacement,reported\_plus\_size\_proxy,-19.66,13.44
+ERCOT,Partial additional,broad\_reported\_MW,-75.56,102.94
+ERCOT,Partial additional,broad\_site\_count,-70.17,104.05
+ERCOT,Partial additional,core\_site\_count,-70.16,104.06
+ERCOT,Partial additional,high\_evidence\_reported\_MW,-76.12,102.83
+ERCOT,Partial additional,reported\_MW\_high\_imputation,-74.97,103.06
+ERCOT,Partial additional,reported\_MW\_low\_imputation,-75.22,103.01
+ERCOT,Partial additional,reported\_MW\_reference\_imputation,-75.09,103.04
+ERCOT,Partial additional,reported\_plus\_size\_proxy,-74.33,103.20
 ISO-NE,Partial additional,broad\_reported\_MW,0.89,8.89
 ISO-NE,Partial additional,broad\_site\_count,0.36,8.78
 ISO-NE,Partial additional,core\_site\_count,0.30,8.77
 ISO-NE,Partial additional,high\_evidence\_reported\_MW,1.03,8.92
-ISO-NE,Partial additional,reported\_MW\_high\_imputation,0.89,8.89
-ISO-NE,Partial additional,reported\_MW\_low\_imputation,0.86,8.89
-ISO-NE,Partial additional,reported\_MW\_reference\_imputation,0.88,8.89
-ISO-NE,Partial additional,reported\_plus\_size\_proxy,0.91,8.89
-MISO,Partial additional,broad\_reported\_MW,-26.29,-3.43
-MISO,Partial additional,broad\_site\_count,-24.35,-3.04
-MISO,Partial additional,core\_site\_count,-24.58,-3.09
-MISO,Partial additional,high\_evidence\_reported\_MW,-27.52,-3.68
-MISO,Partial additional,reported\_MW\_high\_imputation,-26.39,-3.45
-MISO,Partial additional,reported\_MW\_low\_imputation,-25.43,-3.26
-MISO,Partial additional,reported\_MW\_reference\_imputation,-25.94,-3.36
-MISO,Partial additional,reported\_plus\_size\_proxy,-26.76,-3.53
-NYISO,Partial additional,broad\_reported\_MW,-1.44,4.11
-NYISO,Partial additional,broad\_site\_count,-1.16,4.17
-NYISO,Partial additional,core\_site\_count,-1.00,4.20
-NYISO,Partial additional,high\_evidence\_reported\_MW,-0.19,4.36
-NYISO,Partial additional,reported\_MW\_high\_imputation,-0.92,4.22
-NYISO,Partial additional,reported\_MW\_low\_imputation,-1.08,4.18
-NYISO,Partial additional,reported\_MW\_reference\_imputation,-0.99,4.20
-NYISO,Partial additional,reported\_plus\_size\_proxy,-0.78,4.24
-PJM,Partial additional,broad\_reported\_MW,-106.63,-36.70
-PJM,Partial additional,broad\_site\_count,-117.52,-38.89
-PJM,Partial additional,core\_site\_count,-116.76,-38.74
-PJM,Partial additional,high\_evidence\_reported\_MW,-112.63,-37.91
-PJM,Partial additional,reported\_MW\_high\_imputation,-107.74,-36.92
-PJM,Partial additional,reported\_MW\_low\_imputation,-107.49,-36.87
-PJM,Partial additional,reported\_MW\_reference\_imputation,-107.62,-36.90
-PJM,Partial additional,reported\_plus\_size\_proxy,-108.58,-37.09
-SPP,Partial additional,broad\_reported\_MW,-11.55,19.04
-SPP,Partial additional,broad\_site\_count,-7.68,19.82
-SPP,Partial additional,core\_site\_count,-8.06,19.74
-SPP,Partial additional,high\_evidence\_reported\_MW,-5.74,20.21
-SPP,Partial additional,reported\_MW\_high\_imputation,-11.62,19.02
-SPP,Partial additional,reported\_MW\_low\_imputation,-12.32,18.89
-SPP,Partial additional,reported\_MW\_reference\_imputation,-11.94,18.96
-SPP,Partial additional,reported\_plus\_size\_proxy,-11.42,19.07
-California,Partial additional,broad\_reported\_MW,10.25,20.14
-California,Partial additional,broad\_site\_count,8.45,19.77
-California,Partial additional,core\_site\_count,8.30,19.74
-California,Partial additional,high\_evidence\_reported\_MW,10.48,20.19
-California,Partial additional,reported\_MW\_high\_imputation,10.26,20.14
-California,Partial additional,reported\_MW\_low\_imputation,10.17,20.12
-California,Partial additional,reported\_MW\_reference\_imputation,10.22,20.13
-California,Partial additional,reported\_plus\_size\_proxy,10.36,20.16
+ISO-NE,Partial additional,reported\_MW\_high\_imputation,0.88,8.89
+ISO-NE,Partial additional,reported\_MW\_low\_imputation,0.86,8.88
+ISO-NE,Partial additional,reported\_MW\_reference\_imputation,0.87,8.89
+ISO-NE,Partial additional,reported\_plus\_size\_proxy,0.90,8.89
+MISO,Partial additional,broad\_reported\_MW,-26.48,-3.53
+MISO,Partial additional,broad\_site\_count,-24.35,-3.09
+MISO,Partial additional,core\_site\_count,-24.58,-3.14
+MISO,Partial additional,high\_evidence\_reported\_MW,-28.19,-3.88
+MISO,Partial additional,reported\_MW\_high\_imputation,-26.58,-3.55
+MISO,Partial additional,reported\_MW\_low\_imputation,-25.64,-3.35
+MISO,Partial additional,reported\_MW\_reference\_imputation,-26.15,-3.46
+MISO,Partial additional,reported\_plus\_size\_proxy,-26.94,-3.62
+NYISO,Partial additional,broad\_reported\_MW,-1.46,4.10
+NYISO,Partial additional,broad\_site\_count,-1.16,4.16
+NYISO,Partial additional,core\_site\_count,-1.00,4.19
+NYISO,Partial additional,high\_evidence\_reported\_MW,-0.20,4.36
+NYISO,Partial additional,reported\_MW\_high\_imputation,-0.93,4.21
+NYISO,Partial additional,reported\_MW\_low\_imputation,-1.11,4.17
+NYISO,Partial additional,reported\_MW\_reference\_imputation,-1.01,4.19
+NYISO,Partial additional,reported\_plus\_size\_proxy,-0.79,4.24
+PJM,Partial additional,broad\_reported\_MW,-106.35,-36.80
+PJM,Partial additional,broad\_site\_count,-117.52,-39.11
+PJM,Partial additional,core\_site\_count,-116.76,-38.95
+PJM,Partial additional,high\_evidence\_reported\_MW,-112.05,-37.98
+PJM,Partial additional,reported\_MW\_high\_imputation,-107.47,-37.03
+PJM,Partial additional,reported\_MW\_low\_imputation,-107.18,-36.97
+PJM,Partial additional,reported\_MW\_reference\_imputation,-107.34,-37.01
+PJM,Partial additional,reported\_plus\_size\_proxy,-108.36,-37.22
+SPP,Partial additional,broad\_reported\_MW,-11.70,18.97
+SPP,Partial additional,broad\_site\_count,-7.68,19.79
+SPP,Partial additional,core\_site\_count,-8.06,19.71
+SPP,Partial additional,high\_evidence\_reported\_MW,-5.90,20.16
+SPP,Partial additional,reported\_MW\_high\_imputation,-11.77,18.95
+SPP,Partial additional,reported\_MW\_low\_imputation,-12.50,18.80
+SPP,Partial additional,reported\_MW\_reference\_imputation,-12.11,18.88
+SPP,Partial additional,reported\_plus\_size\_proxy,-11.54,19.00
+California,Partial additional,broad\_reported\_MW,10.24,20.13
+California,Partial additional,broad\_site\_count,8.45,19.76
+California,Partial additional,core\_site\_count,8.30,19.73
+California,Partial additional,high\_evidence\_reported\_MW,10.45,20.18
+California,Partial additional,reported\_MW\_high\_imputation,10.25,20.14
+California,Partial additional,reported\_MW\_low\_imputation,10.16,20.12
+California,Partial additional,reported\_MW\_reference\_imputation,10.21,20.13
+California,Partial additional,reported\_plus\_size\_proxy,10.35,20.16

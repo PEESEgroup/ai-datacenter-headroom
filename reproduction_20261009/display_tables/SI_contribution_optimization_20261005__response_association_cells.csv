@@ -1,9 +1,9 @@
-Region,Resources,Response,Retained,Associated,difference
-ERCOT,A,Current cap,14.03,14.03,0.00
-ERCOT,A,Published,0.00,0.00,0.00
-ERCOT,P,Current cap,0.00,0.00,0.00
-ERCOT,P,Published,0.00,0.00,0.00
-MISO,A,Current cap,4.63--9.22,4.63--6.92,4.03
-MISO,A,Published,4.63--9.22,4.63--6.92,4.03
-MISO,P,Current cap,0.00,0.00,0.00
-MISO,P,Published,0.00,0.00,0.00
+Region,Resources,Response,Association (\%),Pressure (GW),Added need (GW)
+ERCOT,A,Current-only,Not applied,14.24--14.24,14.24--14.24
+ERCOT,A,Published,66.1--100.0,0.00--4.82,0.00--0.00
+ERCOT,P,Current-only,Not applied,14.24--14.24,0.00--0.00
+ERCOT,P,Published,66.1--100.0,0.00--4.82,0.00--0.00
+MISO,A,Current-only,0.0--100.0,5.42--10.03,5.04--7.24
+MISO,A,Published,0.0--100.0,5.42--10.03,5.04--7.24
+MISO,P,Current-only,0.0--100.0,5.42--10.03,0.00--0.00
+MISO,P,Published,0.0--100.0,5.42--10.03,0.00--0.00

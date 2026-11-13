@@ -8,6 +8,9 @@ in the baseline package, with annual large-load/curtailment bounds on both sides
 MISO, ERCOT current-only and official-demand balances are unchanged. See
 [the current-output map](CURRENT_RESULTS.md) before selecting results.
 
+The [publication table index](reproduction_20261009/SOURCE_DATA_INDEX.csv)
+links the current rounded tables and their numerical source data.
+
 The current code-and-data package is in **[reproduction_20261009](reproduction_20261009/README.md)**.
 It reproduces the annual regional scenarios, matched growth-path comparisons,
 reviewed project-scale weights and physical-hour PV-storage results from packaged

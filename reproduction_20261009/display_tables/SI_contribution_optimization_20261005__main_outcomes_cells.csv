@@ -1,5 +1,5 @@
-Region / condition,$B^0$,$B^S$,$P^{DC}$,\shortstack{Cushion\\used},$\Delta A^{DC}$,Outcome \\\midrule
-MISO P/pub.,18.52,8.90,9.62,9.62,0.00,Absorbed
-MISO A/pub.,4.99,-4.63,9.62,4.99,4.63,Triggers
-ERCOT A/cap,-30.28,-44.31,14.03,0.00,14.03,Amplifies
-ERCOT A/pub.,36.64,22.61,14.03,14.03,0.00,Absorbed
+Region / condition,$B^0$,$B^S$,$P^{DC}$,\shortstack{Cushion\\used},$\Delta A^{DC}$,Outcome
+MISO P/pub.,18.52,8.49,10.03,10.03,0.00,Absorbed
+MISO A/pub.,4.99,-5.04,10.03,4.99,5.04,Triggers
+ERCOT A/cap,-30.28,-44.51,14.24,0.00,14.24,Amplifies
+ERCOT A/pub.,17.83,13.01,4.82,4.82,0.00,Absorbed

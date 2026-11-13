@@ -1,3 +1,4 @@
+Region,Resources,Relief (GW),Increase (GW),Share
 MISO,Anticipated,13.42,0.00,Unavailable
 MISO,Prospective,1.00,0.00,Unavailable
 PJM,Anticipated,54.63,2.44,2234.5\%$^{\dagger}$
@@ -12,6 +13,7 @@ ISO-NE,Anticipated,0.00,0.00,0.0\%
 ISO-NE,Prospective,0.00,0.00,0.0\%
 WECC-Calif.,Anticipated,0.00,0.08,0.0\%
 WECC-Calif.,Prospective,0.00,0.08,0.0\%
+Year,Published credit,A relief,A share,P share
 2026,8.85,0.00,0.0\%,0.0\%
 2027,17.17,5.08,29.6\%,0.0\%
 2028,32.72,19.38,59.2\%,0.0\%
@@ -22,16 +24,18 @@ WECC-Calif.,Prospective,0.00,0.08,0.0\%
 2033,56.89,46.92,82.5\%,0.0\%
 2034,57.69,49.31,85.5\%,0.0\%
 2035,58.37,51.15,87.6\%,0.0\%
-Anticipated,0\%,4.99,-4.63,9.62,4.63
-Anticipated,50\%,0.48,-6.92,7.41,6.92
-Anticipated,100\%,-4.03,-9.22,5.19,5.19
-Prospective,0\%,18.52,8.90,9.62,0.00
-Prospective,50\%,14.01,6.60,7.41,0.00
-Prospective,100\%,9.50,4.31,5.19,0.00
+Resources,Association,$B^0$,$B^S$,"$P^{DC,S}$","$\Delta A^{DC,S}$"
+Anticipated,0\%,4.99,-5.04,10.03,5.04
+Anticipated,50\%,0.48,-7.24,7.72,7.24
+Anticipated,100\%,-4.03,-9.44,5.42,5.42
+Prospective,0\%,18.52,8.49,10.03,0.00
+Prospective,50\%,14.01,6.29,7.72,0.00
+Prospective,100\%,9.50,4.09,5.42,0.00
+Input,Evidence,Interpretation
 ERCOT DC path,"NERC LTRA 2025, p. 131; 6.7/23/25 GW at 2027/2030/2035",Source already applies a 49.8\% observed peak/request adjustment. No second adjustment; not raw requested MW.
 ERCOT provisional response,"NERC LTRA 2025, pp. 128-131; 58.37 GW in 2035","Reported provisional large-load credit, not demonstrated DC-only delivery. Realization fraction is a scenario."
 MISO response association,"Bound min(official DC increment, total credited response); LTRA p. 42","Feasibility bound, not an observed DC-only increment. Full association may remove existing ordinary response in the counterfactual."
-ERCOT response association,"Bound min(DC increment, provisional-response increase above 2025)",The provisional increase is source-based; its DC-associated fraction is not identified. Separate from response realization.
+ERCOT response association,"Upper bound min(DC increment, provisional-response increase above 2025); annual load-pool lower bound","Linear mapping requires a common fraction of at least 66.13\%. This is an accounting bound, not an estimate of the DC share or response realization (Note 29)."
 Prospective resources,NERC prospective margin reconstructed on matching source net demand,"Broader development condition, not all queued nameplate or a promised completion forecast."
 PJM reference rule,"NERC LTRA 2025, pp. 90-94; changing RRS/ELCC basis",Keep capacity and reference conventions matched. Native GW gap is not a nameplate construction requirement.
 Candidate peak shapes,CEC November 2025 profiles pp. 17-18; April 2026 methodology section 5,"Own-mean normalized complete templates; 5/7 and 2/7 day weights; fixed 2025 JJA diagnostic windows. Transferred scenarios, not seven-region measurements."

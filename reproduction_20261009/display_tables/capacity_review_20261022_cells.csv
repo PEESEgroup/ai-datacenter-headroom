@@ -1,0 +1,11 @@
+Project and source row,Raw MW,Default MW,Source distinction
+"Fermi Matador, 941","14,000",Excluded,The 11--17 GW range describes private generation in the issuer's 2025 Form 10-K. SPS service is a separate quantity.
+"PORTS, 754","9,200","10,000",The Department of Energy's 20 March 2026 announcement distinguishes 9.2 GW of gas generation from a 10-GW data-center development.
+"Homer City, 835","4,500",Excluded,"The developer's 2 April 2025 announcement describes generation serving both data centers and other customers, without a separate DC-load total."
+"Shippingport, 891","3,075",Excluded,"The developer's 15 July 2025 announcement describes power-plant redevelopment and over 1 GW of intended exports, not a DC-load range."
+"Adams Fork, 1667/1673","2,398.5 each",Excluded,The West Virginia permit meeting of 18 September 2025 identifies engine generation at two sites for adjacent future DC operations.
+"Monarch, 1672","5,000","8,000","Nscale's 16 March 2026 release separately identifies a potential 8-GW total power draw, 2-GW initial generation and 1.35-GW compute letter of intent. The default uses the stated full-buildout load scale."
+"Joule, 1152","6,227.5",Excluded,"The developer interview identifies 455 MW of gas-engine delivery by 2026 and a 12-GW generation plan by 2032, not load-range bounds\citep{joule2026_generation}."
+"GW Ranch, 1059","1,000",Excluded,"The developer identifies a private-grid generation campus and 1-GW power-delivery stage, without a separate DC-load quantity\citep{gwranch2026_capacity}."
+"Ridgeline, 1664","1,656",Excluded,"The permit lists turbine design input of 5,650 MMBtu/hr (about 1,656 MW thermal), not DC electrical load\citep{ridgeline2025_application}."
+"New Era, 641","7,000","7,000",The developer separately advertises a 7+ GW planned Lea County campus. This announced project-scale proxy is retained rather than inferred from gas-plus-nuclear supply totals\citep{newera2026_campus}.

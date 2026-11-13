@@ -1,30 +1,30 @@
 [
   {
     "rounded_export": "display_tables/embedded_growth_summary_cells.csv",
-    "rows": 1,
+    "rows": 8,
     "publication_labels": [
       "tab:embedded-growth-summary"
     ],
-    "source_sha256": "7c6c70b46d6b4ab520971a5b47ae59abd4b5f62e96b077b34e73d1dabfa67103",
+    "source_sha256": "a85db444d984970a74ead22d6d5b2a42296cb07c789d653456bda366306d223d",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/capacity_review_20261022_cells.csv",
-    "rows": 6,
+    "rows": 11,
     "publication_labels": [
       "tab:capacity-attribute-review"
     ],
-    "source_sha256": "4b1ced33570f32cf2bddee2f28c2f43f03ca3277ba9db9dec71dce19e8b144ec",
+    "source_sha256": "dd04ee0f81cd09eea79eacbc5b62b6e513cc9d88015f9dc0f8362c041fa918a4",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/geographic_assignment_20261019_cells.csv",
-    "rows": 10,
+    "rows": 11,
     "publication_labels": [
       "tab:targeted-geographic-assignment",
       "tab:targeted-connection-evidence"
     ],
-    "source_sha256": "8a4a317bc62b1f1d0318b83e8119314e2e06a6bd7aa2ca8ca3ba35f98ef7c35f",
+    "source_sha256": "97b1c3c4d13558b3457bc76836c87361050880c5212677720812deb385a301b5",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -33,7 +33,7 @@
     "publication_labels": [
       "tab:annual-growth-outcomes"
     ],
-    "source_sha256": "ae93bf56c2956381c98451f1eb307ec29c88fa7d27a0c40e20ea3ef4738904cc",
+    "source_sha256": "1543e2d834e6c5d85cf8d83bb2686249d07dd4355ea2df821eae9d6299ebc310",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -42,7 +42,7 @@
     "publication_labels": [
       "tab:annual-limit-coverage"
     ],
-    "source_sha256": "9a585403cbf0851077d127068f73b0702539814f65aa985be16ec1051c6a7ec6",
+    "source_sha256": "f59f61743587992ba2b861657a18eaf1a46c31125f5c876b516fb148485a6ede",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -51,7 +51,7 @@
     "publication_labels": [
       "tab:same-input-comparison"
     ],
-    "source_sha256": "df5fef513da7f07b256a46c9d24fbff9b8ae2e619c34832d2fe7f1deba900af0",
+    "source_sha256": "6983b426e6446c58c93a1134698216ca7f491874948d220201677af8be46b348",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -60,7 +60,7 @@
     "publication_labels": [
       "tab:annual-path-limits"
     ],
-    "source_sha256": "e85e729401716c4ea04a476c4b1d3cfca055d8d2641c152b753227c0b0861739",
+    "source_sha256": "8eaffb6f44360b4f865ff261f3edb6d820e3b7c0904c1fa47c3f59e6c937f1ca",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -69,7 +69,7 @@
     "publication_labels": [
       "tab:response-association-comparison"
     ],
-    "source_sha256": "d5d089227964bef98b69267a33d8fa48263df81a080f13a09d4ce7f00fa49f4a",
+    "source_sha256": "59bd0ddc8f3b73e580bafe85461e7ea2089333bbe64ddf88905e2c9317a2ffe1",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -78,24 +78,24 @@
     "publication_labels": [
       "tab:decision-thresholds"
     ],
-    "source_sha256": "29ae302ed06db57f1139d5265c86b2e242e67d7bd60fa06faf841cbce95f7fa6",
+    "source_sha256": "95248a120b83d2c8a80e981be2c3679c4ef4aa86b8373c412ee0bb79aa7c7fe2",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_display_trim_20261008__threshold_note_cells.csv",
-    "rows": 39,
+    "rows": 43,
     "publication_labels": [
       "tab:response-thresholds",
       "tab:ercot-realization-thresholds",
       "tab:dc-load-thresholds",
       "tab:threshold-evidence"
     ],
-    "source_sha256": "cbb1fc8651194f633017d2f0b93bbc1892b7b01d1162aab98c2ccd602bfe457e",
+    "source_sha256": "f3c679f383fc0a3f2d30f1b988aba9a9c8a0d536c46ee33a06e973f245cfc7b1",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_framework_comparison_20261004__framework_comparison_note_cells.csv",
-    "rows": 22,
+    "rows": 20,
     "publication_labels": [
       "tab:framework-timing-comparison",
       "tab:framework-paired-comparison"
@@ -118,7 +118,7 @@
     "publication_labels": [
       "tab:annual-paired-chain"
     ],
-    "source_sha256": "af68bf519aa6242112b220b515322f306d7a49af227c48062fb336023c2a79af",
+    "source_sha256": "42b397e8e36de6cc55989b66a177f6baca1fbcd7f8ef2f428b175aca88a7d6a9",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -136,7 +136,7 @@
     "publication_labels": [
       "tab:county-context"
     ],
-    "source_sha256": "414f95e609c635a9f2b4ab3ec9500a981d04f053ddb7b3110b230491d4d0d2fe",
+    "source_sha256": "0474b9991dd93e2397ff44b9b78aa3f239c88f62362ef0d1deed389ad8e6a543",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -217,7 +217,7 @@
     "publication_labels": [
       "tab:project-omission"
     ],
-    "source_sha256": "fdec6160035f54e8b4275df59363987c205d1078e37073ff99097aa7a0974d7d",
+    "source_sha256": "8d36a0b9b233b583152526f0d968513e4f2cdbcf7840fed0fa81a9c0c3a443fd",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -262,7 +262,7 @@
     "publication_labels": [
       "tab:allocation"
     ],
-    "source_sha256": "82bd2aa6657f4d0cbbc9cff0d2773b6b37419fe013978a7c29c767fe041a2f18",
+    "source_sha256": "3209e54311620b9a76882b02910430303c44ffa487feb1eb15947dcbf7ffc625",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -271,7 +271,7 @@
     "publication_labels": [
       "tab:allocation-envelope"
     ],
-    "source_sha256": "46536a8cd68bbc6dcd0ce8eeefdd6f0a29c10996bd87334be1eb33c8a827c30c",
+    "source_sha256": "de4a0dce9dbe3676425de49877c089d40e4b6e8bcef8d07d78a9a399aa61bfeb",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -289,7 +289,7 @@
     "publication_labels": [
       "tab:core-labels"
     ],
-    "source_sha256": "d23c890db2850a465648e1aa6be56df231e97caccd609b79114b0726cc17eec3",
+    "source_sha256": "21bf7fd69a1aefc051874397a0a3c92461c0107ddfc741c3115a6233f432977e",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -379,7 +379,7 @@
     "publication_labels": [
       "tab:paired-display"
     ],
-    "source_sha256": "218a426fecf1dbe7cb487563d64b89bc90010237254493d317deb49cf87d607c",
+    "source_sha256": "68916dedfcf25189bbe170f39dc96a3357abf53307693812f918bc7708e57260",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -402,7 +402,7 @@
   },
   {
     "rounded_export": "display_tables/SI_revision_20261003__pv_results_cells.csv",
-    "rows": 12,
+    "rows": 13,
     "publication_labels": [
       "tab:pv-results"
     ],
@@ -415,7 +415,7 @@
     "publication_labels": [
       "tab:replacement-envelope"
     ],
-    "source_sha256": "940624dc3ad2a8c9edfd087841e1d0f234bf57cf469ba4c62e7315b217e001d4",
+    "source_sha256": "e6e95c541c012d58f8a281e0de31358c88086ef093f19d49fd9f763725a8421a",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -469,7 +469,7 @@
     "publication_labels": [
       "tab:footprint-scope-checks"
     ],
-    "source_sha256": "25f508fa7afce18b6bddec1d02f304bf52540c30ad0b62a65d2c0db19bb17645",
+    "source_sha256": "30a8f382e02d2b01e90d6feeecf757aef2488a848811b924cfa4d10a18d95dd5",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -478,7 +478,7 @@
     "publication_labels": [
       "tab:lower-external-endpoints"
     ],
-    "source_sha256": "ed3b96653e2605d3f76341061c7b54dca2f00e9d219a448554ffaa0c95d2dd88",
+    "source_sha256": "f13ae67749d33a69b03c636fa2967821cb4a18ef0676f2b6319c80ef3f086e60",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -505,7 +505,7 @@
     "publication_labels": [
       "tab:core-growth-limits"
     ],
-    "source_sha256": "3877b7f966824d06e03b22d3d652d59a2659e98de8d59b5cde0ccf94509323fd",
+    "source_sha256": "33290c27bdc36d3c57321c83a6e42ab72053ad50d41fef6416cf2c2a4ec81993",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -514,12 +514,12 @@
     "publication_labels": [
       "tab:core-contribution-ranges"
     ],
-    "source_sha256": "edaa54b98eded2e0cedebfa62fe5e28c34abda50caaa7108396c267ef1d4474b",
+    "source_sha256": "40fd0121d5d1e4c3d71bb65d633dfaba51013b3446de0b6710cee48c0087e97b",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_targeted_followup_20261012__pv_windows_cells.csv",
-    "rows": 12,
+    "rows": 13,
     "publication_labels": [
       "tab:pv-peak-window-followup"
     ],
@@ -528,7 +528,7 @@
   },
   {
     "rounded_export": "display_tables/SI_targeted_followup_20261012__regional_inputs_cells.csv",
-    "rows": 12,
+    "rows": 13,
     "publication_labels": [
       "tab:regional-input-reconciliation"
     ],
@@ -541,16 +541,16 @@
     "publication_labels": [
       "tab:resource-condition-frontier"
     ],
-    "source_sha256": "e1c9b84fc9288ca75df71132aa432ed95e7c050902e56462dd43cd29f51f5daa",
+    "source_sha256": "a7170c19f779764e36a0ad036bc6b3b022d73cfa722695509ab262bddb62290b",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
     "rounded_export": "display_tables/SI_targeted_reinforcement_20261005__response_budget_cells.csv",
-    "rows": 5,
+    "rows": 6,
     "publication_labels": [
       "tab:fixed-response-budget"
     ],
-    "source_sha256": "46a37366045e81ddfc17694b6ddb277123b31204e51b791308de7fff59fbe079",
+    "source_sha256": "ab6266bfaafcf41307bba912622d170195894b3d28e3a45ab423a9c924b1b0bf",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -568,7 +568,7 @@
     "publication_labels": [
       "tab:source-anchor-timing"
     ],
-    "source_sha256": "8cb0de995c9a99d5cb999ba4dc29f1d63dd7bf24d32cb1eb7bc42b34da6a1a3a",
+    "source_sha256": "6552abcbb15fef6789939a62718c3cc252b27582aaff6d21d39c29da6e30406b",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
@@ -608,28 +608,6 @@
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
   },
   {
-    "rounded_export": "display_tables/supplementary_information_refined_figures_20261010_cells.csv",
-    "rows": 37,
-    "publication_labels": [
-      "tab:notation",
-      "tab:scenario-rules",
-      "fig:load-mapping",
-      "fig:balance-context",
-      "fig:timing",
-      "fig:price-context",
-      "tab:pv-assumptions",
-      "fig:pv-tail",
-      "fig:nuclear-gas-context",
-      "fig:core-envelope",
-      "fig:storage-efficiency",
-      "fig:miso-resource-conditions",
-      "fig:resource-response-timing",
-      "tab:regional-study-comparison"
-    ],
-    "source_sha256": "9ca807d88bbc1cf66eccfda74e3fe3e205945437299b263ae90634dd362bf4a3",
-    "role": "rounded presentation cells; TeX symbols retained; not model inputs"
-  },
-  {
     "rounded_export": "display_tables/table1_compact_support_20261019_cells.csv",
     "rows": 17,
     "publication_labels": [
@@ -638,5 +616,23 @@
     ],
     "source_sha256": "e6ef493be70a084a09f959561760b72e8be72ccf77cb01382160d434eb644e75",
     "role": "rounded presentation cells; TeX symbols retained; not model inputs"
+  },
+  {
+    "rounded_export": "display_tables/miso_perturbation_cells.csv",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs",
+    "rows": 9,
+    "publication_labels": [
+      "tab:miso-binding-perturbation"
+    ],
+    "source_sha256": "de3eeb2278ef12677bed479b2c546a54f6fcdb626c33094731d2447066e09b9e"
+  },
+  {
+    "rounded_export": "display_tables/paired_realization_table_cells.csv",
+    "role": "rounded presentation cells; TeX symbols retained; not model inputs",
+    "rows": 8,
+    "publication_labels": [
+      "tab:ercot-paired-realization"
+    ],
+    "source_sha256": "840f99f5ce8c5a42b1f3c7e3230529ac2695fb2b80764012a765b56bf01f7ef8"
   }
 ]

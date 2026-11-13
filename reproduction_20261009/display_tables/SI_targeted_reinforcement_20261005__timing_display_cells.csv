@@ -1,9 +1,9 @@
-Resources,Timing,$\lambda_{all}$ (\%),$\lambda_{2035}$ (\%),Limiting year,Years,$\sum\Delta A$\\\midrule
-A,Earlier arrival,50.8,51.9,2034,4,14.21
-A,Early final plateau,51.9,51.9,2035,4,14.43
-A,Later arrival,38.4,51.9,2034,5,19.86
-A,Linear,46.2,51.9,2034,4,16.39
-P,Earlier arrival,192.5,192.5,2035,0,0.00
-P,Early final plateau,192.5,192.5,2035,0,0.00
-P,Later arrival,190.3,192.5,2034,0,0.00
-P,Linear,192.5,192.5,2035,0,0.00
+Resources,Timing,$\lambda_{all}$ (\%),$\lambda_{2035}$ (\%),Limiting year,Years,$\sum\Delta A$
+A,Earlier arrival,48.8,49.8,2034,4,15.68
+A,Early final plateau,49.8,49.8,2035,5,15.98
+A,Later arrival,36.8,49.8,2034,5,21.63
+A,Linear,44.3,49.8,2034,5,18.15
+P,Earlier arrival,184.6,184.6,2035,0,0.00
+P,Early final plateau,184.6,184.6,2035,0,0.00
+P,Later arrival,182.5,184.6,2034,0,0.00
+P,Linear,184.6,184.6,2035,0,0.00

@@ -1,0 +1,17 @@
+Region,\shortstack{Gross\\demand},\shortstack{Credited\\response},\shortstack{Resource\\contribution},\shortstack{Reference\\margin (\%)},\shortstack{Planning\\requirement},\shortstack{Planning\\balance}
+MISO,127.07,8.28,131.84,8.10,128.41,+3.43
+PJM,158.94,8.18,195.55,18.60,178.79,+16.76
+SPP,57.48,2.14,73.28,19.00,65.86,+7.43
+ERCOT,94.65,13.35,104.25,13.75,92.48,+11.76
+NYISO,31.99,0.99,37.90,15.00,35.65,+2.25
+ISO-NE,24.88,0.62,28.69,13.40,27.50,+1.18
+WECC-Calif.,58.16,0.76,87.93,20.30,69.06,+18.87
+,\multicolumn{2}{c}{Anticipated resources},\multicolumn{2}{c}{Prospective resources}
+Region,\shortstack{Current-only\\response},\shortstack{Published\\response},\shortstack{Current-only\\response},\shortstack{Published\\response}
+MISO,-14.61,-14.61,-1.08,-1.08
+PJM,-73.81,-70.51,-33.40,-30.09
+SPP,-2.67,-1.97,+20.13,+20.83
+ERCOT,-58.71,+8.20,+39.49,+106.41
+NYISO,+0.12,+0.12,+4.42,+4.42
+ISO-NE,+1.03,+1.03,+8.92,+8.92
+WECC-Calif.,+10.97,+11.06,+20.19,+20.28

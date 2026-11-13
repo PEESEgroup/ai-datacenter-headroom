@@ -1,9 +1,9 @@
 Region/condition,Replacement balance,Paired DC pressure,Paired added need
-ERCOT A/current,-65.89 to -34.87,4.60 to 35.61,4.60 to 35.61
-ERCOT A/published,1.03 to 32.04,0.00 to 35.61,0.00 to 0.00
-ERCOT P/current,32.32 to 63.33,4.60 to 35.61,0.00 to 0.00
-ERCOT P/published,99.24 to 130.25,0.00 to 35.61,0.00 to 0.00
-MISO A/current,-20.82 to 1.07,2.11 to 25.81,0.00 to 20.82
-MISO A/published,-20.82 to 1.07,2.11 to 25.81,0.00 to 20.82
-MISO P/current,-7.29 to 14.60,2.11 to 25.81,0.00 to 7.29
-MISO P/published,-7.29 to 14.60,2.11 to 25.81,0.00 to 7.29
+ERCOT A/current,-65.08 to -34.99,4.71 to 34.81,4.71 to 34.81
+ERCOT A/published,6.05 to 16.24,0.00 to 11.79,0.00 to 0.00
+ERCOT P/current,33.13 to 63.22,4.71 to 34.81,0.00 to 0.00
+ERCOT P/published,104.25 to 114.45,0.00 to 11.79,0.00 to 0.00
+MISO A/current,-22.16 to 0.98,2.17 to 27.15,0.00 to 22.16
+MISO A/published,-22.16 to 0.98,2.17 to 27.15,0.00 to 22.16
+MISO P/current,-8.64 to 14.51,2.17 to 27.15,0.00 to 8.64
+MISO P/published,-8.64 to 14.51,2.17 to 27.15,0.00 to 8.64

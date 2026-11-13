@@ -1,5 +1,6 @@
-Region,Association (\%),Expansion cases,Cases,Max expansion,Max $\Delta A$ change\\\midrule
-ERCOT,50.0,100,2592,3.154,0.000
-ERCOT,100.0,100,2592,6.308,0.000
-MISO,50.0,208,2592,1.311,1.428
-MISO,100.0,208,2592,2.622,2.855
+Region,Association (\%),Expansion cases,Cases,Max expansion,Max $\Delta A$ change
+ERCOT,66.1,104,1296,3.702,0.000
+ERCOT,83.1,104,1296,4.650,0.000
+ERCOT,100.0,104,1296,5.598,0.000
+MISO,50.0,228,2592,1.595,1.737
+MISO,100.0,228,2592,3.190,3.474

@@ -1,3 +1,4 @@
+Region,Resource path,$A_{2035}$,$\max_t A_t$,Worst year,Years below
 MISO,Anticipated,14.61,14.61,2034,6
 MISO,Tier 1 +2 y,14.61,14.61,2034,10
 PJM,Anticipated,70.51,70.51,2035,7
@@ -12,10 +13,7 @@ ISO-NE,Anticipated,0.00,0.00,2035,0
 ISO-NE,Tier 1 +2 y,0.00,0.07,2027,1
 WECC-Calif.,Anticipated,0.00,0.00,2034,0
 WECC-Calif.,Tier 1 +2 y,0.00,0.00,2027,0
-ERCOT,A/cap,-44.31,-30.28,-30.28,0.00
-ERCOT,A/pub.,8.20,22.24,8.20,0.00
-ERCOT,P/cap,53.90,67.93,67.93,0.00
-ERCOT,P/pub.,106.41,120.44,106.41,0.00
+Region,Background,$B^S$,Retained $B^0$,Associated $B^0$,$\Delta A_{ret}-\Delta A_{assoc}$
 MISO,A/cap,-9.44,0.59,-4.03,4.03
 MISO,A/pub.,-9.44,0.59,-4.03,4.03
 MISO,P/cap,4.09,14.11,9.50,0.00

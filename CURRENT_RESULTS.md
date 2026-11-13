@@ -30,6 +30,12 @@ same-named table above for the current retention sensitivity.
 The pool-corrected extension supersedes all of those affected ERCOT quantities;
 it does not supersede the baseline's official-demand balances or PV calculations.
 
+For publication tables, use the refreshed [source-data index](reproduction_20261009/SOURCE_DATA_INDEX.csv)
+and its rounded display files. The index points to the current full-precision
+outputs for paired results. For county concentration, use the current county
+series under `reproduction_20261009/plotting_tables`, not the older county
+snapshot under `source_data/restored_support_20261004`.
+
 The actual associated fraction is `linked_response_fraction`. The separate
 `association_grid_position` indexes the lower/midpoint/upper feasible settings;
 zero grid position does not mean zero ERCOT association. The extension README
